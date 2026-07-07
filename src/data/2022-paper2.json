@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is an example of a communicable disease?",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Tuberculosis",
+      "Arthritis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tuberculosis is a communicable disease caused by Mycobacterium tuberculosis."
+  },
+  {
+    "id": 2,
+    "question": "The largest gland in the human body is:",
+    "options": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Pituitary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The liver is the largest gland and internal organ in the human body."
+  },
+  {
+    "id": 3,
+    "question": "Which blood group is known as the universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Blood group O negative is considered the universal donor."
+  }
+]

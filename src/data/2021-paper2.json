@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Scurvy is caused by deficiency of Vitamin C (ascorbic acid)."
+  },
+  {
+    "id": 2,
+    "question": "The normal human body temperature is approximately:",
+    "options": [
+      "35°C",
+      "37°C",
+      "39°C",
+      "41°C"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Normal body temperature is approximately 37°C (98.6°F)."
+  },
+  {
+    "id": 3,
+    "question": "Which organ is primarily responsible for detoxification in the human body?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Spleen",
+      "Pancreas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The liver is the primary organ for detoxification of harmful substances."
+  }
+]

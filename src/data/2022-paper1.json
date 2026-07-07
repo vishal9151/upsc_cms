@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first President of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad",
+      "Dr. S. Radhakrishnan",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+  },
+  {
+    "id": 2,
+    "question": "The Quit India Movement was launched in which year?",
+    "options": [
+      "1940",
+      "1942",
+      "1945",
+      "1947"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Quit India Movement was launched on 8 August 1942."
+  },
+  {
+    "id": 3,
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal."
+  }
+]

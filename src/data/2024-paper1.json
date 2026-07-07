@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "The Preamble to the Constitution was amended by which Constitutional Amendment?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment",
+      "86th Amendment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 42nd Amendment (1976) added the words Socialist, Secular, and Integrity to the Preamble."
+  },
+  {
+    "id": 2,
+    "question": "How many fundamental rights are guaranteed by the Indian Constitution?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": 1,
+    "explanation": "There are six fundamental rights guaranteed under Part III of the Constitution."
+  },
+  {
+    "id": 3,
+    "question": "The President of India is elected by:",
+    "options": [
+      "Direct election by people",
+      "Electoral College",
+      "Parliament only",
+      "State Legislatures only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The President is elected by an Electoral College consisting of elected members of Parliament and State Legislatures."
+  }
+]

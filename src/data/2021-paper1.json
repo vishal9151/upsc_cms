@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a constitutional body in India?",
+    "options": [
+      "National Development Council",
+      "Finance Commission",
+      "Planning Commission",
+      "National Advisory Council"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Finance Commission is a constitutional body established under Article 280 of the Constitution."
+  },
+  {
+    "id": 2,
+    "question": "The concept of 'Basic Structure' of the Constitution was propounded by the Supreme Court in which case?",
+    "options": [
+      "Golaknath Case",
+      "Kesavananda Bharati Case",
+      "Minerva Mills Case",
+      "S.R. Bommai Case"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Kesavananda Bharati Case (1973) established the doctrine of Basic Structure."
+  },
+  {
+    "id": 3,
+    "question": "Which Schedule of the Constitution contains provisions regarding Panchayats?",
+    "options": [
+      "Ninth Schedule",
+      "Tenth Schedule",
+      "Eleventh Schedule",
+      "Twelfth Schedule"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Eleventh Schedule contains 29 subjects related to Panchayats."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Which vaccine is used for immunization against tuberculosis?",
+    "options": [
+      "OPV",
+      "BCG",
+      "DPT",
+      "MMR"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine is used for immunization against tuberculosis."
+  },
+  {
+    "id": 2,
+    "question": "The primary function of red blood cells is to:",
+    "options": [
+      "Fight infection",
+      "Transport oxygen",
+      "Clot blood",
+      "Produce antibodies"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red blood cells primarily transport oxygen from lungs to body tissues via hemoglobin."
+  },
+  {
+    "id": 3,
+    "question": "Which disease is caused by a deficiency of iodine?",
+    "options": [
+      "Rickets",
+      "Goitre",
+      "Anaemia",
+      "Beriberi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goitre, enlargement of the thyroid gland, is caused by iodine deficiency."
+  }
+]

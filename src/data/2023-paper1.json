@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Which article of the Constitution abolishes untouchability?",
+    "options": [
+      "Article 14",
+      "Article 17",
+      "Article 21",
+      "Article 32"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 17 of the Constitution abolishes untouchability and forbids its practice."
+  },
+  {
+    "id": 2,
+    "question": "The Directive Principles of State Policy are contained in which part of the Constitution?",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part V",
+      "Part VI"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Directive Principles of State Policy are contained in Part IV (Articles 36-51)."
+  },
+  {
+    "id": 3,
+    "question": "Who is the guardian of the Constitution of India?",
+    "options": [
+      "President",
+      "Parliament",
+      "Supreme Court",
+      "Prime Minister"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Supreme Court is the guardian and final interpreter of the Constitution."
+  }
+]

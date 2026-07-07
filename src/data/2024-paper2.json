@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a water-borne disease?",
+    "options": [
+      "Malaria",
+      "Cholera",
+      "Tuberculosis",
+      "Measles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cholera is a water-borne disease caused by Vibrio cholerae bacteria."
+  },
+  {
+    "id": 2,
+    "question": "The normal resting heart rate for an adult is approximately:",
+    "options": [
+      "40-50 bpm",
+      "60-100 bpm",
+      "110-130 bpm",
+      "140-160 bpm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Normal resting heart rate for adults ranges from 60 to 100 beats per minute."
+  },
+  {
+    "id": 3,
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cerebellum is responsible for balance, coordination, and fine motor control."
+  }
+]

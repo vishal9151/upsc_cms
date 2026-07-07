@@ -1,0 +1,1112 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following heart sounds are best heard with the bell of stethoscope? I. Opening snap II. Systolic click III. Third heart sound IV. Mid diastolic murmur",
+    "options": ["I and IV", "II and III only", "III and IV", "I, II and III"],
+    "correctAnswer": 2,
+    "explanation": "Low-frequency sounds like the third heart sound and mid-diastolic murmur are best heard with the bell."
+  },
+  {
+    "id": 2,
+    "question": "Consider the following statements for diagnosing ventricular aneurysm in a patient with recent myocardial infarction: I. Paradoxical impulse on chest wall II. Persistent ST elevation on ECG III. Unusual bulge from cardiac silhouette on X-ray IV. Presence of pulsus paradoxsus. Which of the above are correct?",
+    "options": ["I and II only", "I and IV", "I, II and III", "II, III and IV"],
+    "correctAnswer": 2,
+    "explanation": "Ventricular aneurysm classically shows paradoxical precordial impulse, persistent ST elevation, and a cardiac silhouette bulge on X-ray."
+  },
+  {
+    "id": 3,
+    "question": "Which one of the following statements is correct for subcutaneous nodules in Rheumatic fever?",
+    "options": [
+      "They are present over flexor aspect of forearm",
+      "They are painful tender nodules",
+      "The usual size of these nodules is 3-5 cm",
+      "They typically appear more than 3 weeks after onset of other clinical manifestations"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Subcutaneous nodules in rheumatic fever are a late manifestation, typically appearing after other symptoms."
+  },
+  {
+    "id": 4,
+    "question": "Which one of the following is correct with regard to Carey Coombs murmur?",
+    "options": [
+      "Soft systolic murmur due to mitral regurgitation",
+      "Soft mid-diastolic murmur due to mitral valvulitis",
+      "Harsh early diastolic murmur due to aortic regurgitation",
+      "Blowing late systolic murmur due to aortic stenosis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carey Coombs murmur is a soft mid-diastolic murmur associated with active mitral valvulitis in acute rheumatic fever."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following statements is correct regarding the Opening Snap (OS) in a patient of mitral stenosis?",
+    "options": [
+      "OS is best heard with the bell of stethoscope",
+      "Intensity of OS becomes louder when the valve is calcified",
+      "OS moves closer to the second sound (S2) as the stenosis becomes more severe",
+      "OS is best heard at the second left intercostal space"
+    ],
+    "correctAnswer": 2,
+    "explanation": "As mitral stenosis severity increases, left atrial pressure rises, causing the OS to occur earlier and move closer to S2."
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following responses to intravenous adenosine is correctly matched?",
+    "options": [
+      "Atrial fibrillation – Termination",
+      "Atrio-ventricular nodal reentrant tachycardia – Termination",
+      "Ventricular tachycardia – Termination and complete recovery",
+      "Atrial flutter – Termination and complete recovery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adenosine terminates AVNRT by transiently blocking AV nodal conduction, which is part of the reentrant circuit."
+  },
+  {
+    "id": 7,
+    "question": "Consider the following steps for using a metered dose inhaler (MDI): I. Incline head backward II. Remove cap and shake inhaler III. Breathe out gently and place mouthpiece into mouth IV. Hold breath for 10 seconds V. Simultaneously begin slow deep inspiration, depress canister and continue to inhale. Correct sequence?",
+    "options": [
+      "III, II, I, V, IV",
+      "II, I, IV, III, V",
+      "II, III, I, V, IV",
+      "III, I, II, IV, V"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Correct MDI technique: shake inhaler, breathe out, tilt head slightly, inhale while pressing canister, then hold breath."
+  },
+  {
+    "id": 8,
+    "question": "Under the Stepwise Approach to management of Bronchial Asthma, which is the correct initial treatment at Step 1?",
+    "options": [
+      "Low dose inhaled corticosteroid only",
+      "Low dose inhaled corticosteroid plus oral corticosteroid",
+      "Low dose inhaled corticosteroid plus long acting anti-muscarinic agents",
+      "Low dose inhaled corticosteroid plus leukotriene antagonist"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Step 1 of asthma management (GINA) involves as-needed low-dose ICS-formoterol or low dose ICS alone."
+  },
+  {
+    "id": 9,
+    "question": "A 62-year old male chronic smoker diagnosed with COPD. FEV1/FVC = 0.6, FEV1 = 70% of predicted. Severity per GOLD criteria?",
+    "options": [
+      "Stage I – Mild",
+      "Stage II – Moderate",
+      "Stage III – Severe",
+      "Stage IV – Very severe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FEV1/FVC < 0.7 confirms airflow limitation; FEV1 50-79% predicted corresponds to GOLD Stage II (Moderate)."
+  },
+  {
+    "id": 10,
+    "question": "Which one denotes the inheritance pattern of cystic fibrosis?",
+    "options": [
+      "Autosomal Dominant",
+      "Autosomal Recessive",
+      "X-linked Dominant",
+      "X-linked Recessive"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cystic fibrosis is caused by mutations in the CFTR gene and follows autosomal recessive inheritance."
+  },
+  {
+    "id": 11,
+    "question": "Which conditions are contraindications for noninvasive positive-pressure ventilation in respiratory failure? I. Craniofacial abnormalities II. Significant burns III. Respiratory failure with PaCO2 of 60 mmHg IV. Cardiovascular instability",
+    "options": [
+      "I, II and III",
+      "I, II and IV",
+      "I, III and IV",
+      "II, III and IV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Craniofacial abnormalities, significant burns, and cardiovascular instability are contraindications to NIPPV; high PaCO2 alone is not."
+  },
+  {
+    "id": 12,
+    "question": "Which term denotes extensive sclerosis of the skin of the chest wall restricting chest wall movement, seen as a rare complication of systemic sclerosis?",
+    "options": [
+      "Flail Chest",
+      "Hidebound Chest",
+      "Barrel Chest",
+      "Pigeon Chest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Hidebound chest\" describes tight, sclerotic skin restricting chest wall expansion in systemic sclerosis."
+  },
+  {
+    "id": 13,
+    "question": "Pleural fluid analysis: pH 7.6, Pleural fluid protein 0.5 g/dL, Serum total protein 6.5 g/dL, Pleural fluid LDH 100 U/L, Serum LDH 300 U/L. Most likely diagnosis?",
+    "options": [
+      "Pancreatitis",
+      "Myxedema",
+      "Sarcoidosis",
+      "Rheumatoid arthritis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Low protein and LDH ratios indicate a transudative effusion (Light's criteria), classically associated with myxedema."
+  },
+  {
+    "id": 14,
+    "question": "'Masson Bodies' formed due to proliferation of immature collagen are a characteristic histopathological finding seen in which condition?",
+    "options": [
+      "Lymphocytic Interstitial Pneumonia",
+      "Cryptogenic Organizing Pneumonia",
+      "Desquamative Interstitial Pneumonia",
+      "Respiratory Bronchiolitis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Masson bodies (plugs of granulation tissue in alveolar ducts) are characteristic of Cryptogenic Organizing Pneumonia."
+  },
+  {
+    "id": 15,
+    "question": "Consider the following statements regarding respiratory function in old age: I. Increasing ventilation-perfusion mismatch II. Increased ventilatory response to hypoxia and hypercapnia III. Decline in maximum oxygen uptake reducing cardiorespiratory reserve IV. Decline in FEV1/FVC by ~0.2%/year after the forties. Which are correct?",
+    "options": [
+      "I, II and III",
+      "I, II and IV",
+      "II, III and IV",
+      "I, III and IV"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aging increases V/Q mismatch, reduces maximal oxygen uptake, and lowers FEV1/FVC ratio; ventilatory response to hypoxia/hypercapnia actually decreases with age."
+  },
+  {
+    "id": 16,
+    "question": "Which statement is correct regarding pulmonary involvement in rheumatoid disease?",
+    "options": [
+      "Rheumatoid pulmonary nodules are usually asymptomatic and detected incidentally on imaging",
+      "Rheumatoid pulmonary nodules are often solitary and located near hilum",
+      "Pleural effusion in these patients is transudative and usually bilateral",
+      "Combination of pleural effusion and pneumoconiosis in these patients is known as Caplan syndrome"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rheumatoid pulmonary nodules are typically peripheral, multiple, and asymptomatic, often found incidentally."
+  },
+  {
+    "id": 17,
+    "question": "Which condition is a complication of bacterial pharyngitis involving extension of infection into the internal jugular veins leading to thrombosis and metastatic dispersal of the organism?",
+    "options": [
+      "Cystic Fibrosis",
+      "Chronic Pulmonary Aspergillosis",
+      "Lemierre syndrome",
+      "Wegener's granulomatosis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lemierre syndrome is septic thrombophlebitis of the internal jugular vein following oropharyngeal infection, usually with Fusobacterium necrophorum."
+  },
+  {
+    "id": 18,
+    "question": "A 42-year old man with history of alcohol dependency presents with progressive abdominal distension and shifting dullness. Which drug is most appropriate to relieve this abdominal distension?",
+    "options": ["Octreotide", "Propranolol", "Lactulose", "Spironolactone"],
+    "correctAnswer": 3,
+    "explanation": "Spironolactone, an aldosterone antagonist, is first-line diuretic therapy for ascites due to cirrhosis."
+  },
+  {
+    "id": 19,
+    "question": "Which is the investigation of choice for diagnosing the presence of stones in the gallbladder?",
+    "options": [
+      "Transabdominal ultrasound",
+      "Erect X ray of abdomen",
+      "Capsule endoscopy",
+      "Computed Tomography"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transabdominal ultrasound is highly sensitive and specific for detecting gallstones and is the first-line investigation."
+  },
+  {
+    "id": 20,
+    "question": "Which biologic agent used in treatment of Inflammatory Bowel Disease acts by inhibiting the enzyme 'Janus Kinase'?",
+    "options": ["Infliximab", "Adalimumab", "Vedolizumab", "Tofacitinib"],
+    "correctAnswer": 3,
+    "explanation": "Tofacitinib is a JAK inhibitor used in ulcerative colitis; the others are monoclonal antibodies (anti-TNF or anti-integrin)."
+  },
+  {
+    "id": 21,
+    "question": "Melanosis coli, which occurs due to long term consumption of stimulant laxatives, presents as brown discolouration of colonic mucosa due to deposition of which pigment?",
+    "options": ["Melanin", "Haemosiderin", "Lipofuscin", "Haemoglobin"],
+    "correctAnswer": 2,
+    "explanation": "Melanosis coli results from deposition of lipofuscin (a pigment from apoptotic colonic epithelial cells) in macrophages within the lamina propria."
+  },
+  {
+    "id": 22,
+    "question": "Consider the following with regard to Gilbert Syndrome: I. Autosomal recessive trait of a mutation in gene for UDP-glucuronyl transferase enzyme II. Elevation of unconjugated bilirubin III. No stigmata of chronic liver disease other than jaundice IV. Early Liver biopsy recommended in patients with possible Gilbert Syndrome. Which of the above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "III and IV"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gilbert syndrome is autosomal recessive, causes unconjugated hyperbilirubinemia with no other liver disease stigmata; liver biopsy is not routinely recommended as it's a benign condition."
+  },
+  {
+    "id": 23,
+    "question": "The single most important treatment and prognostic factor in alcohol-related liver disease is",
+    "options": [
+      "N-acetyl cysteine",
+      "Cessation of alcohol consumption",
+      "Liver transplantation",
+      "High dose vitamin E"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Abstinence from alcohol is the most important determinant of prognosis in alcohol-related liver disease."
+  },
+  {
+    "id": 24,
+    "question": "A 40 year old man with a known case of chronic pancreatitis presents to the OPD with complaint of skin pigmentation over the abdomen. The patient gives a history of chronic use of a hot water bottle to relieve the abdominal discomfort. Which one of the following is the most appropriate diagnosis?",
+    "options": [
+      "Erythema infectiosum",
+      "Erythema marginatum",
+      "Erythema nodosum",
+      "Erythema ab igne"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Erythema ab igne is a reticulated, pigmented skin change caused by chronic exposure to heat/infrared radiation, as from a hot water bottle."
+  },
+  {
+    "id": 25,
+    "question": "Which one of the following is correct regarding arginine vasopressin antagonist Tolvaptan?",
+    "options": [
+      "It is useful in hypovolemic hyponatremia",
+      "It antagonises the V1 receptor",
+      "It should be used for at least 1 year",
+      "It is an oral drug"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tolvaptan is an oral selective V2-receptor antagonist used for euvolemic/hypervolemic hyponatremia, not hypovolemic hyponatremia."
+  },
+  {
+    "id": 26,
+    "question": "Which one of the following conditions is caused by mutations in the gene that encodes the sodium-potassium-2-chloride cotransporter (NKCC2), and presents with sodium wasting, hypokalaemia, hypomagnesaemia and hypercalciuria?",
+    "options": [
+      "Alport syndrome",
+      "Bartter syndrome",
+      "Fanconi syndrome",
+      "Gitelman syndrome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bartter syndrome results from NKCC2 mutations in the thick ascending limb, causing a Loop-diuretic-like phenotype with hypercalciuria."
+  },
+  {
+    "id": 27,
+    "question": "A 52 year old male has uncontrolled diabetes. Which one of the following tests will help in early detection of nephropathy?",
+    "options": [
+      "Blood urea level",
+      "Serum creatinine level",
+      "Ultrasonography",
+      "Urine albumin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Microalbuminuria (urine albumin) is the earliest detectable marker of diabetic nephropathy, before creatinine or urea rise."
+  },
+  {
+    "id": 28,
+    "question": "Autosomal dominant mutations in which one of the following genes may cause focal segmental glomerulosclerosis associated with abnormal genitalia, Wilm's tumour and mental retardation?",
+    "options": ["WT1", "INF2", "LMX1B", "APOL1"],
+    "correctAnswer": 0,
+    "explanation": "WT1 gene mutations are associated with Denys-Drash and Frasier syndromes, featuring FSGS, Wilms tumor, and genital abnormalities."
+  },
+  {
+    "id": 29,
+    "question": "Kidney damage and Glomerular Filtration Rate (GFR) value between 15-29 mL/min/1.73 m² are found in which stage of Chronic Kidney Disease?",
+    "options": [
+      "Stage 2 (mild)",
+      "Stage 3A (mild to moderate)",
+      "Stage 4 (severe)",
+      "Stage 5 (kidney failure)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "GFR 15-29 mL/min/1.73m² corresponds to CKD Stage 4 (severe)."
+  },
+  {
+    "id": 30,
+    "question": "Which one of the following hereditary tubulo-interstitial kidney diseases has an autosomal recessive mode of inheritance?",
+    "options": [
+      "Medullary cystic kidney disease type 1",
+      "Medullary cystic kidney disease type 2",
+      "Nephronophthisis",
+      "Juvenile hyperuricaemic nephropathy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nephronophthisis is inherited in an autosomal recessive manner, unlike medullary cystic kidney disease which is autosomal dominant."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following findings in a patient are suggestive of acute nephritis? I. Hematuria II. Oliguria III. Reduced size of both kidneys IV. Edema",
+    "options": ["I and III", "III and IV", "I and II only", "I, II and IV"],
+    "correctAnswer": 3,
+    "explanation": "Acute nephritis presents with hematuria, oliguria, and edema; kidney size is typically normal or enlarged, not reduced."
+  },
+  {
+    "id": 32,
+    "question": "A 35 year old male presents with increased urine output. On evaluation, his urinary output was around 4L/day; urinary osmolality was 200 mosmol/L. Which of the following are various differential diagnosis? I. Psychogenic polydipsia II. Solute diuresis III. Central diabetes insipidus IV. Nephrogenic diabetes insipidus",
+    "options": [
+      "I, III and IV",
+      "I and III only",
+      "II and IV",
+      "I and IV only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Low urinary osmolality (200 mosmol/L) indicates a water diuresis (dilute urine), consistent with psychogenic polydipsia, central DI, or nephrogenic DI; solute diuresis typically shows near-isosmotic urine."
+  },
+  {
+    "id": 33,
+    "question": "Contralateral Homonymous upper quadrantanopia is the type of visual loss seen when the lesion is located at which one of the following anatomical locations?",
+    "options": [
+      "Frontal lobe",
+      "Temporal lobe",
+      "Parietal lobe",
+      "Occipital lobe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lesions in the temporal lobe (Meyer's loop) cause contralateral homonymous upper quadrantanopia (\"pie in the sky\")."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following are clinical features of migraine? I. It is associated with dilatation of extracranial vessels II. Common migraine is seen without Aura III. Aura is most often visual",
+    "options": [
+      "I, II and III",
+      "I and II only",
+      "II and III only",
+      "I and III only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Migraine involves extracranial vessel dilatation, common migraine occurs without aura, and when aura occurs it is most often visual."
+  },
+  {
+    "id": 35,
+    "question": "A 50 year old man presents with brief episodes of lancinating unilateral facial pain, involving the buccal distribution. Pain is triggered by washing face with cold water. What is the most likely diagnosis?",
+    "options": [
+      "Migraine",
+      "Medication overuse headache",
+      "Chronic paroxysmal hemicrania",
+      "Trigeminal neuralgia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Brief, lancinating, trigger-induced unilateral facial pain is classic for trigeminal neuralgia."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following are trigger factors for seizures? I. Sleep deprivation II. Missed doses of antiepileptic drugs III. Recreational drug misuse IV. Physical exhaustion",
+    "options": [
+      "II and III only",
+      "I and IV only",
+      "I, II and III only",
+      "I, II, III and IV"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sleep deprivation, missed AED doses, recreational drug misuse, and physical exhaustion are all recognized seizure triggers."
+  },
+  {
+    "id": 37,
+    "question": "Which one of the following childhood epileptic disorders often needs long term treatment with anti epileptic drugs?",
+    "options": [
+      "Benign neonatal seizures",
+      "Febrile seizures",
+      "Benign rolandic epilepsy",
+      "Juvenile myoclonic epilepsy"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Juvenile myoclonic epilepsy typically requires long-term, often lifelong, antiepileptic therapy, unlike the other self-limiting childhood epilepsies listed."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following are clinical features of Parkinson's disease? I. Reduced eye blinking II. Drooling of saliva III. Soft voice IV. Macrographia",
+    "options": [
+      "I, II and III",
+      "I, II and IV",
+      "I, III and IV",
+      "II, III and IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parkinson's disease features reduced blinking, sialorrhea, and hypophonia (soft voice); it causes micrographia, not macrographia."
+  },
+  {
+    "id": 39,
+    "question": "A 35 year female presents with easy fatigability. Investigations show that Hb is 6 g%; Red cell morphology is normocytic normochromic; and reticulocyte production index is 5.5. Which one of the following conditions favours this abnormality?",
+    "options": [
+      "Iron deficiency anemia",
+      "Sideroblastic anemia",
+      "Folate deficiency",
+      "Intravascular hemolysis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A high reticulocyte production index (>2-3) indicates an appropriate marrow response to peripheral RBC destruction/loss, as in hemolysis, rather than a production defect."
+  },
+  {
+    "id": 40,
+    "question": "A 46 year old lady on vegan diet for a decade presents with chief complaints of tingling and numbness in lower limbs for two months and a history of swaying while walking through narrow corridors. Which one of the following blood tests is advisable for diagnosis in this patient?",
+    "options": [
+      "Serum protein electrophoresis",
+      "Anti-gliadin antibodies",
+      "Vitamin 25(OH) D level",
+      "Vitamin B12 levels"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A decade-long vegan diet with peripheral neuropathy and gait ataxia (posterior column involvement) suggests vitamin B12 deficiency."
+  },
+  {
+    "id": 41,
+    "question": "Which one of the following causes low-volume erythrocytosis?",
+    "options": [
+      "Polycythemia Rubra Vera",
+      "Exogenous testosterone therapy",
+      "Gaisbock's syndrome",
+      "High altitude"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gaisbock's syndrome (relative/stress polycythemia) causes apparent erythrocytosis due to reduced plasma volume, i.e., \"low-volume\" erythrocytosis, unlike true erythrocytosis from PRV, testosterone, or altitude."
+  },
+  {
+    "id": 42,
+    "question": "First line therapy in chronic phase of chronic myeloid leukemia is",
+    "options": ["Rituximab", "Thalidomide", "Imatinib", "Chlorambucil"],
+    "correctAnswer": 2,
+    "explanation": "Imatinib, a tyrosine kinase inhibitor targeting BCR-ABL, is first-line therapy for chronic phase CML."
+  },
+  {
+    "id": 43,
+    "question": "With regard to management of idiopathic thrombocytopenic purpura, consider the following statements: I. All patients with ITP with platelet count less than 100×10^9/L should receive high dose of glucocorticoids II. For patient with spontaneous bleeding, 40 mg of dexamethasone daily is indicated for 4 days III. Intravenous immunoglobulin can raise the platelet count IV. Life threatening bleeding should be treated with platelet transfusion. Which of the statements given above are correct?",
+    "options": [
+      "I, II and III",
+      "II, III and IV",
+      "I, III and IV",
+      "I, II and IV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Treatment is based on bleeding risk, not platelet count alone; high-dose dexamethasone is used for spontaneous bleeding, IVIG raises platelet counts, and platelet transfusion is used for life-threatening bleeding."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following drugs can cause secondary weight gain? I. Insulin II. Propranolol III. Orlistat IV. Thyroxine",
+    "options": ["I, II and IV", "I and III", "II, III and IV", "I and II only"],
+    "correctAnswer": 3,
+    "explanation": "Insulin and propranolol (beta-blocker) are known to cause secondary weight gain; orlistat causes weight loss and thyroxine is used to treat hypothyroidism (not a cause of weight gain)."
+  },
+  {
+    "id": 45,
+    "question": "Under which one of the following conditions, the HPA axis suppression is likely to result in crisis due to adrenal insufficiency following withdrawal of glucocorticoids?",
+    "options": [
+      "If glucocorticoids have been given by intravenous route for five days",
+      "If glucocorticoids have been administered orally for one week",
+      "If glucocorticoids have been prescribed repeatedly within the previous year",
+      "If the dose is less than equivalent of 5 mg prednisolone per day"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Repeated glucocorticoid courses within the past year increase risk of HPA axis suppression and adrenal crisis on withdrawal."
+  },
+  {
+    "id": 46,
+    "question": "Wilson's disease has which of the following inheritance?",
+    "options": [
+      "X-linked recessive",
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "It is an acquired disease"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wilson's disease, caused by ATP7B gene mutations, is inherited in an autosomal recessive manner."
+  },
+  {
+    "id": 47,
+    "question": "Which of the following can be used for the management of severe hyperkalaemia? I. Intravenous calcitonin II. Intravenous sodium bicarbonate III. Oral sodium polystyrene sulphate IV. Intravenous calcium gluconate",
+    "options": [
+      "I, II and IV",
+      "II, III and IV",
+      "I and II only",
+      "I and IV only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sodium bicarbonate shifts potassium intracellularly, sodium polystyrene sulphate removes potassium, and calcium gluconate stabilizes the myocardium; calcitonin is not a standard hyperkalaemia treatment."
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following conditions can cause euvolaemic hyponatraemia?",
+    "options": [
+      "Adrenocortical failure",
+      "Hypothyroidism",
+      "Nephrotic syndrome",
+      "Burns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hypothyroidism causes euvolemic hyponatremia (along with SIADH); adrenocortical failure and burns cause hypovolemic, and nephrotic syndrome causes hypervolemic hyponatremia."
+  },
+  {
+    "id": 49,
+    "question": "Which one among the following vectors transmits the filaria Loa Loa?",
+    "options": ["Simulium", "Chrysops", "Cyclops", "Culicoides"],
+    "correctAnswer": 1,
+    "explanation": "Loa loa is transmitted by the Chrysops (deer fly/mango fly) vector."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is the most favourable prognostic parameter in Bell's palsy?",
+    "options": [
+      "Incomplete paralysis in the first week",
+      "Mild CSF lymphocytosis",
+      "Denervation in EMG after 10 days",
+      "Pain behind the ear"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Incomplete facial paralysis in the first week is the most favorable prognostic indicator for recovery in Bell's palsy."
+  },
+  {
+    "id": 51,
+    "question": "Which one of the following groups of drugs is ineffective against gram positive bacteria?",
+    "options": [
+      "Monobactams",
+      "Glycopeptides",
+      "Fluoroquinolones",
+      "First generation cephalosporins"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Monobactams (e.g., aztreonam) have activity limited to gram-negative aerobic bacteria and are ineffective against gram-positive organisms."
+  },
+  {
+    "id": 52,
+    "question": "Which one of the following statements is correct regarding leprosy?",
+    "options": [
+      "Type 1 Leprosy Reaction is also called erythema nodosum leprosum",
+      "Type 2 Leprosy Reaction is an immune complex mediated syndrome called arthus phenomenon",
+      "'Lion face' appearance is seen in tuberculoid leprosy",
+      "Nose is the last site of involvement in lepromatous leprosy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Type 2 leprosy reaction (ENL) is an immune complex-mediated (Arthus-type) reaction; Type 1 reaction is a delayed hypersensitivity reaction, and 'lion face' (leonine facies) is seen in lepromatous, not tuberculoid, leprosy."
+  },
+  {
+    "id": 53,
+    "question": "A 56 year old gardener presents with an ulcerative nodule with purulent discharge on his right index finger. He had a prick with a thorn, at the same site around a month back. Which one of the following infections is most likely?",
+    "options": [
+      "Chromoblastomycosis",
+      "Mycetoma",
+      "Phaeohyphomycosis",
+      "Sporotrichosis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sporotrichosis, classically from thorn-prick inoculation in gardeners, presents with ulcerative nodular lesions along lymphatic spread."
+  },
+  {
+    "id": 54,
+    "question": "A 36 year old man presents with decreased appetite, mouth soreness, diarrhoea and irritability. On examination he has a bright red tongue with a pigmented scaly rash around the neck. Which one of the following food items in his diet has a bearing on his disease?",
+    "options": ["Rice", "Wheat", "Corn", "Fish"],
+    "correctAnswer": 2,
+    "explanation": "This presentation describes pellagra (niacin deficiency) with its classic 'Casal's necklace' rash; corn-based diets are niacin-deficient and associated with pellagra."
+  },
+  {
+    "id": 55,
+    "question": "Acrodermatitis enteropathica is an autosomal recessive metabolic disorder which affects the absorption of which one of the following micronutrients?",
+    "options": ["Iodine", "Zinc", "Iron", "Selenium"],
+    "correctAnswer": 1,
+    "explanation": "Acrodermatitis enteropathica results from impaired intestinal zinc absorption due to SLC39A4 gene mutations."
+  },
+  {
+    "id": 56,
+    "question": "Consider the following statements with regard to the treatment of vitamin A deficiency: I. Repeated high doses of retinol can cause liver damage and teratogenicity II. Acute overdose of vitamin A may lead to increased intracranial pressure and skin desquamation III. Regular vitamin A supplementation is also recommended for pregnant women even in countries where vitamin A deficiency is not endemic IV. Excessive intake of carotene may cause harmless orange pigmentation of the skin. Which of the statements given above are correct?",
+    "options": [
+      "I, II and III",
+      "I, II and IV",
+      "I, III and IV",
+      "II, III and IV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "High-dose retinol toxicity and acute overdose effects are correctly described, and carotenemia causes harmless orange skin pigmentation; routine vitamin A supplementation in non-endemic areas for pregnant women is not recommended due to teratogenicity risk."
+  },
+  {
+    "id": 57,
+    "question": "Koebner phenomenon is seen in which one of the following conditions?",
+    "options": ["Psoriasis", "Acne Vulgaris", "Bechet's disease", "Leprosy"],
+    "correctAnswer": 0,
+    "explanation": "Koebner phenomenon (development of skin lesions at sites of trauma) is a classic feature of psoriasis."
+  },
+  {
+    "id": 58,
+    "question": "Consider the following regarding the human hair growth cycle: I. Anagen is a phase of active hair growth II. Telogen is a transitional phase III. Catagen is a resting phase. Which of the statements given above is/are correct?",
+    "options": ["I only", "III only", "I and II only", "I, II and III"],
+    "correctAnswer": 0,
+    "explanation": "Anagen is the active growth phase; catagen (not telogen) is the transitional phase, and telogen (not catagen) is the resting phase — so only statement I is correct."
+  },
+  {
+    "id": 59,
+    "question": "Consider the following statements regarding oculocutaneous albinism: I. The disease results from genetic abnormalities leading to destruction of melanocytes II. Type 1 albinism is due to a defect in the tyrosinase gene III. Patients may present with poor vision, rotator nystagmus and alternating strabismus IV. Patients are at an increased risk of sunburn or developing skin cancer. Which of the statements given above are correct?",
+    "options": [
+      "I, II and III",
+      "I, II and IV",
+      "I, III and IV",
+      "II, III and IV"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albinism results from defective melanin synthesis (not melanocyte destruction); Type 1 is due to tyrosinase gene defects, and patients have visual disturbances and increased skin cancer risk — so II, III, and IV are correct."
+  },
+  {
+    "id": 60,
+    "question": "A 42 year old man presented with recurrent oral ulcers since one year, episodes of redness of eye and genital ulcers. Which one of the following tests is of diagnostic value?",
+    "options": [
+      "Mantoux test",
+      "Drug-sensitivity test",
+      "Pathergy test",
+      "Patch test"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This presentation is consistent with Behçet's disease, for which the pathergy test is a supportive diagnostic tool."
+  },
+  {
+    "id": 61,
+    "question": "Which of the following joints are commonly affected in osteoarthritis? I. First metatarsophalangeal joint II. Proximal interphalangeal joint III. Ankle joint IV. 5th and 6th cervical vertebrae joint",
+    "options": [
+      "I and II only",
+      "III and IV only",
+      "I, II and IV only",
+      "I, II, III and IV"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Osteoarthritis commonly affects the first MTP joint, PIP joints, and cervical spine (e.g., C5-C6); the ankle joint is typically spared in primary OA."
+  },
+    {
+      "id": 62,
+      "question": "Which of the following are causes of reversible dementia? I. Hypothyroidism II. Vitamin B12 deficiency III. Dementia with lewy body IV. Thiamine deficiency",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 1,
+      "explanation": "Hypothyroidism, vitamin B12 deficiency, and thiamine deficiency are correctable causes of dementia; dementia with Lewy bodies is a primary neurodegenerative disorder and not reversible."
+    },
+    {
+      "id": 63,
+      "question": "Which of the following are clinical features of Fronto-Temporal dementia? I. Personality change II. Language disturbance III. Memory may be preserved in early stages IV. Anti-cholinesterases are the drug of choice for treatment",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "FTD is characterized by early personality change, language disturbance, and relatively preserved memory early on; anti-cholinesterases are used in Alzheimer's, not FTD."
+    },
+    {
+      "id": 64,
+      "question": "Which one of the following is the myelinating cell of Central Nervous System?",
+      "options": ["Astrocyte", "Microglia", "Schwann cell", "Oligodendrocyte"],
+      "correctAnswer": 3,
+      "explanation": "Oligodendrocytes myelinate axons in the CNS, while Schwann cells perform this function in the peripheral nervous system."
+    },
+    {
+      "id": 65,
+      "question": "Which one of the following is the correct description of Mee's lines, seen in chronic arsenic poisoning?",
+      "options": [
+        "Transverse white lines on nails of fingers and toes",
+        "Transverse red lines on the skin of palms and soles",
+        "Transverse white lines on the skin of palms and soles",
+        "Transverse red lines on the nails of fingers and toes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mee's lines are transverse white lines appearing on the fingernails and toenails, classically associated with chronic arsenic poisoning."
+    },
+    {
+      "id": 66,
+      "question": "Fomepizole is an antidote used to treat poisoning from which of the following substances? I. Methanol II. Digoxin III. Cocaine IV. Ethylene glycol",
+      "options": ["I and II", "II and III", "III and IV", "I and IV"],
+      "correctAnswer": 3,
+      "explanation": "Fomepizole inhibits alcohol dehydrogenase, blocking toxic metabolite formation in both methanol and ethylene glycol poisoning."
+    },
+    {
+      "id": 67,
+      "question": "The 4A Test is a screening tool for detection of delirium. Which of the following parameters are included in the 4AT tool? I. Alertness II. Apnoea III. Abbreviated Mental Test (AMT4) IV. Attention",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 2,
+      "explanation": "The 4AT includes Alertness, Abbreviated Mental Test-4 (AMT4), and Attention testing (plus acute change/fluctuating course); apnoea is not a component."
+    },
+    {
+      "id": 68,
+      "question": "Which of the following combinations of lab test results is indicative of heavy alcohol consumption, with more than 60% sensitivity and specificity?",
+      "options": [
+        "Gamma glutamyl transferase (GGT) > 35 U/L and alkaline phosphatase > 45 U/L",
+        "Carbohydrate-deficient transferrin (CDT) > 20 U/L and serum uric acid < 7 mg/dL",
+        "High normal MCV > 91 fL and CDT < 20 U/L",
+        "GGT > 35 U/L and CDT > 20 U/L"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The combination of elevated GGT and elevated CDT provides improved sensitivity and specificity for detecting heavy alcohol consumption compared to either marker alone."
+    },
+    {
+      "id": 69,
+      "question": "What is the antidote for belladonna poisoning?",
+      "options": ["Physostigmine", "Amitriptyline", "Atropine", "Flumazenil"],
+      "correctAnswer": 0,
+      "explanation": "Physostigmine, an acetylcholinesterase inhibitor, reverses the anticholinergic effects of belladonna (atropine-like) poisoning."
+    },
+    {
+      "id": 70,
+      "question": "Which one of the following prevents gastrointestinal absorption of thallium?",
+      "options": ["Calcium carbonate", "Prussian blue", "Penicillamine", "Potassium permanganate"],
+      "correctAnswer": 1,
+      "explanation": "Prussian blue binds thallium in the gut, preventing its absorption and enterohepatic recirculation."
+    },
+    {
+      "id": 71,
+      "question": "A 45 year old farmer came with accidental consumption of a pesticide. He complained of frequent urination and excessive salivation. Which one of the following toxidromes is most likely to be associated with this poisoning?",
+      "options": ["Serotonergic", "Cholinergic", "Adrenergic", "Hypnotic"],
+      "correctAnswer": 1,
+      "explanation": "Excessive salivation and urination are classic features of a cholinergic toxidrome, typical of organophosphate pesticide poisoning."
+    },
+    {
+      "id": 72,
+      "question": "Consider the following regarding salicylate poisoning: I. Arterial pH of 7.25, anion gap of 18 mmol/L II. Arterial pH of 7.25, anion gap of 10 mmol/L III. pCO2 of 20 mm Hg IV. pCO2 of 48 mm Hg. Which disturbance is likely to be encountered?",
+      "options": ["I and III", "II and III", "I and IV", "II and IV"],
+      "correctAnswer": 0,
+      "explanation": "Salicylate poisoning classically causes a mixed high anion gap metabolic acidosis with respiratory alkalosis (low pCO2 from hyperventilation), matching an elevated anion gap (18) with a low pCO2 (20)."
+    },
+    {
+      "id": 73,
+      "question": "Which of the following statements are typical for classic heat stroke? I. Older patient II. Normokalemia III. Hyponatremia IV. Marked lactic acidosis",
+      "options": ["I and III", "I and II", "III and IV", "II and IV"],
+      "correctAnswer": 0,
+      "explanation": "Classic heat stroke typically affects older patients and is associated with hyponatremia; marked lactic acidosis and hyperkalemia are more characteristic of exertional heat stroke."
+    },
+      {
+        "id": 74,
+        "question": "Which of the following statements are correct regarding Weil's disease? I. It is caused by a virus named leptospira II. Acute kidney injury can lead to oliguria in this disease III. Microscopic agglutination is the investigation of choice IV. Ceftriaxone given parenterally is effective treatment",
+        "options": ["I, II and III", "II, III and IV", "I, II and IV", "I, III and IV"],
+        "correctAnswer": 1,
+        "explanation": "Leptospira is a bacterium (not a virus), so statement I is incorrect; AKI causing oliguria, microscopic agglutination test, and parenteral ceftriaxone are all correct regarding Weil's disease."
+      },
+      {
+        "id": 75,
+        "question": "Which of the following are components of SOFA scoring system? I. PaO2/FiO2 ratio II. Mean arterial pressure III. Glasgow coma scale IV. Prothrombin Time with INR",
+        "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+        "correctAnswer": 0,
+        "explanation": "SOFA score uses PaO2/FiO2, mean arterial pressure, and Glasgow coma scale; coagulation component uses platelet count, not PT/INR."
+      },
+      {
+        "id": 76,
+        "question": "What are the components to establish the diagnosis of Brain Death? I. Absent brain stem reflexes II. Apnoea in presence of elevated PCO2 III. Hypothermia IV. Irreversible and unresponsive coma",
+        "options": ["I, II and III", "I, II and IV", "I, III and IV", "II and IV only"],
+        "correctAnswer": 1,
+        "explanation": "Brain death diagnosis requires absent brainstem reflexes, apnoea with elevated PCO2, and irreversible unresponsive coma; hypothermia is a confounder that must be excluded, not a diagnostic criterion."
+      },
+      {
+        "id": 77,
+        "question": "The most common cause for non-traumatic sub-arachnoid haemorrhage is",
+        "options": ["A-V malformation", "Saccular aneurysm rupture", "Extension from primary intracerebral haemorrhage", "Idiopathic"],
+        "correctAnswer": 1,
+        "explanation": "Rupture of a saccular (berry) aneurysm is the most common cause of non-traumatic subarachnoid haemorrhage."
+      },
+      {
+        "id": 78,
+        "question": "Peri-operative respiratory failure is an example of",
+        "options": ["Type I respiratory failure", "Type II respiratory failure", "Type III respiratory failure", "Type IV respiratory failure"],
+        "correctAnswer": 2,
+        "explanation": "Type III (perioperative) respiratory failure results from atelectasis due to abnormal abdominal wall mechanics after anesthesia/surgery."
+      },
+      {
+        "id": 79,
+        "question": "The murmur of mitral regurgitation is best heard at",
+        "options": ["Tricuspid area", "Aortic area", "Cardiac apex", "Pulmonary area"],
+        "correctAnswer": 2,
+        "explanation": "Mitral regurgitation produces a pansystolic murmur best heard at the cardiac apex, often radiating to the axilla."
+      },
+      {
+        "id": 80,
+        "question": "A 28 year female presented to emergency with fever, agitation and delirium. She was on regular medication of Carbimazole 40 mg daily, but missed her doses for the last 2 days. Which of the following scoring systems would you like to do to assess severity of disease?",
+        "options": ["DAS 28 score", "Burch-Wartofsky score", "Expanded Disability Status Scale", "Sequential Organ Failure Assessment Score"],
+        "correctAnswer": 1,
+        "explanation": "This presentation suggests thyroid storm (precipitated by missed antithyroid medication); Burch-Wartofsky score is used to assess its severity."
+      },
+      {
+        "id": 81,
+        "question": "Out of the following areas of brain, which area is most commonly affected on brain imaging in Wilson's disease?",
+        "options": ["Cerebellum", "Sub-cortex", "Thalamus", "Basal ganglia"],
+        "correctAnswer": 3,
+        "explanation": "The basal ganglia (especially putamen) are most commonly affected on MRI in Wilson's disease due to copper deposition."
+      },
+      {
+        "id": 82,
+        "question": "Which of the following are secondary iron overload conditions? I. Transfusion related iron load II. Thalassemia III. Hepatitis C associated liver disease",
+        "options": ["I, II and III", "I and II only", "II and III only", "I and III only"],
+        "correctAnswer": 0,
+        "explanation": "Transfusion-related overload, thalassemia (due to repeated transfusions/ineffective erythropoiesis), and chronic liver disease from Hepatitis C are all recognized causes of secondary iron overload."
+      },
+      {
+        "id": 83,
+        "question": "Which of the following are features of Alzheimer's disease? I. It is a disorder of cerebral cortical function II. Only short term memory is affected III. Patients deny that there is anything wrong IV. Depression is commonly present",
+        "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+        "correctAnswer": 2,
+        "explanation": "Alzheimer's affects cerebral cortical function broadly (both short and long-term memory eventually), patients often show anosognosia (denial), and depression is a common comorbid feature."
+      },
+      {
+        "id": 84,
+        "question": "Glymphatics is the lymphatic like structure of which system?",
+        "options": ["Central Nervous System", "Respiratory", "Renal", "Gastro-intestinal"],
+        "correctAnswer": 0,
+        "explanation": "The glymphatic system is a waste-clearance pathway unique to the central nervous system, functioning analogously to the lymphatic system."
+      },
+      {
+        "id": 85,
+        "question": "Which one of the following statements is correct in the diagnosis of Giardiasis?",
+        "options": [
+          "Stool sample at 2-3 days interval should be examined for cysts",
+          "String test is done to find out cysts of Giardia lamblia",
+          "Jejunal biopsy samples can show presence of larvae of Giardia lamblia",
+          "Cystic form of Giardia lamblia remains viable in water upto 1 week only"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Due to intermittent cyst shedding, stool samples examined at 2-3 day intervals increase diagnostic yield for Giardiasis."
+      },
+      {
+        "id": 86,
+        "question": "In clinical assessment of an elderly patient, 'the get up and go test' is used to evaluate which of the following?",
+        "options": ["Gait and balance", "Cognition", "Driving ability", "Urinary incontinence"],
+        "correctAnswer": 0,
+        "explanation": "The 'Get Up and Go' test assesses mobility, gait, and balance in elderly patients, useful for fall-risk screening."
+      },
+      {
+        "id": 87,
+        "question": "Treatment of first choice in acute Gout is",
+        "options": ["Oral Methotrexate", "Oral Colchicine", "Allopurinol", "Sulfasalazine"],
+        "correctAnswer": 1,
+        "explanation": "Oral colchicine (along with NSAIDs) is first-line for acute gout flares; allopurinol is used for long-term urate-lowering, not acute attacks."
+      },
+      {
+        "id": 88,
+        "question": "A 56 year male came with acute onset breathlessness and found to have pneumothorax. The resident doctor decided to insert intercostals drain. Which one of the following sites is suitable for such a procedure?",
+        "options": ["Hesselbach's triangle", "Petit's triangle", "Triangle of safety", "Triangle of auscultation"],
+        "correctAnswer": 2,
+        "explanation": "The 'triangle of safety' (bordered by latissimus dorsi, pectoralis major, and a horizontal nipple line) is the recommended site for intercostal drain insertion."
+      },
+      {
+        "id": 89,
+        "question": "Which one of the following is an antidote for Rivaroxaban and Apixaban, when reversal of anticoagulation is needed due to uncontrolled bleeding?",
+        "options": ["Idarucizumab", "Andexanet Alfa", "Hydroxocobalamin", "Glucarpidase"],
+        "correctAnswer": 1,
+        "explanation": "Andexanet alfa is the specific reversal agent for factor Xa inhibitors like rivaroxaban and apixaban."
+      },
+      {
+        "id": 90,
+        "question": "Which of the following are included in common causes of mediastinal masses in superior and anterior mediastinum? I. Goitre II. Thymic tumour III. Neurogenic tumour",
+        "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+        "correctAnswer": 0,
+        "explanation": "Goitre and thymic tumours are classic superior/anterior mediastinal masses; neurogenic tumours are typically found in the posterior mediastinum."
+      },
+      {
+        "id": 91,
+        "question": "Which one of the following is used to reverse the anticoagulant effects of Dabigatran?",
+        "options": ["Glucarpidase", "Desferrioxamine", "Idarucizumab", "Protamine"],
+        "correctAnswer": 2,
+        "explanation": "Idarucizumab is a monoclonal antibody fragment that specifically reverses dabigatran's anticoagulant effect."
+      },
+      {
+        "id": 92,
+        "question": "Which one of the following is contraindication of doing a wireless capsule endoscopy?",
+        "options": ["Coeliac disease", "Small bowel stricture", "Obscure gastrointestinal bleeding", "Small bowel Crohn's disease"],
+        "correctAnswer": 1,
+        "explanation": "Small bowel stricture is a contraindication due to risk of capsule retention/obstruction."
+      },
+      {
+        "id": 93,
+        "question": "Which one of the following is the causative organism of Erythrasma, a mild, localized and superficial skin infection?",
+        "options": [
+          "Corynebacterium pseudo tuberculosis",
+          "Corynebacterium minutissimum",
+          "Corynebacterium diphthariae",
+          "Corynebacterium matruchotii"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Erythrasma is caused by Corynebacterium minutissimum, a superficial bacterial skin infection often mistaken for a fungal infection."
+      },
+        {
+          "id": 94,
+          "question": "Which one of the following is correctly matched regarding classification of portal hypertension according to site of vascular obstruction?",
+          "options": [
+            "Sinusoidal – Veno-occlusive disease",
+            "Pre-hepatic presinusoidal – Portal vein thrombosis",
+            "Intrahepatic presinusoidal – Cirrhosis",
+            "Post-hepatic post sinusoidal – Schistosomiasis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pre-hepatic presinusoidal portal hypertension is classically caused by portal vein thrombosis; veno-occlusive disease is post-sinusoidal, cirrhosis is intrahepatic sinusoidal, and schistosomiasis is intrahepatic presinusoidal."
+        },
+        {
+          "id": 95,
+          "question": "Which one of the following is a secondary cause of headache?",
+          "options": ["Migraine", "Tension-type headache", "Trigeminal autonomic cephalalgia", "Medication overuse headache"],
+          "correctAnswer": 3,
+          "explanation": "Medication overuse headache is a secondary headache disorder; migraine, tension-type headache, and trigeminal autonomic cephalalgias are primary headache disorders."
+        },
+        {
+          "id": 96,
+          "question": "A 32 year old man presents with history of recurrent jaundice over the previous decade. Family gives history of the patient having episodes of facial grimacing. Which one of the following is a clinical clue to the diagnosis?",
+          "options": [
+            "Adenoma sebaceum in the mid face",
+            "Erythema nodosum on the skin",
+            "Kayser-Fleisher rings in the cornea",
+            "Olser's nodes at the finger tips"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Recurrent jaundice with facial grimacing (dystonia/movement disorder) suggests Wilson's disease; Kayser-Fleischer rings are a classic clinical clue."
+        },
+        {
+          "id": 97,
+          "question": "Which of the following are causes of secondary immunodeficiency in children? I. Diphenylhydantoin II. Severe malnutrition III. Post-varicella state IV. Nephrotic syndrome",
+          "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+          "correctAnswer": 1,
+          "explanation": "Phenytoin, severe malnutrition, and nephrotic syndrome (through loss of immunoglobulins) are recognized causes of secondary immunodeficiency; post-varicella state is not typically classified as a cause of secondary immunodeficiency."
+        },
+        {
+          "id": 98,
+          "question": "Which of the following statements are correct regarding vaccination routes for children? I. Hepatitis B vaccine given in deltoid region has reduced efficacy II. Two vaccines may be given in the same thigh, but separated by 1 inch III. Separate sites are used when administering a vaccine and an immunoglobulin IV. Two intramuscular vaccines may be given on the same day but in separate limbs",
+          "options": ["III only", "I and III", "II and III", "I and IV"],
+          "correctAnswer": 2,
+          "explanation": "Two vaccines can be given in the same thigh if separated by at least 1 inch, and vaccine/immunoglobulin should be given at separate sites; in infants, deltoid injection is avoided due to insufficient muscle mass, not reduced vaccine efficacy per se."
+        },
+        {
+          "id": 99,
+          "question": "A radiopaque density may be noticed in poisoning by which of the following agents?",
+          "options": ["Phenazopyridine", "Ethylene glycol", "Chloroquine", "Chloral hydrate"],
+          "correctAnswer": 3,
+          "explanation": "Chloral hydrate is radiopaque and may be visible on abdominal X-ray following ingestion, unlike the other agents listed."
+        },
+        {
+          "id": 100,
+          "question": "Which of the following syndromes are caused due to genomic imprinting? I. Rubinstein Taybi syndrome II. Prader-Willi syndrome III. Angelman syndrome IV. Edward syndrome",
+          "options": ["I and III", "II and III", "II and IV", "I and IV"],
+          "correctAnswer": 1,
+          "explanation": "Prader-Willi and Angelman syndromes both result from genomic imprinting defects on chromosome 15 (paternal vs maternal deletion respectively)."
+        },
+        {
+          "id": 101,
+          "question": "As per POCSO (Protection of Children from Sexual Offences) Act 2012, sexual assault is considered aggravated when: I. the abuse involves use of physical violence II. the abused child is disabled III. the abuse is committed by staff of an educational institution IV. the abuse is committed by an immediate family member/first degree relative. Which of the above are correct?",
+          "options": ["I and IV", "I and III", "II and III", "II and IV"],
+          "correctAnswer": 3,
+          "explanation": "Under POCSO, aggravated sexual assault includes cases where the victim is disabled or where abuse is committed by a family member in a position of trust."
+        },
+        {
+          "id": 102,
+          "question": "The mother of a 14-month-old normally developing baby comes to you for feeding advice. Which of the following would be appropriate for her as per the IMNCI (Integrated Management of Neonatal and Childhood Illness) Program? I. Breastfeed as often as the child wants II. Keep the child in your lap and feed with your own hands III. Offer food from the family pot IV. Give 3 to 4 meals each day",
+          "options": ["II, III and IV", "I, III and IV", "I, II and III", "I, II and IV"],
+          "correctAnswer": 1,
+          "explanation": "IMNCI feeding recommendations for a 14-month-old include continued breastfeeding on demand, offering family pot food, and giving 3-4 meals a day; hand-feeding by the mother in her lap is not a specified IMNCI recommendation at this age."
+        },
+        {
+          "id": 103,
+          "question": "For a sick child aged 4 years, which of the following are signs of 'severe pneumonia or very severe disease', as per IMNCI Program? I. Fast breathing (≥40 breaths per minute) II. Child vomits everything III. Stridor in a calm child IV. Chest indrawing",
+          "options": ["I and II", "II and III", "III and IV", "II and IV"],
+          "correctAnswer": 2,
+          "explanation": "Stridor in a calm child and chest indrawing are IMNCI danger signs of severe pneumonia/very severe disease; fast breathing alone indicates pneumonia (not severe), and vomiting everything is a general danger sign, not specific to severe pneumonia classification here."
+        },
+        {
+          "id": 104,
+          "question": "In a child aged 3½ years with an ear problem which one of these situations merits urgent referral to hospital?",
+          "options": [
+            "Pus seen draining from the ear, and discharge reported for less than 14 days",
+            "Pus seen draining from the ear, and discharge reported for more than or equal to 14 days",
+            "Tender swelling behind the ear",
+            "Pus seen draining from both ears, irrespective of duration"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Tender swelling behind the ear suggests mastoiditis, a serious complication requiring urgent hospital referral."
+        },
+        {
+          "id": 105,
+          "question": "Upto 10% of cases of Autism Spectrum Disorder (ASD) may be caused by genetic conditions. Which of the following are known to be associated with ASD? I. Tuberous sclerosis II. Fragile X syndrome III. Prader-Willi syndrome IV. Patau syndrome",
+          "options": ["I and II", "I and III", "II and III", "I and IV"],
+          "correctAnswer": 0,
+          "explanation": "Tuberous sclerosis and Fragile X syndrome are well-established genetic conditions associated with Autism Spectrum Disorder."
+        },
+        {
+          "id": 106,
+          "question": "Which of the following are characteristic features of cerebral palsy? I. Disorder of movement II. Permanent nature III. Progressive course IV. Disorder of posture",
+          "options": ["I, II and III", "I, II and IV", "II, III and IV", "I, III and IV"],
+          "correctAnswer": 1,
+          "explanation": "Cerebral palsy is a permanent, non-progressive disorder of movement and posture; a progressive course would argue against the diagnosis."
+        },
+        {
+          "id": 107,
+          "question": "Which of the following are the tools used for classification of spasticity in a child with cerebral palsy? I. Gross Motor Function Classification System II. Medical Research Council System III. Modified Connors Scale (Connors-II) IV. Modified Ashworth Scale",
+          "options": ["I and II", "II and III", "III and IV", "I and IV"],
+          "correctAnswer": 2,
+          "explanation": "The Modified Ashworth Scale is used to classify spasticity; GMFCS classifies gross motor function (not specifically spasticity), and Connors scale is used for ADHD assessment, not spasticity."
+        },
+        {
+          "id": 108,
+          "question": "Which of the following medications may be used in a child diagnosed with Attention Deficit Hyperactivity Disorder? I. Carbamazepine II. Methylphenidate III. Atomoxetine IV. Clonazepam",
+          "options": ["I and III", "II and III", "II and IV", "I and IV"],
+          "correctAnswer": 1,
+          "explanation": "Methylphenidate (stimulant) and atomoxetine (non-stimulant) are established pharmacological treatments for ADHD."
+        },
+        {
+          "id": 109,
+          "question": "Which of the following are included as a 'Deficiency' under the Rashtriya Bal Swasthya Karyakram (RBSK)? I. Hypothyroidism II. Vitamin A deficiency III. Anemia IV. Vitamin D deficiency",
+          "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+          "correctAnswer": 3,
+          "explanation": "Under RBSK's 4D framework, Vitamin A deficiency, Anemia, and Vitamin D deficiency are listed as 'Deficiencies'; hypothyroidism falls under a different category (Defects at birth/Diseases), not Deficiency."
+        },
+        {
+          "id": 110,
+          "question": "Which of the following statements are correct regarding management of hyperkalemia in a child? I. Intravenous calcium (gluconate or chloride) is given to enhance cellular uptake of potassium II. Beta adrenergic agonists (salbutamol or terbutaline) are used to stabilize myocardial cell membrane III. Regular insulin and glucose given intravenously enhance cellular uptake of potassium IV. Sodium polystyrene sulfonate enhances total body potassium elimination",
+          "options": ["I and II", "II and III", "I and IV", "III and IV"],
+          "correctAnswer": 3,
+          "explanation": "Insulin-glucose and beta-agonists shift potassium intracellularly, while sodium polystyrene sulfonate removes potassium from the body; calcium stabilizes the myocardial membrane (not calcium enhancing potassium uptake, and beta-agonists don't stabilize membrane) — correct pairing is insulin/glucose (intracellular shift) and polystyrene sulfonate (total body elimination)."
+        },
+        {
+          "id": 111,
+          "question": "Which of the following statements are correct about oral rotavirus vaccines? I. The storage should be at 2-8°C II. The vaccine should be used within 2 hours of reconstitution or opening III. Past history of intussusception is a contraindication IV. The vaccine can be given if the baby has ongoing diarrhoea",
+          "options": ["I and II", "III and IV", "I and III", "II and IV"],
+          "correctAnswer": 2,
+          "explanation": "Rotavirus vaccine requires 2-8°C storage, and a past history of intussusception is a contraindication to vaccination."
+        },
+        {
+          "id": 112,
+          "question": "A child can make a tower of 3 blocks, runs, copies his mother while sweeping and has a vocabulary of 8-10 words. His developmental age is",
+          "options": ["12 months", "15 months", "18 months", "24 months"],
+          "correctAnswer": 2,
+          "explanation": "A tower of 3 blocks, running, imitative play, and a vocabulary of 8-10 words are developmental milestones typically achieved around 18 months."
+        },
+        {
+          "id": 113,
+          "question": "A child can ride a tricycle, copies a circle, knows name and gender. The developmental age of this child is",
+          "options": ["2 years", "3 years", "4 years", "5 years"],
+          "correctAnswer": 1,
+          "explanation": "Riding a tricycle, copying a circle, and knowing one's name and gender are developmental milestones typically achieved by 3 years of age."
+        },
+        {
+          "id": 114,
+          "question": "A teen boy with birth weight of 2.8 kg is born to a primigravida mother through vaginal delivery and cried immediately after birth. Which of the following statements are correct regarding his initial care after birth? I. The baby should be initiated on breastfeeding within one hour of birth II. The baby should be kept in a separate area from the mother III. The baby should be administered with 0.5 mg of vitamin K intramuscularly IV. The baby should be thoroughly examined for congenital malformations from head to toe",
+          "options": ["I and II", "I and III", "II and III", "I and IV"],
+          "correctAnswer": 1,
+          "explanation": "Early breastfeeding within one hour and intramuscular vitamin K prophylaxis are standard newborn care practices; the baby should not be separated from the mother (skin-to-skin/rooming-in is recommended)."
+        },
+          {
+            "id": 115,
+            "question": "Which one of the following oral drugs may be used in the management of super-refractory status epilepticus?",
+            "options": ["Clonazepam", "Clobazam", "Lamotrigine", "Topiramate"],
+            "correctAnswer": 3,
+            "explanation": "Topiramate is one of the oral agents used as adjunctive therapy in the management of super-refractory status epilepticus."
+          },
+          {
+            "id": 116,
+            "question": "Which of the following statements are correct regarding the use of benzodiazepines in the initial management of status epilepticus? I. Upto two doses may be used 5 minutes apart, if seizures are not controlled II. For Lorazepam, only a single dose should be used, even if seizures are not controlled III. Dose of midazolam at this stage is 1-15 µg/kg/min infusion IV. Dose of both lorazepam and midazolam is 0.1 mg/kg",
+            "options": ["I and III", "I and IV", "II and III", "II and IV"],
+            "correctAnswer": 1,
+            "explanation": "Up to two doses of benzodiazepines can be given 5 minutes apart if seizures persist, and both lorazepam and midazolam are typically dosed at 0.1 mg/kg in this setting."
+          },
+          {
+            "id": 117,
+            "question": "Which of the following statements are correct regarding hypernatremia in children? I. Diabetes insipidus due to a deficiency of antidiuretic hormone (ADH) may cause hypernatremia II. Addison disease may be associated with hypernatremia III. Use of boiled skimmed milk can lead to hypernatremia IV. Use of lactulose can lead to hypernatremia",
+            "options": ["I, III and IV", "II, III and IV", "I, II and III", "I, II and IV"],
+            "correctAnswer": 0,
+            "explanation": "Central diabetes insipidus, boiled skimmed milk (concentrated solute load), and lactulose (osmotic water loss) can all cause hypernatremia; Addison disease typically causes hyponatremia due to aldosterone deficiency, not hypernatremia."
+          },
+          {
+            "id": 118,
+            "question": "Which of the following statements are correct regarding the management of gastrointestinal bleeding in children? I. Somatostatin or octreotide infusion should be given for at least 7 days after stoppage of initial bleeding to prevent rebleeding II. Endoscopic Sclerotherapy (EST) involves endoscopic injection of N-butyl-2-cyanoacrylate or iso-butyl-2-cyanoacrylate III. EST has upto 90% efficacy in controlling acute bleeding IV. Following an episode of acute variceal bleeding, all patients should receive secondary prophylaxis to prevent rebleeding",
+            "options": ["I and II", "I and III", "III and IV", "II and IV"],
+            "correctAnswer": 2,
+            "explanation": "EST has up to 90% efficacy in controlling acute variceal bleeding, and secondary prophylaxis is recommended for all patients after an acute variceal bleeding episode; the cyanoacrylate glue injection described in statement II actually refers to endoscopic variceal glue injection, not classic sclerotherapy, and the 7-day somatostatin/octreotide duration is not a standard fixed rule."
+          },
+          {
+            "id": 119,
+            "question": "Which of the following are advantages of endotracheal intubation, in a child requiring pediatric advanced life support? I. Inspiratory time can be controlled II. Positive end-expiratory pressure can be provided III. Peak expiratory pressure can be controlled IV. Reduced risk of aspiration of gastric contents",
+            "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+            "correctAnswer": 1,
+            "explanation": "Endotracheal intubation allows control of inspiratory time, provision of PEEP, and reduces aspiration risk by protecting the airway; peak expiratory pressure is not a controllable parameter of ETT ventilation in this context."
+          },
+          {
+            "id": 120,
+            "question": "Which of the following are causes of hypocalcemia in a child? I. Hypomagnesemia II. Hypophosphatemia III. Metabolic acidosis IV. Pseudohypoparathyroidism",
+            "options": ["I and II", "II and III", "III and IV", "I and IV"],
+            "correctAnswer": 3,
+            "explanation": "Hypomagnesemia impairs PTH secretion/action causing hypocalcemia, and pseudohypoparathyroidism involves PTH resistance leading to hypocalcemia; hypophosphatemia and metabolic acidosis are not typical causes (acidosis actually increases ionized calcium)."
+          }
+]

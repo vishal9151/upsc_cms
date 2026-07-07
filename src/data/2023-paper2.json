@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Which hormone regulates blood sugar levels?",
+    "options": [
+      "Thyroxine",
+      "Insulin",
+      "Adrenaline",
+      "Cortisol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Insulin, produced by the pancreas, regulates blood glucose levels."
+  },
+  {
+    "id": 2,
+    "question": "The study of diseases is called:",
+    "options": [
+      "Physiology",
+      "Pathology",
+      "Anatomy",
+      "Pharmacology"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pathology is the study of the causes and effects of diseases."
+  },
+  {
+    "id": 3,
+    "question": "Which mineral is essential for the formation of hemoglobin?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Zinc",
+      "Magnesium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iron is essential for hemoglobin formation in red blood cells."
+  }
+]
