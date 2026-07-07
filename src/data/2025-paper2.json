@@ -1,38 +1,907 @@
 [
   {
     "id": 1,
-    "question": "Which vaccine is used for immunization against tuberculosis?",
-    "options": [
-      "OPV",
-      "BCG",
-      "DPT",
-      "MMR"
-    ],
+    "question": "Vibration white finger refers to:",
+    "options": ["Buerger's disease", "Raynaud's syndrome", "Acrocyanosis", "Takayasu disease"],
     "correctAnswer": 1,
-    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine is used for immunization against tuberculosis."
+    "explanation": "Vibration white finger is a form of secondary Raynaud's syndrome caused by prolonged exposure to hand-transmitted vibration."
   },
   {
     "id": 2,
-    "question": "The primary function of red blood cells is to:",
-    "options": [
-      "Fight infection",
-      "Transport oxygen",
-      "Clot blood",
-      "Produce antibodies"
-    ],
+    "question": "Which of the following are criteria for cancer screening? I. Screening test should be sensitive and specific II. Screening test should be acceptable to the screened population III. The disease should be an uncommon one for screening to be effective IV. Disease should be recognisable at an early stage",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
     "correctAnswer": 1,
-    "explanation": "Red blood cells primarily transport oxygen from lungs to body tissues via hemoglobin."
+    "explanation": "Effective screening requires a sensitive/specific test, acceptability to the population, and early disease recognisability; the disease being uncommon is not a screening criterion (in fact, higher prevalence improves screening yield)."
   },
   {
     "id": 3,
-    "question": "Which disease is caused by a deficiency of iodine?",
+    "question": "A 45-year-old lady presents with complaints of fatigue, muscle weakness along with bilateral multiple renal calculi which were picked up on a routine ultrasound. Further workup revealed serum calcium levels of 11.4 mg%. What is the next best investigation required to arrive at a diagnosis?",
+    "options": ["MRI neck", "Sestamibi scan", "CECT head and neck", "NCCT head and neck"],
+    "correctAnswer": 1,
+    "explanation": "Hypercalcemia with renal calculi and muscle weakness suggests primary hyperparathyroidism; a sestamibi scan localizes the parathyroid adenoma."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following are the aetiological factors associated with a communicating hydrocephalus? I. Post haemorrhagic II. Lesions within the ventricle III. CSF infection IV. Raised CSF protein",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 2,
+    "explanation": "Post-haemorrhagic states, CSF infection, and raised CSF protein impair CSF absorption at the arachnoid granulations, causing communicating hydrocephalus; intraventricular lesions typically cause obstructive (non-communicating) hydrocephalus."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following statements are correct regarding a brain abscess? I. Abscesses arise when the brain is exposed directly as a result of fracture or infection of air sinus II. Presenting features include low grade fever, confusion, seizures and focal deficits III. MRI with contrast is the initial imaging modality of choice IV. The aetiological agents include bacteria, fungi, protozoa and viruses",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 1,
+    "explanation": "Direct spread from fractures/sinus infection, the described clinical presentation, and the wide range of causative organisms are all correct; CT (not MRI) is typically the first-line initial imaging for suspected brain abscess."
+  },
+  {
+    "id": 6,
+    "question": "What is the most common type of tumour of Vermiform Appendix?",
+    "options": ["Epithelial tumour", "Carcinoid tumour", "Germ cell tumour", "Papillary cell tumour"],
+    "correctAnswer": 0,
+    "explanation": "Epithelial tumours (including mucinous neoplasms and adenocarcinoma) are the most common tumour type of the appendix."
+  },
+  {
+    "id": 7,
+    "question": "The earliest specific cystoscopic appearance of Bilharzial cystitis is:",
+    "options": ["Sandy patches", "Ulcers", "Pseudo tubercles", "Nodules"],
+    "correctAnswer": 2,
+    "explanation": "Pseudotubercles, formed by granulomatous reaction to Schistosoma ova, represent the earliest specific cystoscopic finding in bilharzial cystitis."
+  },
+  {
+    "id": 8,
+    "question": "Which one of the following best describes craniosynostosis?",
     "options": [
-      "Rickets",
-      "Goitre",
-      "Anaemia",
-      "Beriberi"
+      "It is delayed fusion of one or more cranial sutures preventing growth perpendicular to the suture",
+      "It is the premature fusion of one or more cranial sutures, preventing growth perpendicular to the suture",
+      "It is the premature fusion of one or more cranial sutures, facilitating growth perpendicular to the suture",
+      "It is delayed fusion of one or more cranial sutures facilitating growth perpendicular to the suture"
     ],
     "correctAnswer": 1,
-    "explanation": "Goitre, enlargement of the thyroid gland, is caused by iodine deficiency."
-  }
+    "explanation": "Craniosynostosis is the premature fusion of cranial sutures, which restricts skull growth perpendicular to the fused suture, leading to characteristic skull shape abnormalities."
+  },
+  {
+    "id": 9,
+    "question": "A 60-year-old female presents with pain in her back of recent onset, which has become severe of late. During the course of investigations, she was found to have lytic lesions in the vertebrae and ribs. Which of the following organs should be carefully screened now for detecting the primary cause of these lesions?",
+    "options": ["Small intestine", "Large intestine", "Adrenal", "Breast"],
+    "correctAnswer": 3,
+    "explanation": "Breast cancer is a common cause of osteolytic bone metastases in women, particularly in vertebrae and ribs."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following statements are correct regarding Cauda equina syndrome? I. Its presenting symptoms are perineal numbness, painless urinary retention and fecal incontinence II. Urgent investigation with MRI is required III. It is present most commonly in the 45-60 year age group IV. Confirmed cases require early surgical decompression",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 1,
+    "explanation": "Cauda equina syndrome presents with the described symptoms, requires urgent MRI, and confirmed cases need emergency surgical decompression; it is not specifically most common in the 45-60 age group."
+  },
+  {
+    "id": 11,
+    "question": "The commonest site of pressure sore is:",
+    "options": ["Heel", "Sacrum", "Ischium", "Occiput"],
+    "correctAnswer": 2,
+    "explanation": "The ischial tuberosity is the most common site for pressure sores, particularly in seated or bedridden patients."
+  },
+  {
+    "id": 12,
+    "question": "Resection of which part of intestine does not significantly affect fluid and electrolyte balance?",
+    "options": ["Ileum", "Proximal jejunum", "Distal jejunum", "Colon"],
+    "correctAnswer": 1,
+    "explanation": "The proximal jejunum can be resected with minimal effect on fluid and electrolyte balance, as its absorptive functions are largely compensated by the distal small bowel."
+  },
+  {
+    "id": 13,
+    "question": "Good measure of systemic perfusion by ABG is by measurement of:",
+    "options": ["Bicarbonate", "pH", "Lactate and/or the base deficit", "PCO2"],
+    "correctAnswer": 2,
+    "explanation": "Lactate and base deficit are sensitive markers reflecting tissue hypoperfusion and are commonly used to assess systemic perfusion status."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following are congenital abnormalities of the gall bladder? I. The phrygian cap II. Floating gall bladder III. Absence of gall bladder IV. Spigelian gall bladder",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 0,
+    "explanation": "Phrygian cap, floating gall bladder, and gall bladder agenesis are recognized congenital anomalies; 'Spigelian gall bladder' is not a standard recognized entity."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following are functions of the gall bladder? I. Reservoir for bile II. Production of bile III. Secretion of mucus IV. Concentration of bile",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 2,
+    "explanation": "The gall bladder stores, concentrates, and secretes mucus into bile, but does not produce bile — bile is produced by the liver."
+  },
+  {
+    "id": 16,
+    "question": "Which one of following statements is correct regarding Budd-Chiari Syndrome (BCS)?",
+    "options": [
+      "It principally affects young males",
+      "Venous drainage of the liver is occluded by IVC thrombus",
+      "Quadrate lobe (Segment 4 and 5) undergoes hypertrophy",
+      "Abdominal discomfort and ascites are the main presenting features"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Abdominal discomfort and ascites are the classic presenting features of Budd-Chiari syndrome due to hepatic venous outflow obstruction."
+  },
+  {
+    "id": 17,
+    "question": "Which one of the following is correct regarding splenic artery aneurysm?",
+    "options": [
+      "It is twice as common in men",
+      "It is usually situated in the main arterial trunk",
+      "It is caused due to blunt trauma to the abdomen",
+      "It is generally multiple in number"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Splenic artery aneurysms are usually located in the main trunk of the splenic artery and are more common in women, typically not caused by blunt trauma, and usually solitary."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following statements are correct regarding primary survey/management of traumatic head injury patient? I. Ensure adequate oxygenation and circulation II. Exclude hypoglycaemia III. Check for mechanism of injury IV. Check pupil size and response",
+    "options": ["I, II and III", "II, III and IV", "I, II and IV", "I, III and IV"],
+    "correctAnswer": 2,
+    "explanation": "Primary survey focuses on securing oxygenation/circulation, excluding hypoglycaemia as a reversible cause of altered consciousness, and assessing pupillary response; mechanism of injury is part of history-taking, not primary survey."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following statements are correct regarding ABCDE of trauma care? I. A stands for Airway with cervical spine protection II. B stands for Breathing and ventilation III. C stands for Control of massive external haemorrhage IV. D stands for Disability (Neurological status)",
+    "options": ["I, II and III", "I, III and IV", "I, II and IV", "II, III and IV"],
+    "correctAnswer": 2,
+    "explanation": "In the ATLS ABCDE approach, A=Airway with C-spine protection, B=Breathing, D=Disability; C classically stands for Circulation with haemorrhage control, though massive external haemorrhage control is now often prioritized as a separate initial step in updated protocols."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following statements are correct regarding Inguinal hernias in children? I. It is more common in full-term boys II. It should be repaired promptly III. It is always indirect IV. It may frequently be transilluminant",
+    "options": ["I, II and III", "II, III and IV", "I, II and IV", "I, III and IV"],
+    "correctAnswer": 1,
+    "explanation": "Inguinal hernias in children should be repaired promptly, are almost always indirect, and may be transilluminant if associated with a hydrocele; they are actually more common in preterm boys, not full-term."
+  },
+  {
+    "id": 21,
+    "question": "The most common site of urethral opening in cases of hypospadias is:",
+    "options": [
+      "Just proximal to the glans",
+      "On the penile shaft",
+      "At the junction of penile shaft and stratum",
+      "On the perineum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Glanular/subcoronal hypospadias (opening just proximal to the glans) is the most common type."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following about Minimal Access Surgery are correct? I. Decreased intraoperative heat loss II. Improved visualization III. Increased chances of herniation IV. Improved mobility",
+    "options": ["I, II and III", "I, III and IV", "II, III and IV", "I, II and IV"],
+    "correctAnswer": 3,
+    "explanation": "Minimal access surgery offers decreased heat loss, improved visualization, and improved postoperative mobility; it is associated with reduced (not increased) chances of incisional herniation compared to open surgery."
+  },
+  {
+    "id": 23,
+    "question": "The maximum safe dose for Lignocaine (without adrenaline) as a local anaesthetic drug is:",
+    "options": ["3 mg/kg", "5 mg/kg", "7 mg/kg", "9 mg/kg"],
+    "correctAnswer": 0,
+    "explanation": "The maximum safe dose of plain lignocaine (without adrenaline) is 3 mg/kg."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following are the symptoms commonly experienced by patients with lymphoedema? I. Swelling II. Burning sensation III. Intolerance to cold IV. Cramps",
+    "options": ["I, II and IV", "I, II and III", "II, III and IV", "I, III and IV"],
+    "correctAnswer": 0,
+    "explanation": "Swelling, burning sensation, and cramps are commonly reported symptoms of lymphoedema; intolerance to cold is not a typical feature."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following are the malignancies associated with lymphoedema? I. Kaposi Sarcoma II. Squamous cell carcinoma III. Malignant melanoma IV. Leukaemia",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 0,
+    "explanation": "Chronic lymphoedema is associated with increased risk of Kaposi sarcoma, squamous cell carcinoma, and malignant melanoma (as well as lymphangiosarcoma/Stewart-Treves syndrome); leukaemia is not a typical association."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following are the techniques commonly used to close the raw area after excision of a pilonidal sinus in order to avoid a midline wound? I. Limberg procedure II. Y-V plasty III. Z-plasty IV. Karydakis procedure",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 2,
+    "explanation": "The Limberg flap, Z-plasty, and Karydakis procedure are all off-midline closure techniques used to reduce recurrence in pilonidal sinus surgery."
+  },
+  {
+    "id": 27,
+    "question": "A 45-year-old lady presents with history of a painless lump in the right breast since 1 month. On examination, the lump is hard, 3 x 4 cm in size in the upper outer quadrant and is not fixed to the skin or the underlying structures. The axilla reveals firm mobile lymph nodes (level I). Rest of systemic examination is normal. The clinical stage of this disease is:",
+    "options": ["cT1N1Mx", "cT2N1Mx", "cT3N1Mx", "cT3N2Mx"],
+    "correctAnswer": 1,
+    "explanation": "A tumour of 3-4 cm falls into the T2 category (2-5 cm), and mobile ipsilateral level I axillary nodes correspond to N1, giving cT2N1Mx."
+  },
+  {
+    "id": 28,
+    "question": "Which one of the following is considered the gold standard for the diagnosis of oesophageal motility disorders?",
+    "options": ["Upper GI endoscopy", "Barium swallow", "High resolution manometry", "Contrast enhanced CT scan (CECT) oesophagus"],
+    "correctAnswer": 2,
+    "explanation": "High resolution manometry is the gold standard investigation for diagnosing oesophageal motility disorders."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following are considered aetiological factors for Adenocarcinoma oesophagus? I. Barrett's oesophagus II. Gastro-oesophageal reflux III. Obesity IV. Alcohol intake",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 0,
+    "explanation": "Barrett's oesophagus, GERD, and obesity are established risk factors for oesophageal adenocarcinoma; alcohol is more strongly linked to squamous cell carcinoma of the oesophagus."
+  },
+  {
+    "id": 30,
+    "question": "Consider the following statements regarding Plummer-Vinson syndrome: I. Findings include cervical oesophageal web, iron deficiency anaemia and dysphagia II. It is a rare disease, mainly affecting middle-aged women III. There is predisposition to postcricoid, cervical oesophageal cancer IV. Treatment is usually surgical. Which of the statements given above are correct?",
+    "options": ["II, III and IV", "I, II and IV", "I, III and IV", "I, II and III"],
+    "correctAnswer": 3,
+    "explanation": "Plummer-Vinson syndrome presents with cervical oesophageal web, iron deficiency anaemia, and dysphagia in middle-aged women, with increased risk of postcricoid carcinoma; treatment is primarily medical (iron supplementation, dilation), not surgical."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following are correct regarding late dumping? I. It usually occurs during the second hour after meal II. It lasts for 30-40 minutes III. Major symptoms are tremor, faintness, prostration IV. It is relieved by lying down",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 0,
+    "explanation": "Late dumping occurs 2-3 hours post-meal due to reactive hypoglycaemia, lasting 30-40 minutes with symptoms of tremor, faintness, and prostration; lying down is characteristic of early (not late) dumping relief."
+  },
+  {
+    "id": 32,
+    "question": "Which one of the following statements is NOT correct regarding Gastric outlet obstruction associated with long standing peptic ulcer disease?",
+    "options": [
+      "Hypochloraemic alkalosis is the usual metabolic abnormality in such cases",
+      "Endoscopic biopsy is essential to exclude malignancy",
+      "Medical therapy has no role in the treatment of this condition",
+      "Operation is frequently required along with a drainage procedure"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Medical therapy (acid suppression, balloon dilation) does have a role in managing gastric outlet obstruction from peptic ulcer disease, making this statement incorrect."
+  },
+  {
+    "id": 33,
+    "question": "The commonly used muscle relaxant with quickest onset of action and spontaneous recovery is:",
+    "options": ["Suxamethonium", "Vecuronium", "Atracurium", "Rocuronium"],
+    "correctAnswer": 0,
+    "explanation": "Suxamethonium (succinylcholine) has the fastest onset of action among muscle relaxants and undergoes rapid spontaneous recovery due to plasma cholinesterase metabolism."
+  },
+  {
+    "id": 34,
+    "question": "The first imaging modality of choice for a 35-year-old lady, presenting to surgical emergency with complaints of colicky pain in right lower quadrant of abdomen and vomiting since last 2 days is:",
+    "options": ["Contrast CT abdomen", "Non-contrast CT abdomen", "Ultrasound abdomen", "Plain X-ray abdomen erect view"],
+    "correctAnswer": 2,
+    "explanation": "Ultrasound is the preferred first-line imaging modality in a young female with RLQ pain, given its safety, lack of radiation, and ability to evaluate gynaecological causes alongside appendicitis."
+  },
+  {
+    "id": 35,
+    "question": "Mallampati test is used for the assessment of:",
+    "options": ["Tongue size", "Ability to protrude jaw", "Breath hold time", "Airway"],
+    "correctAnswer": 3,
+    "explanation": "The Mallampati score is a standard bedside test used to predict difficulty of airway management/intubation."
+  },
+  {
+    "id": 36,
+    "question": "Consider the following: I. Diabetes II. Hypertension III. Renal failure IV. Jaundice. Which of the above are the risk factors for post-operative wound dehiscence?",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 2,
+    "explanation": "Diabetes, renal failure, and jaundice impair wound healing and are established risk factors for wound dehiscence; hypertension is not a classical direct risk factor."
+  },
+  {
+    "id": 37,
+    "question": "If faced with a surgical emergency in a child of 15 years for whom no consent is available for life-saving surgery and no time for seeking authority from someone, the next step should be:",
+    "options": [
+      "Conservative management till lawyer is available",
+      "Search for relatives or neighbours",
+      "Consent arrangement through Hospital Social Worker",
+      "Go ahead with surgery without consent"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In a genuine life-threatening emergency with no time to obtain consent, doctrine of necessity permits proceeding with life-saving surgery without consent."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following information needs to be disclosed in order to establish valid consent for surgical treatment? I. Condition and reasons why it warrants surgery II. Type of surgery proposed III. Unexpected hazards of proposed surgery IV. The surgical experience and expertise of the operating surgeon",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "correctAnswer": 0,
+    "explanation": "Valid informed consent requires disclosure of the condition, type of surgery, and potential unexpected hazards/risks; disclosure of the specific surgeon's personal experience level is not a standard legal requirement for consent."
+  },
+    {
+      "id": 39,
+      "question": "A surgical department of a premier medical college conducted a study on rates of post-operative wound infection. The results of the study were negative for the proposed hypothesis. What should the department do with the results?",
+      "options": ["Label them as worthless", "Redo the study with a new hypothesis", "Report the negative results", "Redesign the study and increase the sample size"],
+      "correctAnswer": 2,
+      "explanation": "Negative results are scientifically valuable and should be reported, contributing to the overall body of evidence rather than being discarded."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following statements are correct regarding sutures in surgery? I. Barbed sutures have the advantage of eliminating the need for knots II. Vertical mattress sutures help in eversion of wound edges III. Aberdeen knot is used for continuous suturing IV. Silk is preferred for subcuticular suturing",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "Barbed sutures eliminate knot-tying, vertical mattress sutures promote wound edge eversion, and the Aberdeen knot secures continuous sutures; silk is not preferred for subcuticular closure due to tissue reactivity."
+    },
+    {
+      "id": 41,
+      "question": "Chadwick's sign describes:",
+      "options": [
+        "the dusky hue of the vestibule and anterior vaginal wall visible at about 8th week of pregnancy",
+        "softening of cervix at 6th week of pregnancy",
+        "the abdominal and vaginal fingers apposed below the body of the uterus during bimanual examination",
+        "regular and rhythmic uterine contraction which can be elicited during bimanual examination at 4-8 weeks of pregnancy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chadwick's sign refers to the bluish-purple discoloration of the vagina and cervix due to increased vascularity, visible around the 8th week of pregnancy."
+    },
+    {
+      "id": 42,
+      "question": "Which of the following treatments are recommended for a pregnant woman suffering from sickle cell disease? I. Folic acid 1 mg daily II. Azathioprine III. Penicillin prophylaxis IV. Thromboprophylaxis with low molecular weight heparin",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 2,
+      "explanation": "Folic acid supplementation, penicillin prophylaxis (due to functional asplenia), and thromboprophylaxis with LMWH are all recommended in pregnant women with sickle cell disease; azathioprine has no indicated role."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following are contraindications to External Cephalic Version (ECV) in breech? I. Pregnancy less than 36 weeks II. Multiple pregnancy III. Previous cesarean delivery IV. Rhesus isoimmunization",
+      "options": ["I, III and IV", "II, III and IV", "I, II and IV", "I, II and III"],
+      "correctAnswer": 1,
+      "explanation": "Multiple pregnancy, previous cesarean delivery, and Rhesus isoimmunization are recognized contraindications/cautions for ECV; ECV is typically performed at or after 36-37 weeks, so pregnancy less than 36 weeks is not itself listed as a contraindication in this context."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following hematological findings are seen in pregnant women with thalassemia trait?",
+      "options": ["Raised HbA2 and low MCV", "Low MCHC", "Low serum total iron binding capacity", "Low HbA2 and raised MCV"],
+      "correctAnswer": 0,
+      "explanation": "Beta-thalassemia trait is characterized by raised HbA2 with microcytosis (low MCV), distinguishing it from iron deficiency anemia."
+    },
+    {
+      "id": 45,
+      "question": "The best drug for maintenance therapy of Systemic Lupus Erythematosus (SLE) during pregnancy is:",
+      "options": ["Hydroxychloroquine", "Sulfasalazine", "Tacrolimus", "Progestins"],
+      "correctAnswer": 0,
+      "explanation": "Hydroxychloroquine is considered safe and is recommended for maintenance therapy of SLE throughout pregnancy."
+    },
+    {
+      "id": 46,
+      "question": "Which of the following maternal complications can be seen in hyperemesis gravidarum? I. Wernicke's encephalopathy II. Hepatic failure III. Hypoprothrombinemia IV. Convulsions",
+      "options": ["I, II, III and IV", "I, III and IV only", "I, II and IV only", "II and III only"],
+      "correctAnswer": 0,
+      "explanation": "Severe hyperemesis gravidarum can lead to Wernicke's encephalopathy (thiamine deficiency), hepatic dysfunction, coagulopathy (hypoprothrombinemia from vitamin K deficiency), and seizures/convulsions in extreme cases."
+    },
+    {
+      "id": 47,
+      "question": "The commonest ovarian tumour seen during pregnancy is:",
+      "options": ["Benign cystic teratoma", "Mucinous cystadenoma", "Endometrioma", "Adenocarcinoma ovary"],
+      "correctAnswer": 0,
+      "explanation": "Benign cystic teratoma (dermoid cyst) is the most common ovarian tumour encountered during pregnancy."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following statements are correct regarding shoulder dystocia? I. It can be predicted during early labour II. Anencephaly is a risk factor III. Turtle neck sign is present IV. Episiotomy should always be given",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 3,
+      "explanation": "Anencephaly (due to macrosomia patterns) is a risk factor, and turtle-neck sign is a classic feature; episiotomy is not always mandatory (it does not relieve bony dystocia), and shoulder dystocia often cannot be reliably predicted."
+    },
+    {
+      "id": 49,
+      "question": "A primigravida at 38 weeks pregnancy was put on oxytocin drip in view of slow labour at the rate of 30 mIU/min by the newly appointed registrar. She complains of confusion and starts throwing fits. What electrolyte imbalance is expected to have happened in this case?",
+      "options": ["Hypokalemia", "Hyponatremia", "Hypocalcemia", "Hypernatremia"],
+      "correctAnswer": 1,
+      "explanation": "High-dose oxytocin has an antidiuretic effect (structural similarity to ADH) that can cause water retention and dilutional hyponatremia, leading to confusion and seizures."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following factors favour posterior position of the vertex? I. Anthropoid pelvis II. Low inclination pelvis III. Attachment of placenta on the anterior wall IV. Primary brachycephaly",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 2,
+      "explanation": "Anthropoid pelvis shape, anterior placental attachment, and primary brachycephaly favour occipito-posterior positioning of the fetal vertex; a low inclination pelvis does not."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following factors are associated with cord prolapse during labour? I. Malpresentations II. Contracted pelvis III. Stabilizing induction IV. Prematurity",
+      "options": ["I, II, III and IV", "I, II and IV only", "I, II and III only", "III and IV only"],
+      "correctAnswer": 0,
+      "explanation": "Malpresentation, contracted pelvis, unstable lie requiring stabilizing induction, and prematurity are all recognized risk factors for umbilical cord prolapse."
+    },
+    {
+      "id": 52,
+      "question": "Detection of magnesium toxicity in a patient receiving magnesium sulphate is noticed by which of the following? I. Loss of tendon reflexes II. Increased respiratory rate III. Chest pain, heart block IV. Cardiac arrest",
+      "options": ["I, III and IV", "II and IV only", "I and III only", "III and IV only"],
+      "correctAnswer": 0,
+      "explanation": "Magnesium toxicity progresses through loss of deep tendon reflexes, then respiratory depression (not increased rate), cardiac conduction abnormalities, and eventually cardiac arrest."
+    },
+    {
+      "id": 53,
+      "question": "Which one of the following is correct regarding postpartum psychosis?",
+      "options": [
+        "There is often no family history of psychosis",
+        "Its onset is usually within 4 days of delivery",
+        "Recurrence rate in subsequent pregnancy is 60-70%",
+        "Electro convulsive therapy is the first treatment of choice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Postpartum psychosis typically has an acute onset within the first 2 weeks (often within days) after delivery."
+    },
+    {
+      "id": 54,
+      "question": "Which of the following are correct in the treatment of cracked nipple? I. Correct attachment (Latch on) will provide immediate relief from pain and rapid healing II. If pain, mother should use breast pump and the infant is fed with the expressed milk III. Miconazole lotion is applied over the nipple as well as in the baby's mouth if there is oral thrush",
+      "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+      "correctAnswer": 3,
+      "explanation": "Correcting the latch, temporarily expressing milk if painful, and treating concurrent oral thrush with topical antifungal in both mother and baby are all correct management strategies for cracked nipple."
+    },
+    {
+      "id": 55,
+      "question": "Which of the following are correct regarding puerperal blues? I. Its incidence is around 50% II. There is no specific metabolic or endocrine derangement III. Treatment is reassurance and psychological support",
+      "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+      "correctAnswer": 3,
+      "explanation": "Puerperal (postpartum) blues affects about 50% of women, has no specific identifiable metabolic/endocrine cause, and is managed with reassurance and support as it is typically self-limiting."
+    },
+    {
+      "id": 56,
+      "question": "The Matthews Duncan process has been described for:",
+      "options": [
+        "marginal separation of placenta in normal labour",
+        "central separation of placenta in normal labour",
+        "controlled contraction in active management of third stage of labour",
+        "reposition of acute inversion of uterus following vaginal delivery"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Matthews Duncan mechanism describes marginal (as opposed to Schultze's central) separation of the placenta during the third stage of labour."
+    },
+    {
+      "id": 57,
+      "question": "A P1L1 lady after 4 hours of delivery is suffering from persistent, severe pain in the perineal region, rectal tenesmus, bearing down feeling and retention of urine. The probable diagnosis is:",
+      "options": ["Cervical tear", "Vulval hematoma", "Supralevator hematoma", "Complete perineal tear"],
+      "correctAnswer": 1,
+      "explanation": "Vulval hematoma classically presents with severe perineal pain, tenesmus, bearing-down sensation, and urinary retention due to local pressure effects."
+    },
+    {
+      "id": 58,
+      "question": "According to WHO Intrapartum Care Guidelines 2018, which one of the following is correct about duration of first stage labour?",
+      "options": [
+        "Duration of latent phase of primigravida has not been established",
+        "Duration of active stage of multigravida should not exceed 6 hours",
+        "Duration of active stage of primigravida should not exceed 8 hours",
+        "Duration of active stage of primigravida should not exceed 18 hours"
+      ],
+      "correctAnswer": 0,
+      "explanation": "WHO 2018 guidelines note that a precise upper time limit for the latent phase in primigravidae has not been clearly established, moving away from rigid time-based thresholds."
+    },
+    {
+      "id": 59,
+      "question": "According to WHO Intrapartum Care Guidelines 2018, which of the following are correct about birthing position? I. For a woman without epidural analgesia, adoption of birthing position is individual woman's choice II. For a woman without epidural analgesia, upright birthing position may be adopted III. For a woman with epidural analgesia, lithotomy and supine position only are recommended",
+      "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+      "correctAnswer": 0,
+      "explanation": "WHO guidelines support individual choice of birthing position and encourage upright positions for women without epidural; for women with epidural, a variety of positions (not only lithotomy/supine) are recommended based on evidence and comfort."
+    },
+    {
+      "id": 60,
+      "question": "Twin pregnancy should have ultrasound at 10-13 weeks to confirm which of the following? I. Number of foetus II. Viability of foetus III. Chorionicity of twins IV. Malformation in either foetus",
+      "options": ["I, II and III only", "I and III only", "II and IV only", "I, II, III and IV"],
+      "correctAnswer": 3,
+      "explanation": "Early first-trimester scan in twin pregnancy assesses fetal number, viability, chorionicity (crucial for risk stratification), and screens for structural malformations."
+    },
+    {
+      "id": 61,
+      "question": "Which of the following are neonatal complications of maternal diabetes during pregnancy? I. Hyperbilirubinemia II. Hypercalcemia III. Cardiomyopathy IV. Hypoglycemia",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 2,
+      "explanation": "Infants of diabetic mothers are at risk of hyperbilirubinemia, hypertrophic cardiomyopathy, and neonatal hypoglycemia; hypocalcemia (not hypercalcemia) is the typical complication."
+    },
+    {
+      "id": 62,
+      "question": "Which of the following are the predictive factors for Fetal Growth Restriction (FGR)? I. Low level of maternal 1st trimester Beta hCG II. Abnormal uterine artery Doppler at 20-24 weeks of pregnancy III. Fetal echogenic bowel on ultrasound IV. Maternal medical disorder",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 3,
+      "explanation": "Abnormal uterine artery Doppler, fetal echogenic bowel, and maternal medical disorders are recognized predictive factors for FGR; low first-trimester beta-hCG is not a standard predictive marker for FGR."
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is the primary surveillance tool in the Growth Restricted Fetus?",
+      "options": ["Uterine artery doppler", "Umbilical venous pulsation", "Middle cerebral artery doppler", "Umbilical artery doppler"],
+      "correctAnswer": 3,
+      "explanation": "Umbilical artery Doppler is the primary surveillance tool used to monitor placental function and fetal wellbeing in growth-restricted fetuses."
+    },
+    {
+      "id": 64,
+      "question": "Glands of Cloquet are:",
+      "options": ["lymphatic drainage of vulva", "lymphatic drainage of cervix", "lymphatic drainage of uterus", "lubricating glands of vagina"],
+      "correctAnswer": 0,
+      "explanation": "The gland of Cloquet (deepest inguinal/femoral lymph node) is part of the lymphatic drainage pathway of the vulva."
+    },
+    {
+      "id": 65,
+      "question": "Causes of AUB are subdivided by the acronym PALM-COEIN. What are the characteristics of PALM causes? I. Structural lesions II. Diagnosed by ultrasound III. Confirmed by histopathology",
+      "options": ["I and II only", "I and III only", "I, II and III", "II and III only"],
+      "correctAnswer": 0,
+      "explanation": "PALM causes (Polyp, Adenomyosis, Leiomyoma, Malignancy/hyperplasia) are structural and typically diagnosed by imaging (ultrasound); histopathological confirmation is not a defining characteristic distinguishing this category."
+    },
+    {
+      "id": 66,
+      "question": "Daily suppressive therapy for HSV-1 and HSV-2 is:",
+      "options": ["Valacyclovir 1 g once daily", "Acyclovir 400 mg once daily", "Acyclovir 400 mg thrice daily", "Valacyclovir 1 g twice daily"],
+      "correctAnswer": 0,
+      "explanation": "Valacyclovir 1 g once daily is a standard regimen for daily suppressive therapy of genital herpes (HSV-1/HSV-2)."
+    },
+    {
+      "id": 67,
+      "question": "Which of the following are the primary organisms involved in PID? I. N. gonorrhoeae II. Chlamydia III. Mycoplasma hominis IV. Candida albicans",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "N. gonorrhoeae, Chlamydia trachomatis, and Mycoplasma hominis are recognized primary causative organisms of pelvic inflammatory disease; Candida is not typically implicated in PID."
+    },
+    {
+      "id": 68,
+      "question": "What are the characteristics of dermoid cyst? I. Germ cell ovarian tumour II. Bilateral in 15-20% cases III. Torsion is common IV. Rupture is common",
+      "options": ["I and III only", "II and IV only", "II, III and IV", "I, II and III"],
+      "correctAnswer": 3,
+      "explanation": "Dermoid cysts (mature cystic teratomas) are germ cell tumours, bilateral in about 15-20% of cases, and prone to torsion due to their mobility; rupture is comparatively uncommon."
+    },
+    {
+      "id": 69,
+      "question": "Which one of the following is not a differential diagnosis of chronic inversion of uterus?",
+      "options": ["Fibroid polyp", "Fungating cervical malignancy", "Cervical prolapse", "Gartner's cyst"],
+      "correctAnswer": 3,
+      "explanation": "Gartner's cyst (a remnant of the mesonephric duct found in the lateral vaginal wall) is not a differential diagnosis of chronic uterine inversion, unlike fibroid polyp, cervical malignancy, or cervical prolapse."
+    },
+    {
+      "id": 70,
+      "question": "A 28-year-old P2L2 presents to Gynaecology OPD with complaints of malodorous vaginal discharge. On examination, the discharge was found to be grayish-white in colour and adherent to vaginal walls. Which one of the following is a bedside diagnostic criterion for the causative organism?",
+      "options": ["Presence of RBCs in vaginal smear", "Vaginal pH < 4.5", "Positive 10% potassium hydroxide test", "Positive NAAT test"],
+      "correctAnswer": 2,
+      "explanation": "This presentation suggests bacterial vaginosis; the whiff test using 10% potassium hydroxide (releasing an amine/fishy odour) is a bedside diagnostic criterion (part of Amsel's criteria)."
+    },
+    {
+      "id": 71,
+      "question": "Which of the following statements about hysterosalpingography, as an operative procedure, are correct? I. Tubal patency assessment following tuboplasty operation II. Diagnosis of uterine synechiae III. Detection of IUD IV. Diagnosis of subserosal fibroid",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "HSG can assess tubal patency post-tuboplasty, diagnose intrauterine synechiae, and detect an IUD; subserosal fibroids (outside the uterine cavity) are not typically visualized by HSG."
+    },
+    {
+      "id": 72,
+      "question": "Which of the following are indications of endometrial sampling? I. Endometrial tuberculosis II. Endometrial polyp III. Postmenopausal bleeding IV. Abnormal uterine bleeding",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 2,
+      "explanation": "Endometrial sampling is indicated for suspected endometrial tuberculosis, postmenopausal bleeding, and abnormal uterine bleeding; endometrial polyp is typically diagnosed by imaging/hysteroscopy rather than blind sampling alone."
+    },
+    {
+      "id": 73,
+      "question": "A 30-year-old P3L3 female presents in Gynaecology emergency with acute abdominal pain and vaginal bleeding of short duration (1 hour). She gives history of tubal ligation after birth of third child. On examination, right adnexal tenderness was found and os was closed. What is the probable diagnosis?",
+      "options": ["Ectopic pregnancy", "Pelvic inflammatory disease", "Appendicitis", "Complete abortion"],
+      "correctAnswer": 0,
+      "explanation": "Despite prior tubal ligation, ectopic pregnancy remains possible (tubal ligation failure); adnexal tenderness with a closed os and acute pain/bleeding is classic for ectopic pregnancy."
+    },
+    {
+      "id": 74,
+      "question": "Which of the following statements are correct regarding audit in Obstetrics and Gynaecology? I. It can replace the out of date clinical practices with better ones II. It is an efficient educational tool III. It should be based on scientific evidences with facts and figures IV. It is not labour-intensive",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "Clinical audit updates outdated practices, serves as an educational tool, and relies on scientific evidence; it is, however, generally labour-intensive, not the opposite."
+    },
+    {
+      "id": 75,
+      "question": "Which of the following are poor prognostic factors in endometrial adenocarcinoma? I. Estrogen and progesterone receptor positivity II. HER-2/neu gene expression III. Histologic types papillary serous or clear cell carcinoma IV. Aneuploid tumours",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 3,
+      "explanation": "HER-2/neu overexpression, papillary serous/clear cell histology, and aneuploidy are poor prognostic factors; hormone receptor (ER/PR) positivity is actually a favorable prognostic factor, not a poor one."
+    },
+    {
+      "id": 76,
+      "question": "For which of the following conditions, surgery is indicated in a case of Fibroid Uterus? I. Symptomatic and failed medical management II. Size > 12 weeks III. Pedunculated fibroid",
+      "options": ["I, II and III", "I and II only", "II and III only", "I and III only"],
+      "correctAnswer": 0,
+      "explanation": "Surgical management is indicated for symptomatic fibroids failing medical treatment, large fibroids (>12 weeks size), and pedunculated fibroids at risk of torsion."
+    },
+    {
+      "id": 77,
+      "question": "Which of the following is measured without any straining while examination under POP-Q system?",
+      "options": ["TVL", "Pb", "GH", "Point D"],
+      "correctAnswer": 0,
+      "explanation": "Total vaginal length (TVL) is measured at rest without straining, unlike other POP-Q points which are measured during maximal Valsalva/straining."
+    },
+    {
+      "id": 78,
+      "question": "Which of the following are criteria for opting Le Fort's operation for surgical correction of pelvic organ prolapse? I. Procidentia in old age II. Unfit for long duration surgery III. Associated uterine pathology IV. Coital function no longer required",
+      "options": ["I, III and IV", "I and II only", "II, III and IV", "I, II and IV"],
+      "correctAnswer": 3,
+      "explanation": "Le Fort's colpocleisis is suitable for elderly women with procidentia who are unfit for prolonged surgery and who no longer require coital function; associated uterine pathology would necessitate a different approach (as the uterus/cervix must be examinable)."
+    },
+    {
+      "id": 79,
+      "question": "Opening of Bartholin's duct is in the:",
+      "options": [
+        "vestibule outside the hymen at the junction of the anterior 2/3rd and posterior 1/3rd in the groove between the hymen and labium minus",
+        "groove between labia majora and labia minora",
+        "superficial perineal pouch at the junction of anterior 1/3rd and post 1/3rd",
+        "periurethral region in anterior 1/3rd of labia minora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Bartholin's duct opens into the vestibule outside the hymen, at the junction of the anterior two-thirds and posterior one-third, in the groove between the hymen and labium minus."
+    },
+    {
+      "id": 80,
+      "question": "Which of the following are Amsel's diagnostic criteria? I. Vaginal pH > 4.5 II. Positive Whiff test III. Presence of clue cells > 20% IV. Positive bacterial vaginal culture",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "Amsel's criteria for bacterial vaginosis include elevated vaginal pH, positive whiff test, and presence of clue cells; bacterial culture is not part of the clinical diagnostic criteria."
+    },
+    {
+      "id": 81,
+      "question": "Which of the following indicators are considered for computing 'Physical Quality of Life Index' (PQLI)? I. Infant mortality II. Life expectancy at age one III. Literacy IV. Per capita income",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate; per capita income is not a component of this index."
+    },
+    {
+      "id": 82,
+      "question": "Which one of the following terms is an 'all-or-none phenomenon' and is best described as termination of all transmission of infection by extermination of the infectious agent?",
+      "options": ["Disease control", "Disease elimination", "Disease eradication", "Disease surveillance"],
+      "correctAnswer": 2,
+      "explanation": "Eradication refers to the permanent, worldwide reduction of infection to zero through deliberate efforts, an all-or-none phenomenon (e.g., smallpox)."
+    },
+    {
+      "id": 83,
+      "question": "'Objectives are set forth for different units and subunits, each of which prepares its own plan of action, usually on a short-term basis.' The definition best sums up which one among the following terms?",
+      "options": ["Input-Output analysis", "Personnel management", "Management by objectives", "Work sampling"],
+      "correctAnswer": 2,
+      "explanation": "This definition describes Management by Objectives (MBO), a management approach involving decentralized, unit-specific goal-setting."
+    },
+    {
+      "id": 84,
+      "question": "The Panchayati Raj is a three-tier structure of rural local self-government in India with the three levels being village, block and district. Consider the following bodies: I. Gram Sabha II. Gram Panchayat III. Nyaya Panchayat IV. Panchayat Samiti. Which of the above bodies are present at the village level?",
+      "options": ["I and II only", "III and IV only", "I, II and III", "II, III and IV"],
+      "correctAnswer": 2,
+      "explanation": "Gram Sabha, Gram Panchayat, and Nyaya Panchayat operate at the village level; Panchayat Samiti functions at the block level."
+    },
+    {
+      "id": 85,
+      "question": "Many patients with unexplained rash and fever were reported from a village close to the Primary Health Centre (PHC). What is the first step in initiating the investigation of such an epidemic?",
+      "options": ["Rapid search for all cases", "Verification of diagnosis", "Confirm existence of epidemic", "Defining the population at risk"],
+      "correctAnswer": 1,
+      "explanation": "The first step in epidemic investigation is verifying the diagnosis to confirm that reported cases indeed reflect the suspected condition, before proceeding to confirm the epidemic and search for cases."
+    },
+    {
+      "id": 86,
+      "question": "John Snow's discovery that cholera is a waterborne disease was the outcome of which type of study?",
+      "options": ["Uncontrolled trial", "Natural experiment", "Risk factor trial", "Trial of aetiological agent"],
+      "correctAnswer": 1,
+      "explanation": "John Snow's classic cholera investigation (Broad Street pump) is considered a natural experiment, as exposure (water source) varied naturally among the population without researcher intervention."
+    },
+    {
+      "id": 87,
+      "question": "Given a table showing diagnosis of Myocardial infarction by ECG: Positive-Present 45, Positive-Absent 8,000; Negative-Present 5, Negative-Absent 32,000. Consider: I. Sensitivity is 90% II. Specificity is 80%. Which of the statements given above is/are correct?",
+      "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "Sensitivity = 45/50 = 90%, and Specificity = 32,000/40,000 = 80%; both calculated values match the given statements."
+    },
+    {
+      "id": 88,
+      "question": "Data obtained from hospital records is not a representative sample of the population. What are the reasons for this? I. Mild cases and subclinical cases may be missed II. Population served by a hospital usually cannot be defined III. Cost of hospital care is not recorded IV. Admission policy for cases can vary from hospital to hospital",
+      "options": ["I and II only", "II and III only", "I, II and IV", "II, III and IV"],
+      "correctAnswer": 2,
+      "explanation": "Missed mild/subclinical cases, undefined catchment populations, and varying admission policies all contribute to hospital data being unrepresentative; cost of care recording is not directly relevant to representativeness."
+    },
+    {
+      "id": 89,
+      "question": "Of the following ocular manifestations of Vitamin A deficiency, the first sign that can be clinically seen is:",
+      "options": ["Bitot's spots", "Nyctalopia", "Conjunctival Xerosis", "Corneal Xerosis"],
+      "correctAnswer": 2,
+      "explanation": "As per the official answer key, conjunctival xerosis is designated as the first clinically visible sign in this sequence, though night blindness (nyctalopia) is often cited as the earliest functional symptom in some classifications."
+    },
+    {
+      "id": 90,
+      "question": "The bony deformity of 'pigeon chest' in children occurs due to deficiency of:",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin E", "Vitamin K"],
+      "correctAnswer": 1,
+      "explanation": "Pigeon chest (pectus carinatum) is a skeletal deformity associated with rickets, caused by Vitamin D deficiency."
+    },
+    {
+      "id": 91,
+      "question": "Which one among the following essential amino acids is usually the 'limiting' amino acid in most of the pulses?",
+      "options": ["Lysine", "Methionine", "Threonine", "Valine"],
+      "correctAnswer": 1,
+      "explanation": "Methionine is typically the limiting amino acid in most pulses (legumes), while lysine is limiting in cereals."
+    },
+    {
+      "id": 92,
+      "question": "Which among the following are defence mechanisms adopted when an individual is faced with problems or failures? I. Rationalization II. Regression III. Projection IV. Replacement",
+      "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+      "correctAnswer": 0,
+      "explanation": "Rationalization, regression, and projection are classic psychological defence mechanisms; 'replacement' is not a standard recognized defence mechanism (displacement and substitution are the correct related terms)."
+    },
+    {
+      "id": 93,
+      "question": "What are the reasons for choosing coliform organisms as indicators of faecal pollution of water rather than the waterborne pathogens directly? I. They are present in great abundance in the human intestine and excreted in great numbers in faeces II. They have lower resistance to forces of natural purification III. They survive lesser than the pathogens IV. They are easily detected by culture methods",
+      "options": ["I and IV", "II and III", "I only", "IV only"],
+      "correctAnswer": 0,
+      "explanation": "Coliforms are chosen as fecal indicators because they are abundant in feces and easily detected by simple culture methods; they actually survive longer (not lesser) than many pathogens and have higher (not lower) resistance to purification, making them reliable sentinel organisms."
+    },
+    {
+      "id": 94,
+      "question": "The Ministry of Health and Family Welfare has launched a programme to meet the challenge of high prevalence of anaemia amongst adolescent boys and girls. Consider the following statements in relation to the key interventions being undertaken: I. It entails supervised weekly administration of 100 mg elemental iron and 500 µg folic acid II. These weekly iron-folic acid supplements are administered by using a fixed day approach III. It entails supervised administration of Albendazole 400 mg every three months for control of helminth infestation. Which of the statements given above is/are correct?",
+      "options": ["I only", "II only", "I and III", "I and II"],
+      "correctAnswer": 3,
+      "explanation": "The weekly iron-folic acid supplementation (100 mg elemental iron, 500 µg folic acid) using a fixed-day approach are correct components of this programme; albendazole is administered every six months, not three, making statement III incorrect."
+    },
+    {
+      "id": 95,
+      "question": "The National Framework for Malaria Elimination in India (2016-2030) has defined certain milestones and targets. Among the following, which is the specific target that has to be met by the year 2027?",
+      "options": [
+        "All states and UTs must reduce API to less than 1 case per 1000 population at risk",
+        "All states and UTs must establish fully functional malaria surveillance to track, investigate and respond to each case",
+        "Entire country is to have no indigenous cases and no deaths due to malaria",
+        "Entire country has to initiate the process for certification of malaria elimination"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As per the National Framework, establishing fully functional case-based malaria surveillance across all states/UTs is a milestone targeted for 2027."
+    },
+    {
+      "id": 96,
+      "question": "Under the Pradhan Mantri Surakshit Matritva Abhiyan, the beneficiaries are being provided with a minimum package of antenatal care including certain investigations and drugs on a fixed day of every month. Which day of the month is specified for this purpose?",
+      "options": ["1st day of the month", "7th day of the month", "9th day of the month", "15th day of the month"],
+      "correctAnswer": 2,
+      "explanation": "PMSMA designates the 9th day of every month for providing free, comprehensive antenatal care to pregnant women."
+    },
+    {
+      "id": 97,
+      "question": "'Small for Date' (SFD) babies, also known as 'small for gestational age' babies, weigh less than what percentile for the gestational age?",
+      "options": ["2nd percentile", "5th percentile", "10th percentile", "20th percentile"],
+      "correctAnswer": 2,
+      "explanation": "Small for gestational age is defined as birth weight below the 10th percentile for gestational age."
+    },
+    {
+      "id": 98,
+      "question": "In the most widespread calculation of Stillbirth Rate, the numerator is defined as foetal deaths weighing over 'X' gram at birth, during the year. Which one of the following is the correct value for 'X'?",
+      "options": ["500", "750", "1000", "1500"],
+      "correctAnswer": 2,
+      "explanation": "The standard stillbirth rate calculation typically uses fetal deaths weighing 1000 grams or more (or ≥28 weeks gestation) as the numerator threshold."
+    },
+    {
+      "id": 99,
+      "question": "While performing triage in response to a disaster emergency, commonly an internationally accepted four-colour code system is used. Which one among the following four-colour categories represents the highest priority for emergency response?",
+      "options": ["Black", "Green", "Red", "Yellow"],
+      "correctAnswer": 2,
+      "explanation": "In standard triage colour-coding, Red represents the highest priority, indicating immediate life-threatening conditions requiring urgent intervention."
+    },
+    {
+      "id": 100,
+      "question": "Consider the following statements with regard to Ice-Lined Refrigerator (ILR) employed for storing vaccines at the sub-district level: I. These types of refrigerators are top-opening II. Based on the temperature zone, the inside of ILRs can be divided into 3 parts III. The upper part of ILR is cooler compared to the lower part IV. Vaccines should never be kept directly on the floor of the ILR as they can get damaged. Which of the statements given above are correct?",
+      "options": ["I and II", "II and III", "III and IV", "I and IV"],
+      "correctAnswer": 3,
+      "explanation": "ILRs are top-opening units, and vaccines should not be placed directly on the floor of the unit due to risk of damage from cold air concentration or ice packs; the upper part is actually warmer, not cooler, than the lower part."
+    },
+    {
+      "id": 101,
+      "question": "Which one of the following is the major contributor to the total energy intake, in terms of energy provided, in an average Indian diet?",
+      "options": ["Fats", "Carbohydrates", "Proteins", "Vitamins"],
+      "correctAnswer": 1,
+      "explanation": "Carbohydrates form the major energy contributor in a typical Indian diet, which is predominantly cereal-based."
+    },
+    {
+      "id": 102,
+      "question": "Consider the following with regard to Amino Acids: I. Essential Amino Acids are those that the body cannot synthesize and they must be obtained from dietary proteins II. Not just the Essential Amino Acids, Non-essential Amino Acids are also needed by the body for synthesis of tissue proteins III. Unless a protein contains all the Essential Amino Acids in amounts corresponding to human needs, a protein is said to be biologically incomplete IV. Animal proteins are rated superior to vegetable proteins. Of the above statements, how many are correct?",
+      "options": ["Only one", "Only two", "Only three", "All four"],
+      "correctAnswer": 3,
+      "explanation": "All four statements are accurate: essential amino acids must come from diet, non-essential amino acids are still needed for protein synthesis, incomplete proteins lack adequate essential amino acids, and animal proteins are generally rated as higher biological value than most plant proteins."
+    },
+      {
+        "id": 103,
+        "question": "Which of the following strategies were encouraged by the UNICEF under its 'GOBI Campaign'? I. G for growth charts to better monitor child development. II. O for oral rehydration to treat all mild and moderate dehydration. III. B for better and continuous evaluation of children up to 5 years of age. IV. I for immunization against measles, diphtheria, polio, pertussis, tetanus and tuberculosis. Select the correct answer using the code given below:",
+        "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+        "correctAnswer": 1,
+        "explanation": "GOBI stands for Growth monitoring, Oral rehydration, Breastfeeding, and Immunization. Statement III incorrectly describes 'B' as evaluation rather than breastfeeding, making it wrong; I, II, and IV correctly describe the other components."
+      },
+      {
+        "id": 104,
+        "question": "What is the limit of daily exposure of noise that people can tolerate without substantial damage to their hearing?",
+        "options": ["65 dB", "85 dB", "105 dB", "125 dB"],
+        "correctAnswer": 1,
+        "explanation": "85 dB is the recommended exposure limit (REL) for daily noise exposure over 8 hours beyond which substantial hearing damage risk increases."
+      },
+      {
+        "id": 105,
+        "question": "How much illumination is recommended by the Illuminating Engineering Society for the general office work?",
+        "options": ["100 lux", "200 lux", "400 lux", "900 lux"],
+        "correctAnswer": 2,
+        "explanation": "400 lux is the recommended illumination level for general office work as per Illuminating Engineering Society standards."
+      },
+      {
+        "id": 106,
+        "question": "Dietary fibres have:",
+        "options": ["anabolic effect", "catabolic effect", "no metabolic effect", "sometimes anabolic and sometimes catabolic effect, depending on the type"],
+        "correctAnswer": 2,
+        "explanation": "Dietary fibres are not digested or absorbed by the body and therefore have no direct metabolic (anabolic or catabolic) effect, though they influence gut function and nutrient absorption indirectly."
+      },
+      {
+        "id": 107,
+        "question": "Egg proteins are considered to be the best among food proteins because: I. of their biological value. II. of their digestibility. III. they contain all the essential amino acids. IV. their calorie content is higher than in proteins of vegetable sources. Which of the statements given above is/are correct?",
+        "options": ["I only", "I, II and III", "II, III and IV", "I, III and IV"],
+        "correctAnswer": 1,
+        "explanation": "Egg protein is considered the reference/ideal protein due to high biological value, excellent digestibility, and a complete essential amino acid profile. Calorie content (IV) is unrelated to protein quality."
+      },
+      {
+        "id": 108,
+        "question": "On a chest radiograph, which of the following occupational diseases is most likely to be mistaken as a case of tuberculosis of lungs?",
+        "options": ["Anthracosis", "Silicosis", "Siderosis", "Byssinosis"],
+        "correctAnswer": 1,
+        "explanation": "Silicosis produces upper-lobe nodular opacities on chest X-ray that closely resemble pulmonary tuberculosis, and silicosis also predisposes patients to true TB co-infection (silicotuberculosis), making radiographic differentiation difficult."
+      },
+      {
+        "id": 109,
+        "question": "With which variety of asbestos, Mesothelioma has been shown to have a strong association?",
+        "options": ["Amosite", "Anthrophyllite", "Crocidolite", "Chrysolite"],
+        "correctAnswer": 2,
+        "explanation": "Crocidolite (blue asbestos) has the strongest documented association with malignant mesothelioma among all asbestos fiber types."
+      },
+      {
+        "id": 110,
+        "question": "Under the Biomedical Waste Management Rules 2016, human anatomical waste is to be carried in which colour plastic bags?",
+        "options": ["Yellow", "Red", "Blue", "Black"],
+        "correctAnswer": 0,
+        "explanation": "Under the Biomedical Waste Management Rules 2016, human anatomical waste falls under Category corresponding to Yellow bags, meant for incineration/deep burial."
+      },
+      {
+        "id": 111,
+        "question": "As an index of thermal comfort, the 'Corrected Effective Temperature' is considered to be an improvement over 'Effective Temperature'. It deals with which of the following factors? I. Air velocity. II. Humidity. III. Mean radiant heat. IV. Sweat rate. Select the correct answer using the code given below:",
+        "options": ["I, III and IV", "II, III and IV", "I, II and III", "I and II only"],
+        "correctAnswer": 2,
+        "explanation": "Corrected Effective Temperature improves on Effective Temperature by additionally accounting for mean radiant heat (measured via a globe thermometer), along with the air velocity and humidity already included in ET."
+      },
+      {
+        "id": 112,
+        "question": "In a child who has not received any dose of DPT and OPV immunization, up to what age can these vaccines be given under the Universal Immunization Programme?",
+        "options": [
+          "DPT up to 7 years of age and OPV up to 5 years of age",
+          "DPT up to 8 years of age and OPV up to 6 years of age",
+          "DPT up to 10 years of age and OPV up to 7 years of age",
+          "DPT up to 12 years of age and OPV up to 10 years of age"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Under UIP guidelines, DPT vaccine is not recommended beyond 7 years of age (Td is used instead thereafter), and OPV catch-up is recommended up to 5 years of age."
+      },
+      {
+        "id": 113,
+        "question": "A traveller who has passed through a yellow fever endemic zone and does not possess a Certificate of Vaccination against yellow fever, enters a yellow fever 'receptive' area. For how long from the date of leaving the infected area must this traveller be placed on quarantine in a mosquito-proof ward?",
+        "options": ["6 days", "7 days", "8 days", "10 days"],
+        "correctAnswer": 0,
+        "explanation": "As per International Health Regulations, an unvaccinated traveller from a yellow fever endemic zone entering a receptive area must be quarantined for 6 days from the date of departure from the infected area, covering the remainder of the maximum incubation period."
+      },
+      {
+        "id": 114,
+        "question": "Under the Employees' State Insurance Act 1948, if the sickness of an insured person is duly certified by an Insurance Medical Officer, periodical cash payment benefit is payable for a maximum period of how many days in any continuous period of 365 days, as Sickness Benefit?",
+        "options": ["30 days", "61 days", "91 days", "121 days"],
+        "correctAnswer": 2,
+        "explanation": "Under the ESI Act 1948, Sickness Benefit as periodical cash payment is payable for a maximum of 91 days in any continuous period of 365 days."
+      },
+      {
+        "id": 115,
+        "question": "Consider the following statements regarding Wernicke's encephalopathy: I. It is caused by niacin deficiency. II. It is often seen in alcoholics. III. Ophthalmoplegia, polyneuritis and ataxia are some of its characteristic features. IV. It occurs occasionally in people who fast. Which of the statements given above are correct?",
+        "options": ["I, II and III", "II, III and IV", "I, III and IV", "I, II and IV"],
+        "correctAnswer": 1,
+        "explanation": "Wernicke's encephalopathy is caused by thiamine (vitamin B1) deficiency, not niacin, making statement I false. It is classically seen in alcoholics, presents with ophthalmoplegia, ataxia and confusion/polyneuritis, and can also occur with prolonged fasting or malnutrition — making II, III, and IV correct."
+      },
+      {
+        "id": 116,
+        "question": "A housefly transmits any infectious agent by which of the following methods, most commonly?",
+        "options": ["Propagative transmission", "Mechanical transmission", "Cyclo-propagative transmission", "Cyclo-developmental transmission"],
+        "correctAnswer": 1,
+        "explanation": "Houseflies most commonly transmit pathogens mechanically — via contaminated body parts (legs, mouthparts) — rather than through biological multiplication or development of the organism within the vector."
+      },
+      {
+        "id": 117,
+        "question": "In the case of a 7-year-old school-going child, which would be the most appropriate indicator to measure the current nutritional status?",
+        "options": ["Birth weight", "Mid upper arm circumference", "Head circumference", "Weight for height"],
+        "correctAnswer": 3,
+        "explanation": "Weight-for-height reflects current nutritional status (wasting) independent of age, whereas birth weight is historical, MUAC is primarily used for under-5 children, and head circumference is not a nutritional status indicator at this age."
+      },
+      {
+        "id": 118,
+        "question": "Consider the following statements with regard to Home Based Newborn Care (HBNC): I. Early detection and special care of pre-term newborns is one of the major objectives of HBNC. II. ANM is the main person involved in the delivery of HBNC. III. Supporting the family for adoption of healthy practices helps achieve the key objectives of HBNC. IV. The primary aim of HBNC is to improve newborn survival. Which of the statements given above are correct?",
+        "options": ["I and II only", "II and III only", "I, III and IV only", "I, II, III and IV"],
+        "correctAnswer": 2,
+        "explanation": "HBNC is delivered mainly by ASHA workers (not ANMs) through home visits, making statement II incorrect. Early care of preterm/low-birth-weight babies, family support for healthy practices, and improving newborn survival are all correct core objectives of HBNC."
+      },
+      {
+        "id": 119,
+        "question": "Which of the following conditions are transmitted as a recessive, sex-linked trait? I. Retinitis pigmentosa. II. Colour blindness. III. Cystic fibrosis. IV. Duchenne muscular dystrophy. Select the correct answer using the code given below:",
+        "options": ["I, II and III", "I, II and IV", "II, III and IV", "I, III and IV"],
+        "correctAnswer": 1,
+        "explanation": "Colour blindness and Duchenne muscular dystrophy are classic X-linked recessive conditions, and retinitis pigmentosa also has a well-recognized X-linked recessive form. Cystic fibrosis, in contrast, is an autosomal recessive disorder, not sex-linked."
+      },
+      {
+        "id": 120,
+        "question": "Under which name (brand) does the National AIDS Control Organisation provide the STI/RTI services?",
+        "options": ["Antara Clinic", "Chhaya Clinic", "Sathi Clinic", "Suraksha Clinic"],
+        "correctAnswer": 3,
+        "explanation": "NACO provides STI/RTI (Sexually Transmitted Infections/Reproductive Tract Infections) services under the brand name 'Suraksha Clinic' as part of its designated STI clinic network."
+      }
 ]

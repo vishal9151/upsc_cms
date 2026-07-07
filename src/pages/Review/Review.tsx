@@ -3,6 +3,7 @@ import { useLocation } from 'react-router-dom'
 import { Home } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { BackToExamList } from '@/components/layout/BackToExamList'
+import { BackToResults } from '@/components/layout/BackToResults'
 import { ReviewMobilePalette } from '@/components/review/ReviewMobilePalette'
 import { Badge } from '@/components/ui/Badge'
 import { Button } from '@/components/ui/Button'
@@ -117,8 +118,12 @@ export function Review() {
     <div className="space-y-6 pb-20 lg:pb-6">
       <div className="flex items-center justify-between gap-3">
         <BackToExamList variant="header" />
+        <BackToResults year={year} paper={paper} variant="header" />
       </div>
-      <BackToExamList variant="below" />
+      <div className="flex items-center justify-between gap-3 sm:hidden">
+        <BackToExamList variant="below" />
+        <BackToResults year={year} paper={paper} variant="below" />
+      </div>
 
       <div className="flex flex-wrap items-center justify-between gap-4">
         <div>

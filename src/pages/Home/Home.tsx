@@ -19,8 +19,7 @@ import {
 
 /** Papers shown on the homepage — uncomment entries to enable more. */
 const HOME_VISIBLE_PAPERS: { year: string; papers: ('paper1' | 'paper2')[] }[] = [
-  { year: '2025', papers: ['paper1'] },
-  // { year: '2025', papers: ['paper2'] },
+  { year: '2025', papers: ['paper1','paper2'] },
   // { year: '2024', papers: ['paper1', 'paper2'] },
   // { year: '2023', papers: ['paper1', 'paper2'] },
   // { year: '2022', papers: ['paper1', 'paper2'] },
