@@ -11,7 +11,7 @@ import {
   getPaperLabel,
   getPaperQuestionCount,
 } from '@/utils/paperData'
-import { hasSavedExam, loadExam } from '@/utils/examStorage'
+import { isUnfinishedExam, loadExam } from '@/utils/examStorage'
 import { formatInstructionText } from '@/utils/textFormatter'
 
 const navigationInstructions = [
@@ -38,7 +38,7 @@ export function Instructions() {
     year && paper ? getPaperQuestionCount(year, paper) : 0
   const savedExam =
     year && paper ? loadExam(year, paper) : null
-  const hasUnfinished = year && paper ? hasSavedExam(year, paper) : false
+  const hasUnfinished = savedExam ? isUnfinishedExam(savedExam) : false
 
   const handleContinue = () => {
     setShowResume(false)
@@ -49,7 +49,7 @@ export function Instructions() {
     if (hasUnfinished) {
       setShowResume(true)
     } else {
-      navigate(`/exam/${year}/${paper}`)
+      navigate(`/exam/${year}/${paper}?new=true`)
     }
   }
 
@@ -181,7 +181,7 @@ export function Instructions() {
         )}
       </div>
 
-      {savedExam && (
+      {savedExam && hasUnfinished && (
         <ResumeModal
           open={showResume}
           savedExam={savedExam}
