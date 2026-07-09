@@ -1,38 +1,842 @@
 [
   {
     "id": 1,
-    "question": "Which article of the Constitution abolishes untouchability?",
-    "options": [
-      "Article 14",
-      "Article 17",
-      "Article 21",
-      "Article 32"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Article 17 of the Constitution abolishes untouchability and forbids its practice."
+    "question": "Which of the following statements are correct for the treatment of chronic hepatitis B with pegylated interferon (PEG-IFN)? I. PEG-IFN is poorly tolerated drug as compared to nucleoside analogues II. Resistance to treatment with PEG-IFN is common than nucleoside analogues III. PEG-IFN is not useful in patients of cirrhosis IV. PEG-IFN is administered every week for 48 weeks",
+    "options": ["1, 3 and 4", "1, 2 and 3", "2 and 4", "1 and 3 only"],
+    "correctAnswer": 0,
+    "explanation": "PEG-IFN is poorly tolerated compared to nucleoside analogues, is avoided in decompensated cirrhosis, and is given as a weekly injection for 48 weeks; resistance to PEG-IFN is actually much less common than to nucleoside analogues, making statement II incorrect."
   },
   {
     "id": 2,
-    "question": "The Directive Principles of State Policy are contained in which part of the Constitution?",
-    "options": [
-      "Part III",
-      "Part IV",
-      "Part V",
-      "Part VI"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Directive Principles of State Policy are contained in Part IV (Articles 36-51)."
+    "question": "Which of the following are recommended for management of tumour lysis syndrome? I. Urinary alkalinization II. Intravenous fluids III. Rasburicase IV. Febuxostat",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correctAnswer": 3,
+    "explanation": "IV fluids, rasburicase, and febuxostat (xanthine oxidase inhibitor) are recommended for tumour lysis syndrome management; urinary alkalinization is no longer recommended as it can promote calcium phosphate crystal precipitation."
   },
   {
     "id": 3,
-    "question": "Who is the guardian of the Constitution of India?",
-    "options": [
-      "President",
-      "Parliament",
-      "Supreme Court",
-      "Prime Minister"
-    ],
+    "question": "Focal seizures may be associated with which of the following? I. Jacksonian march II. Todd's paralysis III. Epilepsia partialis continua",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correctAnswer": 3,
+    "explanation": "Jacksonian march (spread of motor activity), Todd's paralysis (post-ictal weakness), and epilepsia partialis continua (continuous focal motor seizures) are all recognized associations of focal seizures."
+  },
+  {
+    "id": 4,
+    "question": "Typical absence seizures are characterized by",
+    "options": ["abrupt 3 Hz spike-and-slow wave discharges on EEG", "postictal confusion in children", "multifocal structural abnormalities of brain", "less responsiveness to anticonvulsants as compared to atypical absence seizures"],
+    "correctAnswer": 0,
+    "explanation": "Typical absence seizures are characterized by abrupt onset generalized 3 Hz spike-and-slow wave discharges on EEG, with no postictal confusion or structural brain abnormality, unlike atypical absence seizures."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following are contra-indications to thrombolysis in acute ischemic stroke? I. Recent head injury II. Recent MI III. Hypertension > 150/100 mm Hg IV. GI bleeding in last 3 weeks",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
     "correctAnswer": 2,
-    "explanation": "The Supreme Court is the guardian and final interpreter of the Constitution."
-  }
+    "explanation": "Recent head injury, recent MI, and recent GI bleeding are recognized contraindications to thrombolysis; the standard blood pressure cutoff for contraindication is greater than 185/110 mm Hg, so 150/100 mm Hg does not qualify."
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following distinguishes axonal degeneration from segmental demyelination on electrophysiological studies?",
+    "options": ["Distal latency is normal in axonal degeneration and prolonged in segmental demyelination.", "Conduction velocity is slow in axonal degeneration and normal in segmental demyelination.", "Conduction block is present in axonal degeneration and absent in segmental demyelination.", "Temporal dispersion is prominent in axonal degeneration and absent in segmental demyelination."],
+    "correctAnswer": 0,
+    "explanation": "In axonal degeneration, distal latency and conduction velocity remain relatively normal since myelin is preserved, whereas segmental demyelination causes prolonged distal latency, slowed conduction velocity, conduction block, and temporal dispersion."
+  },
+  {
+    "id": 7,
+    "question": "Which one of the following drugs helps to maintain abstinence by reducing craving for alcohol?",
+    "options": ["Apomorphine", "Acamprosate", "Atropine", "Azathioprine"],
+    "correctAnswer": 1,
+    "explanation": "Acamprosate acts on glutamate/GABA neurotransmission to reduce craving and helps maintain abstinence in alcohol use disorder."
+  },
+  {
+    "id": 8,
+    "question": "The BCR-ABL 1 oncoprotein exhibits constitutive activity of which one of the following enzymes?",
+    "options": ["Alanine kinase", "Tyrosine kinase", "Leucine kinase", "Cysteine kinase"],
+    "correctAnswer": 1,
+    "explanation": "The BCR-ABL1 fusion protein has constitutive tyrosine kinase activity, driving the pathogenesis of chronic myeloid leukemia."
+  },
+  {
+    "id": 9,
+    "question": "Imatinib, Dasatinib, Nilotinib and Ponatinib are examples of which class of drugs?",
+    "options": ["Interferons", "Monovalent antibodies", "Bivalent antibodies", "Tyrosine kinase inhibitors"],
+    "correctAnswer": 3,
+    "explanation": "Imatinib, Dasatinib, Nilotinib, and Ponatinib are all tyrosine kinase inhibitors used to target the BCR-ABL1 oncoprotein in CML."
+  },
+  {
+    "id": 10,
+    "question": "Helicobacter pylori infection is associated with the development of which one of the following lymphoid malignancies?",
+    "options": ["Burkitt's lymphoma", "Hodgkin's lymphoma", "Mucosa-associated lymphoid tissue lymphoma", "Adult T-cell leukemia/lymphoma"],
+    "correctAnswer": 2,
+    "explanation": "Chronic H. pylori infection is strongly associated with the development of gastric MALT (mucosa-associated lymphoid tissue) lymphoma."
+  },
+  {
+    "id": 11,
+    "question": "Which one of the following insulin preparations has the longest effective duration of action?",
+    "options": ["Detemir", "Glargine", "NPH", "Degludec"],
+    "correctAnswer": 3,
+    "explanation": "Insulin degludec has an ultra-long duration of action, exceeding 42 hours, making it the longest-acting among the listed insulin preparations."
+  },
+  {
+    "id": 12,
+    "question": "Functioning pituitary adenoma most commonly arises from which one of the following cells?",
+    "options": ["Somatotroph", "Lactotroph", "Corticotroph", "Thyrotroph"],
+    "correctAnswer": 1,
+    "explanation": "Lactotroph adenomas (prolactinomas) are the most common type of functioning pituitary adenoma."
+  },
+  {
+    "id": 13,
+    "question": "Low serum thyroglobulin levels are seen in",
+    "options": ["thyrotoxicosis factitia", "subacute thyroiditis", "Graves' disease", "toxic multinodular goitre"],
+    "correctAnswer": 0,
+    "explanation": "In thyrotoxicosis factitia, thyrotoxicosis results from exogenous thyroid hormone ingestion, causing suppression of endogenous thyroglobulin production and hence low serum thyroglobulin levels, unlike other causes of thyrotoxicosis with intrinsic gland activity."
+  },
+  {
+    "id": 14,
+    "question": "A 45-year-old male presented with polyuria, polydipsia and polyphagia for the last 3 months. His fasting plasma glucose is 106 mg/dL and random blood glucose is 220 mg/dL. Which one of the following statements is correct regarding his diagnosis?",
+    "options": ["He has impaired glucose tolerance (IGT).", "He has definitive diagnosis of diabetes mellitus.", "He does not have diabetes mellitus.", "Diagnosis of diabetes mellitus is indeterminate as HbA1c value is not provided."],
+    "correctAnswer": 3,
+    "explanation": "As per the official key, with fasting glucose in the impaired range and a single random glucose reading, confirmatory information such as HbA1c is considered necessary before a definitive diagnosis, making the diagnosis indeterminate without it."
+  },
+  {
+    "id": 15,
+    "question": "Which one of the following statements is true regarding the use of SGLT2 inhibitor in management of diabetes mellitus?",
+    "options": ["They are used in type-1, type-2 and pancreatogenic forms of diabetes mellitus.", "They cause increase in blood pressure by 3-6 mm Hg and hence avoided in hypertensive patients.", "Their glucose-lowering effect is dependent on insulin secretion and insulin sensitivity.", "Euglycemic diabetic ketoacidosis may occur during treatment if there is a concurrent illness."],
+    "correctAnswer": 3,
+    "explanation": "SGLT2 inhibitors act independent of insulin, may lower (not raise) blood pressure, and are associated with a risk of euglycemic diabetic ketoacidosis, particularly during acute illness, surgery, or reduced caloric intake."
+  },
+  {
+    "id": 16,
+    "question": "A 50-year lady, who is a known case of rheumatoid arthritis, presents with obesity, moon facies, abdominal striae and hypertension. Overnight dexamethasone suppression test shows serum cortisol is greater than 50 nmol/L, serum ACTH is less than 1.1 pmol/L. The adrenal imaging and brain CT/MRI imaging studies are unremarkable. The likely diagnosis is",
+    "options": ["Cushing's disease", "ectopic ACTH-secreting tumour", "exogenous glucocorticoid use", "adrenal adenoma"],
+    "correctAnswer": 2,
+    "explanation": "A suppressed ACTH level with failure to suppress cortisol on dexamethasone testing, unremarkable adrenal and pituitary imaging, and a background of rheumatoid arthritis (commonly treated with steroids) points to exogenous glucocorticoid use as the cause of Cushingoid features."
+  },
+  {
+    "id": 17,
+    "question": "A 27-year lady underwent thyroidectomy for thyroid carcinoma. Post-operatively she started developing muscle cramps, perioral and peripheral paresthesia, and carpopedal spasm. Which one of the following interventions will be appropriate for this patient?",
+    "options": ["Nerve conduction velocity in both upper and lower limbs and to administer methylcobalamin", "EMG of both lower limbs and to administer oral prednisolone", "Measure of serum ionized calcium and to administer IV calcium gluconate", "Measure of serum bicarbonate and to administer IV bicarbonate"],
+    "correctAnswer": 2,
+    "explanation": "Muscle cramps, perioral/peripheral paresthesia, and carpopedal spasm after thyroidectomy are classic features of hypocalcemia due to inadvertent parathyroid injury, requiring measurement of ionized calcium and treatment with IV calcium gluconate."
+  },
+  {
+    "id": 18,
+    "question": "Which one of the following is an example of hypogonadotropic hypogonadism?",
+    "options": ["Kallmann's syndrome", "Klinefelter's syndrome", "Turner's syndrome", "Cryptorchidism"],
+    "correctAnswer": 0,
+    "explanation": "Kallmann's syndrome is characterized by GnRH deficiency leading to hypogonadotropic hypogonadism, often associated with anosmia; Klinefelter's and Turner's syndromes are causes of hypergonadotropic hypogonadism."
+  },
+  {
+    "id": 19,
+    "question": "A tall thin adolescent boy is found to have gynaecomastia and small testes. His blood testosterone level is undetectable, and serum FSH and LH levels are elevated. Which one of the following is the likely karyotype pattern?",
+    "options": ["46 XY", "45 XO", "47 XXY", "21 Trisomy"],
+    "correctAnswer": 2,
+    "explanation": "Tall stature, gynaecomastia, small testes, low testosterone with elevated gonadotropins in an adolescent male is classic for Klinefelter syndrome, karyotype 47,XXY."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following antidiabetic drugs may cause weight gain? I. Glimepiride II. Pioglitazone III. NPH insulin IV. Sitagliptin",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correctAnswer": 0,
+    "explanation": "Sulfonylureas (glimepiride), thiazolidinediones (pioglitazone), and insulin (NPH) are all associated with weight gain; DPP-4 inhibitors like sitagliptin are generally weight-neutral."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following drugs is/are useful in the treatment of Listeria monocytogenes infection? I. Ceftriaxone II. Gentamicin III. Ampicillin IV. Sulfamethoxazole",
+    "options": ["1 only", "2, 3 and 4 only", "1 and 2 only", "1, 2, 3 and 4"],
+    "correctAnswer": 1,
+    "explanation": "Ampicillin (often combined with gentamicin for synergy) and trimethoprim-sulfamethoxazole (as an alternative) are effective against Listeria monocytogenes; Listeria is intrinsically resistant to cephalosporins like ceftriaxone."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following abnormalities occur from vitamin D deficiency in children? I. Craniotabes II. Bossing of frontal and parietal bones III. Muscle hypotonia IV. Shrinking of epiphysis at the lower end of radius",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correctAnswer": 0,
+    "explanation": "Craniotabes, frontal/parietal bossing, and muscle hypotonia are classic features of rickets due to vitamin D deficiency; the epiphysis at the wrist actually widens (not shrinks) in rickets."
+  },
+  {
+    "id": 23,
+    "question": "Which one of the following is a cause of relative erythrocytosis?",
+    "options": ["High altitude", "Cardiorespiratory disease", "High-affinity haemoglobins", "Diuretics"],
+    "correctAnswer": 3,
+    "explanation": "Relative erythrocytosis results from a reduction in plasma volume without a true increase in red cell mass, as seen with diuretic use, dehydration, or burns; the other options cause absolute (true) erythrocytosis."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following statements are correct regarding UTI? I. Urine is an excellent culture medium for bacteria II. Atrophic urethritis in postmenopausal women is a risk factor III. Antibiotics are recommended in all cases of asymptomatic bacteriuria IV. Certain strains of E. coli have a particular propensity to invade urinary tract",
+    "options": ["1 and 4 only", "1, 2 and 3", "2, 3 and 4", "1, 2 and 4"],
+    "correctAnswer": 3,
+    "explanation": "Urine is a good culture medium, atrophic urethritis in postmenopausal women predisposes to UTI, and certain uropathogenic E. coli strains have specific virulence factors for urinary tract invasion; asymptomatic bacteriuria does not routinely require antibiotic treatment (except in pregnancy or before urologic procedures)."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following statements are correct regarding scorpion stings? I. Scorpion injects venom from a stinger on their tail II. Most stings are painful, but relatively harmless III. Anticholinergics can be used if antivenom is unavailable",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correctAnswer": 0,
+    "explanation": "Scorpions inject venom via a tail stinger, and most stings cause local pain but are relatively harmless, especially from non-lethal species; anticholinergics like atropine are used specifically for cholinergic symptoms of severe envenomation, not as a general substitute for antivenom."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following statements are correct regarding Kyasanur forest disease? I. It is commonly seen in North-Eastern States of India II. Monkeys act as reservoir of the disease III. Transmission happens through tick bite IV. Inactivated vaccine is available for its prevention",
+    "options": ["1 and 4 only", "2 and 3 only", "1, 2 and 4", "2, 3 and 4"],
+    "correctAnswer": 1,
+    "explanation": "Kyasanur Forest Disease is transmitted by tick bite with monkeys acting as an amplifying reservoir host; it is endemic to Karnataka (Western Ghats region), not North-Eastern India, and while a formalin-inactivated vaccine exists, per the key only statements 2 and 3 are marked correct."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following statements are correct regarding brucellosis? I. Fever may develop into an undulating pattern that persists for weeks II. Associated musculoskeletal symptoms are a feature of the disease III. Brucellae behave as facultative intracellular parasites",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correctAnswer": 3,
+    "explanation": "Brucellosis classically causes undulant fever, is associated with musculoskeletal symptoms such as arthritis and spondylitis, and Brucella organisms are facultative intracellular pathogens — all three statements are correct."
+  },
+  {
+    "id": 28,
+    "question": "A 60-year-old diabetic female presents with acute myocardial infarction. ECG changes include ST elevation greater than 1 mm in lead aVR. The likely localization of thrombosis is in",
+    "options": ["right coronary artery", "distal LAD", "left circumflex artery", "left main or proximal LAD"],
+    "correctAnswer": 3,
+    "explanation": "ST elevation in lead aVR greater than 1 mm, particularly with widespread ST depression elsewhere, is a marker of left main coronary artery or proximal LAD occlusion."
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following antidiabetic drugs is recommended for weight loss in obese patients?",
+    "options": ["Glimepiride", "Liraglutide", "Sitagliptin", "Insulin"],
+    "correctAnswer": 1,
+    "explanation": "Liraglutide, a GLP-1 receptor agonist, promotes satiety and weight loss, making it a preferred antidiabetic choice in obese patients."
+  },
+  {
+    "id": 30,
+    "question": "Consider the following statements regarding inflammatory bowel disease: I. Ulcerative colitis (UC) involves terminal ileum and rarely causes proctitis II. Cobblestone appearance of bowel is seen in Crohn's disease III. Skip lesions are a characteristic of ulcerative colitis but never seen in Crohn's disease IV. Ulcerative colitis is more common in smokers than non-smokers. Which of the statements given above is/are correct?",
+    "options": ["1, 2 and 3", "2, 3 and 4", "3 and 4 only", "2 only"],
+    "correctAnswer": 3,
+    "explanation": "Cobblestone appearance is a classic feature of Crohn's disease; UC characteristically involves the rectum (almost always causing proctitis) rather than sparing it, skip lesions are a feature of Crohn's disease (not UC), and UC is actually more common in non-smokers, making statement II the only correct one."
+  },
+  {
+    "id": 31,
+    "question": "Thickened ventricular wall with normal diastolic function is a feature of",
+    "options": ["hypertrophic cardiomyopathy", "restrictive cardiomyopathy", "endomyocardial fibrosis", "athlete's heart"],
+    "correctAnswer": 3,
+    "explanation": "Athlete's heart shows physiological ventricular wall thickening (physiological hypertrophy) with preserved normal diastolic function, unlike pathological hypertrophic or restrictive cardiomyopathies where diastolic dysfunction is present."
+  },
+  {
+    "id": 32,
+    "question": "In which of the following cases does paradoxical splitting occur? I. Severe aortic stenosis II. Right bundle branch block III. Right ventricular pacing IV. Hypertrophic obstructive cardiomyopathy",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correctAnswer": 2,
+    "explanation": "Paradoxical (reversed) splitting occurs when aortic valve closure is delayed relative to pulmonary closure, as seen in severe aortic stenosis, right ventricular pacing (mimicking LBBB pattern), and HOCM; right bundle branch block causes wide fixed splitting, not paradoxical splitting."
+  },
+  {
+    "id": 33,
+    "question": "A patient with peripheral edema has the following findings on clinical examination: A soft systolic murmur at the lower left sternal border with raised JVP showing prominent C-V wave. The murmur increases in intensity on deep inspiration. The most likely valvular abnormality is",
+    "options": ["ventricular septal defect", "mitral regurgitation", "tricuspid regurgitation", "mitral valve prolapse"],
+    "correctAnswer": 2,
+    "explanation": "A murmur at the lower left sternal border that increases with inspiration (Carvallo's sign), along with raised JVP showing a prominent C-V wave, is characteristic of tricuspid regurgitation."
+  },
+  {
+    "id": 34,
+    "question": "Kussmaul's sign is a clinical feature of",
+    "options": ["constrictive pericarditis", "hypertrophic obstructive cardiomyopathy", "anteroseptal myocardial infarction", "dilated cardiomyopathy"],
+    "correctAnswer": 0,
+    "explanation": "Kussmaul's sign, a paradoxical rise in jugular venous pressure with inspiration, is a classic finding in constrictive pericarditis."
+  },
+  {
+    "id": 35,
+    "question": "A patient has a cardiac murmur that is best heard at the right second intercostal space. It increases with expiration. Also, the murmur reduces in intensity during sustained handgrip but increases in intensity on inhalation of amyl nitrite. The likely lesion is",
+    "options": ["ventricular septal defect", "aortic stenosis", "hypertrophic obstructive cardiomyopathy", "mitral regurgitation"],
+    "correctAnswer": 1,
+    "explanation": "A murmur at the right second intercostal space that decreases with increased afterload (handgrip) and increases with decreased afterload (amyl nitrite) is characteristic of aortic stenosis."
+  },
+  {
+    "id": 36,
+    "question": "In the modified Duke criteria for infective endocarditis, which one of the following is not a major criterion?",
+    "options": ["New partial dehiscence of prosthetic valve", "Positive blood culture", "Roth's spots", "New valvular regurgitation"],
+    "correctAnswer": 2,
+    "explanation": "Roth's spots are a minor criterion in the modified Duke criteria; positive blood cultures, new valvular regurgitation, and prosthetic valve dehiscence are components of the major criteria."
+  },
+  {
+    "id": 37,
+    "question": "Which one of the following diseases affects predominantly large arteries?",
+    "options": ["Granulomatosis with polyangiitis", "Polyarteritis nodosa", "Giant cell arteritis", "Eosinophilic granulomatosis with polyangiitis"],
+    "correctAnswer": 2,
+    "explanation": "Giant cell arteritis is a large-vessel vasculitis predominantly affecting the aorta and its major branches, particularly the cranial arteries."
+  },
+  {
+    "id": 38,
+    "question": "Osborn waves in ECG show prolonged repolarization with a distinctive convex elevation of the 'J' point. These waves are associated with",
+    "options": ["systemic hypothermia", "acute pericarditis", "acute myocarditis", "Brugada syndrome"],
+    "correctAnswer": 0,
+    "explanation": "Osborn (J) waves are classically associated with systemic hypothermia, appearing as a positive deflection at the J point on ECG."
+  },
+  {
+    "id": 39,
+    "question": "A decline in total lung capacity to less than 80% of patient's predictive value is an indication of",
+    "options": ["restrictive lung disease", "obstructive lung disease", "pulmonary artery hypertension", "pulmonary embolism"],
+    "correctAnswer": 0,
+    "explanation": "A reduced total lung capacity below 80% of predicted is a defining spirometric/plethysmographic feature of restrictive lung disease."
+  },
+  {
+    "id": 40,
+    "question": "A 28-year male is suspected of having hypertrophic obstructive cardiomyopathy (HOCM). Which of the following statements are likely to be true on his examination? I. Maneuvers that decrease LV preload will cause the murmur to intensify II. Maneuvers that decrease LV afterload will cause decrease in intensity of murmur III. Murmur of HOCM becomes softer with passive leg raising IV. Murmur of HOCM becomes louder with squatting",
+    "options": ["1 and 3", "2 and 3", "2 and 4", "1 and 4"],
+    "correctAnswer": 0,
+    "explanation": "Reduced LV preload (e.g., Valsalva, standing) intensifies the HOCM murmur by worsening outflow obstruction, while maneuvers that increase preload, such as passive leg raising, make the murmur softer; the murmur becomes softer, not louder, with squatting, since squatting increases both preload and afterload."
+  },
+  {
+    "id": 41,
+    "question": "The Duffy antigen system serves as receptor for which one of the following protozoal parasites?",
+    "options": ["Giardia lamblia", "Plasmodium vivax", "Entamoeba histolytica", "Balantidium coli"],
+    "correctAnswer": 1,
+    "explanation": "The Duffy antigen on red blood cells serves as the receptor required for Plasmodium vivax invasion of erythrocytes; individuals lacking the Duffy antigen are resistant to P. vivax infection."
+  },
+  {
+    "id": 42,
+    "question": "With regard to transfusion therapy, cryoprecipitate is a rich source of which of the following? I. Fibrinogen II. Clotting factor VIII III. Clotting factor IX IV. von Willebrand factor",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correctAnswer": 1,
+    "explanation": "Cryoprecipitate is rich in fibrinogen, factor VIII, and von Willebrand factor, along with factor XIII; it is not a significant source of factor IX."
+  },
+  {
+    "id": 43,
+    "question": "Which of the following viruses can be transmitted via transfusion of infected blood? I. Hepatitis B virus II. Hepatitis C virus III. Human immunodeficiency virus IV. Parvovirus B19",
+    "options": ["1 and 3 only", "2 and 4 only", "1, 2 and 3 only", "1, 2, 3 and 4"],
+    "correctAnswer": 3,
+    "explanation": "Hepatitis B, Hepatitis C, HIV, and Parvovirus B19 are all transfusion-transmissible viral infections."
+  },
+  {
+    "id": 44,
+    "question": "Which one of the following correctly describes the mode of inheritance of haemophilia B?",
+    "options": ["Autosomal dominant", "Autosomal recessive", "X-linked dominant", "X-linked recessive"],
+    "correctAnswer": 3,
+    "explanation": "Haemophilia B (Christmas disease, factor IX deficiency) follows an X-linked recessive inheritance pattern."
+  },
+  {
+    "id": 45,
+    "question": "Which one of the following conditions characteristically may present with a triad of haemolysis, pancytopenia and venous thrombosis?",
+    "options": ["Glucose-6-phosphate dehydrogenase deficiency", "Hereditary spherocytosis", "Haemolytic uremic syndrome", "Paroxysmal nocturnal haemoglobinuria"],
+    "correctAnswer": 3,
+    "explanation": "The classic triad of intravascular haemolysis, cytopenias (bone marrow failure), and venous thrombosis is characteristic of paroxysmal nocturnal haemoglobinuria."
+  },
+  {
+    "id": 46,
+    "question": "Which one of the following is associated with low MCV of red blood cells?",
+    "options": ["Thalassemia", "Vitamin B12 deficiency anaemia", "Folate deficiency anaemia", "Sickle cell anaemia"],
+    "correctAnswer": 0,
+    "explanation": "Thalassemia causes a microcytic anaemia with low MCV, in contrast to vitamin B12 and folate deficiencies, which cause macrocytic (high MCV) anaemia."
+  },
+  {
+    "id": 47,
+    "question": "GnRH deficiency with hyposmia is typically seen in",
+    "options": ["Kallmann syndrome", "Bardet-Biedl syndrome", "Prader-Willi syndrome", "Wallenberg syndrome"],
+    "correctAnswer": 0,
+    "explanation": "Kallmann syndrome is defined by the combination of GnRH deficiency (hypogonadotropic hypogonadism) and anosmia/hyposmia due to defective olfactory bulb development."
+  },
+  {
+    "id": 48,
+    "question": "Iodine has complex effects on thyroid function. Very high concentrations of iodine inhibit thyroid hormone synthesis and release. This effect is known as",
+    "options": ["Wolff-Chaikoff effect", "Jod-Basedow effect", "reverse Wolff-Chaikoff effect", "reverse Jod-Basedow effect"],
+    "correctAnswer": 0,
+    "explanation": "The Wolff-Chaikoff effect describes the transient inhibition of thyroid hormone synthesis and release in response to a large iodine load."
+  },
+  {
+    "id": 49,
+    "question": "Consider the following pharmacological agents: I. Propranolol II. Sodium ipodate III. Propylthiouracil IV. Liothyronine. Which of the above can be used for the treatment of thyrotoxic crisis?",
+    "options": ["3 only", "1 and 2 only", "1, 2 and 3", "2, 3 and 4"],
+    "correctAnswer": 2,
+    "explanation": "Propranolol (controls adrenergic symptoms), sodium ipodate (blocks T4-to-T3 conversion and release), and propylthiouracil (blocks hormone synthesis and peripheral conversion) are all used in managing thyroid storm; liothyronine (T3) would worsen thyrotoxicosis."
+  },
+  {
+    "id": 50,
+    "question": "Consider the following pharmacological agents: I. Liothyronine II. Levothyroxine III. Carbimazole IV. Sodium ipodate. Which of the above may be included in the treatment of myxoedema coma?",
+    "options": ["1 only", "1 and 2", "2 and 3", "3 and 4"],
+    "correctAnswer": 1,
+    "explanation": "Myxoedema coma is treated with thyroid hormone replacement, using liothyronine (T3) and/or levothyroxine (T4); carbimazole and sodium ipodate are used to reduce, not replace, thyroid hormone and are inappropriate here."
+  },
+  {
+    "id": 51,
+    "question": "The upper limit of age for attainment of visual fixation or following is",
+    "options": ["birth", "1 month", "2 months", "3 months"],
+    "correctAnswer": 2,
+    "explanation": "The upper age limit by which an infant should be able to fixate on and follow objects visually is 2 months."
+  },
+  {
+    "id": 52,
+    "question": "A child develops 'stranger anxiety' at",
+    "options": ["2-3 months", "4-5 months", "6-7 months", "8-9 months"],
+    "correctAnswer": 2,
+    "explanation": "Stranger anxiety typically develops around 6-7 months of age as infants develop the ability to distinguish familiar caregivers from unfamiliar people."
+  },
+  {
+    "id": 53,
+    "question": "Consider the following statements with respect to developmental milestones at 9 months of age: I. At this age, child develops immature pincer grasp II. At this age, child can say bisyllables (mama, dada, etc.) III. At this age, child can wave bye-bye. Which of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correctAnswer": 3,
+    "explanation": "By 9 months, a child typically develops an immature pincer grasp, can vocalize bisyllables like 'mama' and 'dada,' and can wave bye-bye — all three milestones are correct for this age."
+  },
+  {
+    "id": 54,
+    "question": "What are the upper age limits by which a child should start walking alone, and be able to speak single words?",
+    "options": ["12 months, 15 months respectively", "15 months, 18 months respectively", "15 months, 15 months respectively", "18 months, 18 months respectively"],
+    "correctAnswer": 3,
+    "explanation": "The upper age limit for a child to start walking independently is 18 months, and the upper age limit for speaking single meaningful words is also 18 months."
+  },
+  {
+    "id": 55,
+    "question": "A child presents to the emergency following ingestion of around 20 mL of kerosene oil about 40 minutes back. The child appears stable. Which one of the following measures should be done for the management of the child?",
+    "options": ["Gastric lavage", "Oxygen therapy", "Intravenous steroids", "Radiography"],
+    "correctAnswer": 3,
+    "explanation": "In a stable child following kerosene ingestion, a chest radiograph is done to assess for aspiration pneumonitis; gastric lavage is avoided due to the high risk of aspiration and chemical pneumonitis with hydrocarbon ingestion."
+  },
+  {
+    "id": 56,
+    "question": "The event related to vaccination which can be contraindication for the next vaccination of similar/identical type is",
+    "options": ["syncope following MMR vaccine", "encephalopathy following DPT vaccine", "abscess at injection site after DPT vaccine", "gastroenteritis following MMR vaccine"],
+    "correctAnswer": 1,
+    "explanation": "Encephalopathy occurring within 7 days of DPT vaccination is a recognized absolute contraindication to further doses of pertussis-containing vaccine."
+  },
+  {
+    "id": 57,
+    "question": "Which of the following events could be caused or precipitated by an active component of vaccine? I. Anaphylaxis after measles vaccine II. Encephalopathy after DPT vaccine III. Adenitis following BCG vaccine IV. Gastroenteritis following MMR vaccine",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correctAnswer": 0,
+    "explanation": "Anaphylaxis after measles vaccine, encephalopathy after DPT (pertussis component), and adenitis following BCG are recognized vaccine-product-related adverse events; gastroenteritis after MMR is generally a coincidental, non-vaccine-related event."
+  },
+  {
+    "id": 58,
+    "question": "Which one of the following can be used for developmental screening for use in community to identify children (aged 0-6 years) with developmental delay?",
+    "options": ["Revised Denver Development Screening Test (Denver II)", "Ages and Stages Questionnaire (ASQ-3)", "Phatak's Baroda Development Screening Test", "Trivandrum Development Screening Chart"],
+    "correctAnswer": 3,
+    "explanation": "The Trivandrum Development Screening Chart is specifically designed for community-level screening of children aged 0-6 years for developmental delay in the Indian context."
+  },
+  {
+    "id": 59,
+    "question": "According to the WHO clinical criteria, which of the following clinical signs are indicative of 'severe pneumonia or very severe disease' in children aged 2 months to 5 years? I. Convulsions II. Lower chest indrawing III. Inability to feed IV. Stridor",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correctAnswer": 2,
+    "explanation": "Per WHO IMNCI criteria, convulsions, inability to feed/drink, and stridor in a calm child are danger signs classifying 'severe pneumonia or very severe disease'; lower chest indrawing alone classifies as 'pneumonia,' a less severe category."
+  },
+  {
+    "id": 60,
+    "question": "An eleven-month-old unimmunized child comes for immunization. Which vaccines should be given in this visit?",
+    "options": ["BCG, OPV, DPT and Hepatitis B vaccines", "OPV, DPT and MR vaccines only", "BCG, DPT and MR vaccines", "OPV, DPT, MR and Hepatitis B vaccines"],
+    "correctAnswer": 0,
+    "explanation": "For a completely unimmunized 11-month-old, catch-up vaccination at this visit should include BCG, OPV, DPT, and Hepatitis B vaccines as per the national immunization schedule."
+  },
+    {
+      "id": 61,
+      "question": "Which of the following statements are correct with regard to anorexia nervosa? I. The illness is often precipitated by weight loss II. Food avoidance is common III. Body image is intact and there is no fear of weight gain IV. Downy hair (lanugo) may develop on back, forearms and cheeks",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 1,
+      "explanation": "Anorexia nervosa is often precipitated by weight loss, food avoidance is a core feature, and lanugo hair may develop on the back, forearms, and cheeks due to malnutrition; body image is characteristically disturbed with an intense fear of weight gain, not intact, making statement III incorrect."
+    },
+    {
+      "id": 62,
+      "question": "Which of the following are adverse effects of loop-acting and thiazide diuretics? I. Metabolic acidosis II. Hypovolemia III. Hyponatremia IV. Hypokalaemia",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 3,
+      "explanation": "Loop and thiazide diuretics cause hypovolemia, hyponatremia, and hypokalemia; they actually cause metabolic alkalosis (not acidosis) due to increased hydrogen ion loss."
+    },
+    {
+      "id": 63,
+      "question": "Which one of the following statements is correct with regard to peptic ulcer prophylaxis?",
+      "options": ["Stress ulceration during clinical illness is uncommon.", "Ulcer prophylaxis should be continued once absorption of enteral feed is established.", "Proton-pump inhibitors (PPIs) are effective at reducing the incidence of ulceration.", "PPIs when used with antibiotics may decrease the risk of Clostridium difficile infection."],
+      "correctAnswer": 2,
+      "explanation": "Stress ulceration is common during critical illness; prophylaxis is typically discontinued once enteral feeds are established; PPIs combined with antibiotics actually increase the risk of C. difficile infection; PPIs are effective in reducing stress ulcer incidence."
+    },
+    {
+      "id": 64,
+      "question": "Which of the following are the features of post-lumbar puncture headache? I. Dull aching occipitofrontal headache II. Worse on waking but improves during the day III. Recumbency usually improves the headache within minutes",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "correctAnswer": 2,
+      "explanation": "Post-LP headache is a dull, occipitofrontal headache that improves with recumbency within minutes; it typically worsens on standing rather than being worse on waking and improving through the day."
+    },
+    {
+      "id": 65,
+      "question": "Which of the following are correct with regard to alpha-1-antitrypsin deficiency? I. Prolonged jaundice in neonatal period II. Pulmonary emphysema in adulthood III. Panniculitis is seen rarely IV. Autosomal dominant disorder",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 0,
+      "explanation": "A1AT deficiency causes prolonged neonatal jaundice, pulmonary emphysema in adulthood, and rare panniculitis; it is inherited in an autosomal co-dominant manner, not purely dominant."
+    },
+    {
+      "id": 66,
+      "question": "Which of the following drugs can cause granulomatous liver injury? I. Carbamazepine II. Allopurinol III. Diltiazem IV. Acetaminophen",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 0,
+      "explanation": "Carbamazepine, allopurinol, and diltiazem are recognized causes of granulomatous liver injury; acetaminophen typically causes centrilobular hepatic necrosis instead."
+    },
+    {
+      "id": 67,
+      "question": "Which of the following are the five essential components of nurturing care? 1. Health 2. Nutrition 3. Breastfeeding 4. Responsive caregiving 5. Early learning 6. Immunization 7. Safety and security 8. Supplementation",
+      "options": ["1, 2, 4, 5 and 7", "1, 2, 3, 4 and 5", "1, 4, 6, 7 and 8", "2, 3, 5, 6 and 8"],
+      "correctAnswer": 0,
+      "explanation": "WHO's Nurturing Care Framework identifies five components: good health, adequate nutrition, responsive caregiving, opportunities for early learning, and safety and security."
+    },
+    {
+      "id": 68,
+      "question": "A full-term baby born with birth weight of 2000 g comes for well-baby visit at two months of age. Which of the following nutritional supplements would you advise?",
+      "options": ["Vitamin D orally 200 IU/day up to 3 months of age", "Vitamin D orally 200 IU/day up to 1 year of age", "Iron orally 2 mg/kg/day up to 3 months of age", "Iron orally 2 mg/kg/day up to 1 year of age"],
+      "correctAnswer": 3,
+      "explanation": "Low birth weight infants require iron supplementation at 2 mg/kg/day, started around 2 months and continued up to 1 year of age to prevent iron deficiency anemia from reduced iron stores."
+    },
+    {
+      "id": 69,
+      "question": "Which of the following are common problems in babies with intrauterine growth restriction delivered at term gestation? I. Hypothermia II. Hypoglycemia III. Hypocalcemia",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "correctAnswer": 0,
+      "explanation": "IUGR babies are prone to hypothermia (reduced subcutaneous fat) and hypoglycemia (reduced glycogen stores) as their main common problems at term."
+    },
+    {
+      "id": 70,
+      "question": "Which one of the following statements is correct regarding a normal newborn's growth?",
+      "options": ["Weight loss may be 8-10% of birth weight in the initial two weeks of life.", "Birth weight is regained by 7-10 days of age.", "Birth weight is regained within first week of life.", "Weight loss may be 12-15% of birth weight in the initial two weeks of life."],
+      "correctAnswer": 1,
+      "explanation": "Normal newborns lose up to 7-10% of birth weight initially and regain it by 7-10 days of age; 12-15% loss would be considered excessive."
+    },
+    {
+      "id": 71,
+      "question": "A 56-year male, chronic heavy smoker, presented with breathlessness. On examination, pulse: 96/minute, BP: 112/70 mm Hg and a pansystolic murmur showing Carvallo's sign with murmur getting louder on deep inspiration. Which one of the following statements is true regarding examination of JVP in him?",
+      "options": ["V wave is attenuated.", "C wave is attenuated and V wave is accentuated.", "V wave and C wave merge.", "V wave and C wave merge and Y descent is blunted."],
+      "correctAnswer": 3,
+      "explanation": "In tricuspid regurgitation (suggested by Carvallo's sign), regurgitant systolic flow causes the C and V waves to merge into a single CV wave, while the Y descent becomes blunted due to elevated right atrial pressure."
+    },
+    {
+      "id": 72,
+      "question": "Which one of the following is a manifestation of vascular phenomenon in modified Duke criteria?",
+      "options": ["Osler's node", "Roth's spots", "Janeway's lesions", "Glomerulonephritis"],
+      "correctAnswer": 2,
+      "explanation": "Janeway's lesions are classified as a vascular phenomenon in modified Duke criteria, whereas Osler's nodes, Roth's spots, and glomerulonephritis are immunologic phenomena."
+    },
+    {
+      "id": 73,
+      "question": "The volume of air remaining in the lungs after a normal expiration is called",
+      "options": ["expiratory residual volume", "functional residual capacity", "residual volume", "vital capacity"],
+      "correctAnswer": 1,
+      "explanation": "Functional residual capacity (FRC) is the volume of air remaining in the lungs at the end of a normal tidal expiration, comprising residual volume plus expiratory reserve volume."
+    },
+    {
+      "id": 74,
+      "question": "The investigation of choice for early follow-up in patients treated for anti-H. pylori drugs is",
+      "options": ["urea breath test", "rapid urease test", "stool H. pylori antigen test", "serology for H. pylori"],
+      "correctAnswer": 0,
+      "explanation": "The urea breath test is preferred for confirming H. pylori eradication soon after treatment, since serology remains positive long after cure and invasive tests are unnecessary."
+    },
+    {
+      "id": 75,
+      "question": "The most common non-pancreatic site for tumour distribution in Zollinger-Ellison syndrome is",
+      "options": ["duodenum", "ovaries", "stomach", "liver"],
+      "correctAnswer": 0,
+      "explanation": "The duodenum is the most common extrapancreatic site for gastrinoma in Zollinger-Ellison syndrome."
+    },
+    {
+      "id": 76,
+      "question": "Which of the following are the risk factors for the acquisition of hepatitis C infection? I. Faeco-oral transmission II. Intravenous drug abuse III. Vertical transmission IV. Sharing toothbrush and razors",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 3,
+      "explanation": "Hepatitis C spreads via IV drug abuse, vertical transmission, and sharing contaminated toothbrushes/razors; it is not transmitted via the faeco-oral route, unlike hepatitis A and E."
+    },
+    {
+      "id": 77,
+      "question": "The most common cause of shock in severe acute pancreatitis (SAP) is",
+      "options": ["hypovolemic shock resulting from third space loss", "septic shock resulting from infected pancreatic necrosis", "cardiogenic shock resulting from SIRS", "abdominal compartment syndrome"],
+      "correctAnswer": 0,
+      "explanation": "Massive fluid sequestration (third spacing) in severe acute pancreatitis leads to hypovolemic shock, the most common early cause of shock in this condition."
+    },
+    {
+      "id": 78,
+      "question": "The most common causative agent for spontaneous bacterial peritonitis is",
+      "options": ["Escherichia coli", "Enterococcus sp.", "Staphylococcus aureus", "Streptococcus viridans"],
+      "correctAnswer": 0,
+      "explanation": "E. coli, a gut-derived gram-negative organism, is the most common cause of spontaneous bacterial peritonitis."
+    },
+    {
+      "id": 79,
+      "question": "The serologic marker detectable during 'window' period of hepatitis B infection is",
+      "options": ["anti-HBsAb", "anti-HBc IgG", "anti-HBc IgM", "HBeAg"],
+      "correctAnswer": 2,
+      "explanation": "During the window period, when HBsAg has cleared and anti-HBs has not yet appeared, anti-HBc IgM is the only detectable marker."
+    },
+    {
+      "id": 80,
+      "question": "A 14-year boy came with chronic diarrhoea and malnutrition. The physician suspected celiac disease. Which of the following are correct in his diagnostic workup? I. Presence of IgA antiendomysial antibody II. Absence of reduced height of villi on intestinal biopsy III. Increased lymphocytes in lamina propria in small intestine biopsy IV. Absence of tTG antibody in serum",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": null,
+      "explanation": "This question was officially dropped from scoring by the examining body (1 of 120 questions dropped), so no key answer is provided; only 119 questions were scored."
+    },
+    {
+      "id": 81,
+      "question": "Which of the following statements is/are correct for obesity? I. Adiponectin levels are reduced in obesity II. Orlistat is a reversible inhibitor of lipase used for the treatment of obesity III. Liraglutide used for T2DM management can cause weight gain and not recommended in obese patients with T2DM IV. Bariatric surgery is recommended in obese patients with BMI > 30 kg/m² for long-term benefits",
+      "options": ["1, 2 and 4", "1 and 2 only", "2, 3 and 4", "1 only"],
+      "correctAnswer": 0,
+      "explanation": "Adiponectin is reduced in obesity, orlistat is a reversible lipase inhibitor, and bariatric surgery offers long-term benefit in obesity; liraglutide actually promotes weight loss and is recommended (not contraindicated) in obese T2DM patients, making III incorrect."
+    },
+    {
+      "id": 82,
+      "question": "Which of the following drugs are effective in preventing uric acid nephropathy in patients receiving chemotherapy? I. Probenecid II. Forced saline diuresis III. Rasburicase IV. Acetazolamide",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 3,
+      "explanation": "Forced saline diuresis, rasburicase, and acetazolamide help prevent uric acid nephropathy/tumor lysis syndrome; probenecid is a uricosuric agent that would worsen urate crystal deposition and is contraindicated."
+    },
+    {
+      "id": 83,
+      "question": "Primaquine destroys hypnozoites of Plasmodium vivax for radical cure in which one of the following?",
+      "options": ["Liver", "Peripheral blood", "Brain", "Bone marrow"],
+      "correctAnswer": 0,
+      "explanation": "Primaquine acts on the dormant hepatic hypnozoite stage of P. vivax and P. ovale, providing radical cure and preventing relapse."
+    },
+    {
+      "id": 84,
+      "question": "HIV-associated neurocognitive disorder (HAND) includes which of the following? I. Asymptomatic neurocognitive disorder II. Minor neurocognitive disorder III. HIV-associated dementia",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "correctAnswer": 3,
+      "explanation": "HAND encompasses a spectrum of three categories: asymptomatic neurocognitive impairment, minor neurocognitive disorder, and HIV-associated dementia."
+    },
+    {
+      "id": 85,
+      "question": "Consider the following statements with regard to cysticercosis: I. It may present as personality change II. Subcutaneous nodule may be excised for histology III. Cerebral signs commonly do not occur until the larvae die, 5-20 years later IV. Praziquantel can be given for 10 days",
+      "options": ["1 and 4 only", "2 and 3 only", "1, 2 and 3 only", "1, 2, 3 and 4"],
+      "correctAnswer": 3,
+      "explanation": "All four statements are correct: neurocysticercosis can present with personality changes, subcutaneous nodules can be biopsied, cerebral symptoms often emerge only after larval death (possibly years later), and praziquantel is used for prolonged courses in treatment."
+    },
+    {
+      "id": 86,
+      "question": "Consider the following statements with regard to strongyloidiasis: I. It parasitizes the mucosa of upper part of small intestine II. Larva currens is fast-moving transient rash seen across abdomen and buttocks III. Ivermectin is not an effective treatment IV. Systematic strongyloidiasis is seen in immune competent state",
+      "options": ["1 and 2", "2 and 3 only", "2, 3 and 4", "1 and 4"],
+      "correctAnswer": 0,
+      "explanation": "Strongyloides parasitizes the upper small intestine mucosa and causes larva currens, a fast-moving rash on the abdomen/buttocks; ivermectin is actually effective treatment, and disseminated strongyloidiasis occurs in immunocompromised, not immune-competent, states."
+    },
+    {
+      "id": 87,
+      "question": "Consider the following statements with regard to cutaneous larva migrans: I. It is one of the commonest linear lesions seen in travellers II. It may be associated with a recent visit to a beach III. It is non-pruritic IV. Track moves across the skin at a rate of 2-3 cm/day",
+      "options": ["1, 2 and 3", "1, 3 and 4", "1, 2 and 4", "2, 3 and 4"],
+      "correctAnswer": 2,
+      "explanation": "Cutaneous larva migrans is a common linear/serpiginous lesion in travellers, linked to beach exposure, with the track advancing at 2-3 cm/day; the lesion is intensely pruritic, not non-pruritic."
+    },
+    {
+      "id": 88,
+      "question": "Consider the following statements with regard to giardiasis: I. Stools should be examined for cysts at 2-3 days interval for its diagnosis II. Colonoscopy aspirate gives the highest diagnostic yield III. Infection usually occurs by ingesting contaminated water IV. Giardia has a flagellate trophozoite form",
+      "options": ["1 and 3 only", "1, 2 and 4", "1, 3 and 4", "2 and 4 only"],
+      "correctAnswer": 2,
+      "explanation": "Repeated stool exams at 2-3 day intervals, waterborne transmission, and the flagellate trophozoite form are all correct; duodenal aspirate (not colonoscopy) gives the highest diagnostic yield since Giardia resides in the proximal small intestine."
+    },
+    {
+      "id": 89,
+      "question": "Type-2 necrotizing fasciitis is caused by",
+      "options": ["Group A Streptococcus", "Vibrio vulnificus", "Clostridium septicum", "Staphylococcus aureus"],
+      "correctAnswer": 0,
+      "explanation": "Type II necrotizing fasciitis is a monomicrobial infection classically caused by Group A Streptococcus, distinguishing it from the polymicrobial Type I form."
+    },
+    {
+      "id": 90,
+      "question": "Which of the following treatments for a pregnant lady who has been exposed to a patient of chicken pox are correct? I. Varicella-zoster immune globulin II. Varicella-zoster vaccine III. Acyclovir IV. Prednisolone",
+      "options": ["1, 2 and 4", "2 and 3", "1 and 3 only", "1, 3 and 4"],
+      "correctAnswer": 2,
+      "explanation": "Post-exposure prophylaxis in a susceptible pregnant woman includes VZIG and/or acyclovir; the live varicella vaccine is contraindicated in pregnancy, and prednisolone is not indicated for prophylaxis."
+    },
+    {
+      "id": 91,
+      "question": "For developmental assessment of a baby, grasp is best assessed by offering the child",
+      "options": ["a red ring", "a red cube", "red pellets", "multicoloured pellets"],
+      "correctAnswer": 1,
+      "explanation": "A red cube is the standard object used to assess a child's grasp development at various ages."
+    },
+    {
+      "id": 92,
+      "question": "Urinary alkalinization as a method for enhancing excretion for poisoning is aimed at achieving",
+      "options": ["serum pH 7.5-8", "urine pH 7.5-8", "serum pH > 8", "urine pH > 8"],
+      "correctAnswer": 1,
+      "explanation": "Urinary alkalinization targets a urine pH of 7.5-8 to promote ion trapping and excretion of weak acid poisons such as salicylates."
+    },
+    {
+      "id": 93,
+      "question": "Exchange transfusion as a method to enhance excretion of poison is indicated in",
+      "options": ["methemoglobinemia", "carbamazepine poisoning", "theophylline poisoning", "barbiturate poisoning"],
+      "correctAnswer": 0,
+      "explanation": "Exchange transfusion is used in severe methemoglobinemia to remove affected red blood cells and replace them with functional ones."
+    },
+    {
+      "id": 94,
+      "question": "In case of a child with an acute poisoning by ingestion, activated charcoal may be used in which one of the following situations?",
+      "options": ["Iron ingestion", "Antiepileptic ingestion", "Corrosive ingestion", "Lithium ingestion"],
+      "correctAnswer": 1,
+      "explanation": "Activated charcoal effectively adsorbs antiepileptic drugs; it is ineffective for iron and lithium (poorly adsorbed) and contraindicated in corrosive ingestion due to aspiration risk and obscuring endoscopy."
+    },
+    {
+      "id": 95,
+      "question": "Which of the following genetic causes are commonly associated with autism spectrum disorders? I. Angelman syndrome II. Fragile X syndrome III. Tuberous sclerosis IV. Williams syndrome",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 0,
+      "explanation": "Angelman syndrome, Fragile X syndrome, and tuberous sclerosis are well-recognized genetic associations of autism spectrum disorder; Williams syndrome is instead associated with a hypersocial phenotype."
+    },
+    {
+      "id": 96,
+      "question": "To reduce the risk of neural tube defects in the baby, which of the following are recommended?",
+      "options": ["Folate supplements, from one month before conception to three months after", "Folate supplements, from confirmation of pregnancy to the end of first trimester", "Zinc supplements, from one month before conception to three months after", "Zinc supplements, from confirmation of pregnancy to the end of first trimester"],
+      "correctAnswer": 0,
+      "explanation": "Periconceptional folic acid, starting at least one month before conception and continued through the first trimester, is recommended to reduce neural tube defect risk."
+    },
+    {
+      "id": 97,
+      "question": "Vaccine-associated poliomyelitis is chiefly seen with which of the following strains of oral poliovirus?",
+      "options": ["OPV 1 only", "OPV 2", "OPV 3 only", "Both OPV 1 and OPV 3"],
+      "correctAnswer": 1,
+      "explanation": "Vaccine-associated paralytic poliomyelitis (VAPP) is chiefly associated with the type 2 OPV strain, due to its higher reversion rate to neurovirulence."
+    },
+    {
+      "id": 98,
+      "question": "Which one of the following is categorized as a specific learning disability?",
+      "options": ["Dysgraphia", "Dystonia", "Dysthymia", "Dysphoria"],
+      "correctAnswer": 0,
+      "explanation": "Dysgraphia (difficulty with writing) is classified as a specific learning disability, unlike dystonia (movement disorder), dysthymia (mood disorder), and dysphoria."
+    },
+    {
+      "id": 99,
+      "question": "A baby is delivered at 34 weeks' gestation and found to be apneic at birth. After performing the initial steps of resuscitation, the baby is still apneic. The next step should be",
+      "options": ["tactile stimulation", "positive pressure ventilation using 30% oxygen", "positive pressure ventilation using 100% oxygen", "chest compression"],
+      "correctAnswer": 1,
+      "explanation": "In preterm infants (<35 weeks) remaining apneic after initial steps, PPV is started with blended oxygen at around 21-30%, rather than 100%, per current neonatal resuscitation guidelines."
+    },
+    {
+      "id": 100,
+      "question": "A child requires detailed developmental evaluation if the developmental quotient is below",
+      "options": ["70%", "75%", "80%", "85%"],
+      "correctAnswer": 0,
+      "explanation": "A developmental quotient below 70% is generally considered indicative of significant developmental delay warranting detailed evaluation."
+    },
+    {
+      "id": 101,
+      "question": "In serological investigation of hepatitis B virus infection, presence of hepatitis B e-antigen (HBeAg) is an indicator of",
+      "options": ["active replication of virus in the liver", "acute liver failure", "chronic infection with hepatitis B virus", "inactive carrier phase of infection"],
+      "correctAnswer": 0,
+      "explanation": "HBeAg indicates active viral replication and high infectivity in hepatitis B infection."
+    },
+    {
+      "id": 102,
+      "question": "Simultaneous infection with hepatitis B virus (HBV) and hepatitis D virus (HDV) followed by full recovery is associated with the appearance of",
+      "options": ["low titres of anti-HDV antibody, IgM type", "low titres of anti-HDV antibody, IgA type", "high titres of anti-HDV antibody, IgM type", "high titres of anti-HDV antibody, IgG type"],
+      "correctAnswer": 0,
+      "explanation": "In HBV-HDV coinfection resolving with full recovery, the antibody response to HDV is typically transient with low-titre anti-HDV IgM, unlike the high-titre responses seen in chronic HDV superinfection."
+    },
+    {
+      "id": 103,
+      "question": "Consider the following statements with regard to jaundice: I. Presence of scleral icterus indicates a serum bilirubin level of at least 3 mg/dL II. If the examiner suspects scleral icterus, second site to examine is underneath the tongue III. In long-standing jaundice, skin may become green due to reduction of bilirubin to biliverdin IV. Sclerae have a particular affinity for bilirubin due to its high elastin content",
+      "options": ["1 and 3 only", "2 and 4 only", "1, 2 and 4 only", "1, 2, 3 and 4"],
+      "correctAnswer": 2,
+      "explanation": "Scleral icterus appears at bilirubin ≥3 mg/dL, the sublingual area helps confirm icterus, and the sclera's affinity for bilirubin relates to its elastin content; skin turns green from oxidation of bilirubin to biliverdin (not reduction), making III incorrect."
+    },
+    {
+      "id": 104,
+      "question": "Carotenoderma, due to ingestion of excessive amounts of carotene-containing fruits and vegetables, can be distinguished from jaundice by sparing of which of the following?",
+      "options": ["Palms", "Soles", "Nasolabial folds", "Sclerae"],
+      "correctAnswer": 3,
+      "explanation": "In carotenoderma, carotene deposits in the skin but spares the sclerae, distinguishing it from true jaundice with scleral icterus."
+    },
+    {
+      "id": 105,
+      "question": "Meares-Stamey test is used in which one of the following clinical conditions?",
+      "options": ["Recurrent urinary tract infection in men", "Urinary tract infection in pregnant women", "Complicated cystitis in non-pregnant women", "Pelvic inflammatory disease"],
+      "correctAnswer": 0,
+      "explanation": "The Meares-Stamey test localizes infection in men with recurrent UTI or suspected chronic bacterial prostatitis."
+    },
+    {
+      "id": 106,
+      "question": "Which one of the following drugs is associated with calciphylaxis in chronic kidney disease patients?",
+      "options": ["Calcium channel blocker", "Warfarin", "Non-calcium-based phosphate binder", "Thiazide diuretic"],
+      "correctAnswer": 1,
+      "explanation": "Warfarin is a recognized risk factor for calciphylaxis in CKD patients, as it inhibits vitamin K-dependent matrix Gla protein that normally prevents vascular calcification."
+    },
+    {
+      "id": 107,
+      "question": "Consider the following pairs (Urinary sediments seen in AKI: Diagnosis): 1. RBC casts: Malignant hypertension 2. WBC casts: Pyelonephritis 3. Pigmented casts: Vasculitis 4. Granular casts: Myoglobinuria. How many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "Only three pairs", "All four pairs"],
+      "correctAnswer": 2,
+      "explanation": "RBC casts with malignant hypertension, WBC casts with pyelonephritis, and (muddy brown) granular casts with myoglobinuria are correctly matched; the pigmented cast-vasculitis pairing is the incorrect one, giving three correct pairs."
+    },
+    {
+      "id": 108,
+      "question": "Which one of the following is the primary underlying mechanism of haemolysis in paroxysmal nocturnal haemoglobinuria (PNH)?",
+      "options": ["ABO incompatibility", "Red cell fragmentation", "Complement-mediated destruction of CD59(-) red blood cells", "Exotoxins produced by Clostridium perfringens"],
+      "correctAnswer": 2,
+      "explanation": "PNH results from a PIGA gene mutation causing deficiency of GPI-anchored complement regulators like CD55 and CD59, leading to complement-mediated intravascular hemolysis."
+    },
+    {
+      "id": 109,
+      "question": "Which one of the following is a clonal haematopoietic stem cell disorder in which phenotypically normal red blood cells, granulocytes and platelets accumulate in the absence of a recognizable physiological stimulus?",
+      "options": ["Mastocytosis", "Polycythemia vera", "Primary myelofibrosis", "Essential thrombocytosis"],
+      "correctAnswer": 1,
+      "explanation": "Polycythemia vera is a clonal myeloproliferative disorder with autonomous proliferation of phenotypically normal blood cell lines independent of physiological stimuli."
+    },
+    {
+      "id": 110,
+      "question": "Which of the following insulins has a cloudy preparation and requires resuspension prior to injection?",
+      "options": ["Lente", "Glargine", "Detemir", "Degludec"],
+      "correctAnswer": 0,
+      "explanation": "Lente insulin is a cloudy suspension requiring resuspension before injection, unlike the clear solutions of glargine, detemir, and degludec."
+    },
+    {
+      "id": 111,
+      "question": "Which of the following are typical physical findings in pericardial effusion? I. Raised JVP II. Hypotension III. Oliguria IV. Water hammer pulse",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 0,
+      "explanation": "Raised JVP, hypotension, and oliguria are typical findings in significant pericardial effusion/tamponade; water hammer pulse is characteristic of aortic regurgitation instead."
+    },
+    {
+      "id": 112,
+      "question": "Which of the following conditions can produce a third heart sound (S3) on auscultation? I. Young age II. Pregnancy III. Left ventricular failure IV. Mitral stenosis",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 0,
+      "explanation": "A physiological S3 occurs in young healthy individuals and pregnancy, while a pathological S3 occurs in LV failure; mitral stenosis is associated with an opening snap, not S3."
+    },
+    {
+      "id": 113,
+      "question": "Which of the following statements are true about PR interval? I. It denotes atrial depolarization II. Normal duration is 0.12 second-0.20 second III. Prolongation denotes impaired AV nodal conduction IV. A short PR interval occurs in WPW syndrome",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 3,
+      "explanation": "Normal PR duration is 0.12-0.20s, prolongation reflects impaired AV nodal conduction, and shortened PR occurs in pre-excitation (WPW); the PR interval reflects both atrial depolarization and AV conduction delay, not atrial depolarization alone, making statement I the incorrect one."
+    },
+    {
+      "id": 114,
+      "question": "Which one of the following is the drug of choice for the treatment of schistosomiasis?",
+      "options": ["Doxycycline", "Praziquantel", "Albendazole", "Ivermectin"],
+      "correctAnswer": 1,
+      "explanation": "Praziquantel is the drug of choice for treating all species of schistosomiasis."
+    },
+    {
+      "id": 115,
+      "question": "Which of the following opportunistic systemic mycoses is characterized by rapid development of severe tissue necrosis and emerged as specific complication associated with COVID-19 infection in India?",
+      "options": ["Histoplasmosis", "Mucormycosis", "Coccidioidomycosis", "Sporotrichosis"],
+      "correctAnswer": 1,
+      "explanation": "Mucormycosis, an angioinvasive fungal infection causing rapid tissue necrosis, emerged as a notable complication in COVID-19 patients in India."
+    },
+    {
+      "id": 116,
+      "question": "Which of the following fungal infections is caused by dermal inoculation of the fungal agent, usually from a thorn?",
+      "options": ["Mycetoma", "Aspergillosis", "Mucormycosis", "Sporotrichosis"],
+      "correctAnswer": 3,
+      "explanation": "Sporotrichosis classically results from traumatic dermal inoculation of Sporothrix schenckii, often via a thorn prick ('rose gardener's disease')."
+    },
+    {
+      "id": 117,
+      "question": "Consider the following statements with regard to coccidioidomycosis: I. It is a primary systemic mycosis caused by dimorphic fungi Coccidioides immitis and Coccidioides posadasii II. Primary pulmonary coccidioidomycosis presents with cough, fever, chest pain and arthritis III. Progressive pulmonary coccidioidomycosis presents with constitutional symptoms like fever, weight loss, anorexia and features of lobar pneumonia IV. Coccidioides meningitis is a mild disease, not warranting any treatment",
+      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+      "correctAnswer": 0,
+      "explanation": "Coccidioidomycosis is caused by C. immitis and C. posadasii with the described pulmonary presentations; however, Coccidioides meningitis is a serious, often fatal disease requiring prolonged antifungal therapy, not a mild self-limited condition."
+    },
+    {
+      "id": 118,
+      "question": "Consider the following statements with regard to elapid snakebite: I. Regardless of the anatomic site of bite, walking of victim should be discouraged II. Pressure immobilization should be used, wherever possible III. Ptosis can be present after the elapid bite",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "correctAnswer": 3,
+      "explanation": "Walking should be discouraged regardless of bite site, pressure immobilization delays neurotoxin absorption, and ptosis is a classic neurotoxic sign of elapid envenomation — all three statements are correct."
+    },
+    {
+      "id": 119,
+      "question": "Which one of the following hormones is responsible for gallbladder contraction and release of bile into duodenum?",
+      "options": ["Secretin", "Gastrin", "Cholecystokinin", "Vasoactive intestinal peptide"],
+      "correctAnswer": 2,
+      "explanation": "Cholecystokinin (CCK) stimulates gallbladder contraction and sphincter of Oddi relaxation, releasing bile into the duodenum."
+    },
+    {
+      "id": 120,
+      "question": "Consider the following statements regarding radiation enteritis and proctocolitis: I. Diarrhoea in the acute phase should be treated with codeine or loperamide II. Surgery is the treatment of choice and involves resection of the injured intestine III. Sucralfate enemas and hyperbaric oxygen are effective treatments IV. Small bowel strictures and rectovaginal fistulae may develop as chronic complications",
+      "options": ["1 and 3 only", "2 and 4 only", "1, 2 and 4", "1, 3 and 4"],
+      "correctAnswer": 3,
+      "explanation": "Acute radiation diarrhoea is managed with antimotility agents, sucralfate enemas and hyperbaric oxygen treat chronic radiation proctitis, and strictures/fistulae are recognized chronic complications; surgery is reserved for complications rather than being the primary treatment of choice."
+    }
 ]
