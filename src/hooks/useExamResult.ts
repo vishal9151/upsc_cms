@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import { useParams } from 'react-router-dom'
 import { loadExamResult } from '@/utils/resultStorage'
-import { getPaperQuestions } from '@/utils/paperData'
+import { resolveExamQuestions } from '@/utils/questionResolver'
 
 export function useExamResult() {
   const { year, paper } = useParams<{ year: string; paper: string }>()
@@ -11,7 +11,7 @@ export function useExamResult() {
     const result = loadExamResult(year, paper)
     if (!result) return null
 
-    const questions = getPaperQuestions(year, paper)
+    const questions = resolveExamQuestions(year, paper)
 
     return { ...result, questions }
   }, [year, paper])

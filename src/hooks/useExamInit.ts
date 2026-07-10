@@ -1,24 +1,45 @@
-import { useCallback, useEffect, useState } from 'react'
-import { useLocation, useParams, useSearchParams } from 'react-router-dom'
+import { useCallback, useLayoutEffect, useState } from 'react'
+import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { useExamStore } from '@/store/examStore'
+import type { ExamMeta } from '@/types/exam'
 import type { PersistedExamState } from '@/types/persistence'
+import { CUSTOM_EXAM_YEAR } from '@/types/practice'
 import { deleteExam, isUnfinishedExam, loadExam } from '@/utils/examStorage'
-import { getPaperQuestions } from '@/utils/paperData'
-
-type InitStatus = 'loading' | 'resume-prompt' | 'ready'
+import {
+  isCustomExamYear,
+  loadPracticeConfig,
+} from '@/utils/practiceStorage'
+import { resolveExamQuestions } from '@/utils/questionResolver'
 
 type ResumeAction = 'continue' | 'fresh'
+
+function buildExamMeta(year: string, paper: string): ExamMeta {
+  if (isCustomExamYear(year)) {
+    const config = loadPracticeConfig(paper)
+    return {
+      year,
+      paper,
+      examMode: 'practice',
+      isTimed: false,
+      practiceLabel: config?.label,
+    }
+  }
+  return { year, paper, examMode: 'pyq', isTimed: true }
+}
 
 export function useExamInit() {
   const { year, paper } = useParams<{ year: string; paper: string }>()
   const [searchParams] = useSearchParams()
   const location = useLocation()
+  const navigate = useNavigate()
   const initExam = useExamStore((s) => s.initExam)
   const restoreExam = useExamStore((s) => s.restoreExam)
   const reset = useExamStore((s) => s.reset)
+  const setHydrated = useExamStore((s) => s.setHydrated)
   const examStarted = useExamStore((s) => s.examStarted)
+  const isHydrated = useExamStore((s) => s.isHydrated)
 
-  const [status, setStatus] = useState<InitStatus>('loading')
+  const [needsResume, setNeedsResume] = useState(false)
   const [savedExam, setSavedExam] = useState<PersistedExamState | null>(null)
 
   const forceNew =
@@ -31,68 +52,92 @@ export function useExamInit() {
 
   const startFresh = useCallback(() => {
     if (!year || !paper) return
-    const questions = getPaperQuestions(year, paper)
+    const questions = resolveExamQuestions(year, paper)
     if (questions.length === 0) return
     deleteExam(year, paper)
-    initExam({ year, paper }, questions)
-    setStatus('ready')
+    initExam(buildExamMeta(year, paper), questions)
+    setNeedsResume(false)
     setSavedExam(null)
   }, [year, paper, initExam])
 
   const continueExam = useCallback(() => {
     if (!year || !paper) return
     const saved = loadExam(year, paper)
-    const questions = getPaperQuestions(year, paper)
+    const questions = resolveExamQuestions(year, paper)
     if (!saved || questions.length === 0) return
-    restoreExam({ year, paper }, questions, saved)
-    setStatus('ready')
+    restoreExam(buildExamMeta(year, paper), questions, saved)
+    setNeedsResume(false)
     setSavedExam(null)
   }, [year, paper, restoreExam])
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     if (!year || !paper) return
 
-    const questions = getPaperQuestions(year, paper)
-    if (questions.length === 0) return
+    setNeedsResume(false)
+    setSavedExam(null)
+
+    const questions = resolveExamQuestions(year, paper)
+    if (questions.length === 0) {
+      reset()
+      if (isCustomExamYear(year)) {
+        navigate('/practice', { replace: true })
+      }
+      return
+    }
+
+    const meta = buildExamMeta(year, paper)
 
     if (forceNew || resumeAction === 'fresh') {
       deleteExam(year, paper)
-      initExam({ year, paper }, questions)
-      setStatus('ready')
-      setSavedExam(null)
-    } else {
-      const saved = loadExam(year, paper)
-      if (saved && isUnfinishedExam(saved)) {
-        if (resumeAction === 'continue') {
-          restoreExam({ year, paper }, questions, saved)
-          setStatus('ready')
-          setSavedExam(null)
-        } else {
-          setSavedExam(saved)
-          setStatus('resume-prompt')
-        }
-      } else {
-        initExam({ year, paper }, questions)
-        setStatus('ready')
-        setSavedExam(null)
-      }
+      initExam(meta, questions)
+      return
     }
 
-    return () => {
-      reset()
-      setStatus('loading')
-      setSavedExam(null)
+    const saved = loadExam(year, paper)
+    if (saved && isUnfinishedExam(saved)) {
+      if (resumeAction === 'continue') {
+        restoreExam(meta, questions, saved)
+      } else {
+        reset()
+        setSavedExam(saved)
+        setNeedsResume(true)
+        setHydrated(true)
+      }
+      return
     }
-  }, [year, paper, forceNew, resumeAction, initExam, restoreExam, reset])
+
+    initExam(meta, questions)
+  }, [
+    year,
+    paper,
+    forceNew,
+    resumeAction,
+    initExam,
+    restoreExam,
+    reset,
+    setHydrated,
+    navigate,
+  ])
+
+  const cancelResume = useCallback(() => {
+    reset()
+    if (year === CUSTOM_EXAM_YEAR) {
+      navigate('/practice')
+      return
+    }
+    navigate('/')
+  }, [year, navigate, reset])
 
   return {
     year: year ?? '',
     paper: paper ?? '',
     examStarted,
-    isHydrated: status !== 'loading',
-    needsResume: status === 'resume-prompt',
+    isHydrated,
+    needsResume,
     savedExam,
     continueExam,
     startFresh,
+    cancelResume,
+    isCustomExam: year ? isCustomExamYear(year) : false,
   }
 }

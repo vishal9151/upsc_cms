@@ -16,6 +16,7 @@ import {
   getPaperLabel,
   getPaperQuestionCount,
 } from '@/utils/paperData'
+import { CustomPracticeCard } from '@/components/practice/CustomPracticeCard'
 
 /** Papers shown on the homepage — uncomment entries to enable more. */
 const HOME_VISIBLE_PAPERS: { year: string; papers: ('paper1' | 'paper2')[] }[] = [
@@ -243,6 +244,14 @@ export function Home() {
         <p className="mx-auto mt-4 max-w-2xl text-lg text-gray-600 dark:text-gray-400">
           Practice previous year papers in a real examination environment.
         </p>
+      </motion.section>
+
+      <motion.section
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.4, delay: 0.05 }}
+      >
+        <CustomPracticeCard />
       </motion.section>
 
       <section className="flex flex-col gap-6">

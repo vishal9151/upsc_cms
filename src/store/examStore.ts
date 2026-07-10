@@ -1,6 +1,6 @@
 import { create } from 'zustand'
 import type { PersistedExamState } from '@/types/persistence'
-import type { ExamMeta, Question } from '@/types/exam'
+import type { ExamMeta, ExamMode, Question } from '@/types/exam'
 import {
   EXAM_DURATION_SECONDS,
   getAnsweredAndReviewIndices,
@@ -11,6 +11,9 @@ interface ExamStoreState {
   year: string
   paper: string
   questions: Question[]
+  examMode: ExamMode
+  isTimed: boolean
+  practiceLabel: string
 
   currentQuestionIndex: number
   answers: Record<number, number>
@@ -61,6 +64,9 @@ const initialState: ExamStoreState = {
   year: '',
   paper: '',
   questions: [],
+  examMode: 'pyq',
+  isTimed: true,
+  practiceLabel: '',
   currentQuestionIndex: 0,
   answers: {},
   visitedQuestions: [],
@@ -94,11 +100,16 @@ export const useExamStore = create<ExamStore>((set, get) => ({
 
   initExam: (meta, rawQuestions) => {
     const questions = preparePaperQuestions(rawQuestions)
+    const examMode = meta.examMode ?? 'pyq'
+    const isTimed = meta.isTimed ?? true
     set({
       ...initialState,
       year: meta.year,
       paper: meta.paper,
       questions,
+      examMode,
+      isTimed,
+      practiceLabel: meta.practiceLabel ?? '',
       totalQuestions: questions.length,
       examStarted: true,
       visitedQuestions: [0],
@@ -109,13 +120,21 @@ export const useExamStore = create<ExamStore>((set, get) => ({
 
   restoreExam: (meta, rawQuestions, saved) => {
     const questions = preparePaperQuestions(rawQuestions)
+    const examMode = meta.examMode ?? 'pyq'
+    const isTimed = meta.isTimed ?? true
     const timeExpired =
-      saved.examCompleted && saved.remainingTime === 0 && !saved.submitted
+      isTimed &&
+      saved.examCompleted &&
+      saved.remainingTime === 0 &&
+      !saved.submitted
     set({
       ...initialState,
       year: meta.year,
       paper: meta.paper,
       questions,
+      examMode,
+      isTimed,
+      practiceLabel: meta.practiceLabel ?? '',
       currentQuestionIndex: saved.currentQuestionIndex,
       answers: saved.answers,
       visitedQuestions: saved.visitedQuestions,
@@ -188,8 +207,8 @@ export const useExamStore = create<ExamStore>((set, get) => ({
   },
 
   tickTimer: () => {
-    const { remainingTime, examCompleted, submitted } = get()
-    if (examCompleted || submitted) return
+    const { remainingTime, examCompleted, submitted, isTimed } = get()
+    if (!isTimed || examCompleted || submitted) return
 
     if (remainingTime <= 1) {
       set({

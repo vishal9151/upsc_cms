@@ -5,10 +5,11 @@ export function useExamTimer() {
   const tickTimer = useExamStore((s) => s.tickTimer)
   const examStarted = useExamStore((s) => s.examStarted)
   const examCompleted = useExamStore((s) => s.examCompleted)
+  const isTimed = useExamStore((s) => s.isTimed)
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null)
 
   useEffect(() => {
-    if (!examStarted || examCompleted) return
+    if (!examStarted || examCompleted || !isTimed) return
 
     intervalRef.current = setInterval(() => {
       tickTimer()
@@ -19,5 +20,5 @@ export function useExamTimer() {
         clearInterval(intervalRef.current)
       }
     }
-  }, [examStarted, examCompleted, tickTimer])
+  }, [examStarted, examCompleted, isTimed, tickTimer])
 }

@@ -10,6 +10,7 @@ import { formatRelativeTime } from '@/utils/formatRelativeTime'
 interface ResumeModalProps {
   open: boolean
   savedExam: PersistedExamState
+  isTimed?: boolean
   onContinue: () => void
   onStartAgain: () => void
   onCancel: () => void
@@ -18,6 +19,7 @@ interface ResumeModalProps {
 export function ResumeModal({
   open,
   savedExam,
+  isTimed = true,
   onContinue,
   onStartAgain,
   onCancel,
@@ -58,17 +60,19 @@ export function ResumeModal({
               </p>
             </div>
           </div>
-          <div className="flex items-center gap-3 rounded-xl bg-gray-50 p-4 dark:bg-gray-800/50">
-            <Clock className="h-5 w-5 text-blue-600 dark:text-blue-400" />
-            <div>
-              <p className="text-sm text-gray-500 dark:text-gray-400">
-                Remaining Time
-              </p>
-              <p className="font-mono font-semibold text-gray-900 dark:text-gray-100">
-                {formatTime(savedExam.remainingTime)}
-              </p>
+          {isTimed && (
+            <div className="flex items-center gap-3 rounded-xl bg-gray-50 p-4 dark:bg-gray-800/50">
+              <Clock className="h-5 w-5 text-blue-600 dark:text-blue-400" />
+              <div>
+                <p className="text-sm text-gray-500 dark:text-gray-400">
+                  Remaining Time
+                </p>
+                <p className="font-mono font-semibold text-gray-900 dark:text-gray-100">
+                  {formatTime(savedExam.remainingTime)}
+                </p>
+              </div>
             </div>
-          </div>
+          )}
           <p className="text-sm text-gray-500 dark:text-gray-400">
             Last Saved: {formatRelativeTime(savedExam.lastUpdated)}
           </p>

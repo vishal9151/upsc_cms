@@ -17,10 +17,12 @@ import {
 import { QuestionAnalysis } from '@/components/result/QuestionAnalysis'
 import { ResultCharts } from '@/components/result/ResultCharts'
 import { useExamResult } from '@/hooks/useExamResult'
+import { getExamSubtitle } from '@/utils/examDisplay'
 import { formatTime } from '@/utils/examHelpers'
-import { getPaperLabel } from '@/utils/paperData'
+import { isCustomExamYear, loadPracticeConfig } from '@/utils/practiceStorage'
 import { deleteExamResult } from '@/utils/resultStorage'
 import { deleteExam } from '@/utils/examStorage'
+import { regeneratePracticeTest } from '@/utils/practiceGenerator'
 
 export function Result() {
   const data = useExamResult()
@@ -50,11 +52,32 @@ export function Result() {
 
   const { summary, questionResults, year, paper, markedForReview } = data
 
+  const isCustom = isCustomExamYear(year)
+
   const handleRetake = () => {
     deleteExam(year, paper)
     deleteExamResult(year, paper)
     setShowRetakeConfirm(false)
+    if (isCustom) {
+      const config = loadPracticeConfig(paper)
+      if (config) {
+        navigate(`/exam/${year}/${paper}?new=true`)
+        return
+      }
+    }
     navigate(`/exam/${year}/${paper}?new=true`)
+  }
+
+  const handleNewShuffle = () => {
+    const config = loadPracticeConfig(paper)
+    if (!config) return
+    deleteExam(year, paper)
+    deleteExamResult(year, paper)
+    setShowRetakeConfirm(false)
+    const newConfig = regeneratePracticeTest(config.filters)
+    if (newConfig) {
+      navigate(`/practice/${newConfig.testId}/instructions`)
+    }
   }
 
   return (
@@ -69,9 +92,9 @@ export function Result() {
           Test Results
         </h1>
         <p className="mt-2 text-gray-600 dark:text-gray-400">
-          {year} &middot; {getPaperLabel(paper)}
+          {getExamSubtitle(year, paper)}
         </p>
-        {autoSubmitted && (
+        {autoSubmitted && !isCustom && (
           <p className="mt-2 text-sm text-amber-600 dark:text-amber-400">
             Time is over. Your test was submitted automatically.
           </p>
@@ -101,10 +124,14 @@ export function Result() {
             color="text-red-600 dark:text-red-400"
           />
           <StatItem label="Skipped" value={summary.skipped} />
-          <StatItem
-            label="Time Taken"
-            value={formatTime(summary.timeTakenSeconds)}
-          />
+          {isCustom ? (
+            <StatItem label="Mode" value="Untimed" />
+          ) : (
+            <StatItem
+              label="Time Taken"
+              value={formatTime(summary.timeTakenSeconds)}
+            />
+          )}
         </div>
         <div className="mt-2 flex items-center justify-center gap-2 text-gray-600 dark:text-gray-400">
           <Target className="h-4 w-4" />
@@ -147,6 +174,15 @@ export function Result() {
           <RotateCcw className="h-4 w-4" />
           Retake Test
         </Button>
+        {isCustom && (
+          <Button
+            variant="outline"
+            className="w-full sm:w-auto"
+            onClick={handleNewShuffle}
+          >
+            New Shuffle
+          </Button>
+        )}
         <Link to="/">
           <Button variant="outline" className="min-h-11 w-full sm:w-auto">
             <Home className="h-4 w-4" />

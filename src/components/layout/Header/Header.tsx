@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { GraduationCap } from 'lucide-react'
+import { ClearDataButton } from '@/components/layout/ClearDataButton'
 import { Container } from '@/components/ui/Container'
 import { ThemeToggle } from '@/components/layout/ThemeToggle'
 
@@ -15,7 +16,10 @@ export function Header() {
             <GraduationCap className="h-6 w-6 text-blue-600 dark:text-blue-400" />
             <span>UPSC CMS Practice</span>
           </Link>
-          <ThemeToggle />
+          <div className="flex items-center gap-2">
+            <ClearDataButton />
+            <ThemeToggle />
+          </div>
         </div>
       </Container>
     </header>

@@ -14,7 +14,9 @@ export function submitCurrentExam(autoSubmitted = false) {
     return null
   }
 
-  const timeTakenSeconds = EXAM_DURATION_SECONDS - state.remainingTime
+  const timeTakenSeconds = state.isTimed
+    ? EXAM_DURATION_SECONDS - state.remainingTime
+    : 0
 
   const result = processExamSubmission({
     year: state.year,

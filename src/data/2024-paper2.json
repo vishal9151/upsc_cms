@@ -2,841 +2,1832 @@
   {
     "id": 1,
     "question": "Which of the following are risk factors for wound infection? I. Malnutrition II. Poor perfusion III. Antibodies IV. Foreign body material",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "Malnutrition, poor perfusion, and foreign body material impair wound healing and host defence, predisposing to infection; antibodies are part of the immune defence and do not predispose to infection."
+    "explanation": "Malnutrition, poor perfusion, and foreign body material impair wound healing and host defence, predisposing to infection; antibodies are part of the immune defence and do not predispose to infection.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 2,
     "question": "Which types of cancer are associated with exposure to ionizing radiation? I. Leukaemia II. Lung cancer III. Breast cancer IV. Lymphoma",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Ionizing radiation is a well-established risk factor for leukaemia, breast cancer, and lymphoma; lung cancer is more classically linked to radon/smoking rather than general ionizing radiation exposure in this context."
+    "explanation": "Ionizing radiation is a well-established risk factor for leukaemia, breast cancer, and lymphoma; lung cancer is more classically linked to radon/smoking rather than general ionizing radiation exposure in this context.",
+    "subject_keys": [
+      "pathology"
+    ]
   },
   {
     "id": 3,
     "question": "Which of the following are correct regarding Li-Fraumeni syndrome? I. It has autosomal dominant inheritance and is associated with P53 gene II. It has autosomal recessive inheritance and is associated with P53 gene III. It is associated with an increased risk of sarcomas and leukaemia IV. It is associated with an increased risk of brain tumours and osteosarcomas",
-    "options": ["2, 3 and 4", "1, 3 and 4", "1 and 4 only", "1 and 3 only"],
+    "options": [
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1 and 4 only",
+      "1 and 3 only"
+    ],
     "correctAnswer": 1,
-    "explanation": "Li-Fraumeni syndrome is an autosomal dominant condition due to germline TP53 mutation, associated with increased risk of sarcomas, leukaemia, brain tumours, and osteosarcomas; it is not autosomal recessive."
+    "explanation": "Li-Fraumeni syndrome is an autosomal dominant condition due to germline TP53 mutation, associated with increased risk of sarcomas, leukaemia, brain tumours, and osteosarcomas; it is not autosomal recessive.",
+    "subject_keys": [
+      "pathology",
+      "orthopedics"
+    ]
   },
   {
     "id": 4,
     "question": "A 48-year-old smoker presents to the OPD with complaints of cramping pain in both the calves on walking to about 100-150 metres. The pain is relieved on taking rest for about 2-3 minutes and the patient is able to walk for some more distance again before the pain appears. This presentation is suggestive of",
-    "options": ["muscular fatigue", "osteoarthritis of the knee", "intermittent claudication", "neurogenic claudication"],
+    "options": [
+      "muscular fatigue",
+      "osteoarthritis of the knee",
+      "intermittent claudication",
+      "neurogenic claudication"
+    ],
     "correctAnswer": 2,
-    "explanation": "Reproducible calf pain on walking a fixed distance, relieved by rest within minutes, in a smoker, is classic for intermittent claudication due to peripheral arterial disease."
+    "explanation": "Reproducible calf pain on walking a fixed distance, relieved by rest within minutes, in a smoker, is classic for intermittent claudication due to peripheral arterial disease.",
+    "subject_keys": [
+      "orthopedics"
+    ]
   },
   {
     "id": 5,
     "question": "A midline neck swelling just below the hyoid bone and managed by Sistrunk's operation leads to postoperative need for thyroxine replacement. The most likely diagnosis is",
-    "options": ["lateral aberrant thyroid", "thyroglossal cyst", "solitary thyroid nodule", "thyroglossal cyst with only functioning thyroid tissue"],
+    "options": [
+      "lateral aberrant thyroid",
+      "thyroglossal cyst",
+      "solitary thyroid nodule",
+      "thyroglossal cyst with only functioning thyroid tissue"
+    ],
     "correctAnswer": 3,
-    "explanation": "If postoperative thyroxine replacement is needed after excision of a thyroglossal cyst, it implies the ectopic thyroid tissue within the cyst was the patient's only functioning thyroid tissue."
+    "explanation": "If postoperative thyroxine replacement is needed after excision of a thyroglossal cyst, it implies the ectopic thyroid tissue within the cyst was the patient's only functioning thyroid tissue.",
+    "subject_keys": [
+      "ent"
+    ]
   },
   {
     "id": 6,
     "question": "A 40-year-old smoker presents with soreness of tongue since last 2 months. On examination, it is found that the oral hygiene is poor and there is a white plaque over the lateral border of the tongue. What is the next step in the management of this patient?",
-    "options": ["Oral vitamin C supplementation", "Oral antifungal treatment", "Edge biopsy of the lesion", "Local topical cauterization"],
+    "options": [
+      "Oral vitamin C supplementation",
+      "Oral antifungal treatment",
+      "Edge biopsy of the lesion",
+      "Local topical cauterization"
+    ],
     "correctAnswer": 2,
-    "explanation": "A persistent white plaque (leukoplakia) in a smoker is a potentially premalignant lesion, so the next step is edge biopsy to rule out dysplasia or malignancy before other management."
+    "explanation": "A persistent white plaque (leukoplakia) in a smoker is a potentially premalignant lesion, so the next step is edge biopsy to rule out dysplasia or malignancy before other management.",
+    "subject_keys": [
+      "pathology",
+      "ent"
+    ]
   },
   {
     "id": 7,
     "question": "Consider the following causes of visual loss: I. Obstruction of the central retinal artery II. Vitreous and retinal haemorrhage III. Cataract IV. Retinal detachment. Which of the above causes are associated with acute visual loss in a patient?",
-    "options": ["1, 2 and 3", "1, 3 and 4", "1, 2 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 3 and 4",
+      "1, 2 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Central retinal artery obstruction, vitreous/retinal haemorrhage, and retinal detachment cause sudden acute visual loss; cataract typically causes gradual, progressive visual loss."
+    "explanation": "Central retinal artery obstruction, vitreous/retinal haemorrhage, and retinal detachment cause sudden acute visual loss; cataract typically causes gradual, progressive visual loss.",
+    "subject_keys": [
+      "ophthalmology"
+    ]
   },
   {
     "id": 8,
     "question": "A 60-year-old lady presents with a recent onset increase in a long standing swelling on the front of the neck. The swelling, which was small, had been present since last 30 years, but has now increased to more than twice the size in the last 2 months. On examination, the swelling is firm to hard in consistency and moves with deglutition. What is the most likely cause of this clinical presentation?",
-    "options": ["Cystic degeneration", "Haemorrhage", "Malignant transformation", "Myxomatous transformation"],
+    "options": [
+      "Cystic degeneration",
+      "Haemorrhage",
+      "Malignant transformation",
+      "Myxomatous transformation"
+    ],
     "correctAnswer": 2,
-    "explanation": "Rapid enlargement of a long-standing goitre with firm to hard consistency in an elderly patient raises strong suspicion of malignant transformation."
+    "explanation": "Rapid enlargement of a long-standing goitre with firm to hard consistency in an elderly patient raises strong suspicion of malignant transformation.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 9,
     "question": "Which of the following chromosomal abnormalities are associated with brain tumours? I. Neurofibromatosis type 1 II. Neurofibromatosis type 2 III. Peutz-Jeghers syndrome IV. Hereditary nonpolyposis colorectal cancer",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "NF1 and NF2 are classically associated with brain tumours (gliomas, acoustic neuromas, meningiomas), and HNPCC (Turcot syndrome) is associated with brain tumours as well; Peutz-Jeghers syndrome is primarily linked to GI and other cancers, not brain tumours."
+    "explanation": "NF1 and NF2 are classically associated with brain tumours (gliomas, acoustic neuromas, meningiomas), and HNPCC (Turcot syndrome) is associated with brain tumours as well; Peutz-Jeghers syndrome is primarily linked to GI and other cancers, not brain tumours.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 10,
     "question": "Which one of the following is correct regarding \"witch's milk\"?",
-    "options": ["It is seen in full-term infants.", "It is seen only in preterm infants.", "It is caused by stimulation of foetal breast by progesterone.", "It is caused by stimulation of foetal breast by calcitonin."],
+    "options": [
+      "It is seen in full-term infants.",
+      "It is seen only in preterm infants.",
+      "It is caused by stimulation of foetal breast by progesterone.",
+      "It is caused by stimulation of foetal breast by calcitonin."
+    ],
     "correctAnswer": 0,
-    "explanation": "Witch's milk is a benign secretion seen in full-term neonates due to withdrawal of maternal hormones after birth, not specific to preterm infants."
+    "explanation": "Witch's milk is a benign secretion seen in full-term neonates due to withdrawal of maternal hormones after birth, not specific to preterm infants.",
+    "subject_keys": [
+      "physiology",
+      "pediatrics"
+    ]
   },
   {
     "id": 11,
     "question": "Which of the following statements are correct regarding Barrett's oesophagus? I. It is a metaplastic change II. It is a risk factor for development of adenocarcinoma III. Ingestion of NSAIDs is the aetiological factor for its development IV. Endoscopic mucosal resection is an effective treatment",
-    "options": ["1, 2 and 3", "2, 3 and 4", "1, 2 and 4", "1, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "1, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Barrett's oesophagus is a metaplastic change caused by chronic GERD, is a risk factor for adenocarcinoma, and endoscopic mucosal resection is an effective treatment for dysplastic lesions; NSAID ingestion is not its aetiology."
+    "explanation": "Barrett's oesophagus is a metaplastic change caused by chronic GERD, is a risk factor for adenocarcinoma, and endoscopic mucosal resection is an effective treatment for dysplastic lesions; NSAID ingestion is not its aetiology.",
+    "subject_keys": [
+      "pathology",
+      "pharmacology"
+    ]
   },
   {
     "id": 12,
     "question": "Which among the following are complications of liver trauma? I. Liver abscess II. Biliary fistula III. Portal thrombosis IV. Liver failure",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "Liver abscess, biliary fistula, and liver failure are recognized complications of hepatic trauma; portal vein thrombosis is not a typical direct complication."
+    "explanation": "Liver abscess, biliary fistula, and liver failure are recognized complications of hepatic trauma; portal vein thrombosis is not a typical direct complication.",
+    "subject_keys": [
+      "anatomy",
+      "pathology"
+    ]
   },
   {
     "id": 13,
     "question": "Which of the following are local complications of acute pancreatitis? I. Pseudocyst II. Pleural effusion III. Ileus IV. Acute fluid collection",
-    "options": ["1, 2 and 3", "2, 3 and 4", "1, 2 and 4", "1, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "1, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Pseudocyst, pleural effusion, and acute fluid collection are recognized local complications of acute pancreatitis; ileus is a more generalized/systemic effect rather than a classic local complication."
+    "explanation": "Pseudocyst, pleural effusion, and acute fluid collection are recognized local complications of acute pancreatitis; ileus is a more generalized/systemic effect rather than a classic local complication.",
+    "subject_keys": [
+      "general_medicine",
+      "general_surgery"
+    ]
   },
   {
     "id": 14,
     "question": "Which of the following are risk factors for the development of pancreatic cancer? I. Cigarette smoking II. Diabetes mellitus III. Caucasian ethnicity IV. Male gender",
-    "options": ["1, 2 and 3", "2, 3 and 4", "1, 2 and 4", "1, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "1, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Cigarette smoking, diabetes mellitus, and male gender are established risk factors for pancreatic cancer; ethnicity as a specific isolated risk factor is not typically emphasized in this way."
+    "explanation": "Cigarette smoking, diabetes mellitus, and male gender are established risk factors for pancreatic cancer; ethnicity as a specific isolated risk factor is not typically emphasized in this way.",
+    "subject_keys": [
+      "general_medicine"
+    ]
   },
   {
     "id": 15,
     "question": "Which of the following are metabolic causes of splenic enlargement?",
-    "options": ["Rickets and Still's disease", "Amyloid and Gaucher's disease", "Porphyria and Felty's syndrome", "Myelofibrosis and Weil's disease"],
+    "options": [
+      "Rickets and Still's disease",
+      "Amyloid and Gaucher's disease",
+      "Porphyria and Felty's syndrome",
+      "Myelofibrosis and Weil's disease"
+    ],
     "correctAnswer": 1,
-    "explanation": "Amyloidosis and Gaucher's disease are classic metabolic/storage causes of splenomegaly; the other pairings mix in non-metabolic causes such as autoimmune or infectious conditions."
+    "explanation": "Amyloidosis and Gaucher's disease are classic metabolic/storage causes of splenomegaly; the other pairings mix in non-metabolic causes such as autoimmune or infectious conditions.",
+    "subject_keys": [
+      "pathology",
+      "general_medicine",
+      "orthopedics"
+    ]
   },
   {
     "id": 16,
     "question": "Which one of the following statements is correct about mesenteric cysts?",
-    "options": ["It occurs most commonly in children less than 18 years of age.", "It is more common in males as compared to females.", "It presents most commonly as a painless abdominal swelling.", "Percutaneous aspiration with injection of sclerosant is the preferred treatment option."],
+    "options": [
+      "It occurs most commonly in children less than 18 years of age.",
+      "It is more common in males as compared to females.",
+      "It presents most commonly as a painless abdominal swelling.",
+      "Percutaneous aspiration with injection of sclerosant is the preferred treatment option."
+    ],
     "correctAnswer": 2,
-    "explanation": "Mesenteric cysts most commonly present as a painless, slowly enlarging abdominal swelling; surgical excision, not sclerotherapy, is the preferred treatment."
+    "explanation": "Mesenteric cysts most commonly present as a painless, slowly enlarging abdominal swelling; surgical excision, not sclerotherapy, is the preferred treatment.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 17,
     "question": "Which of the following are features of umbilical hernia in adults? I. Patients are commonly overweight with a thinned and attenuated midline raphe II. Most patients complain of pain due to tissue tension III. Men are affected more commonly than women IV. Hernia repair can be done by the technique described by Mayo",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "Adult umbilical hernias commonly occur in overweight patients with an attenuated midline raphe, can cause pain from tissue tension, and are repaired using the Mayo technique; women are affected more commonly than men, not the reverse."
+    "explanation": "Adult umbilical hernias commonly occur in overweight patients with an attenuated midline raphe, can cause pain from tissue tension, and are repaired using the Mayo technique; women are affected more commonly than men, not the reverse.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 18,
     "question": "What is the most common cause of perforation of the oesophagus?",
-    "options": ["Barotrauma", "Mediastinitis", "Iatrogenic infection", "Malignancy"],
+    "options": [
+      "Barotrauma",
+      "Mediastinitis",
+      "Iatrogenic infection",
+      "Malignancy"
+    ],
     "correctAnswer": 0,
-    "explanation": "Boerhaave's syndrome (barotrauma from forceful vomiting) and other barotrauma mechanisms are classic causes; iatrogenic instrumentation is often the overall most common cause in modern practice but among the listed options barotrauma is the key answer."
+    "explanation": "Boerhaave's syndrome (barotrauma from forceful vomiting) and other barotrauma mechanisms are classic causes; iatrogenic instrumentation is often the overall most common cause in modern practice but among the listed options barotrauma is the key answer.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 19,
     "question": "Which of the following are stages of damage control surgery? I. Patient's selection II. Control of haemorrhage III. Resuscitation in ICU IV. Preventive surgery",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
-    "explanation": "Damage control surgery stages include patient selection, initial control of haemorrhage and contamination, and resuscitation in ICU before definitive repair; 'preventive surgery' is not a recognized stage."
+    "explanation": "Damage control surgery stages include patient selection, initial control of haemorrhage and contamination, and resuscitation in ICU before definitive repair; 'preventive surgery' is not a recognized stage.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 20,
     "question": "Which of the following statements are correct regarding renal cell carcinoma? I. It arises from the epithelium of the proximal convoluted tubule II. It has a female preponderance III. Major subtypes are clear cell, papillary and chromophobe IV. Surgery is the mainstay of treatment for organ-confined disease",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Renal cell carcinoma arises from proximal convoluted tubule epithelium, has clear cell/papillary/chromophobe as major subtypes, and surgery is the mainstay for organ-confined disease; it has a male, not female, preponderance."
+    "explanation": "Renal cell carcinoma arises from proximal convoluted tubule epithelium, has clear cell/papillary/chromophobe as major subtypes, and surgery is the mainstay for organ-confined disease; it has a male, not female, preponderance.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 21,
     "question": "Which of the following are features of autosomal dominant polycystic kidney disease? I. Cyst may also occur in liver, pancreas and arachnoid membrane II. Most commonly manifests between 20-30 years of age III. Clinical manifestations are renal and extrarenal IV. Men tend to progress to renal failure more rapidly than women",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "ADPKD is associated with cysts in liver, pancreas, and arachnoid membrane, has both renal and extrarenal manifestations, and men progress to renal failure more rapidly; onset of clinical manifestations is usually later, around 30-40 years, not 20-30 years."
+    "explanation": "ADPKD is associated with cysts in liver, pancreas, and arachnoid membrane, has both renal and extrarenal manifestations, and men progress to renal failure more rapidly; onset of clinical manifestations is usually later, around 30-40 years, not 20-30 years.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 22,
     "question": "Extracorporal Shock Wave Lithotripsy (ESWL) is most commonly used for the treatment of",
-    "options": ["gallbladder stones", "urinary tract stones", "salivary gland stones", "abdominal stony-hard tumour"],
+    "options": [
+      "gallbladder stones",
+      "urinary tract stones",
+      "salivary gland stones",
+      "abdominal stony-hard tumour"
+    ],
     "correctAnswer": 1,
-    "explanation": "ESWL is the standard non-invasive technique used for fragmenting urinary tract (renal and ureteric) stones."
+    "explanation": "ESWL is the standard non-invasive technique used for fragmenting urinary tract (renal and ureteric) stones.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 23,
     "question": "Consider the following clinical features: I. Raised ICP II. Seizures III. Focal deficit IV. Headache. Which of the above clinical features are related to most brain tumours?",
-    "options": ["1, 2, 3 and 4", "1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only"],
+    "options": [
+      "1, 2, 3 and 4",
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only"
+    ],
     "correctAnswer": 0,
-    "explanation": "Brain tumours can present with a combination of raised ICP, seizures, focal neurological deficits, and headache, depending on tumour location and size."
+    "explanation": "Brain tumours can present with a combination of raised ICP, seizures, focal neurological deficits, and headache, depending on tumour location and size.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 24,
     "question": "The most common type of brain tumours associated with neurofibromatosis type 1 brain tumour syndrome is",
-    "options": ["astrocytoma", "acoustic neuroma", "meningioma", "medulloblastoma"],
+    "options": [
+      "astrocytoma",
+      "acoustic neuroma",
+      "meningioma",
+      "medulloblastoma"
+    ],
     "correctAnswer": 0,
-    "explanation": "NF1 is most commonly associated with astrocytomas, particularly optic pathway gliomas, whereas acoustic neuromas and meningiomas are more typical of NF2."
+    "explanation": "NF1 is most commonly associated with astrocytomas, particularly optic pathway gliomas, whereas acoustic neuromas and meningiomas are more typical of NF2.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 25,
     "question": "Which of the following are correct for herniation via foramen of Morgagni? I. It occurs posteriorly in chest II. Transverse colon is the commonest content III. Defect is between sternal and costal attachments IV. It is a type of congenital hernia",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 3,
-    "explanation": "Morgagni hernia occurs anteriorly (not posteriorly), most commonly contains transverse colon, has a defect between sternal and costal attachments of the diaphragm, and is a congenital hernia."
+    "explanation": "Morgagni hernia occurs anteriorly (not posteriorly), most commonly contains transverse colon, has a defect between sternal and costal attachments of the diaphragm, and is a congenital hernia.",
+    "subject_keys": [
+      "anatomy",
+      "general_surgery"
+    ]
   },
   {
     "id": 26,
     "question": "A 40-year-old lady complains of progressive deformities of her hands and fingers associated with stiffness which is present in both the hands and improves as the day progresses. On examination, there is symmetrical involvement of hands and fingers of both the upper limbs with flexion and ulnar deviation at the metacarpophalangeal joints. What is the most likely diagnosis in this lady?",
-    "options": ["Osteoarthritis", "Ankylosing spondylitis", "Rheumatoid arthritis", "Tenosynovitis"],
+    "options": [
+      "Osteoarthritis",
+      "Ankylosing spondylitis",
+      "Rheumatoid arthritis",
+      "Tenosynovitis"
+    ],
     "correctAnswer": 2,
-    "explanation": "Symmetrical small joint involvement with morning stiffness improving through the day, and MCP flexion with ulnar deviation, is classic for rheumatoid arthritis."
+    "explanation": "Symmetrical small joint involvement with morning stiffness improving through the day, and MCP flexion with ulnar deviation, is classic for rheumatoid arthritis.",
+    "subject_keys": [
+      "general_medicine",
+      "orthopedics"
+    ]
   },
   {
     "id": 27,
     "question": "A 52-year-old female complains of increasing pain in the right shoulder. She is also finding it increasingly difficult to do overhead abduction of the affected joint. She had been diagnosed as a diabetic 20 years back and is on treatment since then. What is the most likely cause of her clinical condition?",
-    "options": ["Rotator cuff tear", "Frozen shoulder", "Bacterial arthritis", "Osteoarthritis"],
+    "options": [
+      "Rotator cuff tear",
+      "Frozen shoulder",
+      "Bacterial arthritis",
+      "Osteoarthritis"
+    ],
     "correctAnswer": 1,
-    "explanation": "Long-standing diabetes is a strong risk factor for adhesive capsulitis (frozen shoulder), presenting with progressive pain and restricted range of motion, especially abduction."
+    "explanation": "Long-standing diabetes is a strong risk factor for adhesive capsulitis (frozen shoulder), presenting with progressive pain and restricted range of motion, especially abduction.",
+    "subject_keys": [
+      "orthopedics",
+      "anatomy"
+    ]
   },
   {
     "id": 28,
     "question": "A 20-year-old girl presents to the OPD with complaints of a progressively increasing swelling on the dorsum of the left wrist. The swelling is cystic and nontender on examination and becomes more prominent on plantar flexion of the wrist. The swelling is 2 cm x 1 cm in size. What is the likely diagnosis in this case?",
-    "options": ["Ganglion cyst", "Sebaceous cyst", "Dermoid cyst", "Epidermoid cyst"],
+    "options": [
+      "Ganglion cyst",
+      "Sebaceous cyst",
+      "Dermoid cyst",
+      "Epidermoid cyst"
+    ],
     "correctAnswer": 0,
-    "explanation": "A cystic, nontender swelling on the dorsum of the wrist that becomes more prominent with wrist flexion is classic for a ganglion cyst."
+    "explanation": "A cystic, nontender swelling on the dorsum of the wrist that becomes more prominent with wrist flexion is classic for a ganglion cyst.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 29,
     "question": "Upper motor neuron lesions are characterized by which of the following? I. Increased tone spasticity II. Hyperreflexia III. Absent plantar response IV. Motor weakness",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "Upper motor neuron lesions cause spasticity, hyperreflexia, and motor weakness; the plantar response is typically extensor (positive Babinski), not absent."
+    "explanation": "Upper motor neuron lesions cause spasticity, hyperreflexia, and motor weakness; the plantar response is typically extensor (positive Babinski), not absent.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 30,
     "question": "A 56-year-old female has been diagnosed with gallstones and is undergoing a preanaesthesia checkup. She has been a diabetic since last 15 years, but sugar levels are within the limits. Which category of physical status does she fit into?",
-    "options": ["ASA 4", "ASA 3", "ASA 2", "ASA 1"],
+    "options": [
+      "ASA 4",
+      "ASA 3",
+      "ASA 2",
+      "ASA 1"
+    ],
     "correctAnswer": 2,
-    "explanation": "A patient with a well-controlled systemic disease (diabetes) without functional limitation is classified as ASA 2."
+    "explanation": "A patient with a well-controlled systemic disease (diabetes) without functional limitation is classified as ASA 2.",
+    "subject_keys": [
+      "general_medicine"
+    ]
   },
   {
     "id": 31,
     "question": "A 30-year-old road traffic accident victim is being taken up for emergency laparotomy for haemoperitoneum and suspected multiorgan trauma. Which one of the following will be an indication for performing damage control surgery?",
-    "options": ["Blood pressure < 100 mm Hg", "Acidosis with pH < 7.32", "Hypothermia < 36 °C", "Coagulopathy"],
+    "options": [
+      "Blood pressure < 100 mm Hg",
+      "Acidosis with pH < 7.32",
+      "Hypothermia < 36 °C",
+      "Coagulopathy"
+    ],
     "correctAnswer": 3,
-    "explanation": "Coagulopathy, along with severe acidosis and hypothermia (the 'lethal triad'), is a key indication for damage control surgery; the specific thresholds given for BP, pH, and temperature in the other options are not the standard accepted criteria."
+    "explanation": "Coagulopathy, along with severe acidosis and hypothermia (the 'lethal triad'), is a key indication for damage control surgery; the specific thresholds given for BP, pH, and temperature in the other options are not the standard accepted criteria.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 32,
     "question": "Consider the following: I. Pain relief II. Prevention of infection III. Anaesthesia IV. Restoration of anatomy. Which of the features given above are benefits of fracture treatment?",
-    "options": ["1, 3 and 4", "1, 2 and 3", "1, 2 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 3 and 4",
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Fracture treatment provides pain relief, prevention of infection, and restoration of anatomy; anaesthesia is a means used during treatment, not a benefit/goal of fracture treatment itself."
+    "explanation": "Fracture treatment provides pain relief, prevention of infection, and restoration of anatomy; anaesthesia is a means used during treatment, not a benefit/goal of fracture treatment itself.",
+    "subject_keys": [
+      "orthopedics"
+    ]
   },
   {
     "id": 33,
     "question": "A 30-year-old motorbike rider is brought to the emergency with history of a road traffic accident and altered consciousness. On secondary survey, the doctor notices presence of a bruise over the left mastoid process. The finding indicates",
-    "options": ["fracture of mastoid process", "injury to the external auditory meatus", "fracture of the skull base", "soft tissue injury to the neck"],
+    "options": [
+      "fracture of mastoid process",
+      "injury to the external auditory meatus",
+      "fracture of the skull base",
+      "soft tissue injury to the neck"
+    ],
     "correctAnswer": 2,
-    "explanation": "Bruising over the mastoid process (Battle's sign) is a classic delayed indicator of a base of skull fracture."
+    "explanation": "Bruising over the mastoid process (Battle's sign) is a classic delayed indicator of a base of skull fracture.",
+    "subject_keys": [
+      "orthopedics"
+    ]
   },
   {
     "id": 34,
     "question": "Hangman's fracture is",
-    "options": ["traumatic spondylolisthesis of atlas vertebra (C1)", "traumatic spondylolisthesis of axis vertebra (C2)", "traumatic spondylolisthesis of thoracic vertebra (T1)", "traumatic spondylolisthesis of lumbar vertebra (L1)"],
+    "options": [
+      "traumatic spondylolisthesis of atlas vertebra (C1)",
+      "traumatic spondylolisthesis of axis vertebra (C2)",
+      "traumatic spondylolisthesis of thoracic vertebra (T1)",
+      "traumatic spondylolisthesis of lumbar vertebra (L1)"
+    ],
     "correctAnswer": 1,
-    "explanation": "A Hangman's fracture is defined as traumatic spondylolisthesis of the axis (C2) vertebra."
+    "explanation": "A Hangman's fracture is defined as traumatic spondylolisthesis of the axis (C2) vertebra.",
+    "subject_keys": [
+      "orthopedics"
+    ]
   },
   {
     "id": 35,
     "question": "Which of the following are correct in respect of Systemic Inflammatory Response Syndrome (SIRS)? I. It is caused by the release of lipopolysaccharide endotoxin from dying E. coli bacteria II. It is same as bacteraemia III. It results in Multiple Organ Dysfunction Syndrome (MODS) IV. White cell counts of more than 12x10^9/litre are present",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "SIRS can be triggered by endotoxin release, can progress to MODS, and is characterized by leukocytosis (>12x10^9/L) among other criteria; SIRS is a broader clinical syndrome and is not synonymous with bacteraemia, since it can arise from non-infective causes too."
+    "explanation": "SIRS can be triggered by endotoxin release, can progress to MODS, and is characterized by leukocytosis (>12x10^9/L) among other criteria; SIRS is a broader clinical syndrome and is not synonymous with bacteraemia, since it can arise from non-infective causes too.",
+    "subject_keys": [
+      "microbiology",
+      "general_medicine"
+    ]
   },
   {
     "id": 36,
     "question": "A surgeon is about to start a laparoscopic procedure on a patient. The floor nurse asks the surgeon about the identity of the patient, site of the procedure to be performed and any anticipated critical events during the surgery. These questions are a part of the",
-    "options": ["universal precautions checklist", "nurses safety checklist", "MCI patient safety checklist", "WHO surgical safety checklist"],
+    "options": [
+      "universal precautions checklist",
+      "nurses safety checklist",
+      "MCI patient safety checklist",
+      "WHO surgical safety checklist"
+    ],
     "correctAnswer": 3,
-    "explanation": "Confirming patient identity, procedure site, and anticipating critical events are components of the 'time-out' step of the WHO Surgical Safety Checklist."
+    "explanation": "Confirming patient identity, procedure site, and anticipating critical events are components of the 'time-out' step of the WHO Surgical Safety Checklist.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 37,
     "question": "Which of the following are correct for managing hypertrophic scars? I. Silicone gel sheeting II. Intralesional steroid injections III. Vitamin A gel applications IV. Laser treatment",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "Silicone gel sheeting, intralesional steroid injections, and laser treatment are established management options for hypertrophic scars; vitamin A gel is not a standard therapy for this."
+    "explanation": "Silicone gel sheeting, intralesional steroid injections, and laser treatment are established management options for hypertrophic scars; vitamin A gel is not a standard therapy for this.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 38,
     "question": "Which of the following are approximate daily requirements of the common electrolytes in an adult? I. Sodium 50-90 mM/day II. Calcium 1 mM/day III. Potassium 50 mM/day IV. Magnesium 1 mM/day",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "The approximate daily requirements of sodium (50-90 mM), potassium (~50 mM), and magnesium (~1 mM) are correct; the calcium requirement listed is inconsistent with typical daily maintenance needs."
+    "explanation": "The approximate daily requirements of sodium (50-90 mM), potassium (~50 mM), and magnesium (~1 mM) are correct; the calcium requirement listed is inconsistent with typical daily maintenance needs.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 39,
     "question": "Distributive shock is described by which of the following patterns of cardiovascular responses? I. Vasodilation II. Reduced peripheral vascular resistance III. Inadequate 'afterload' IV. Low cardiac output",
-    "options": ["1, 2 and 4", "1, 3 and 4", "2, 3 and 4", "1, 2 and 3"],
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4",
+      "1, 2 and 3"
+    ],
     "correctAnswer": 3,
-    "explanation": "Distributive shock is characterized by vasodilation, reduced peripheral vascular resistance, and inadequate afterload; cardiac output is typically normal or high (not low) in distributive shock."
+    "explanation": "Distributive shock is characterized by vasodilation, reduced peripheral vascular resistance, and inadequate afterload; cardiac output is typically normal or high (not low) in distributive shock.",
+    "subject_keys": [
+      "physiology"
+    ]
   },
   {
     "id": 40,
     "question": "The best measure of organ perfusion and the best monitor of adequacy of shock therapy is",
-    "options": ["central venous pressure", "pulmonary wedge pressure", "urine output", "restoring blood pressure/pulse vital parameters"],
+    "options": [
+      "central venous pressure",
+      "pulmonary wedge pressure",
+      "urine output",
+      "restoring blood pressure/pulse vital parameters"
+    ],
     "correctAnswer": 2,
-    "explanation": "Urine output is a simple, reliable, continuous bedside indicator of end-organ (renal) perfusion and is widely used to monitor adequacy of resuscitation in shock."
+    "explanation": "Urine output is a simple, reliable, continuous bedside indicator of end-organ (renal) perfusion and is widely used to monitor adequacy of resuscitation in shock.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 41,
     "question": "Which one of the following statements is correct regarding foetal physiology?",
-    "options": ["Haematopoiesis is demonstrated first in the yolk sac by 14th day.", "Meconium appears at 16 weeks.", "Breathing movements are identified at 26 weeks.", "Foetal pancreas secretes insulin as early as 20 weeks."],
+    "options": [
+      "Haematopoiesis is demonstrated first in the yolk sac by 14th day.",
+      "Meconium appears at 16 weeks.",
+      "Breathing movements are identified at 26 weeks.",
+      "Foetal pancreas secretes insulin as early as 20 weeks."
+    ],
     "correctAnswer": 0,
-    "explanation": "Haematopoiesis begins in the yolk sac as early as around day 14-19 of gestation, making this the correct statement among the options given."
+    "explanation": "Haematopoiesis begins in the yolk sac as early as around day 14-19 of gestation, making this the correct statement among the options given.",
+    "subject_keys": [
+      "pharmacology"
+    ]
   },
   {
     "id": 42,
     "question": "Which of the following are advantages of state of haemodilution during pregnancy? I. Optimum gaseous exchange between maternal and foetal circulation due to decreased blood viscosity II. Protection against adverse effect of supine and erect posture III. Protection against adverse effect of blood loss during delivery. Which of the statements given above is/are correct?",
-    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
     "correctAnswer": 3,
-    "explanation": "Pregnancy-associated haemodilution improves gaseous exchange due to reduced blood viscosity, offers protection against postural haemodynamic effects, and buffers against blood loss at delivery — all three statements are correct."
+    "explanation": "Pregnancy-associated haemodilution improves gaseous exchange due to reduced blood viscosity, offers protection against postural haemodynamic effects, and buffers against blood loss at delivery — all three statements are correct.",
+    "subject_keys": [
+      "pharmacology",
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 43,
     "question": "Consider the following statements regarding oligohydramnios: I. It is defined on USG when maximum vertical pocket of liquor is less than 5 cm II. It is defined on USG when AFI is less than 5 cm. Which of the statements given above is/are correct?",
-    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
     "correctAnswer": 1,
-    "explanation": "Oligohydramnios is defined by an amniotic fluid index (AFI) less than 5 cm; the maximum vertical pocket threshold for the definition is less than 2 cm, not 5 cm, making statement I incorrect."
+    "explanation": "Oligohydramnios is defined by an amniotic fluid index (AFI) less than 5 cm; the maximum vertical pocket threshold for the definition is less than 2 cm, not 5 cm, making statement I incorrect.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 44,
     "question": "Which of the following are correct about endocrine changes in normal pregnancy? I. Increase in levels of maternal serum iodine II. Increase in serum levels of Corticotropin-Releasing Hormone (CRH) III. Increase in serum levels of aldosterone IV. Increase in serum levels of ACTH",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 3,
-    "explanation": "Normal pregnancy is associated with increased serum CRH, aldosterone, and ACTH; maternal serum iodine typically decreases due to increased renal clearance and foetal uptake, not increases."
+    "explanation": "Normal pregnancy is associated with increased serum CRH, aldosterone, and ACTH; maternal serum iodine typically decreases due to increased renal clearance and foetal uptake, not increases.",
+    "subject_keys": [
+      "physiology",
+      "pharmacology",
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 45,
     "question": "Which of the following features are correct regarding onset of true labour? I. Regular uterine contractions II. Progressive cervical dilation and effacement III. Presence of show IV. Labour and delivery are synonymous",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
-    "explanation": "True labour is characterized by regular uterine contractions, progressive cervical dilation and effacement, and presence of show; labour and delivery are distinct terms, not synonymous."
+    "explanation": "True labour is characterized by regular uterine contractions, progressive cervical dilation and effacement, and presence of show; labour and delivery are distinct terms, not synonymous.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 46,
     "question": "According to the WHO Intrapartum Care Guidelines, 2018, the active phase of labour starts from what dilation of cervix?",
-    "options": ["3 cm", "4 cm", "5 cm", "6 cm"],
+    "options": [
+      "3 cm",
+      "4 cm",
+      "5 cm",
+      "6 cm"
+    ],
     "correctAnswer": 2,
-    "explanation": "As per the WHO 2018 Intrapartum Care Guidelines, the active phase of labour is now defined as beginning from 5 cm cervical dilation."
+    "explanation": "As per the WHO 2018 Intrapartum Care Guidelines, the active phase of labour is now defined as beginning from 5 cm cervical dilation.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 47,
     "question": "The diameter of engagement of foetal skull in marked deflexion is",
-    "options": ["occipitofrontal diameter", "suboccipitofrontal diameter", "mentovertical diameter", "suboccipitobregmatic diameter"],
+    "options": [
+      "occipitofrontal diameter",
+      "suboccipitofrontal diameter",
+      "mentovertical diameter",
+      "suboccipitobregmatic diameter"
+    ],
     "correctAnswer": 0,
-    "explanation": "In marked deflexion (military attitude), the occipitofrontal diameter is the presenting diameter of engagement of the foetal skull."
+    "explanation": "In marked deflexion (military attitude), the occipitofrontal diameter is the presenting diameter of engagement of the foetal skull.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 48,
     "question": "Onset of labour is initiated by which of the following? I. Uterine distension II. Increased CRH and ACTH from foetal hypothalamic-pituitary-adrenal axis III. Increased level of progesterone immediately before labour IV. Increased synthesis of myometrial receptors for oxytocin due to effect of oestrogen",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "Uterine distension, activation of the foetal HPA axis with increased CRH/ACTH, and oestrogen-driven increase in myometrial oxytocin receptors all contribute to labour onset; progesterone levels typically fall (functional progesterone withdrawal), not rise, immediately before labour."
+    "explanation": "Uterine distension, activation of the foetal HPA axis with increased CRH/ACTH, and oestrogen-driven increase in myometrial oxytocin receptors all contribute to labour onset; progesterone levels typically fall (functional progesterone withdrawal), not rise, immediately before labour.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 49,
     "question": "A 30-year-old female P2L2 had a forceps delivery 2 days back. There was injury to head of baby resulting in collection of blood in soft tissue between pericranium and flat bone of skull, limited by suture line. What is the probable diagnosis?",
-    "options": ["Caput succedaneum", "Intraventricular haemorrhage", "Cephalohaematoma", "Subgaleal haemorrhage"],
+    "options": [
+      "Caput succedaneum",
+      "Intraventricular haemorrhage",
+      "Cephalohaematoma",
+      "Subgaleal haemorrhage"
+    ],
     "correctAnswer": 2,
-    "explanation": "A subperiosteal collection of blood limited by suture lines is characteristic of cephalohaematoma, in contrast to caput succedaneum (crosses suture lines) or subgaleal haemorrhage (not limited by sutures)."
+    "explanation": "A subperiosteal collection of blood limited by suture lines is characteristic of cephalohaematoma, in contrast to caput succedaneum (crosses suture lines) or subgaleal haemorrhage (not limited by sutures).",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 50,
     "question": "Which of the following are correct regarding pathological findings of placenta accreta? I. Absence of decidua basalis II. Absence of Nitabuch's fibrinoid layer III. Loss of normal hypoechoic retroplacental myometrial zone in ultrasonography",
-    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
     "correctAnswer": 3,
-    "explanation": "Placenta accreta is pathologically characterized by absence of decidua basalis, absence of Nitabuch's fibrinoid layer, and loss of the normal hypoechoic retroplacental myometrial zone on ultrasound — all three findings are correct."
+    "explanation": "Placenta accreta is pathologically characterized by absence of decidua basalis, absence of Nitabuch's fibrinoid layer, and loss of the normal hypoechoic retroplacental myometrial zone on ultrasound — all three findings are correct.",
+    "subject_keys": [
+      "radiology"
+    ]
   },
   {
     "id": 51,
     "question": "Which of the following statements are correct regarding peripartum cardiomyopathy? I. It is usually seen in multiparous women II. Echocardiography shows ejection fraction less than 45% III. ACE inhibitors are contraindicated IV. History of prior heart disease is mostly present",
-    "options": ["1 and 2 only", "1, 2 and 3", "3 and 4 only", "1, 3 and 4"],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "3 and 4 only",
+      "1, 3 and 4"
+    ],
     "correctAnswer": 0,
-    "explanation": "Peripartum cardiomyopathy is more common in multiparous women and is diagnosed by echocardiographic ejection fraction less than 45%; ACE inhibitors are contraindicated during pregnancy but not necessarily postpartum, and prior heart disease is classically absent (it's a diagnosis of exclusion), making statement IV incorrect."
+    "explanation": "Peripartum cardiomyopathy is more common in multiparous women and is diagnosed by echocardiographic ejection fraction less than 45%; ACE inhibitors are contraindicated during pregnancy but not necessarily postpartum, and prior heart disease is classically absent (it's a diagnosis of exclusion), making statement IV incorrect.",
+    "subject_keys": [
+      "pharmacology",
+      "general_medicine",
+      "radiology"
+    ]
   },
   {
     "id": 52,
     "question": "Mrs. A, who is 9 months pregnant, presents to the labour room with complaints of severe pain in abdomen and vaginal bleeding for 30 minutes. She is 2nd gravida (producing second child) and delivered her first child 2 years back by caesarean delivery. On examination, she has scar tenderness, vaginal bleeding and haematuria. On CTG, she has an abnormal FHR tracing. What is her likely clinical diagnosis?",
-    "options": ["Urinary tract infection", "Scar rupture/dehiscence during labour", "Labour pain", "Rupture of urinary bladder"],
+    "options": [
+      "Urinary tract infection",
+      "Scar rupture/dehiscence during labour",
+      "Labour pain",
+      "Rupture of urinary bladder"
+    ],
     "correctAnswer": 1,
-    "explanation": "Scar tenderness, abdominal pain, bleeding, haematuria, and abnormal foetal heart tracing in a woman with a prior caesarean scar are classic features of uterine scar rupture/dehiscence."
+    "explanation": "Scar tenderness, abdominal pain, bleeding, haematuria, and abnormal foetal heart tracing in a woman with a prior caesarean scar are classic features of uterine scar rupture/dehiscence.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 53,
     "question": "A 28-year-old female G2P1L1 with history of previous caesarean presents to the gynaecology emergency in labour. On examination, she is hypotensive, foetal heart sounds are absent and foetal parts are easily palpable. What is her diagnosis?",
-    "options": ["Oligohydramnios", "Abruptio placentae", "Uterine rupture", "Hydatidiform mole"],
+    "options": [
+      "Oligohydramnios",
+      "Abruptio placentae",
+      "Uterine rupture",
+      "Hydatidiform mole"
+    ],
     "correctAnswer": 2,
-    "explanation": "Maternal hypotension, absent foetal heart sounds, and easily palpable foetal parts (indicating extrusion of the foetus from the uterine cavity) in a woman with a previous caesarean scar strongly suggest uterine rupture."
+    "explanation": "Maternal hypotension, absent foetal heart sounds, and easily palpable foetal parts (indicating extrusion of the foetus from the uterine cavity) in a woman with a previous caesarean scar strongly suggest uterine rupture.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 54,
     "question": "A 24-year-old primigravida comes to ANC clinic at 8 months amenorrhoea. Her BP is found to be 160/100 mm Hg. Lab findings reveal thrombocytopenia, increased SGOT/SGPT and LDH. What is her diagnosis?",
-    "options": ["Obstetric cholestasis", "Hepatitis B", "HELLP syndrome", "Eclampsia"],
+    "options": [
+      "Obstetric cholestasis",
+      "Hepatitis B",
+      "HELLP syndrome",
+      "Eclampsia"
+    ],
     "correctAnswer": 2,
-    "explanation": "Hypertension with thrombocytopenia, elevated liver enzymes, and elevated LDH is the classic triad (Hemolysis, Elevated Liver enzymes, Low Platelets) diagnostic of HELLP syndrome."
+    "explanation": "Hypertension with thrombocytopenia, elevated liver enzymes, and elevated LDH is the classic triad (Hemolysis, Elevated Liver enzymes, Low Platelets) diagnostic of HELLP syndrome.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "microbiology",
+      "general_medicine"
+    ]
   },
   {
     "id": 55,
     "question": "A patient, who is 2 months pregnant, reports to a hospital with complaints of increased vaginal bleeding and pain in lower abdomen. Internal examination reveals dilated internal os of cervix and products of conception are felt through it. What is her likely clinical diagnosis?",
-    "options": ["Threatened abortion", "Inevitable abortion", "Septic abortion", "Incomplete abortion"],
+    "options": [
+      "Threatened abortion",
+      "Inevitable abortion",
+      "Septic abortion",
+      "Incomplete abortion"
+    ],
     "correctAnswer": 1,
-    "explanation": "A dilated internal os with products of conception felt/protruding through it indicates that miscarriage cannot be prevented, i.e., inevitable abortion."
+    "explanation": "A dilated internal os with products of conception felt/protruding through it indicates that miscarriage cannot be prevented, i.e., inevitable abortion.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 56,
     "question": "Which one of the following is a common pathology associated with ureteric injury while performing surgical procedure of abdominal hysterectomy?",
-    "options": ["Pelvic endometriosis", "Adenomyosis", "Hydrosalpinx", "Ovarian teratoma"],
+    "options": [
+      "Pelvic endometriosis",
+      "Adenomyosis",
+      "Hydrosalpinx",
+      "Ovarian teratoma"
+    ],
     "correctAnswer": 0,
-    "explanation": "Distorted pelvic anatomy from conditions such as pelvic endometriosis increases the risk of ureteric injury during abdominal hysterectomy due to altered surgical planes and adhesions."
+    "explanation": "Distorted pelvic anatomy from conditions such as pelvic endometriosis increases the risk of ureteric injury during abdominal hysterectomy due to altered surgical planes and adhesions.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 57,
     "question": "Which of the following are correct regarding pathology of stress urinary incontinence? I. Hypermobility of urethra II. Ascend of bladder neck and proximal urethra above pelvic diaphragm III. Lowered urethral pressure IV. Increased detrusor activity",
-    "options": ["1 and 2", "1 and 3", "2 and 4", "3 and 4"],
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 4",
+      "3 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "Stress urinary incontinence pathology involves hypermobility of the urethra and lowered urethral closure pressure; the bladder neck and proximal urethra descend below (not above) the pelvic diaphragm, and increased detrusor activity is associated with urge, not stress, incontinence."
+    "explanation": "Stress urinary incontinence pathology involves hypermobility of the urethra and lowered urethral closure pressure; the bladder neck and proximal urethra descend below (not above) the pelvic diaphragm, and increased detrusor activity is associated with urge, not stress, incontinence.",
+    "subject_keys": [
+      "anatomy"
+    ]
   },
   {
     "id": 58,
     "question": "Which of the following operative procedures is/are conformity for the diagnosis of bicornuate uterus?",
-    "options": ["Dilation with curettages", "Hysteroscopy", "Hysteroscopy and laparoscopy", "Hysterectomy"],
+    "options": [
+      "Dilation with curettages",
+      "Hysteroscopy",
+      "Hysteroscopy and laparoscopy",
+      "Hysterectomy"
+    ],
     "correctAnswer": 2,
-    "explanation": "Combined hysteroscopy (to assess the endometrial cavity) and laparoscopy (to assess the external uterine contour) allows accurate confirmation of the diagnosis of bicornuate uterus, distinguishing it from septate uterus."
+    "explanation": "Combined hysteroscopy (to assess the endometrial cavity) and laparoscopy (to assess the external uterine contour) allows accurate confirmation of the diagnosis of bicornuate uterus, distinguishing it from septate uterus.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 59,
     "question": "Which of the following are correct regarding pelvic cellular tissue? I. It supports the pelvic organs II. It forms protective sheath for blood vessels and terminal part of ureter III. It prevents infection to be spread out of pelvis IV. Marked hypertrophy of pelvic cellular tissue occurs in pregnancy",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 3,
-    "explanation": "Pelvic cellular tissue forms a protective sheath around vessels and the terminal ureter, prevents infection spreading beyond the pelvis, and undergoes marked hypertrophy in pregnancy; however, it does not primarily 'support' the pelvic organs in the sense implied by statement I."
+    "explanation": "Pelvic cellular tissue forms a protective sheath around vessels and the terminal ureter, prevents infection spreading beyond the pelvis, and undergoes marked hypertrophy in pregnancy; however, it does not primarily 'support' the pelvic organs in the sense implied by statement I.",
+    "subject_keys": [
+      "pathology",
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 60,
     "question": "Which of the following are correct regarding androgen insensitivity syndrome? I. Inherited as X-linked recessive disorder II. Karyotype is 46 XXY III. It is also called testicular feminization IV. Confirmation of diagnosis by gonadal biopsy",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Androgen insensitivity syndrome is X-linked recessive, also known as testicular feminization, and confirmed by gonadal biopsy; the karyotype is 46 XY, not 46 XXY."
+    "explanation": "Androgen insensitivity syndrome is X-linked recessive, also known as testicular feminization, and confirmed by gonadal biopsy; the karyotype is 46 XY, not 46 XXY.",
+    "subject_keys": [
+      "pathology",
+      "community_medicine"
+    ]
   },
   {
     "id": 61,
     "question": "Which of the following are useful investigations for diagnosis of unresponsive endometrium as a cause of primary amenorrhoea? I. Karyotype II. Progesterone challenge test III. Hormonal studies IV. Hysterosalpingography",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 3,
-    "explanation": "Progesterone challenge test, hormonal studies, and hysterosalpingography help evaluate unresponsive endometrium as a cause of amenorrhoea; karyotype is more relevant to evaluating gonadal/chromosomal causes rather than endometrial responsiveness."
+    "explanation": "Progesterone challenge test, hormonal studies, and hysterosalpingography help evaluate unresponsive endometrium as a cause of amenorrhoea; karyotype is more relevant to evaluating gonadal/chromosomal causes rather than endometrial responsiveness.",
+    "subject_keys": [
+      "radiology"
+    ]
   },
   {
     "id": 62,
     "question": "A 16-year-old girl with primary amenorrhoea presents to the gynaecology OPD for evaluation. She has normal secondary sexual characters. Her karyotype is 46,XX and ultrasound reveals normal ovaries and tubes but absent uterus. What is her clinical diagnosis?",
-    "options": ["Androgen insensitivity syndrome", "Turner syndrome", "Mayer-Rokitansky-Küster-Hauser syndrome", "Primary ovarian failure"],
+    "options": [
+      "Androgen insensitivity syndrome",
+      "Turner syndrome",
+      "Mayer-Rokitansky-Küster-Hauser syndrome",
+      "Primary ovarian failure"
+    ],
     "correctAnswer": 2,
-    "explanation": "A 46,XX female with normal secondary sexual characteristics, normal ovaries, and absent uterus/upper vagina is classic for Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome."
+    "explanation": "A 46,XX female with normal secondary sexual characteristics, normal ovaries, and absent uterus/upper vagina is classic for Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome.",
+    "subject_keys": [
+      "community_medicine",
+      "radiology",
+      "pediatrics"
+    ]
   },
   {
     "id": 63,
     "question": "A 25-year-old female comes to the gynaecology OPD for evaluation of secondary amenorrhoea. She gives history of previous dilatation and curettage, and her FSH levels are 8 IU/L. The probable cause of amenorrhoea is",
-    "options": ["Sheehan syndrome", "Asherman syndrome", "premature ovarian failure", "incomplete abortion"],
+    "options": [
+      "Sheehan syndrome",
+      "Asherman syndrome",
+      "premature ovarian failure",
+      "incomplete abortion"
+    ],
     "correctAnswer": 1,
-    "explanation": "A history of D&C causing intrauterine adhesions, with a normal (not elevated) FSH level, points to Asherman syndrome rather than premature ovarian failure, which would show elevated FSH."
+    "explanation": "A history of D&C causing intrauterine adhesions, with a normal (not elevated) FSH level, points to Asherman syndrome rather than premature ovarian failure, which would show elevated FSH.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 64,
     "question": "Which of the following criteria are required to be fulfilled for hospitalization in a case of pelvic inflammatory disease? I. Coexisting pregnancy II. Mild fever and pain responding well to antibiotics III. Suspected tubo-ovarian abscess IV. Coexistent HIV infection",
-    "options": ["1, 3 and 4", "1, 2 and 3", "1, 2 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 3 and 4",
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
-    "explanation": "Coexisting pregnancy, suspected tubo-ovarian abscess, and coexistent HIV infection are recognized indications for hospitalization in PID; mild fever/pain responding well to antibiotics indicates the patient can be managed as an outpatient."
+    "explanation": "Coexisting pregnancy, suspected tubo-ovarian abscess, and coexistent HIV infection are recognized indications for hospitalization in PID; mild fever/pain responding well to antibiotics indicates the patient can be managed as an outpatient.",
+    "subject_keys": [
+      "microbiology",
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 65,
     "question": "A young female presented with complaints of lower abdominal pain, vaginal discharge, history of IUD use for last 3-4 years. On examination, the patient had fever, adnexal/cervical motion tenderness and increased ESR and C-reactive protein. What is the probable clinical diagnosis?",
-    "options": ["Ectopic pregnancy", "Acute appendicitis", "Diverticulitis", "Acute PID"],
+    "options": [
+      "Ectopic pregnancy",
+      "Acute appendicitis",
+      "Diverticulitis",
+      "Acute PID"
+    ],
     "correctAnswer": 3,
-    "explanation": "Lower abdominal pain with vaginal discharge, fever, cervical motion tenderness, raised ESR/CRP, and IUD use are classic features pointing to acute pelvic inflammatory disease."
+    "explanation": "Lower abdominal pain with vaginal discharge, fever, cervical motion tenderness, raised ESR/CRP, and IUD use are classic features pointing to acute pelvic inflammatory disease.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_surgery"
+    ]
   },
   {
     "id": 66,
     "question": "Which of the following are risk factors for Pelvic Inflammatory Disease (PID)? I. Use of contraceptive pills II. IUD use III. Genetic predisposition IV. Sexually active teenagers",
-    "options": ["1, 2 and 3", "2, 3 and 4", "1, 3 and 4", "1, 2 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
     "correctAnswer": 1,
-    "explanation": "IUD use, genetic predisposition, and being a sexually active teenager are recognized risk factors for PID; use of contraceptive pills is generally considered somewhat protective rather than a risk factor."
+    "explanation": "IUD use, genetic predisposition, and being a sexually active teenager are recognized risk factors for PID; use of contraceptive pills is generally considered somewhat protective rather than a risk factor.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 67,
     "question": "Which of the following are symptoms of genital tuberculosis? I. Postmenopausal bleeding II. Infertility III. Chronic pelvic pain IV. Oligomenorrhoea",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 3,
-    "explanation": "Infertility, chronic pelvic pain, and oligomenorrhoea are common presentations of genital tuberculosis; postmenopausal bleeding is not a typical presenting symptom, as genital TB usually presents in the reproductive age group."
+    "explanation": "Infertility, chronic pelvic pain, and oligomenorrhoea are common presentations of genital tuberculosis; postmenopausal bleeding is not a typical presenting symptom, as genital TB usually presents in the reproductive age group.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
   },
   {
     "id": 68,
     "question": "Which one of the following is correct regarding choriocarcinoma?",
-    "options": ["Vaginal bleeding is the commonest presenting symptom", "About 20-30% of patients with molar pregnancies develop choriocarcinoma", "Primary site of involvement is fallopian tube", "Highly resistant tumour to chemotherapy"],
+    "options": [
+      "Vaginal bleeding is the commonest presenting symptom",
+      "About 20-30% of patients with molar pregnancies develop choriocarcinoma",
+      "Primary site of involvement is fallopian tube",
+      "Highly resistant tumour to chemotherapy"
+    ],
     "correctAnswer": 0,
-    "explanation": "Vaginal bleeding is the most common presenting symptom of choriocarcinoma; it is a highly chemosensitive (not resistant) tumour and usually arises in the uterus, not the fallopian tube."
+    "explanation": "Vaginal bleeding is the most common presenting symptom of choriocarcinoma; it is a highly chemosensitive (not resistant) tumour and usually arises in the uterus, not the fallopian tube.",
+    "subject_keys": [
+      "pharmacology"
+    ]
   },
   {
     "id": 69,
     "question": "Which of the following are favourable factors in prognosis of ovarian malignancy? I. Older age group II. Well-differentiated tumour III. Smaller tumour volume IV. Absence of ascites",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 3,
-    "explanation": "Well-differentiated tumour, smaller tumour volume, and absence of ascites are favourable prognostic factors in ovarian malignancy; younger, not older, age is generally associated with a better prognosis."
+    "explanation": "Well-differentiated tumour, smaller tumour volume, and absence of ascites are favourable prognostic factors in ovarian malignancy; younger, not older, age is generally associated with a better prognosis.",
+    "subject_keys": [
+      "general_medicine"
+    ]
   },
   {
     "id": 70,
     "question": "Which one of the following drugs is most effective in the treatment of gestational trophoblastic neoplasia?",
-    "options": ["Cisplatin", "Methotrexate", "Gemcitabine", "None of the above"],
+    "options": [
+      "Cisplatin",
+      "Methotrexate",
+      "Gemcitabine",
+      "None of the above"
+    ],
     "correctAnswer": 1,
-    "explanation": "Methotrexate is the first-line, most effective single agent used in the treatment of low-risk gestational trophoblastic neoplasia."
+    "explanation": "Methotrexate is the first-line, most effective single agent used in the treatment of low-risk gestational trophoblastic neoplasia.",
+    "subject_keys": [
+      "pharmacology",
+      "pathology"
+    ]
   },
   {
     "id": 71,
     "question": "A 48-year-old female underwent total hysterectomy with bilateral salpingo-oophorectomy. The surgical specimen revealed solid ovarian tumour and histology revealed thecoma-fibroma. Which one of the following is the most appropriate statement regarding this condition?",
-    "options": ["20% of such tumours are bilateral.", "Endometrial hyperplasia is often associated.", "It is always associated with gross ascites.", "It is derived from germ cells."],
+    "options": [
+      "20% of such tumours are bilateral.",
+      "Endometrial hyperplasia is often associated.",
+      "It is always associated with gross ascites.",
+      "It is derived from germ cells."
+    ],
     "correctAnswer": 1,
-    "explanation": "Thecoma-fibroma tumours are oestrogen-secreting sex cord-stromal tumours often associated with endometrial hyperplasia; they are usually unilateral, not always associated with gross ascites, and are not germ cell tumours."
+    "explanation": "Thecoma-fibroma tumours are oestrogen-secreting sex cord-stromal tumours often associated with endometrial hyperplasia; they are usually unilateral, not always associated with gross ascites, and are not germ cell tumours.",
+    "subject_keys": [
+      "pathology",
+      "general_medicine"
+    ]
   },
   {
     "id": 72,
     "question": "In POPQ classification for uterovaginal prolapse, the only measurement done after reducing the prolapse is",
-    "options": ["genital hiatus", "point C", "point D", "total vaginal length"],
+    "options": [
+      "genital hiatus",
+      "point C",
+      "point D",
+      "total vaginal length"
+    ],
     "correctAnswer": 3,
-    "explanation": "Total vaginal length (TVL) is measured after reducing the prolapse to its normal maximum position, unlike the other point measurements which are taken with the prolapse at maximal descent."
+    "explanation": "Total vaginal length (TVL) is measured after reducing the prolapse to its normal maximum position, unlike the other point measurements which are taken with the prolapse at maximal descent.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 73,
     "question": "Which of the following are essential steps of Fothergill's operation? I. Laparoscopic or vaginal ligation II. Amputation of cervix III. Plication of Mackenrodt's ligaments in front of cervix IV. Ant colporrhaphy",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 3,
-    "explanation": "Fothergill's (Manchester) operation involves amputation of the cervix, plication of Mackenrodt's ligaments in front of the cervix, and anterior colporrhaphy; laparoscopic/vaginal ligation of vessels is not an essential defining step of this specific procedure."
+    "explanation": "Fothergill's (Manchester) operation involves amputation of the cervix, plication of Mackenrodt's ligaments in front of the cervix, and anterior colporrhaphy; laparoscopic/vaginal ligation of vessels is not an essential defining step of this specific procedure.",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
   {
     "id": 74,
     "question": "Which of the following are indications of cold knife conization? I. Inconsistent finding colposcopy, cytology and directed biopsy II. Persistent CIN-1 lesion in women willing for future fertility III. Carcinoma in situ IV. Unsatisfactory colposcopic finding entire margin of lesion is not visible",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Cold knife conization is indicated for discordant colposcopy/cytology/biopsy findings, carcinoma in situ, and unsatisfactory colposcopy where the lesion margin is not visible; persistent low-grade CIN-1 alone in a fertility-desiring woman is usually managed conservatively rather than by conization."
+    "explanation": "Cold knife conization is indicated for discordant colposcopy/cytology/biopsy findings, carcinoma in situ, and unsatisfactory colposcopy where the lesion margin is not visible; persistent low-grade CIN-1 alone in a fertility-desiring woman is usually managed conservatively rather than by conization.",
+    "subject_keys": [
+      "pathology"
+    ]
   },
   {
     "id": 75,
     "question": "Which of the following are factors for poor outcome following tuboplasty? I. Dense pelvic adhesions II. Length of reconstructed tube less than 8 cm III. Bilateral hydrosalpinx IV. Reversal after 5 years of sterilization procedure",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
-    "explanation": "Dense pelvic adhesions, bilateral hydrosalpinx, and reversal after a long interval (e.g., 5 years) from sterilization are associated with poor outcomes following tuboplasty; a reconstructed tube length of less than 8 cm is not the typically cited threshold for poor outcome (a very short reconstructed tube, closer to 4 cm, is the concerning cutoff)."
+    "explanation": "Dense pelvic adhesions, bilateral hydrosalpinx, and reversal after a long interval (e.g., 5 years) from sterilization are associated with poor outcomes following tuboplasty; a reconstructed tube length of less than 8 cm is not the typically cited threshold for poor outcome (a very short reconstructed tube, closer to 4 cm, is the concerning cutoff).",
+    "subject_keys": [
+      "general_surgery"
+    ]
   },
-    {
-      "id": 76,
-      "question": "Ulipristal acetate (progesterone receptor modulator) should not be prescribed as emergency contraceptive in women with",
-      "options": ["glaucoma", "liver dysfunction", "kidney failure", "coagulopathy"],
-      "correctAnswer": 1,
-      "explanation": "Ulipristal acetate is metabolized hepatically, so significant liver dysfunction is a contraindication for its use as an emergency contraceptive."
-    },
-    {
-      "id": 77,
-      "question": "Injectable medroxyprogesterone IP 150 mg/mL contraceptive injection is available in Family Health Programme of the Government of India under the name",
-      "options": ["Saheli", "Sayana Press", "Antara", "Sahiba"],
-      "correctAnswer": 2,
-      "explanation": "Antara is the brand name under which injectable DMPA (medroxyprogesterone acetate 150 mg/mL) is provided free of cost in India's national Family Planning Programme."
-    },
-    {
-      "id": 78,
-      "question": "Which of the following are major complications of oral pills? I. Cholestasis jaundice II. Chloasma and acne III. Venous thromboembolism IV. Breast cancer",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "Cholestasis jaundice, venous thromboembolism, and (a debated small increase in) breast cancer risk are recognized major complications of combined oral pills; chloasma and acne are minor cosmetic side effects, not major complications."
-    },
-    {
-      "id": 79,
-      "question": "Which of the following conditions are indications of removal of intrauterine device? I. Persistent irregular uterine bleeding II. Perforation of uterus III. Pyelonephritis IV. Pregnancy with device in situ",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Persistent irregular bleeding, uterine perforation, and pregnancy with the device in situ are recognized indications for IUD removal; pyelonephritis is a urinary tract infection unrelated to IUD-specific complications requiring removal."
-    },
-    {
-      "id": 80,
-      "question": "A 25-year-old newly married female on liver enzyme inducers is requesting contraceptive advice in family planning clinic. Which of the following would be the most reliable method of contraception for her?",
-      "options": ["Combined oral contraceptive pill", "Male condom", "Diaphragm", "Depo-Provera injection"],
-      "correctAnswer": 3,
-      "explanation": "Liver enzyme-inducing drugs reduce the efficacy of oral hormonal contraceptives, but injectable DMPA (Depo-Provera) given at higher relative doses remains reliable and is not significantly affected by enzyme induction."
-    },
-    {
-      "id": 81,
-      "question": "As per the Open Vial Policy, partially used multidose vials of which of the following vaccines can be used over more than one immunization session? I. BCG vaccine II. DPT vaccine III. Hepatitis B vaccine IV. Measles vaccine",
-      "options": ["1 and 2 only", "2 and 3 only", "1, 2 and 3", "1, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Under the Open Vial Policy, liquid vaccines without reconstitution requirements such as DPT and Hepatitis B can be used across multiple sessions; freeze-dried vaccines like BCG and Measles must be discarded after each session once reconstituted."
-    },
-    {
-      "id": 82,
-      "question": "The statement, \"Health is a dynamic equilibrium between man and environment and disease a maladjustment of the human organism to environment\" explains which one of the following concepts of health?",
-      "options": ["Biomedical", "Ecological", "Psychosocial", "Holistic"],
-      "correctAnswer": 1,
-      "explanation": "This definition, emphasizing equilibrium between humans and their environment and disease as maladjustment, is the classic ecological concept of health."
-    },
-    {
-      "id": 83,
-      "question": "The following table shows three broad components under which the objectives of the National Health Policy, 2017 can be grouped, along with an example of goal/objective under that component. How many of the pairs given above are correctly matched?",
-      "options": ["None of the pairs", "Only one of the pairs", "Only two of the pairs", "All of the three pairs"],
-      "correctAnswer": 3,
-      "explanation": "All three pairings — health status/programme impact with life expectancy goals, health systems performance with immunization goals, and health systems strengthening with state health spending goals — correctly reflect NHP 2017 objectives."
-    },
-    {
-      "id": 84,
-      "question": "Consider the following management methods/techniques: I. System analysis II. Organizational design III. Personnel management IV. Information systems. Which of the above methods/techniques are based on behavioural sciences?",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 3,
-      "explanation": "Organizational design, personnel management, and information systems draw on behavioural science principles related to human and organizational behaviour; system analysis is primarily a quantitative/operations research technique."
-    },
-    {
-      "id": 85,
-      "question": "In the following table, the end results of planning are qualified by brief characteristics. How many of the pairs given above are correctly matched?",
-      "options": ["None of the pairs", "Only one of the pairs", "Only two of the pairs", "All of the pairs"],
-      "correctAnswer": 2,
-      "explanation": "Two of the three pairs (Goal-time constrained, and Target-permits degree of achievement) are correctly matched, while the Objective pairing does not correctly correspond to its stated characteristic."
-    },
-    {
-      "id": 86,
-      "question": "Consider the following steps of a planning cycle: I. Assigning priorities among the problems II. Evaluation III. Selecting best programme IV. Operating the programme. Which among the following is the correct sequence of steps?",
-      "options": ["3 → 4 → 1 → 2", "1 → 2 → 3 → 4", "1 → 3 → 4 → 2", "2 → 3 → 4 → 1"],
-      "correctAnswer": 2,
-      "explanation": "The logical planning cycle sequence is: assigning priorities, selecting the best programme, operating the programme, and finally evaluation."
-    },
-    {
-      "id": 87,
-      "question": "Which of the following statements are correct for incidence rate? I. It is useful for taking action to control a disease II. Rising incidence rates may indicate ineffectiveness of the current control programmes III. Fluctuation in incidence rate may indicate a change in aetiology of disease",
-      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
-      "correctAnswer": 3,
-      "explanation": "Incidence rate is useful for disease control actions, rising rates can indicate control programme ineffectiveness, and fluctuations can reflect changes in disease aetiology — all three statements are correct."
-    },
-    {
-      "id": 88,
-      "question": "Consider the following definition: \"A high level of infection beginning early in life and affecting most of the child population, leading to a state of equilibrium such that the adult population shows evidence of the disease much less commonly than the children.\" Which one of the following terms best fits this definition?",
-      "options": ["Holoendemic", "Hyperendemic", "Hypoendemic", "Pandemic"],
-      "correctAnswer": 0,
-      "explanation": "This description of high universal childhood infection leading to an equilibrium with lower disease evidence in adults is the classic definition of a holoendemic disease pattern."
-    },
-    {
-      "id": 89,
-      "question": "Consider the following statements regarding dengue virus: I. It has four distinct serotypes II. Infection with any one serotype confers lifelong immunity for that virus serotype III. Secondary infection with dengue serotype 2 leads to severe form of dengue. Which of the statements given above are correct?",
-      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
-      "correctAnswer": 3,
-      "explanation": "Dengue virus has four serotypes, infection with one confers lifelong homotypic immunity, and secondary infection (particularly with serotype 2) is associated with severe dengue due to antibody-dependent enhancement — all three statements are correct."
-    },
-    {
-      "id": 90,
-      "question": "Consider the following statements regarding dengue: I. The mosquito becomes infective after an extrinsic incubation period of 8-10 days II. Once it becomes infective, the mosquito remains infective for life III. The genital tract of the mosquito does not get infected. Which of the statements given above are correct?",
-      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
-      "correctAnswer": 0,
-      "explanation": "The extrinsic incubation period is 8-10 days and once infective the Aedes mosquito remains infective for its lifetime; however, the genital tract of the mosquito can get infected, allowing transovarial transmission, making statement III incorrect."
-    },
-    {
-      "id": 91,
-      "question": "A researcher has obtained the country-level data on the average Body Mass Index (BMI) and the average sugar intake for 100 countries. Which among the following will be best suited to present the relationship between BMI and sugar intake in the 100 countries?",
-      "options": ["Bar chart", "Pie diagram", "Frequency polygon", "Scatter diagram"],
-      "correctAnswer": 3,
-      "explanation": "A scatter diagram is the appropriate graphical tool to display the relationship/correlation between two continuous variables such as BMI and sugar intake across countries."
-    },
-    {
-      "id": 92,
-      "question": "Frontline health workers are employed to record the births and deaths in countries which have made slow progress in the development of a comprehensive vital registration system. This approach is known as",
-      "options": ["registration of vital events", "lay reporting", "sample registration system", "census"],
-      "correctAnswer": 1,
-      "explanation": "Lay reporting refers to using frontline/community-level workers to record vital events in settings where a complete formal vital registration system has not been established."
-    },
-    {
-      "id": 93,
-      "question": "While calculating the 'total dependency ratio', which one of the following is used in the denominator?",
-      "options": ["Midyear population", "Population 0 to 65 years", "Population 15 to 64 years", "Population 14 to 70 years"],
-      "correctAnswer": 2,
-      "explanation": "The total dependency ratio is calculated as the ratio of dependents (under 15 and over 64) to the working-age population, which is used as the denominator, i.e., population aged 15 to 64 years."
-    },
-    {
-      "id": 94,
-      "question": "As per the United Nations definition of a vital events registration system, 'vital events' include which of the following? I. Foetal deaths II. School admissions III. Legal separations IV. College graduations",
-      "options": ["1 and 2", "1 and 3", "2 and 3", "2 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Foetal deaths and legal separations are recognized vital events under the UN definition, along with births, deaths, marriages, divorces, adoptions, etc.; school admissions and college graduations are not classified as vital events."
-    },
-    {
-      "id": 95,
-      "question": "Consider the following statements about Kyasanur Forest Disease (KFD): I. It is transmitted by ticks II. It was originally called 'pig disease' because of the association with dead pigs III. It was first recognized in Karnataka State. How many of the statements given above are correct?",
-      "options": ["None of the statements", "Only one of the statements", "Only two of the statements", "All the three statements"],
-      "correctAnswer": 3,
-      "explanation": "KFD is tick-transmitted, was historically called 'monkey disease'/associated with dead monkeys and originally noted with sick/dead monkeys (with the association also loosely tied to local terms), and was first identified in Kyasanur Forest, Karnataka — all three statements are correct as per the key."
-    },
-    {
-      "id": 96,
-      "question": "In countries with low levels of measles transmission, what should be the appropriate age for starting immunization with measles-containing vaccine (MCV)?",
-      "options": ["6 months", "9 months", "12 months", "15-18 months"],
-      "correctAnswer": 2,
-      "explanation": "In settings with low measles transmission, the first dose of MCV is recommended to be given at 12 months of age, as maternal antibody interference is higher earlier and transmission risk is lower."
-    },
-    {
-      "id": 97,
-      "question": "Monkeypox, a viral zoonotic disease, is caused by",
-      "options": ["a single-stranded RNA virus", "a double-stranded RNA virus", "a single-stranded DNA virus", "a double-stranded DNA virus"],
-      "correctAnswer": 3,
-      "explanation": "Monkeypox is caused by the monkeypox virus, a double-stranded DNA virus belonging to the Orthopoxvirus genus of the Poxviridae family."
-    },
-    {
-      "id": 98,
-      "question": "Raju, a 6-year-old boy, was returning home from school. At the gate, he was scratched by a dog and there was some bleeding from the wound. Which option should be followed for the post-exposure prophylaxis?",
-      "options": ["Wash the wound and administer a shot of tetanus toxoid", "Wash the wound and vaccinate with ARV only", "Wash the wound, vaccinate with ARV and administer immunoglobulin", "Wash and apply antiseptic to the wound"],
-      "correctAnswer": 2,
-      "explanation": "A category III exposure (bleeding scratch from an animal) requires wound washing, anti-rabies vaccination, and administration of rabies immunoglobulin as per post-exposure prophylaxis protocol."
-    },
-    {
-      "id": 99,
-      "question": "The method of combined disposal of refuse and night soil is known as",
-      "options": ["dumping", "controlled tipping", "incineration", "composting"],
-      "correctAnswer": 1,
-      "explanation": "Controlled tipping (sanitary landfilling) is the method involving the combined disposal of refuse and night soil in trenches, allowing decomposition through bacterial action."
-    },
-    {
-      "id": 100,
-      "question": "Consider the following statements about working of septic tanks: I. They are recommended for large communities, rather than small communities II. There should be no air space between the level of liquid in the tank and the undersurface of the cover III. Liquid effluent from the outlet pipe is free from all pathogens. How many of the statements given above are correct?",
-      "options": ["None of the statements", "Only one of the statements", "Only two of the statements", "All the three statements"],
-      "correctAnswer": 0,
-      "explanation": "Septic tanks are actually recommended for small communities/institutions rather than large ones, an air space is required above the liquid level for gas venting, and effluent is not free from pathogens and requires further treatment — all three statements are incorrect."
-    },
-    {
-      "id": 101,
-      "question": "Of the following amino acids, which is categorized as a nonessential amino acid?",
-      "options": ["Leucine", "Threonine", "Tryptophan", "Proline"],
-      "correctAnswer": 3,
-      "explanation": "Proline is classified as a nonessential amino acid since the body can synthesize it, whereas leucine, threonine, and tryptophan are essential amino acids that must be obtained from the diet."
-    },
-    {
-      "id": 102,
-      "question": "Consider the following milks: I. Buffalo milk II. Cow milk III. Goat milk IV. Human milk. What is the correct order (from highest to lowest) with regard to fat content per 100 gm in the milk?",
-      "options": ["1 → 3 → 4 → 2", "4 → 2 → 3 → 1", "2 → 1 → 4 → 3", "1 → 3 → 2 → 4"],
-      "correctAnswer": 3,
-      "explanation": "In decreasing order of fat content per 100 g, buffalo milk has the highest fat content, followed by goat milk, cow milk, and then human milk with the lowest fat content among these."
-    },
-    {
-      "id": 103,
-      "question": "Which of the following are unsaturated fatty acids? I. Lauric acid II. Linoleic acid III. Oleic acid IV. Palmitic acid",
-      "options": ["1 and 2", "1 and 4", "2 and 3", "3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "Linoleic acid and oleic acid are unsaturated fatty acids, while lauric acid and palmitic acid are saturated fatty acids."
-    },
-    {
-      "id": 104,
-      "question": "In India, the most widely prevalent stage of iron deficiency is",
-      "options": ["decreased iron stores without any other detectable abnormalities", "fall in percentage saturation of transferrin", "overt iron deficiency with impaired haemoglobin synthesis", "decrease in the concentration of circulating haemoglobin"],
-      "correctAnswer": 1,
-      "explanation": "In the progression of iron deficiency, a fall in percentage transferrin saturation is the most widely prevalent stage encountered in the Indian population, representing an intermediate stage before overt anaemia develops."
-    },
-    {
-      "id": 105,
-      "question": "Consider the following statements: Statement I: Waist circumference and waist to hip ratio are more powerful predictors of subsequent risk of type 2 diabetes than Body Mass Index (BMI). Statement II: Central obesity is an important determinant of insulin resistance, the undergoing abnormality in most cases of type 2 diabetes. Which one of the following is correct in respect of the above statements?",
-      "options": ["Both Statement I and Statement II are correct and Statement II is the correct explanation of Statement I", "Both Statement I and Statement II are correct but Statement II is not the correct explanation of Statement I", "Statement I is correct but Statement II is incorrect", "Statement I is incorrect but Statement II is correct"],
-      "correctAnswer": 0,
-      "explanation": "Both statements are true, and central obesity driving insulin resistance (Statement II) explains why waist circumference/waist-hip ratio are stronger predictors of diabetes risk than BMI (Statement I)."
-    },
-    {
-      "id": 106,
-      "question": "Consider the following statement: \"The people should seek to preserve their traditional eating patterns and lifestyles associated with low levels of Coronary Heart Disease (CHD).\" Which level of prevention is implied in this statement?",
-      "options": ["Primordial", "High risk", "Primary", "Secondary"],
-      "correctAnswer": 0,
-      "explanation": "Preserving existing healthy lifestyles/patterns before risk factors develop, to prevent the emergence of risk factors altogether, is the definition of primordial prevention."
-    },
-    {
-      "id": 107,
-      "question": "Raju is 30 years of age. He has been working in the ceramic and pottery industry for the last 10 years. Which one of the following conditions should he be screened for?",
-      "options": ["Silicosis", "Anthracosis", "Byssinosis", "Asbestosis"],
-      "correctAnswer": 0,
-      "explanation": "Workers in the ceramic and pottery industry are exposed to silica dust, putting them at risk of silicosis, warranting screening for this occupational lung disease."
-    },
-    {
-      "id": 108,
-      "question": "An industrial worker was brought to a medical facility due to health problems. On his workup including laboratory tests, a finding of basophilic stippling of Red Blood Cells (RBC) was observed. Which among the following is he/she likely to be having?",
-      "options": ["Asbestosis", "Farmer's lung", "Lead poisoning", "Brucellosis"],
-      "correctAnswer": 2,
-      "explanation": "Basophilic stippling of red blood cells is a classic haematological finding associated with lead poisoning due to inhibition of erythrocyte enzymes involved in RNA degradation."
-    },
-    {
-      "id": 109,
-      "question": "Consider the following pairs of genetic diseases that show Mendelian inheritance. Each of the following pairs represents a genetic disease and it has been matched with a type of inheritance: 1. Cystic fibrosis - Autosomal recessive; 2. Huntington's chorea - Autosomal dominant; 3. Marfan's syndrome - Recessive sex-linked. How many of the pairs given above are correctly matched?",
-      "options": ["None of the pairs", "Only one of the pairs", "Only two of the pairs", "All the three pairs"],
-      "correctAnswer": 2,
-      "explanation": "Cystic fibrosis (autosomal recessive) and Huntington's chorea (autosomal dominant) are correctly matched; Marfan's syndrome is actually autosomal dominant, not recessive sex-linked, making that pair incorrect."
-    },
-    {
-      "id": 110,
-      "question": "Consider the following statements: Statement I: Signs of thalassemia major usually develop after 6 months of age. Statement II: This is the time when haemoglobin synthesis switches from haemoglobin F to haemoglobin A. Which one of the following is correct in respect of the above statements?",
-      "options": ["Both Statement I and Statement II are correct and Statement II is the correct explanation of Statement I", "Both Statement I and Statement II are correct but Statement II is not the correct explanation of Statement I", "Statement I is correct but Statement II is incorrect", "Statement I is incorrect but Statement II is correct"],
-      "correctAnswer": 0,
-      "explanation": "Thalassemia major typically manifests after 6 months of age because that is when the physiological switch from fetal (HbF) to adult (HbA) haemoglobin synthesis occurs, unmasking the defect in beta-globin chain production."
-    },
-    {
-      "id": 111,
-      "question": "Which of the following publications is/are brought out by the World Health Organization? I. CD Alert II. Morbidity and Mortality Weekly Report III. Weekly Epidemiological Record",
-      "options": ["2 only", "1 and 2", "2 and 3", "3 only"],
-      "correctAnswer": 3,
-      "explanation": "The Weekly Epidemiological Record is published by the WHO; CD Alert is published by India's NCDC, and the Morbidity and Mortality Weekly Report is published by the US CDC."
-    },
-    {
-      "id": 112,
-      "question": "As per the basic model of a nuclear family life cycle, consider the following phases: I. Contraction II. Dissolution III. Extension IV. Formation. Which one of the following best represents the correct sequence of phases in a normal nuclear family?",
-      "options": ["1 → 2 → 3 → 4", "4 → 3 → 1 → 2", "1 → 4 → 3 → 2", "4 → 1 → 2 → 3"],
-      "correctAnswer": 1,
-      "explanation": "The normal nuclear family life cycle progresses through Formation, Extension, Contraction, and finally Dissolution, corresponding to sequence 4 → 3 → 1 → 2."
-    },
-    {
-      "id": 113,
-      "question": "Which among the following are characteristics of health education, rather than propaganda? I. Knowledge actively acquired, rather than instilled II. Appeals to emotion, rather than reason III. Behaviour centred, rather than information centred IV. Arouses and stimulates primitive desires, rather than disciplines them",
-      "options": ["1 and 2", "1 and 3", "2 and 3", "3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Health education is characterized by actively acquired knowledge and being behaviour-centred; appealing to emotion rather than reason and arousing primitive desires are characteristics of propaganda, not health education."
-    },
-    {
-      "id": 114,
-      "question": "Consider the following statements regarding LNG-20 (Mirena): I. It is a T-shaped IUD filled with natural hormone progesterone II. It is associated with a low pregnancy rate (2 per 1000 women) III. It is associated with a large number of ectopic pregnancies IV. It is associated with lower menstrual blood loss as compared to copper IUDs. Which of the statements given above is/are correct?",
-      "options": ["2 only", "2 and 4 only", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "LNG-20 (Mirena) has a low pregnancy rate and is associated with reduced menstrual blood loss compared to copper IUDs; it contains synthetic levonorgestrel (not natural progesterone), and it is actually associated with a lower, not higher, rate of ectopic pregnancy."
-    },
-    {
-      "id": 115,
-      "question": "The most common cause of maternal mortality in India is",
-      "options": ["obstetric haemorrhage", "obstructed labour", "unsafe abortion", "toxaemia of pregnancy"],
-      "correctAnswer": 0,
-      "explanation": "Obstetric haemorrhage remains the single most common direct cause of maternal mortality in India."
-    },
-    {
-      "id": 116,
-      "question": "In the National Malaria Control Programme, Indoor Residual Spray (IRS) is the primary method of vector control in rural setting. Which one of the following is the 'insecticide of choice'?",
-      "options": ["DDT", "Malathion", "Synthetic pyrethroid", "Temephos"],
-      "correctAnswer": 1,
-      "explanation": "Malathion is designated as the insecticide of choice for indoor residual spraying in India's National Malaria Control Programme, particularly in areas with DDT resistance."
-    },
-    {
-      "id": 117,
-      "question": "Consider the following statements with regard to selection of Accredited Social Health Activist (ASHA) under NRHM: I. ASHA must be a woman preferably in the age group of 18 to 25 years II. ASHA must have had formal education up to at least class ten III. ASHA must be a resident of the village IV. ASHA may be a married, widowed or divorced woman. Which of the statements given above are correct with regard to process of selection of ASHA?",
-      "options": ["1 and 2 only", "2 and 3 only", "3 and 4 only", "1, 2, 3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "ASHA is required to be a resident of the village and may be married, widowed, or divorced; the preferred age group is actually 25 to 45 years (not 18-25) and formal education requirement is up to class eight (not ten) as per standard NRHM criteria, making statements I and II incorrect."
-    },
-    {
-      "id": 118,
-      "question": "Consider the following statements regarding the Central Drugs Standard Control Organization (CDSCO) in India: I. The CDSCO is headed by the Drugs Controller General (India) at the Centre II. The CDSCO is a part of the Directorate of Director General of Health Services III. The CDSCO is under the Ministry of Chemicals and Fertilizers, Government of India IV. The CDSCO has a network of several port offices for monitoring the import and export of drugs. Which of the statements given above are correct?",
-      "options": ["1 and 2 only", "1 and 3", "1, 2 and 4", "2 and 4 only"],
-      "correctAnswer": 2,
-      "explanation": "CDSCO is headed by the Drugs Controller General (India), functions under the Directorate General of Health Services, and maintains port offices for monitoring drug import/export; it falls under the Ministry of Health and Family Welfare, not the Ministry of Chemicals and Fertilizers, making statement III incorrect."
-    },
-    {
-      "id": 119,
-      "question": "The National AIDS Control Organization provides prepacked colour-coded STI/RTI kits as a free supply to its designated STI/RTI clinics. Consider the following pairs: 1. Red - Urethral discharge; 2. Green - Vaginitis; 3. White - Inguinal bubo. How many of the pairs given above are correctly matched?",
-      "options": ["None of the pairs", "Only one pair", "Only two pairs", "All the three pairs"],
-      "correctAnswer": 1,
-      "explanation": "Only one of the listed colour-code pairs correctly corresponds to the NACO STI/RTI kit classification; the other two pairings do not match the standard designated colour codes."
-    },
-    {
-      "id": 120,
-      "question": "The table below shows the results of ELISA test for HIV infection (True infection status: Infected/Noninfected; Test Positive: 4900/950; Test Negative: 100/94050; Total: 5000/95000). Consider the following statements: I. The sensitivity is 98%. II. The specificity is 99%. Which of the statements given above is/are correct?",
-      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
-      "correctAnswer": 2,
-      "explanation": "Sensitivity = 4900/5000 = 98%, and specificity = 94050/95000 = 99%, so both statements are correctly calculated from the given 2x2 table."
-    }
+  {
+    "id": 76,
+    "question": "Ulipristal acetate (progesterone receptor modulator) should not be prescribed as emergency contraceptive in women with",
+    "options": [
+      "glaucoma",
+      "liver dysfunction",
+      "kidney failure",
+      "coagulopathy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ulipristal acetate is metabolized hepatically, so significant liver dysfunction is a contraindication for its use as an emergency contraceptive.",
+    "subject_keys": [
+      "pharmacology",
+      "ophthalmology"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Injectable medroxyprogesterone IP 150 mg/mL contraceptive injection is available in Family Health Programme of the Government of India under the name",
+    "options": [
+      "Saheli",
+      "Sayana Press",
+      "Antara",
+      "Sahiba"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Antara is the brand name under which injectable DMPA (medroxyprogesterone acetate 150 mg/mL) is provided free of cost in India's national Family Planning Programme.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Which of the following are major complications of oral pills? I. Cholestasis jaundice II. Chloasma and acne III. Venous thromboembolism IV. Breast cancer",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cholestasis jaundice, venous thromboembolism, and (a debated small increase in) breast cancer risk are recognized major complications of combined oral pills; chloasma and acne are minor cosmetic side effects, not major complications.",
+    "subject_keys": [
+      "pathology"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Which of the following conditions are indications of removal of intrauterine device? I. Persistent irregular uterine bleeding II. Perforation of uterus III. Pyelonephritis IV. Pregnancy with device in situ",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Persistent irregular bleeding, uterine perforation, and pregnancy with the device in situ are recognized indications for IUD removal; pyelonephritis is a urinary tract infection unrelated to IUD-specific complications requiring removal.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "A 25-year-old newly married female on liver enzyme inducers is requesting contraceptive advice in family planning clinic. Which of the following would be the most reliable method of contraception for her?",
+    "options": [
+      "Combined oral contraceptive pill",
+      "Male condom",
+      "Diaphragm",
+      "Depo-Provera injection"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Liver enzyme-inducing drugs reduce the efficacy of oral hormonal contraceptives, but injectable DMPA (Depo-Provera) given at higher relative doses remains reliable and is not significantly affected by enzyme induction.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "anatomy",
+      "pharmacology"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "As per the Open Vial Policy, partially used multidose vials of which of the following vaccines can be used over more than one immunization session? I. BCG vaccine II. DPT vaccine III. Hepatitis B vaccine IV. Measles vaccine",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under the Open Vial Policy, liquid vaccines without reconstitution requirements such as DPT and Hepatitis B can be used across multiple sessions; freeze-dried vaccines like BCG and Measles must be discarded after each session once reconstituted.",
+    "subject_keys": [
+      "microbiology"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "The statement, \"Health is a dynamic equilibrium between man and environment and disease a maladjustment of the human organism to environment\" explains which one of the following concepts of health?",
+    "options": [
+      "Biomedical",
+      "Ecological",
+      "Psychosocial",
+      "Holistic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This definition, emphasizing equilibrium between humans and their environment and disease as maladjustment, is the classic ecological concept of health.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "The following table shows three broad components under which the objectives of the National Health Policy, 2017 can be grouped, along with an example of goal/objective under that component. How many of the pairs given above are correctly matched?",
+    "options": [
+      "None of the pairs",
+      "Only one of the pairs",
+      "Only two of the pairs",
+      "All of the three pairs"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three pairings — health status/programme impact with life expectancy goals, health systems performance with immunization goals, and health systems strengthening with state health spending goals — correctly reflect NHP 2017 objectives.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Consider the following management methods/techniques: I. System analysis II. Organizational design III. Personnel management IV. Information systems. Which of the above methods/techniques are based on behavioural sciences?",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Organizational design, personnel management, and information systems draw on behavioural science principles related to human and organizational behaviour; system analysis is primarily a quantitative/operations research technique.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "In the following table, the end results of planning are qualified by brief characteristics. How many of the pairs given above are correctly matched?",
+    "options": [
+      "None of the pairs",
+      "Only one of the pairs",
+      "Only two of the pairs",
+      "All of the pairs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Two of the three pairs (Goal-time constrained, and Target-permits degree of achievement) are correctly matched, while the Objective pairing does not correctly correspond to its stated characteristic.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Consider the following steps of a planning cycle: I. Assigning priorities among the problems II. Evaluation III. Selecting best programme IV. Operating the programme. Which among the following is the correct sequence of steps?",
+    "options": [
+      "3 → 4 → 1 → 2",
+      "1 → 2 → 3 → 4",
+      "1 → 3 → 4 → 2",
+      "2 → 3 → 4 → 1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The logical planning cycle sequence is: assigning priorities, selecting the best programme, operating the programme, and finally evaluation.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Which of the following statements are correct for incidence rate? I. It is useful for taking action to control a disease II. Rising incidence rates may indicate ineffectiveness of the current control programmes III. Fluctuation in incidence rate may indicate a change in aetiology of disease",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Incidence rate is useful for disease control actions, rising rates can indicate control programme ineffectiveness, and fluctuations can reflect changes in disease aetiology — all three statements are correct.",
+    "subject_keys": [
+      "community_medicine"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Consider the following definition: \"A high level of infection beginning early in life and affecting most of the child population, leading to a state of equilibrium such that the adult population shows evidence of the disease much less commonly than the children.\" Which one of the following terms best fits this definition?",
+    "options": [
+      "Holoendemic",
+      "Hyperendemic",
+      "Hypoendemic",
+      "Pandemic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This description of high universal childhood infection leading to an equilibrium with lower disease evidence in adults is the classic definition of a holoendemic disease pattern.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Consider the following statements regarding dengue virus: I. It has four distinct serotypes II. Infection with any one serotype confers lifelong immunity for that virus serotype III. Secondary infection with dengue serotype 2 leads to severe form of dengue. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dengue virus has four serotypes, infection with one confers lifelong homotypic immunity, and secondary infection (particularly with serotype 2) is associated with severe dengue due to antibody-dependent enhancement — all three statements are correct.",
+    "subject_keys": [
+      "microbiology"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Consider the following statements regarding dengue: I. The mosquito becomes infective after an extrinsic incubation period of 8-10 days II. Once it becomes infective, the mosquito remains infective for life III. The genital tract of the mosquito does not get infected. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The extrinsic incubation period is 8-10 days and once infective the Aedes mosquito remains infective for its lifetime; however, the genital tract of the mosquito can get infected, allowing transovarial transmission, making statement III incorrect.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "A researcher has obtained the country-level data on the average Body Mass Index (BMI) and the average sugar intake for 100 countries. Which among the following will be best suited to present the relationship between BMI and sugar intake in the 100 countries?",
+    "options": [
+      "Bar chart",
+      "Pie diagram",
+      "Frequency polygon",
+      "Scatter diagram"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A scatter diagram is the appropriate graphical tool to display the relationship/correlation between two continuous variables such as BMI and sugar intake across countries.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Frontline health workers are employed to record the births and deaths in countries which have made slow progress in the development of a comprehensive vital registration system. This approach is known as",
+    "options": [
+      "registration of vital events",
+      "lay reporting",
+      "sample registration system",
+      "census"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lay reporting refers to using frontline/community-level workers to record vital events in settings where a complete formal vital registration system has not been established.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "While calculating the 'total dependency ratio', which one of the following is used in the denominator?",
+    "options": [
+      "Midyear population",
+      "Population 0 to 65 years",
+      "Population 15 to 64 years",
+      "Population 14 to 70 years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The total dependency ratio is calculated as the ratio of dependents (under 15 and over 64) to the working-age population, which is used as the denominator, i.e., population aged 15 to 64 years.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "As per the United Nations definition of a vital events registration system, 'vital events' include which of the following? I. Foetal deaths II. School admissions III. Legal separations IV. College graduations",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 3",
+      "2 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Foetal deaths and legal separations are recognized vital events under the UN definition, along with births, deaths, marriages, divorces, adoptions, etc.; school admissions and college graduations are not classified as vital events.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Consider the following statements about Kyasanur Forest Disease (KFD): I. It is transmitted by ticks II. It was originally called 'pig disease' because of the association with dead pigs III. It was first recognized in Karnataka State. How many of the statements given above are correct?",
+    "options": [
+      "None of the statements",
+      "Only one of the statements",
+      "Only two of the statements",
+      "All the three statements"
+    ],
+    "correctAnswer": 3,
+    "explanation": "KFD is tick-transmitted, was historically called 'monkey disease'/associated with dead monkeys and originally noted with sick/dead monkeys (with the association also loosely tied to local terms), and was first identified in Kyasanur Forest, Karnataka — all three statements are correct as per the key.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "In countries with low levels of measles transmission, what should be the appropriate age for starting immunization with measles-containing vaccine (MCV)?",
+    "options": [
+      "6 months",
+      "9 months",
+      "12 months",
+      "15-18 months"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In settings with low measles transmission, the first dose of MCV is recommended to be given at 12 months of age, as maternal antibody interference is higher earlier and transmission risk is lower.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Monkeypox, a viral zoonotic disease, is caused by",
+    "options": [
+      "a single-stranded RNA virus",
+      "a double-stranded RNA virus",
+      "a single-stranded DNA virus",
+      "a double-stranded DNA virus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Monkeypox is caused by the monkeypox virus, a double-stranded DNA virus belonging to the Orthopoxvirus genus of the Poxviridae family.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Raju, a 6-year-old boy, was returning home from school. At the gate, he was scratched by a dog and there was some bleeding from the wound. Which option should be followed for the post-exposure prophylaxis?",
+    "options": [
+      "Wash the wound and administer a shot of tetanus toxoid",
+      "Wash the wound and vaccinate with ARV only",
+      "Wash the wound, vaccinate with ARV and administer immunoglobulin",
+      "Wash and apply antiseptic to the wound"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A category III exposure (bleeding scratch from an animal) requires wound washing, anti-rabies vaccination, and administration of rabies immunoglobulin as per post-exposure prophylaxis protocol.",
+    "subject_keys": [
+      "community_medicine"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "The method of combined disposal of refuse and night soil is known as",
+    "options": [
+      "dumping",
+      "controlled tipping",
+      "incineration",
+      "composting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Controlled tipping (sanitary landfilling) is the method involving the combined disposal of refuse and night soil in trenches, allowing decomposition through bacterial action.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Consider the following statements about working of septic tanks: I. They are recommended for large communities, rather than small communities II. There should be no air space between the level of liquid in the tank and the undersurface of the cover III. Liquid effluent from the outlet pipe is free from all pathogens. How many of the statements given above are correct?",
+    "options": [
+      "None of the statements",
+      "Only one of the statements",
+      "Only two of the statements",
+      "All the three statements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Septic tanks are actually recommended for small communities/institutions rather than large ones, an air space is required above the liquid level for gas venting, and effluent is not free from pathogens and requires further treatment — all three statements are incorrect.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Of the following amino acids, which is categorized as a nonessential amino acid?",
+    "options": [
+      "Leucine",
+      "Threonine",
+      "Tryptophan",
+      "Proline"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Proline is classified as a nonessential amino acid since the body can synthesize it, whereas leucine, threonine, and tryptophan are essential amino acids that must be obtained from the diet.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Consider the following milks: I. Buffalo milk II. Cow milk III. Goat milk IV. Human milk. What is the correct order (from highest to lowest) with regard to fat content per 100 gm in the milk?",
+    "options": [
+      "1 → 3 → 4 → 2",
+      "4 → 2 → 3 → 1",
+      "2 → 1 → 4 → 3",
+      "1 → 3 → 2 → 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In decreasing order of fat content per 100 g, buffalo milk has the highest fat content, followed by goat milk, cow milk, and then human milk with the lowest fat content among these.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Which of the following are unsaturated fatty acids? I. Lauric acid II. Linoleic acid III. Oleic acid IV. Palmitic acid",
+    "options": [
+      "1 and 2",
+      "1 and 4",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Linoleic acid and oleic acid are unsaturated fatty acids, while lauric acid and palmitic acid are saturated fatty acids.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "In India, the most widely prevalent stage of iron deficiency is",
+    "options": [
+      "decreased iron stores without any other detectable abnormalities",
+      "fall in percentage saturation of transferrin",
+      "overt iron deficiency with impaired haemoglobin synthesis",
+      "decrease in the concentration of circulating haemoglobin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the progression of iron deficiency, a fall in percentage transferrin saturation is the most widely prevalent stage encountered in the Indian population, representing an intermediate stage before overt anaemia develops.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Consider the following statements: Statement I: Waist circumference and waist to hip ratio are more powerful predictors of subsequent risk of type 2 diabetes than Body Mass Index (BMI). Statement II: Central obesity is an important determinant of insulin resistance, the undergoing abnormality in most cases of type 2 diabetes. Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II is the correct explanation of Statement I",
+      "Both Statement I and Statement II are correct but Statement II is not the correct explanation of Statement I",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both statements are true, and central obesity driving insulin resistance (Statement II) explains why waist circumference/waist-hip ratio are stronger predictors of diabetes risk than BMI (Statement I).",
+    "subject_keys": [
+      "pharmacology"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Consider the following statement: \"The people should seek to preserve their traditional eating patterns and lifestyles associated with low levels of Coronary Heart Disease (CHD).\" Which level of prevention is implied in this statement?",
+    "options": [
+      "Primordial",
+      "High risk",
+      "Primary",
+      "Secondary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preserving existing healthy lifestyles/patterns before risk factors develop, to prevent the emergence of risk factors altogether, is the definition of primordial prevention.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Raju is 30 years of age. He has been working in the ceramic and pottery industry for the last 10 years. Which one of the following conditions should he be screened for?",
+    "options": [
+      "Silicosis",
+      "Anthracosis",
+      "Byssinosis",
+      "Asbestosis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Workers in the ceramic and pottery industry are exposed to silica dust, putting them at risk of silicosis, warranting screening for this occupational lung disease.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "An industrial worker was brought to a medical facility due to health problems. On his workup including laboratory tests, a finding of basophilic stippling of Red Blood Cells (RBC) was observed. Which among the following is he/she likely to be having?",
+    "options": [
+      "Asbestosis",
+      "Farmer's lung",
+      "Lead poisoning",
+      "Brucellosis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Basophilic stippling of red blood cells is a classic haematological finding associated with lead poisoning due to inhibition of erythrocyte enzymes involved in RNA degradation.",
+    "subject_keys": [
+      "forensic_medicine"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Consider the following pairs of genetic diseases that show Mendelian inheritance. Each of the following pairs represents a genetic disease and it has been matched with a type of inheritance: 1. Cystic fibrosis - Autosomal recessive; 2. Huntington's chorea - Autosomal dominant; 3. Marfan's syndrome - Recessive sex-linked. How many of the pairs given above are correctly matched?",
+    "options": [
+      "None of the pairs",
+      "Only one of the pairs",
+      "Only two of the pairs",
+      "All the three pairs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cystic fibrosis (autosomal recessive) and Huntington's chorea (autosomal dominant) are correctly matched; Marfan's syndrome is actually autosomal dominant, not recessive sex-linked, making that pair incorrect.",
+    "subject_keys": [
+      "pediatrics"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Consider the following statements: Statement I: Signs of thalassemia major usually develop after 6 months of age. Statement II: This is the time when haemoglobin synthesis switches from haemoglobin F to haemoglobin A. Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II is the correct explanation of Statement I",
+      "Both Statement I and Statement II are correct but Statement II is not the correct explanation of Statement I",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Thalassemia major typically manifests after 6 months of age because that is when the physiological switch from fetal (HbF) to adult (HbA) haemoglobin synthesis occurs, unmasking the defect in beta-globin chain production.",
+    "subject_keys": [
+      "biochemistry"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Which of the following publications is/are brought out by the World Health Organization? I. CD Alert II. Morbidity and Mortality Weekly Report III. Weekly Epidemiological Record",
+    "options": [
+      "2 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Weekly Epidemiological Record is published by the WHO; CD Alert is published by India's NCDC, and the Morbidity and Mortality Weekly Report is published by the US CDC.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "As per the basic model of a nuclear family life cycle, consider the following phases: I. Contraction II. Dissolution III. Extension IV. Formation. Which one of the following best represents the correct sequence of phases in a normal nuclear family?",
+    "options": [
+      "1 → 2 → 3 → 4",
+      "4 → 3 → 1 → 2",
+      "1 → 4 → 3 → 2",
+      "4 → 1 → 2 → 3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The normal nuclear family life cycle progresses through Formation, Extension, Contraction, and finally Dissolution, corresponding to sequence 4 → 3 → 1 → 2.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Which among the following are characteristics of health education, rather than propaganda? I. Knowledge actively acquired, rather than instilled II. Appeals to emotion, rather than reason III. Behaviour centred, rather than information centred IV. Arouses and stimulates primitive desires, rather than disciplines them",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Health education is characterized by actively acquired knowledge and being behaviour-centred; appealing to emotion rather than reason and arousing primitive desires are characteristics of propaganda, not health education.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Consider the following statements regarding LNG-20 (Mirena): I. It is a T-shaped IUD filled with natural hormone progesterone II. It is associated with a low pregnancy rate (2 per 1000 women) III. It is associated with a large number of ectopic pregnancies IV. It is associated with lower menstrual blood loss as compared to copper IUDs. Which of the statements given above is/are correct?",
+    "options": [
+      "2 only",
+      "2 and 4 only",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LNG-20 (Mirena) has a low pregnancy rate and is associated with reduced menstrual blood loss compared to copper IUDs; it contains synthetic levonorgestrel (not natural progesterone), and it is actually associated with a lower, not higher, rate of ectopic pregnancy.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "The most common cause of maternal mortality in India is",
+    "options": [
+      "obstetric haemorrhage",
+      "obstructed labour",
+      "unsafe abortion",
+      "toxaemia of pregnancy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Obstetric haemorrhage remains the single most common direct cause of maternal mortality in India.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "In the National Malaria Control Programme, Indoor Residual Spray (IRS) is the primary method of vector control in rural setting. Which one of the following is the 'insecticide of choice'?",
+    "options": [
+      "DDT",
+      "Malathion",
+      "Synthetic pyrethroid",
+      "Temephos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Malathion is designated as the insecticide of choice for indoor residual spraying in India's National Malaria Control Programme, particularly in areas with DDT resistance.",
+    "subject_keys": [
+      "microbiology"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Consider the following statements with regard to selection of Accredited Social Health Activist (ASHA) under NRHM: I. ASHA must be a woman preferably in the age group of 18 to 25 years II. ASHA must have had formal education up to at least class ten III. ASHA must be a resident of the village IV. ASHA may be a married, widowed or divorced woman. Which of the statements given above are correct with regard to process of selection of ASHA?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ASHA is required to be a resident of the village and may be married, widowed, or divorced; the preferred age group is actually 25 to 45 years (not 18-25) and formal education requirement is up to class eight (not ten) as per standard NRHM criteria, making statements I and II incorrect.",
+    "subject_keys": [
+      "community_medicine"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Consider the following statements regarding the Central Drugs Standard Control Organization (CDSCO) in India: I. The CDSCO is headed by the Drugs Controller General (India) at the Centre II. The CDSCO is a part of the Directorate of Director General of Health Services III. The CDSCO is under the Ministry of Chemicals and Fertilizers, Government of India IV. The CDSCO has a network of several port offices for monitoring the import and export of drugs. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3",
+      "1, 2 and 4",
+      "2 and 4 only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CDSCO is headed by the Drugs Controller General (India), functions under the Directorate General of Health Services, and maintains port offices for monitoring drug import/export; it falls under the Ministry of Health and Family Welfare, not the Ministry of Chemicals and Fertilizers, making statement III incorrect.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 119,
+    "question": "The National AIDS Control Organization provides prepacked colour-coded STI/RTI kits as a free supply to its designated STI/RTI clinics. Consider the following pairs: 1. Red - Urethral discharge; 2. Green - Vaginitis; 3. White - Inguinal bubo. How many of the pairs given above are correctly matched?",
+    "options": [
+      "None of the pairs",
+      "Only one pair",
+      "Only two pairs",
+      "All the three pairs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only one of the listed colour-code pairs correctly corresponds to the NACO STI/RTI kit classification; the other two pairings do not match the standard designated colour codes.",
+    "subject_keys": [
+      "general_surgery"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "The table below shows the results of ELISA test for HIV infection (True infection status: Infected/Noninfected; Test Positive: 4900/950; Test Negative: 100/94050; Total: 5000/95000). Consider the following statements: I. The sensitivity is 98%. II. The specificity is 99%. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sensitivity = 4900/5000 = 98%, and specificity = 94050/95000 = 99%, so both statements are correctly calculated from the given 2x2 table.",
+    "subject_keys": [
+      "microbiology",
+      "community_medicine"
+    ]
+  }
 ]

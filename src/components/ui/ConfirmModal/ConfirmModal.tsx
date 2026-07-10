@@ -21,7 +21,12 @@ export function ConfirmModal({
   onCancel,
 }: ConfirmModalProps) {
   return (
-    <ResponsiveModal open={open} onClose={onCancel} titleId="confirm-modal-title">
+    <ResponsiveModal
+      open={open}
+      onClose={onCancel}
+      titleId="confirm-modal-title"
+      centered
+    >
       <h2
         id="confirm-modal-title"
         className="text-xl font-bold text-gray-900 dark:text-gray-100"

@@ -12,7 +12,7 @@ import { ReviewPalette } from '@/components/review/ReviewPalette'
 import { ReviewQuestionCard } from '@/components/review/ReviewQuestionCard'
 import type { ReviewFilter } from '@/types/result'
 import { useExamResult } from '@/hooks/useExamResult'
-import { getPaperLabel } from '@/utils/paperData'
+import { getExamSubtitle } from '@/utils/examDisplay'
 
 const FILTERS: { id: ReviewFilter; label: string }[] = [
   { id: 'all', label: 'All' },
@@ -131,7 +131,7 @@ export function Review() {
             Review Answers
           </h1>
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            {year} &middot; {getPaperLabel(paper)}
+            {getExamSubtitle(year, paper)}
           </p>
         </div>
         <Badge variant="blue">

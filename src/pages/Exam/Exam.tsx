@@ -1,4 +1,3 @@
-import { useNavigate } from 'react-router-dom'
 import { BackToExamList } from '@/components/layout/BackToExamList'
 import { ExamHeader } from '@/components/exam/ExamHeader'
 import { SubmitTestButton } from '@/components/exam/SubmitTestButton'
@@ -15,7 +14,6 @@ import { useExamTimer } from '@/hooks/useExamTimer'
 import { useExamStore } from '@/store/examStore'
 
 export function Exam() {
-  const navigate = useNavigate()
   const {
     examStarted,
     isHydrated,
@@ -23,6 +21,8 @@ export function Exam() {
     savedExam,
     continueExam,
     startFresh,
+    cancelResume,
+    isCustomExam,
   } = useExamInit()
 
   useExamTimer()
@@ -44,9 +44,10 @@ export function Exam() {
       <ResumeModal
         open
         savedExam={savedExam}
+        isTimed={!isCustomExam}
         onContinue={continueExam}
         onStartAgain={startFresh}
-        onCancel={() => navigate('/')}
+        onCancel={cancelResume}
       />
     )
   }
