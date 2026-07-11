@@ -27,7 +27,9 @@
     "correctAnswer": 3,
     "explanation": "IV fluids, rasburicase, and febuxostat (xanthine oxidase inhibitor) are recommended for tumour lysis syndrome management; urinary alkalinization is no longer recommended as it can promote calcium phosphate crystal precipitation.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pharmacology",
+      "pathology"
     ]
   },
   {
@@ -42,7 +44,8 @@
     "correctAnswer": 3,
     "explanation": "Jacksonian march (spread of motor activity), Todd's paralysis (post-ictal weakness), and epilepsia partialis continua (continuous focal motor seizures) are all recognized associations of focal seizures.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "neurology"
     ]
   },
   {
@@ -57,7 +60,8 @@
     "correctAnswer": 0,
     "explanation": "Typical absence seizures are characterized by abrupt onset generalized 3 Hz spike-and-slow wave discharges on EEG, with no postictal confusion or structural brain abnormality, unlike atypical absence seizures.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "neurology"
     ]
   },
   {
@@ -118,7 +122,8 @@
     "correctAnswer": 1,
     "explanation": "The BCR-ABL1 fusion protein has constitutive tyrosine kinase activity, driving the pathogenesis of chronic myeloid leukemia.",
     "subject_keys": [
-      "pathology"
+      "pathology",
+      "pharmacology"
     ]
   },
   {
@@ -133,7 +138,8 @@
     "correctAnswer": 3,
     "explanation": "Imatinib, Dasatinib, Nilotinib, and Ponatinib are all tyrosine kinase inhibitors used to target the BCR-ABL1 oncoprotein in CML.",
     "subject_keys": [
-      "general_medicine"
+      "pharmacology",
+      "pathology"
     ]
   },
   {
@@ -149,7 +155,8 @@
     "explanation": "Chronic H. pylori infection is strongly associated with the development of gastric MALT (mucosa-associated lymphoid tissue) lymphoma.",
     "subject_keys": [
       "pathology",
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -179,7 +186,8 @@
     "correctAnswer": 1,
     "explanation": "Lactotroph adenomas (prolactinomas) are the most common type of functioning pituitary adenoma.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "physiology"
     ]
   },
   {
@@ -194,6 +202,7 @@
     "correctAnswer": 0,
     "explanation": "In thyrotoxicosis factitia, thyrotoxicosis results from exogenous thyroid hormone ingestion, causing suppression of endogenous thyroglobulin production and hence low serum thyroglobulin levels, unlike other causes of thyrotoxicosis with intrinsic gland activity.",
     "subject_keys": [
+      "general_medicine",
       "physiology"
     ]
   },
@@ -241,7 +250,8 @@
     "correctAnswer": 2,
     "explanation": "A suppressed ACTH level with failure to suppress cortisol on dexamethasone testing, unremarkable adrenal and pituitary imaging, and a background of rheumatoid arthritis (commonly treated with steroids) points to exogenous glucocorticoid use as the cause of Cushingoid features.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -256,6 +266,7 @@
     "correctAnswer": 2,
     "explanation": "Muscle cramps, perioral/peripheral paresthesia, and carpopedal spasm after thyroidectomy are classic features of hypocalcemia due to inadvertent parathyroid injury, requiring measurement of ionized calcium and treatment with IV calcium gluconate.",
     "subject_keys": [
+      "general_medicine",
       "general_surgery"
     ]
   },
@@ -271,7 +282,8 @@
     "correctAnswer": 0,
     "explanation": "Kallmann's syndrome is characterized by GnRH deficiency leading to hypogonadotropic hypogonadism, often associated with anosmia; Klinefelter's and Turner's syndromes are causes of hypergonadotropic hypogonadism.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "physiology"
     ]
   },
   {
@@ -316,7 +328,9 @@
     "correctAnswer": 1,
     "explanation": "Ampicillin (often combined with gentamicin for synergy) and trimethoprim-sulfamethoxazole (as an alternative) are effective against Listeria monocytogenes; Listeria is intrinsically resistant to cephalosporins like ceftriaxone.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "microbiology",
+      "pharmacology"
     ]
   },
   {
@@ -332,6 +346,7 @@
     "explanation": "Craniotabes, frontal/parietal bossing, and muscle hypotonia are classic features of rickets due to vitamin D deficiency; the epiphysis at the wrist actually widens (not shrinks) in rickets.",
     "subject_keys": [
       "biochemistry",
+      "pediatrics",
       "orthopedics"
     ]
   },
@@ -347,7 +362,8 @@
     "correctAnswer": 3,
     "explanation": "Relative erythrocytosis results from a reduction in plasma volume without a true increase in red cell mass, as seen with diuretic use, dehydration, or burns; the other options cause absolute (true) erythrocytosis.",
     "subject_keys": [
-      "forensic_medicine"
+      "general_medicine",
+      "pathology"
     ]
   },
   {
@@ -362,6 +378,8 @@
     "correctAnswer": 3,
     "explanation": "Urine is a good culture medium, atrophic urethritis in postmenopausal women predisposes to UTI, and certain uropathogenic E. coli strains have specific virulence factors for urinary tract invasion; asymptomatic bacteriuria does not routinely require antibiotic treatment (except in pregnancy or before urologic procedures).",
     "subject_keys": [
+      "general_medicine",
+      "microbiology",
       "obstetrics_and_gynecology"
     ]
   },
@@ -377,7 +395,8 @@
     "correctAnswer": 0,
     "explanation": "Scorpions inject venom via a tail stinger, and most stings cause local pain but are relatively harmless, especially from non-lethal species; anticholinergics like atropine are used specifically for cholinergic symptoms of severe envenomation, not as a general substitute for antivenom.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "forensic_medicine"
     ]
   },
   {
@@ -392,7 +411,9 @@
     "correctAnswer": 1,
     "explanation": "Kyasanur Forest Disease is transmitted by tick bite with monkeys acting as an amplifying reservoir host; it is endemic to Karnataka (Western Ghats region), not North-Eastern India, and while a formalin-inactivated vaccine exists, per the key only statements 2 and 3 are marked correct.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "microbiology",
+      "community_medicine"
     ]
   },
   {
@@ -407,7 +428,8 @@
     "correctAnswer": 3,
     "explanation": "Brucellosis classically causes undulant fever, is associated with musculoskeletal symptoms such as arthritis and spondylitis, and Brucella organisms are facultative intracellular pathogens — all three statements are correct.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "microbiology"
     ]
   },
   {
@@ -422,9 +444,8 @@
     "correctAnswer": 3,
     "explanation": "ST elevation in lead aVR greater than 1 mm, particularly with widespread ST depression elsewhere, is a marker of left main coronary artery or proximal LAD occlusion.",
     "subject_keys": [
-      "pathology",
       "general_medicine",
-      "psychiatry"
+      "cardiology"
     ]
   },
   {
@@ -454,7 +475,8 @@
     "correctAnswer": 3,
     "explanation": "Cobblestone appearance is a classic feature of Crohn's disease; UC characteristically involves the rectum (almost always causing proctitis) rather than sparing it, skip lesions are a feature of Crohn's disease (not UC), and UC is actually more common in non-smokers, making statement II the only correct one.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pathology"
     ]
   },
   {
@@ -470,7 +492,8 @@
     "explanation": "Athlete's heart shows physiological ventricular wall thickening (physiological hypertrophy) with preserved normal diastolic function, unlike pathological hypertrophic or restrictive cardiomyopathies where diastolic dysfunction is present.",
     "subject_keys": [
       "general_medicine",
-      "pathology"
+      "cardiology",
+      "physiology"
     ]
   },
   {
@@ -485,7 +508,8 @@
     "correctAnswer": 2,
     "explanation": "Paradoxical (reversed) splitting occurs when aortic valve closure is delayed relative to pulmonary closure, as seen in severe aortic stenosis, right ventricular pacing (mimicking LBBB pattern), and HOCM; right bundle branch block causes wide fixed splitting, not paradoxical splitting.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "cardiology"
     ]
   },
   {
@@ -500,7 +524,8 @@
     "correctAnswer": 2,
     "explanation": "A murmur at the lower left sternal border that increases with inspiration (Carvallo's sign), along with raised JVP showing a prominent C-V wave, is characteristic of tricuspid regurgitation.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "cardiology"
     ]
   },
   {
@@ -515,7 +540,8 @@
     "correctAnswer": 0,
     "explanation": "Kussmaul's sign, a paradoxical rise in jugular venous pressure with inspiration, is a classic finding in constrictive pericarditis.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "cardiology"
     ]
   },
   {
@@ -530,7 +556,8 @@
     "correctAnswer": 1,
     "explanation": "A murmur at the right second intercostal space that decreases with increased afterload (handgrip) and increases with decreased afterload (amyl nitrite) is characteristic of aortic stenosis.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "cardiology"
     ]
   },
   {
@@ -545,8 +572,9 @@
     "correctAnswer": 2,
     "explanation": "Roth's spots are a minor criterion in the modified Duke criteria; positive blood cultures, new valvular regurgitation, and prosthetic valve dehiscence are components of the major criteria.",
     "subject_keys": [
+      "general_medicine",
       "microbiology",
-      "general_medicine"
+      "cardiology"
     ]
   },
   {
@@ -561,8 +589,9 @@
     "correctAnswer": 2,
     "explanation": "Giant cell arteritis is a large-vessel vasculitis predominantly affecting the aorta and its major branches, particularly the cranial arteries.",
     "subject_keys": [
+      "general_medicine",
       "pathology",
-      "general_medicine"
+      "rheumatology"
     ]
   },
   {
@@ -578,6 +607,7 @@
     "explanation": "Osborn (J) waves are classically associated with systemic hypothermia, appearing as a positive deflection at the J point on ECG.",
     "subject_keys": [
       "general_medicine",
+      "cardiology",
       "physiology"
     ]
   },
@@ -594,7 +624,8 @@
     "explanation": "A reduced total lung capacity below 80% of predicted is a defining spirometric/plethysmographic feature of restrictive lung disease.",
     "subject_keys": [
       "general_medicine",
-      "pathology"
+      "pulmonology",
+      "physiology"
     ]
   },
   {
@@ -609,8 +640,9 @@
     "correctAnswer": 0,
     "explanation": "Reduced LV preload (e.g., Valsalva, standing) intensifies the HOCM murmur by worsening outflow obstruction, while maneuvers that increase preload, such as passive leg raising, make the murmur softer; the murmur becomes softer, not louder, with squatting, since squatting increases both preload and afterload.",
     "subject_keys": [
-      "physiology",
-      "general_medicine"
+      "general_medicine",
+      "cardiology",
+      "physiology"
     ]
   },
   {
@@ -625,7 +657,8 @@
     "correctAnswer": 1,
     "explanation": "The Duffy antigen on red blood cells serves as the receptor required for Plasmodium vivax invasion of erythrocytes; individuals lacking the Duffy antigen are resistant to P. vivax infection.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "parasitology"
     ]
   },
   {
@@ -640,7 +673,8 @@
     "correctAnswer": 1,
     "explanation": "Cryoprecipitate is rich in fibrinogen, factor VIII, and von Willebrand factor, along with factor XIII; it is not a significant source of factor IX.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "hematology"
     ]
   },
   {
@@ -655,7 +689,8 @@
     "correctAnswer": 3,
     "explanation": "Hepatitis B, Hepatitis C, HIV, and Parvovirus B19 are all transfusion-transmissible viral infections.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -670,7 +705,9 @@
     "correctAnswer": 3,
     "explanation": "Haemophilia B (Christmas disease, factor IX deficiency) follows an X-linked recessive inheritance pattern.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "genetics",
+      "hematology"
     ]
   },
   {
@@ -685,7 +722,9 @@
     "correctAnswer": 3,
     "explanation": "The classic triad of intravascular haemolysis, cytopenias (bone marrow failure), and venous thrombosis is characteristic of paroxysmal nocturnal haemoglobinuria.",
     "subject_keys": [
-      "pathology"
+      "pathology",
+      "general_medicine",
+      "hematology"
     ]
   },
   {
@@ -700,7 +739,8 @@
     "correctAnswer": 0,
     "explanation": "Thalassemia causes a microcytic anaemia with low MCV, in contrast to vitamin B12 and folate deficiencies, which cause macrocytic (high MCV) anaemia.",
     "subject_keys": [
-      "biochemistry"
+      "pathology",
+      "hematology"
     ]
   },
   {
@@ -715,7 +755,8 @@
     "correctAnswer": 0,
     "explanation": "Kallmann syndrome is defined by the combination of GnRH deficiency (hypogonadotropic hypogonadism) and anosmia/hyposmia due to defective olfactory bulb development.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "physiology"
     ]
   },
   {
@@ -730,7 +771,9 @@
     "correctAnswer": 0,
     "explanation": "The Wolff-Chaikoff effect describes the transient inhibition of thyroid hormone synthesis and release in response to a large iodine load.",
     "subject_keys": [
-      "physiology"
+      "physiology",
+      "pharmacology",
+      "general_medicine"
     ]
   },
   {
@@ -745,7 +788,8 @@
     "correctAnswer": 2,
     "explanation": "Propranolol (controls adrenergic symptoms), sodium ipodate (blocks T4-to-T3 conversion and release), and propylthiouracil (blocks hormone synthesis and peripheral conversion) are all used in managing thyroid storm; liothyronine (T3) would worsen thyrotoxicosis.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -760,6 +804,8 @@
     "correctAnswer": 1,
     "explanation": "Myxoedema coma is treated with thyroid hormone replacement, using liothyronine (T3) and/or levothyroxine (T4); carbimazole and sodium ipodate are used to reduce, not replace, thyroid hormone and are inappropriate here.",
     "subject_keys": [
+      "general_medicine",
+      "pharmacology",
       "physiology"
     ]
   },
@@ -775,7 +821,7 @@
     "correctAnswer": 2,
     "explanation": "The upper age limit by which an infant should be able to fixate on and follow objects visually is 2 months.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -790,7 +836,7 @@
     "correctAnswer": 2,
     "explanation": "Stranger anxiety typically develops around 6-7 months of age as infants develop the ability to distinguish familiar caregivers from unfamiliar people.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -820,7 +866,7 @@
     "correctAnswer": 3,
     "explanation": "The upper age limit for a child to start walking independently is 18 months, and the upper age limit for speaking single meaningful words is also 18 months.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -835,7 +881,9 @@
     "correctAnswer": 3,
     "explanation": "In a stable child following kerosene ingestion, a chest radiograph is done to assess for aspiration pneumonitis; gastric lavage is avoided due to the high risk of aspiration and chemical pneumonitis with hydrocarbon ingestion.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics",
+      "pharmacology",
+      "forensic_medicine"
     ]
   },
   {
@@ -850,9 +898,10 @@
     "correctAnswer": 1,
     "explanation": "Encephalopathy occurring within 7 days of DPT vaccination is a recognized absolute contraindication to further doses of pertussis-containing vaccine.",
     "subject_keys": [
-      "pharmacology",
+      "pediatrics",
       "microbiology",
-      "community_medicine"
+      "community_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -867,8 +916,9 @@
     "correctAnswer": 0,
     "explanation": "Anaphylaxis after measles vaccine, encephalopathy after DPT (pertussis component), and adenitis following BCG are recognized vaccine-product-related adverse events; gastroenteritis after MMR is generally a coincidental, non-vaccine-related event.",
     "subject_keys": [
+      "pediatrics",
       "microbiology",
-      "pediatrics"
+      "community_medicine"
     ]
   },
   {
@@ -883,7 +933,8 @@
     "correctAnswer": 3,
     "explanation": "The Trivandrum Development Screening Chart is specifically designed for community-level screening of children aged 0-6 years for developmental delay in the Indian context.",
     "subject_keys": [
-      "community_medicine"
+      "community_medicine",
+      "pediatrics"
     ]
   },
   {
@@ -899,8 +950,8 @@
     "explanation": "Per WHO IMNCI criteria, convulsions, inability to feed/drink, and stridor in a calm child are danger signs classifying 'severe pneumonia or very severe disease'; lower chest indrawing alone classifies as 'pneumonia,' a less severe category.",
     "subject_keys": [
       "community_medicine",
-      "general_medicine",
-      "pediatrics"
+      "pediatrics",
+      "general_medicine"
     ]
   },
   {
@@ -915,9 +966,9 @@
     "correctAnswer": 0,
     "explanation": "For a completely unimmunized 11-month-old, catch-up vaccination at this visit should include BCG, OPV, DPT, and Hepatitis B vaccines as per the national immunization schedule.",
     "subject_keys": [
-      "microbiology",
+      "pediatrics",
       "community_medicine",
-      "pediatrics"
+      "microbiology"
     ]
   },
   {
@@ -932,7 +983,8 @@
     "correctAnswer": 1,
     "explanation": "Anorexia nervosa is often precipitated by weight loss, food avoidance is a core feature, and lanugo hair may develop on the back, forearms, and cheeks due to malnutrition; body image is characteristically disturbed with an intense fear of weight gain, not intact, making statement III incorrect.",
     "subject_keys": [
-      "psychiatry"
+      "psychiatry",
+      "general_medicine"
     ]
   },
   {
@@ -947,8 +999,9 @@
     "correctAnswer": 3,
     "explanation": "Loop and thiazide diuretics cause hypovolemia, hyponatremia, and hypokalemia; they actually cause metabolic alkalosis (not acidosis) due to increased hydrogen ion loss.",
     "subject_keys": [
-      "physiology",
-      "pharmacology"
+      "pharmacology",
+      "general_medicine",
+      "physiology"
     ]
   },
   {
@@ -963,8 +1016,8 @@
     "correctAnswer": 2,
     "explanation": "Stress ulceration is common during critical illness; prophylaxis is typically discontinued once enteral feeds are established; PPIs combined with antibiotics actually increase the risk of C. difficile infection; PPIs are effective in reducing stress ulcer incidence.",
     "subject_keys": [
-      "microbiology",
-      "community_medicine"
+      "pharmacology",
+      "general_medicine"
     ]
   },
   {
@@ -979,7 +1032,8 @@
     "correctAnswer": 2,
     "explanation": "Post-LP headache is a dull, occipitofrontal headache that improves with recumbency within minutes; it typically worsens on standing rather than being worse on waking and improving through the day.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "anesthesiology"
     ]
   },
   {
@@ -994,7 +1048,9 @@
     "correctAnswer": 0,
     "explanation": "A1AT deficiency causes prolonged neonatal jaundice, pulmonary emphysema in adulthood, and rare panniculitis; it is inherited in an autosomal co-dominant manner, not purely dominant.",
     "subject_keys": [
-      "pediatrics"
+      "general_medicine",
+      "pediatrics",
+      "genetics"
     ]
   },
   {
@@ -1009,8 +1065,9 @@
     "correctAnswer": 0,
     "explanation": "Carbamazepine, allopurinol, and diltiazem are recognized causes of granulomatous liver injury; acetaminophen typically causes centrilobular hepatic necrosis instead.",
     "subject_keys": [
+      "pharmacology",
       "pathology",
-      "pharmacology"
+      "general_medicine"
     ]
   },
   {
@@ -1025,7 +1082,8 @@
     "correctAnswer": 0,
     "explanation": "WHO's Nurturing Care Framework identifies five components: good health, adequate nutrition, responsive caregiving, opportunities for early learning, and safety and security.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics",
+      "community_medicine"
     ]
   },
   {
@@ -1040,7 +1098,8 @@
     "correctAnswer": 3,
     "explanation": "Low birth weight infants require iron supplementation at 2 mg/kg/day, started around 2 months and continued up to 1 year of age to prevent iron deficiency anemia from reduced iron stores.",
     "subject_keys": [
-      "biochemistry"
+      "pediatrics",
+      "neonatology"
     ]
   },
   {
@@ -1055,7 +1114,8 @@
     "correctAnswer": 0,
     "explanation": "IUGR babies are prone to hypothermia (reduced subcutaneous fat) and hypoglycemia (reduced glycogen stores) as their main common problems at term.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics",
+      "neonatology"
     ]
   },
   {
@@ -1070,7 +1130,8 @@
     "correctAnswer": 1,
     "explanation": "Normal newborns lose up to 7-10% of birth weight initially and regain it by 7-10 days of age; 12-15% loss would be considered excessive.",
     "subject_keys": [
-      "pediatrics"
+      "pediatrics",
+      "neonatology"
     ]
   },
   {
@@ -1085,7 +1146,8 @@
     "correctAnswer": 3,
     "explanation": "In tricuspid regurgitation (suggested by Carvallo's sign), regurgitant systolic flow causes the C and V waves to merge into a single CV wave, while the Y descent becomes blunted due to elevated right atrial pressure.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "cardiology"
     ]
   },
   {
@@ -1100,7 +1162,9 @@
     "correctAnswer": 2,
     "explanation": "Janeway's lesions are classified as a vascular phenomenon in modified Duke criteria, whereas Osler's nodes, Roth's spots, and glomerulonephritis are immunologic phenomena.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "cardiology",
+      "microbiology"
     ]
   },
   {
@@ -1115,7 +1179,8 @@
     "correctAnswer": 1,
     "explanation": "Functional residual capacity (FRC) is the volume of air remaining in the lungs at the end of a normal tidal expiration, comprising residual volume plus expiratory reserve volume.",
     "subject_keys": [
-      "general_medicine"
+      "physiology",
+      "pulmonology"
     ]
   },
   {
@@ -1130,7 +1195,8 @@
     "correctAnswer": 0,
     "explanation": "The urea breath test is preferred for confirming H. pylori eradication soon after treatment, since serology remains positive long after cure and invasive tests are unnecessary.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "microbiology"
     ]
   },
   {
@@ -1145,7 +1211,8 @@
     "correctAnswer": 0,
     "explanation": "The duodenum is the most common extrapancreatic site for gastrinoma in Zollinger-Ellison syndrome.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "gastroenterology"
     ]
   },
   {
@@ -1160,7 +1227,8 @@
     "correctAnswer": 3,
     "explanation": "Hepatitis C spreads via IV drug abuse, vertical transmission, and sharing contaminated toothbrushes/razors; it is not transmitted via the faeco-oral route, unlike hepatitis A and E.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -1175,8 +1243,8 @@
     "correctAnswer": 0,
     "explanation": "Massive fluid sequestration (third spacing) in severe acute pancreatitis leads to hypovolemic shock, the most common early cause of shock in this condition.",
     "subject_keys": [
-      "general_surgery",
-      "orthopedics"
+      "general_medicine",
+      "gastroenterology"
     ]
   },
   {
@@ -1191,7 +1259,8 @@
     "correctAnswer": 0,
     "explanation": "E. coli, a gut-derived gram-negative organism, is the most common cause of spontaneous bacterial peritonitis.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -1206,7 +1275,8 @@
     "correctAnswer": 2,
     "explanation": "During the window period, when HBsAg has cleared and anti-HBs has not yet appeared, anti-HBc IgM is the only detectable marker.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -1221,8 +1291,9 @@
     "correctAnswer": null,
     "explanation": "This question was officially dropped from scoring by the examining body (1 of 120 questions dropped), so no key answer is provided; only 119 questions were scored.",
     "subject_keys": [
-      "pathology",
-      "general_medicine"
+      "general_medicine",
+      "gastroenterology",
+      "pathology"
     ]
   },
   {
@@ -1237,6 +1308,8 @@
     "correctAnswer": 0,
     "explanation": "Adiponectin is reduced in obesity, orlistat is a reversible lipase inhibitor, and bariatric surgery offers long-term benefit in obesity; liraglutide actually promotes weight loss and is recommended (not contraindicated) in obese T2DM patients, making III incorrect.",
     "subject_keys": [
+      "general_medicine",
+      "pharmacology",
       "biochemistry"
     ]
   },
@@ -1252,7 +1325,8 @@
     "correctAnswer": 3,
     "explanation": "Forced saline diuresis, rasburicase, and acetazolamide help prevent uric acid nephropathy/tumor lysis syndrome; probenecid is a uricosuric agent that would worsen urate crystal deposition and is contraindicated.",
     "subject_keys": [
-      "pharmacology"
+      "pharmacology",
+      "general_medicine"
     ]
   },
   {
@@ -1267,7 +1341,9 @@
     "correctAnswer": 0,
     "explanation": "Primaquine acts on the dormant hepatic hypnozoite stage of P. vivax and P. ovale, providing radical cure and preventing relapse.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "pharmacology",
+      "parasitology"
     ]
   },
   {
@@ -1282,6 +1358,7 @@
     "correctAnswer": 3,
     "explanation": "HAND encompasses a spectrum of three categories: asymptomatic neurocognitive impairment, minor neurocognitive disorder, and HIV-associated dementia.",
     "subject_keys": [
+      "general_medicine",
       "microbiology",
       "psychiatry"
     ]
@@ -1298,7 +1375,9 @@
     "correctAnswer": 3,
     "explanation": "All four statements are correct: neurocysticercosis can present with personality changes, subcutaneous nodules can be biopsied, cerebral symptoms often emerge only after larval death (possibly years later), and praziquantel is used for prolonged courses in treatment.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "parasitology",
+      "microbiology"
     ]
   },
   {
@@ -1313,7 +1392,9 @@
     "correctAnswer": 0,
     "explanation": "Strongyloides parasitizes the upper small intestine mucosa and causes larva currens, a fast-moving rash on the abdomen/buttocks; ivermectin is actually effective treatment, and disseminated strongyloidiasis occurs in immunocompromised, not immune-competent, states.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "parasitology",
+      "microbiology"
     ]
   },
   {
@@ -1328,7 +1409,9 @@
     "correctAnswer": 2,
     "explanation": "Cutaneous larva migrans is a common linear/serpiginous lesion in travellers, linked to beach exposure, with the track advancing at 2-3 cm/day; the lesion is intensely pruritic, not non-pruritic.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "parasitology",
+      "dermatology"
     ]
   },
   {
@@ -1343,7 +1426,9 @@
     "correctAnswer": 2,
     "explanation": "Repeated stool exams at 2-3 day intervals, waterborne transmission, and the flagellate trophozoite form are all correct; duodenal aspirate (not colonoscopy) gives the highest diagnostic yield since Giardia resides in the proximal small intestine.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "parasitology",
+      "microbiology"
     ]
   },
   {
@@ -1358,7 +1443,8 @@
     "correctAnswer": 0,
     "explanation": "Type II necrotizing fasciitis is a monomicrobial infection classically caused by Group A Streptococcus, distinguishing it from the polymicrobial Type I form.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_surgery"
     ]
   },
   {
@@ -1373,7 +1459,9 @@
     "correctAnswer": 2,
     "explanation": "Post-exposure prophylaxis in a susceptible pregnant woman includes VZIG and/or acyclovir; the live varicella vaccine is contraindicated in pregnancy, and prednisolone is not indicated for prophylaxis.",
     "subject_keys": [
-      "obstetrics_and_gynecology"
+      "obstetrics_and_gynecology",
+      "microbiology",
+      "pharmacology"
     ]
   },
   {
@@ -1388,7 +1476,7 @@
     "correctAnswer": 1,
     "explanation": "A red cube is the standard object used to assess a child's grasp development at various ages.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1403,7 +1491,8 @@
     "correctAnswer": 1,
     "explanation": "Urinary alkalinization targets a urine pH of 7.5-8 to promote ion trapping and excretion of weak acid poisons such as salicylates.",
     "subject_keys": [
-      "forensic_medicine"
+      "forensic_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -1418,8 +1507,9 @@
     "correctAnswer": 0,
     "explanation": "Exchange transfusion is used in severe methemoglobinemia to remove affected red blood cells and replace them with functional ones.",
     "subject_keys": [
+      "forensic_medicine",
       "pharmacology",
-      "forensic_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1434,8 +1524,9 @@
     "correctAnswer": 1,
     "explanation": "Activated charcoal effectively adsorbs antiepileptic drugs; it is ineffective for iron and lithium (poorly adsorbed) and contraindicated in corrosive ingestion due to aspiration risk and obscuring endoscopy.",
     "subject_keys": [
+      "forensic_medicine",
       "pharmacology",
-      "forensic_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1451,7 +1542,8 @@
     "explanation": "Angelman syndrome, Fragile X syndrome, and tuberous sclerosis are well-recognized genetic associations of autism spectrum disorder; Williams syndrome is instead associated with a hypersocial phenotype.",
     "subject_keys": [
       "psychiatry",
-      "pediatrics"
+      "pediatrics",
+      "genetics"
     ]
   },
   {
@@ -1467,6 +1559,7 @@
     "explanation": "Periconceptional folic acid, starting at least one month before conception and continued through the first trimester, is recommended to reduce neural tube defect risk.",
     "subject_keys": [
       "obstetrics_and_gynecology",
+      "community_medicine",
       "biochemistry"
     ]
   },
@@ -1482,7 +1575,9 @@
     "correctAnswer": 1,
     "explanation": "Vaccine-associated paralytic poliomyelitis (VAPP) is chiefly associated with the type 2 OPV strain, due to its higher reversion rate to neurovirulence.",
     "subject_keys": [
-      "pediatrics"
+      "pediatrics",
+      "microbiology",
+      "community_medicine"
     ]
   },
   {
@@ -1497,7 +1592,8 @@
     "correctAnswer": 0,
     "explanation": "Dysgraphia (difficulty with writing) is classified as a specific learning disability, unlike dystonia (movement disorder), dysthymia (mood disorder), and dysphoria.",
     "subject_keys": [
-      "psychiatry"
+      "psychiatry",
+      "pediatrics"
     ]
   },
   {
@@ -1512,7 +1608,8 @@
     "correctAnswer": 1,
     "explanation": "In preterm infants (<35 weeks) remaining apneic after initial steps, PPV is started with blended oxygen at around 21-30%, rather than 100%, per current neonatal resuscitation guidelines.",
     "subject_keys": [
-      "community_medicine"
+      "pediatrics",
+      "neonatology"
     ]
   },
   {
@@ -1527,7 +1624,7 @@
     "correctAnswer": 0,
     "explanation": "A developmental quotient below 70% is generally considered indicative of significant developmental delay warranting detailed evaluation.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1542,7 +1639,8 @@
     "correctAnswer": 0,
     "explanation": "HBeAg indicates active viral replication and high infectivity in hepatitis B infection.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -1557,7 +1655,8 @@
     "correctAnswer": 0,
     "explanation": "In HBV-HDV coinfection resolving with full recovery, the antibody response to HDV is typically transient with low-titre anti-HDV IgM, unlike the high-titre responses seen in chronic HDV superinfection.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -1572,7 +1671,8 @@
     "correctAnswer": 2,
     "explanation": "Scleral icterus appears at bilirubin ≥3 mg/dL, the sublingual area helps confirm icterus, and the sclera's affinity for bilirubin relates to its elastin content; skin turns green from oxidation of bilirubin to biliverdin (not reduction), making III incorrect.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "gastroenterology"
     ]
   },
   {
@@ -1587,7 +1687,8 @@
     "correctAnswer": 3,
     "explanation": "In carotenoderma, carotene deposits in the skin but spares the sclerae, distinguishing it from true jaundice with scleral icterus.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "gastroenterology"
     ]
   },
   {
@@ -1602,7 +1703,8 @@
     "correctAnswer": 0,
     "explanation": "The Meares-Stamey test localizes infection in men with recurrent UTI or suspected chronic bacterial prostatitis.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "urology"
     ]
   },
   {
@@ -1617,9 +1719,9 @@
     "correctAnswer": 1,
     "explanation": "Warfarin is a recognized risk factor for calciphylaxis in CKD patients, as it inhibits vitamin K-dependent matrix Gla protein that normally prevents vascular calcification.",
     "subject_keys": [
-      "biochemistry",
-      "pharmacology",
-      "general_medicine"
+      "general_medicine",
+      "nephrology",
+      "pharmacology"
     ]
   },
   {
@@ -1634,7 +1736,9 @@
     "correctAnswer": 2,
     "explanation": "RBC casts with malignant hypertension, WBC casts with pyelonephritis, and (muddy brown) granular casts with myoglobinuria are correctly matched; the pigmented cast-vasculitis pairing is the incorrect one, giving three correct pairs.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "nephrology",
+      "pathology"
     ]
   },
   {
@@ -1649,7 +1753,9 @@
     "correctAnswer": 2,
     "explanation": "PNH results from a PIGA gene mutation causing deficiency of GPI-anchored complement regulators like CD55 and CD59, leading to complement-mediated intravascular hemolysis.",
     "subject_keys": [
-      "microbiology"
+      "general_medicine",
+      "hematology",
+      "pathology"
     ]
   },
   {
@@ -1664,7 +1770,9 @@
     "correctAnswer": 1,
     "explanation": "Polycythemia vera is a clonal myeloproliferative disorder with autonomous proliferation of phenotypically normal blood cell lines independent of physiological stimuli.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "hematology",
+      "pathology"
     ]
   },
   {
@@ -1679,7 +1787,8 @@
     "correctAnswer": 0,
     "explanation": "Lente insulin is a cloudy suspension requiring resuspension before injection, unlike the clear solutions of glargine, detemir, and degludec.",
     "subject_keys": [
-      "pharmacology"
+      "pharmacology",
+      "general_medicine"
     ]
   },
   {
@@ -1694,7 +1803,8 @@
     "correctAnswer": 0,
     "explanation": "Raised JVP, hypotension, and oliguria are typical findings in significant pericardial effusion/tamponade; water hammer pulse is characteristic of aortic regurgitation instead.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "cardiology"
     ]
   },
   {
@@ -1710,6 +1820,7 @@
     "explanation": "A physiological S3 occurs in young healthy individuals and pregnancy, while a pathological S3 occurs in LV failure; mitral stenosis is associated with an opening snap, not S3.",
     "subject_keys": [
       "general_medicine",
+      "cardiology",
       "obstetrics_and_gynecology"
     ]
   },
@@ -1726,7 +1837,8 @@
     "explanation": "Normal PR duration is 0.12-0.20s, prolongation reflects impaired AV nodal conduction, and shortened PR occurs in pre-excitation (WPW); the PR interval reflects both atrial depolarization and AV conduction delay, not atrial depolarization alone, making statement I the incorrect one.",
     "subject_keys": [
       "physiology",
-      "general_medicine"
+      "general_medicine",
+      "cardiology"
     ]
   },
   {
@@ -1741,7 +1853,9 @@
     "correctAnswer": 1,
     "explanation": "Praziquantel is the drug of choice for treating all species of schistosomiasis.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pharmacology",
+      "parasitology"
     ]
   },
   {
@@ -1757,7 +1871,7 @@
     "explanation": "Mucormycosis, an angioinvasive fungal infection causing rapid tissue necrosis, emerged as a notable complication in COVID-19 patients in India.",
     "subject_keys": [
       "general_medicine",
-      "dermatology"
+      "microbiology"
     ]
   },
   {
@@ -1772,6 +1886,7 @@
     "correctAnswer": 3,
     "explanation": "Sporotrichosis classically results from traumatic dermal inoculation of Sporothrix schenckii, often via a thorn prick ('rose gardener's disease').",
     "subject_keys": [
+      "microbiology",
       "dermatology"
     ]
   },
@@ -1787,7 +1902,8 @@
     "correctAnswer": 0,
     "explanation": "Coccidioidomycosis is caused by C. immitis and C. posadasii with the described pulmonary presentations; however, Coccidioides meningitis is a serious, often fatal disease requiring prolonged antifungal therapy, not a mild self-limited condition.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "microbiology"
     ]
   },
   {
@@ -1802,7 +1918,8 @@
     "correctAnswer": 3,
     "explanation": "Walking should be discouraged regardless of bite site, pressure immobilization delays neurotoxin absorption, and ptosis is a classic neurotoxic sign of elapid envenomation — all three statements are correct.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "forensic_medicine"
     ]
   },
   {
@@ -1817,6 +1934,7 @@
     "correctAnswer": 2,
     "explanation": "Cholecystokinin (CCK) stimulates gallbladder contraction and sphincter of Oddi relaxation, releasing bile into the duodenum.",
     "subject_keys": [
+      "physiology",
       "general_medicine"
     ]
   },
@@ -1832,7 +1950,8 @@
     "correctAnswer": 3,
     "explanation": "Acute radiation diarrhoea is managed with antimotility agents, sucralfate enemas and hyperbaric oxygen treat chronic radiation proctitis, and strictures/fistulae are recognized chronic complications; surgery is reserved for complications rather than being the primary treatment of choice.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "gastroenterology"
     ]
   }
 ]

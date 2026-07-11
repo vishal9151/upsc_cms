@@ -72,7 +72,7 @@
     "explanation": "Chorea, erythema marginatum, and subcutaneous nodules are all major Jones criteria (along with carditis and polyarthritis). Polyarthralgia is classified as a minor criterion, not major — likely why this question was ambiguous enough to be dropped from official scoring (arthralgia vs. arthritis distinction).",
     "subject_keys": [
       "general_medicine",
-      "dermatology"
+      "microbiology"
     ]
   },
   {
@@ -148,7 +148,7 @@
     "correctAnswer": 1,
     "explanation": "Clubbing typically affects fingers symmetrically (and can also involve toes), is associated with malignant lung conditions, and may resolve after lung transplantation in cystic fibrosis patients.",
     "subject_keys": [
-      "pediatrics"
+      "general_medicine"
     ]
   },
   {
@@ -180,7 +180,8 @@
     "correctAnswer": 0,
     "explanation": "Nucleic acid amplification tests, Middlebrook culture, and LED fluorescent microscopy with auramine staining are established diagnostic methods for pulmonary TB; peripheral blood smear has no role.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "microbiology"
     ]
   },
   {
@@ -225,7 +226,7 @@
     "correctAnswer": 1,
     "explanation": "Hypoxia, hyperglycemia (from islet cell damage/stress response), and reduced serum albumin (from capillary leak/inflammation) are complications of acute pancreatitis; hypocalcemia (not hypercalcemia) is the typical electrolyte disturbance seen.",
     "subject_keys": [
-      "general_surgery"
+      "general_medicine"
     ]
   },
   {
@@ -240,9 +241,8 @@
     "correctAnswer": 0,
     "explanation": "Endoscopic small bowel (duodenal) biopsy demonstrating villous atrophy remains the gold standard for diagnosing celiac disease.",
     "subject_keys": [
-      "pathology",
       "general_medicine",
-      "radiology"
+      "pathology"
     ]
   },
   {
@@ -257,7 +257,7 @@
     "correctAnswer": 1,
     "explanation": "Standard H. pylori eradication uses a PPI with two antibiotics for at least 7 days, and eradication is recommended in patients requiring long-term NSAIDs to reduce ulcer risk; H. pylori eradication does not cause vitamin B12 deficiency.",
     "subject_keys": [
-      "biochemistry",
+      "general_medicine",
       "pharmacology",
       "microbiology"
     ]
@@ -306,7 +306,8 @@
     "correctAnswer": 0,
     "explanation": "Crigler-Najjar syndrome Type I follows autosomal recessive inheritance, caused by complete absence of UGT1A1 enzyme activity.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "genetics"
     ]
   },
   {
@@ -321,7 +322,9 @@
     "correctAnswer": 3,
     "explanation": "PAS (Periodic acid-Schiff) staining highlights the foamy macrophages containing PAS-positive material characteristic of Whipple's disease.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pathology",
+      "microbiology"
     ]
   },
   {
@@ -366,7 +369,7 @@
     "correctAnswer": 2,
     "explanation": "The classic 'bird's beak' tapering with a dilated, sigmoid esophagus on barium swallow is characteristic of achalasia cardia.",
     "subject_keys": [
-      "pathology",
+      "general_medicine",
       "radiology"
     ]
   },
@@ -397,7 +400,8 @@
     "correctAnswer": 0,
     "explanation": "Anti-GBM disease is a rare autoimmune disease causing RPGN with antibodies against the α3 chain of type 4 collagen; the α3 chain is expressed in glomerular and alveolar (not retinal) basement membranes, and Goodpasture syndrome refers to pulmonary hemorrhage (not retinal), making statements 3 and 4 incorrect.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pathology"
     ]
   },
   {
@@ -458,7 +462,8 @@
     "correctAnswer": 0,
     "explanation": "Rotterdam criteria for PCOS diagnosis require at least two of: menstrual irregularity, clinical/biochemical hyperandrogenism, and polycystic ovarian morphology; low BMI is not a diagnostic criterion (PCOS is often associated with higher BMI).",
     "subject_keys": [
-      "obstetrics_and_gynecology"
+      "obstetrics_and_gynecology",
+      "general_medicine"
     ]
   },
   {
@@ -488,7 +493,8 @@
     "correctAnswer": 3,
     "explanation": "SLE nephritis, post-infectious GN, infective endocarditis-associated GN, and mesangiocapillary (membranoproliferative) GN are all hypocomplementemic causes of glomerulonephritis.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pathology"
     ]
   },
   {
@@ -548,7 +554,8 @@
     "correctAnswer": 2,
     "explanation": "Parietal lobe lesions (affecting the superior optic radiation) cause contralateral homonymous lower quadrantanopia.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "anatomy"
     ]
   },
   {
@@ -563,7 +570,8 @@
     "correctAnswer": 0,
     "explanation": "In third nerve palsy, the eye deviates 'down and out' due to unopposed action of the lateral rectus (CN VI) and superior oblique (CN IV).",
     "subject_keys": [
-      "anatomy"
+      "anatomy",
+      "general_medicine"
     ]
   },
   {
@@ -608,8 +616,8 @@
     "correctAnswer": 1,
     "explanation": "Flickering lights (photosensitivity), recreational drug misuse, AED non-compliance, and sleep deprivation are all well-recognized seizure triggers.",
     "subject_keys": [
-      "pharmacology",
-      "community_medicine"
+      "general_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -624,6 +632,7 @@
     "correctAnswer": 0,
     "explanation": "Temporal headache with jaw claudication in an elderly patient suggests giant cell (temporal) arteritis; temporal artery biopsy is the diagnostic gold standard.",
     "subject_keys": [
+      "general_medicine",
       "pathology"
     ]
   },
@@ -655,7 +664,8 @@
     "correctAnswer": 0,
     "explanation": "Mycosis fungoides, a cutaneous T-cell lymphoma, often mimics eczema/dermatitis for years before diagnosis.",
     "subject_keys": [
-      "dermatology"
+      "dermatology",
+      "pathology"
     ]
   },
   {
@@ -686,7 +696,7 @@
     "explanation": "Corticosteroids (prednisolone) are first-line initial therapy for autoimmune hemolytic anemia.",
     "subject_keys": [
       "general_medicine",
-      "general_surgery"
+      "pharmacology"
     ]
   },
   {
@@ -701,8 +711,8 @@
     "correctAnswer": 3,
     "explanation": "Secondary hyperaldosteronism results from activation of the renin-angiotensin system due to reduced renal perfusion, as in renal artery stenosis; the other options represent primary hyperaldosteronism causes.",
     "subject_keys": [
-      "physiology",
-      "pathology"
+      "general_medicine",
+      "physiology"
     ]
   },
   {
@@ -717,6 +727,7 @@
     "correctAnswer": 3,
     "explanation": "Hashimoto's thyroiditis is associated with lymphocytic infiltration, fibrosis, and an increased risk of primary thyroid lymphoma.",
     "subject_keys": [
+      "general_medicine",
       "pathology"
     ]
   },
@@ -732,7 +743,8 @@
     "correctAnswer": 0,
     "explanation": "Non-selective beta-blockers like propranolol can mask the adrenergic warning symptoms of hypoglycemia, making them risky in diabetic patients prone to hypoglycemic episodes (the official key also accepted Telmisartan as an alternative answer).",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -747,7 +759,8 @@
     "correctAnswer": 0,
     "explanation": "Cortisol peaks in the morning, is highly protein-bound (>90-95%), and can activate mineralocorticoid receptors due to structural similarity; cortisol actually rises (not falls) during illness as part of the stress response.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "physiology"
     ]
   },
   {
@@ -778,8 +791,8 @@
     "correctAnswer": 2,
     "explanation": "PTU is suitable for breastfeeding, large goitre is an indication for surgery, and agranulocytosis is a known carbimazole complication; radioiodine is contraindicated in pregnancy.",
     "subject_keys": [
-      "general_surgery",
-      "obstetrics_and_gynecology"
+      "general_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -809,6 +822,7 @@
     "correctAnswer": 3,
     "explanation": "Semaglutide (a GLP-1 receptor agonist) is available as a subcutaneous injectable formulation.",
     "subject_keys": [
+      "general_medicine",
       "pharmacology"
     ]
   },
@@ -824,6 +838,7 @@
     "correctAnswer": 1,
     "explanation": "Microaneurysms, dot-and-blot hemorrhages, and neovascularization are classic fundus findings in diabetic retinopathy; retinal thickening is specifically associated with diabetic macular edema, a related but distinct entity.",
     "subject_keys": [
+      "general_medicine",
       "ophthalmology"
     ]
   },
@@ -839,7 +854,8 @@
     "correctAnswer": 0,
     "explanation": "Porphyrias result from enzymatic defects at various steps of the heme biosynthesis pathway.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "biochemistry"
     ]
   },
   {
@@ -869,7 +885,8 @@
     "correctAnswer": 2,
     "explanation": "IV normal saline for rehydration is the first-line initial treatment for severe hypercalcemia, followed by bisphosphonates for sustained control.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -884,7 +901,8 @@
     "correctAnswer": 1,
     "explanation": "Serum osmolality is calculated using sodium, glucose, and BUN; calcium is not part of the standard osmolality formula.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "physiology"
     ]
   },
   {
@@ -899,7 +917,8 @@
     "correctAnswer": 3,
     "explanation": "Erythema infectiosum (Fifth disease), caused by parvovirus B19, presents with the classic 'slapped cheek' facial rash.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "microbiology"
     ]
   },
   {
@@ -915,7 +934,7 @@
     "explanation": "Pentavalent antimonials, amphotericin B, and paromomycin are all established treatments for visceral leishmaniasis; spiramycin is used for toxoplasmosis, not leishmaniasis.",
     "subject_keys": [
       "microbiology",
-      "psychiatry"
+      "pharmacology"
     ]
   },
   {
@@ -961,7 +980,7 @@
     "correctAnswer": 1,
     "explanation": "Snails serve as the first intermediate host in the life cycle of Clonorchis sinensis, the Chinese liver fluke.",
     "subject_keys": [
-      "general_medicine"
+      "microbiology"
     ]
   },
   {
@@ -976,7 +995,7 @@
     "correctAnswer": 2,
     "explanation": "Calabar swellings are characteristic of Loa loa filariasis, caused by the migrating adult worm through subcutaneous tissue.",
     "subject_keys": [
-      "general_surgery"
+      "microbiology"
     ]
   },
   {
@@ -991,8 +1010,8 @@
     "correctAnswer": 3,
     "explanation": "Snowflake corneal opacities are a characteristic ocular finding in onchocerciasis (river blindness) caused by Onchocerca volvulus.",
     "subject_keys": [
-      "ophthalmology",
-      "general_surgery"
+      "microbiology",
+      "ophthalmology"
     ]
   },
   {
@@ -1037,8 +1056,8 @@
     "correctAnswer": 2,
     "explanation": "BCG is a live-attenuated vaccine derived from Mycobacterium bovis and is administered intradermally (not intramuscularly); its immunogenicity/protective efficacy is actually variable rather than uniformly high, though per the key, statements 1, 3, and 4 are marked correct.",
     "subject_keys": [
-      "community_medicine",
-      "pediatrics"
+      "microbiology",
+      "community_medicine"
     ]
   },
   {
@@ -1053,7 +1072,8 @@
     "correctAnswer": 3,
     "explanation": "Hepatitis B, influenza, and pneumococcal vaccines are all recommended for HIV-infected individuals due to their increased susceptibility to these infections.",
     "subject_keys": [
-      "microbiology"
+      "microbiology",
+      "general_medicine"
     ]
   },
   {
@@ -1068,7 +1088,8 @@
     "correctAnswer": 3,
     "explanation": "Vitamin D deficiency is common at northern latitudes (reduced sunlight), more likely in dark-skinned individuals (reduced UV-mediated synthesis), and UV light exposure is advisable to aid synthesis.",
     "subject_keys": [
-      "biochemistry"
+      "biochemistry",
+      "general_medicine"
     ]
   },
   {
@@ -1083,7 +1104,8 @@
     "correctAnswer": 1,
     "explanation": "Purpura fulminans presents with large, irregularly-shaped ecchymotic/hemorrhagic skin lesions due to disseminated intravascular coagulation and dermal vascular thrombosis.",
     "subject_keys": [
-      "pathology"
+      "pathology",
+      "general_medicine"
     ]
   },
   {
@@ -1114,7 +1136,7 @@
     "correctAnswer": 3,
     "explanation": "Allergic contact dermatitis is a classic example of Type 4 (delayed-type, T-cell mediated) hypersensitivity.",
     "subject_keys": [
-      "community_medicine",
+      "pathology",
       "dermatology"
     ]
   },
@@ -1130,8 +1152,7 @@
     "correctAnswer": 2,
     "explanation": "Telogen effluvium is a non-scarring form of diffuse hair loss; the other options cause scarring alopecia.",
     "subject_keys": [
-      "pathology",
-      "general_medicine"
+      "dermatology"
     ]
   },
   {
@@ -1146,7 +1167,8 @@
     "correctAnswer": 3,
     "explanation": "Norwegian scabies occurs in immunodeficient patients, permethrin 5% is standard treatment, and pruritus worsens at night/with heat; it is the female (not male) mite that is typically responsible for transmission and burrowing.",
     "subject_keys": [
-      "dermatology"
+      "dermatology",
+      "microbiology"
     ]
   },
   {
@@ -1177,7 +1199,8 @@
     "correctAnswer": 2,
     "explanation": "This presentation describes proximal myopathy, a well-known complication of chronic glucocorticoid therapy (steroid myopathy).",
     "subject_keys": [
-      "pharmacology"
+      "pharmacology",
+      "general_medicine"
     ]
   },
   {
@@ -1207,6 +1230,7 @@
     "correctAnswer": 2,
     "explanation": "Schober's test measures lumbar spine flexion and is used to assess spinal mobility restriction in ankylosing spondylitis.",
     "subject_keys": [
+      "orthopedics",
       "general_medicine"
     ]
   },
@@ -1238,7 +1262,8 @@
     "correctAnswer": 0,
     "explanation": "Anti-CCP (anti-citrullinated peptide) antibody is highly specific for the diagnosis of rheumatoid arthritis.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pathology"
     ]
   },
   {
@@ -1253,7 +1278,8 @@
     "correctAnswer": 2,
     "explanation": "Anti-histone antibodies are characteristically associated with drug-induced lupus.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pathology"
     ]
   },
   {
@@ -1331,6 +1357,7 @@
     "correctAnswer": 1,
     "explanation": "Wernicke-Korsakoff syndrome is due to thiamine (Vitamin B1), not Vitamin B12, deficiency; the other statements regarding presentation, pathology, and non-alcoholic causes (malabsorption/vomiting) are correct.",
     "subject_keys": [
+      "psychiatry",
       "biochemistry"
     ]
   },
@@ -1346,7 +1373,8 @@
     "correctAnswer": 0,
     "explanation": "Alzheimer's (familial forms), Huntington's, and Wilson's disease all have inherited/genetic causes; punch-drunk syndrome (CTE) is caused by repetitive head trauma, not inheritance.",
     "subject_keys": [
-      "psychiatry"
+      "psychiatry",
+      "general_medicine"
     ]
   },
   {
@@ -1409,8 +1437,7 @@
     "correctAnswer": 1,
     "explanation": "Insulin rises after meals, skeletal muscle uses the major portion of postprandial glucose, and glucagon is secreted during exercise to maintain glucose supply; brain glucose uptake is insulin-independent (via GLUT1/GLUT3), not insulin-dependent.",
     "subject_keys": [
-      "physiology",
-      "pharmacology"
+      "physiology"
     ]
   },
   {
@@ -1425,9 +1452,7 @@
     "correctAnswer": 2,
     "explanation": "Insulin and amylin (islet amyloid polypeptide) are both co-secreted by pancreatic beta cells; glucagon is secreted by alpha cells and somatostatin by delta cells.",
     "subject_keys": [
-      "pharmacology",
-      "physiology",
-      "pathology"
+      "physiology"
     ]
   },
   {
@@ -1442,6 +1467,7 @@
     "correctAnswer": null,
     "explanation": "This question was dropped from official scoring (marked 'X' in the answer key). Note: the exudative phase actually occurs in the first ~7 days (not day 7-21), which likely contributed to the ambiguity; statements 2, 3, and 4 are otherwise medically accurate.",
     "subject_keys": [
+      "general_medicine",
       "anesthesiology"
     ]
   },
@@ -1457,7 +1483,8 @@
     "correctAnswer": 2,
     "explanation": "OPIDN is a rare, delayed complication occurring 2-3 weeks after exposure to compounds like triorthocresyl phosphate, with no specific therapy beyond supportive physiotherapy; it is caused by inhibition of neuropathy target esterase (not acetylcholinesterase), and often does show some sensory involvement, making statement 3 incorrect.",
     "subject_keys": [
-      "forensic_medicine"
+      "forensic_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -1488,7 +1515,8 @@
     "correctAnswer": 1,
     "explanation": "Night feeding maintains prolactin surges essential for continued milk production; prolactin drives milk production/secretion (not ejection), oxytocin causes ejection/let-down (not secretion), and oxytocin is secreted by the posterior (not anterior) pituitary.",
     "subject_keys": [
-      "general_medicine"
+      "physiology",
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1503,7 +1531,7 @@
     "correctAnswer": 1,
     "explanation": "Copying a circle is an earlier developmental milestone (around 3 years) compared to copying a cross, drawing a circle spontaneously, or drawing a cross, which develop later.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1518,7 +1546,7 @@
     "correctAnswer": 2,
     "explanation": "In pediatric hypertensive emergency, blood pressure should be reduced gradually and cautiously, with an initial target of about 10% reduction in the first hour to avoid cerebral hypoperfusion.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1533,7 +1561,7 @@
     "correctAnswer": 1,
     "explanation": "As per the official key, ≥50 breaths per minute is the specified cut-off for fast breathing in this age group in this context.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1548,6 +1576,7 @@
     "correctAnswer": 1,
     "explanation": "Calcium gluconate (membrane stabilization), insulin-glucose (intracellular shift), and sodium bicarbonate (shift with correction of acidosis) are used in hyperkalemia management; nebulized salbutamol (not ipratropium) is the bronchodilator used for potassium shifting.",
     "subject_keys": [
+      "general_medicine",
       "pharmacology"
     ]
   },
@@ -1563,7 +1592,8 @@
     "correctAnswer": 1,
     "explanation": "Nebulized salbutamol (a beta-2 agonist) drives potassium intracellularly and is used as an adjunct in the management of hyperkalemia.",
     "subject_keys": [
-      "general_medicine"
+      "general_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -1578,7 +1608,8 @@
     "correctAnswer": 1,
     "explanation": "WIFS programme specifies 100 mg elemental iron and 500 µg folic acid weekly, along with biannual (twice-yearly) deworming with albendazole.",
     "subject_keys": [
-      "biochemistry"
+      "community_medicine",
+      "pediatrics"
     ]
   },
   {
@@ -1610,7 +1641,7 @@
     "correctAnswer": 1,
     "explanation": "The Parkland formula estimates 24-hour fluid needs using the given formula, and additional maintenance fluids are required in pediatric burns; the resuscitation split is actually half over the first 8 hours (not 6) and the remainder over 16 hours, making statement 4 incorrect.",
     "subject_keys": [
-      "forensic_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1625,7 +1656,8 @@
     "correctAnswer": 1,
     "explanation": "Whole bowel irrigation is particularly useful for poisoning with substances not well adsorbed by activated charcoal, such as iron and other heavy metals/sustained-release preparations.",
     "subject_keys": [
-      "forensic_medicine"
+      "forensic_medicine",
+      "pharmacology"
     ]
   },
   {
@@ -1656,7 +1688,7 @@
     "correctAnswer": 2,
     "explanation": "NIPS uses maternal blood, has a high negative predictive value, and requires invasive confirmatory testing for positive results; it is typically performed from 10 weeks onward (not before), making statement 2 incorrect.",
     "subject_keys": [
-      "community_medicine"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1671,6 +1703,7 @@
     "correctAnswer": 3,
     "explanation": "When either parent carries a translocation between two chromosome 21s (21;21 translocation), every viable offspring will have trisomy 21, giving a 100% recurrence risk.",
     "subject_keys": [
+      "genetics",
       "pediatrics"
     ]
   },
@@ -1748,7 +1781,7 @@
     "correctAnswer": 1,
     "explanation": "Failure to respond to tactile stimulation with onset of breathing indicates secondary apnea, requiring active resuscitation (positive pressure ventilation).",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1778,7 +1811,7 @@
     "correctAnswer": 3,
     "explanation": "Breast milk is rich in omega-3 and omega-6 fatty acids (statement 3, though 'omega 2' is likely a typo for omega-3), and its lactose content aids calcium absorption; breast milk is actually about 87-88% water (not 75%), and it is rich (not poor) in taurine and cysteine, which are important for infant development.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1793,7 +1826,8 @@
     "correctAnswer": 1,
     "explanation": "A wide-open mouth, chin touching the breast, and an everted lower lip are classic signs of good attachment; the baby's chin (not nose) should touch the breast with the nose free for breathing, making the 'nose at nipple level' framing less standard here.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics",
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1808,7 +1842,7 @@
     "correctAnswer": 1,
     "explanation": "If the child's developmental age in language corresponds to about 3 years (telling full name) against a chronological age of 6 years, DQ = (developmental age/chronological age) × 100 = 50%.",
     "subject_keys": [
-      "general_medicine"
+      "pediatrics"
     ]
   },
   {
@@ -1823,7 +1857,8 @@
     "correctAnswer": 3,
     "explanation": "Maternal antibodies do not interfere with BCG's cell-mediated immune response, and DTwP is generally preferred over DTaP for primary immunization due to greater immunogenicity in many national programmes; Hepatitis B vaccine is actually most effective via IM (not reduced by it), and reconstituted MMR vaccine should be used promptly, though the standard cited limit is often shorter/longer depending on guideline, making statement 2 as framed here incorrect per the key.",
     "subject_keys": [
-      "microbiology"
+      "pediatrics",
+      "community_medicine"
     ]
   },
   {
@@ -1838,9 +1873,8 @@
     "correctAnswer": 0,
     "explanation": "Administering rotavirus vaccine during an active diarrhoeal episode may compromise its uptake/efficacy due to poor absorption/interference in the gut, hence it is deferred until the child recovers.",
     "subject_keys": [
-      "pharmacology",
-      "community_medicine",
-      "general_surgery"
+      "pediatrics",
+      "community_medicine"
     ]
   }
 ]

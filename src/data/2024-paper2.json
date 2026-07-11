@@ -10,9 +10,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Malnutrition, poor perfusion, and foreign body material impair wound healing and host defence, predisposing to infection; antibodies are part of the immune defence and do not predispose to infection.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "microbiology"]
   },
   {
     "id": 2,
@@ -25,9 +23,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Ionizing radiation is a well-established risk factor for leukaemia, breast cancer, and lymphoma; lung cancer is more classically linked to radon/smoking rather than general ionizing radiation exposure in this context.",
-    "subject_keys": [
-      "pathology"
-    ]
+    "subject_keys": ["pathology", "radiology"]
   },
   {
     "id": 3,
@@ -40,10 +36,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Li-Fraumeni syndrome is an autosomal dominant condition due to germline TP53 mutation, associated with increased risk of sarcomas, leukaemia, brain tumours, and osteosarcomas; it is not autosomal recessive.",
-    "subject_keys": [
-      "pathology",
-      "orthopedics"
-    ]
+    "subject_keys": ["pathology"]
   },
   {
     "id": 4,
@@ -56,9 +49,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Reproducible calf pain on walking a fixed distance, relieved by rest within minutes, in a smoker, is classic for intermittent claudication due to peripheral arterial disease.",
-    "subject_keys": [
-      "orthopedics"
-    ]
+    "subject_keys": ["general_surgery", "general_medicine"]
   },
   {
     "id": 5,
@@ -71,9 +62,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "If postoperative thyroxine replacement is needed after excision of a thyroglossal cyst, it implies the ectopic thyroid tissue within the cyst was the patient's only functioning thyroid tissue.",
-    "subject_keys": [
-      "ent"
-    ]
+    "subject_keys": ["ent", "general_surgery"]
   },
   {
     "id": 6,
@@ -117,9 +106,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Rapid enlargement of a long-standing goitre with firm to hard consistency in an elderly patient raises strong suspicion of malignant transformation.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "pathology"]
   },
   {
     "id": 9,
@@ -132,9 +119,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "NF1 and NF2 are classically associated with brain tumours (gliomas, acoustic neuromas, meningiomas), and HNPCC (Turcot syndrome) is associated with brain tumours as well; Peutz-Jeghers syndrome is primarily linked to GI and other cancers, not brain tumours.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["pathology"]
   },
   {
     "id": 10,
@@ -163,10 +148,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Barrett's oesophagus is a metaplastic change caused by chronic GERD, is a risk factor for adenocarcinoma, and endoscopic mucosal resection is an effective treatment for dysplastic lesions; NSAID ingestion is not its aetiology.",
-    "subject_keys": [
-      "pathology",
-      "pharmacology"
-    ]
+    "subject_keys": ["pathology", "general_surgery"]
   },
   {
     "id": 12,
@@ -179,10 +161,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Liver abscess, biliary fistula, and liver failure are recognized complications of hepatic trauma; portal vein thrombosis is not a typical direct complication.",
-    "subject_keys": [
-      "anatomy",
-      "pathology"
-    ]
+    "subject_keys": ["general_surgery"]
   },
   {
     "id": 13,
@@ -211,9 +190,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Cigarette smoking, diabetes mellitus, and male gender are established risk factors for pancreatic cancer; ethnicity as a specific isolated risk factor is not typically emphasized in this way.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_surgery", "general_medicine"]
   },
   {
     "id": 15,
@@ -226,11 +203,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Amyloidosis and Gaucher's disease are classic metabolic/storage causes of splenomegaly; the other pairings mix in non-metabolic causes such as autoimmune or infectious conditions.",
-    "subject_keys": [
-      "pathology",
-      "general_medicine",
-      "orthopedics"
-    ]
+    "subject_keys": ["pathology", "general_medicine"]
   },
   {
     "id": 16,
@@ -303,9 +276,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Renal cell carcinoma arises from proximal convoluted tubule epithelium, has clear cell/papillary/chromophobe as major subtypes, and surgery is the mainstay for organ-confined disease; it has a male, not female, preponderance.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "pathology"]
   },
   {
     "id": 21,
@@ -318,9 +289,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "ADPKD is associated with cysts in liver, pancreas, and arachnoid membrane, has both renal and extrarenal manifestations, and men progress to renal failure more rapidly; onset of clinical manifestations is usually later, around 30-40 years, not 20-30 years.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "general_medicine"]
   },
   {
     "id": 22,
@@ -333,9 +302,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "ESWL is the standard non-invasive technique used for fragmenting urinary tract (renal and ureteric) stones.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "urology"]
   },
   {
     "id": 23,
@@ -348,9 +315,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Brain tumours can present with a combination of raised ICP, seizures, focal neurological deficits, and headache, depending on tumour location and size.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "general_medicine"]
   },
   {
     "id": 24,
@@ -363,9 +328,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "NF1 is most commonly associated with astrocytomas, particularly optic pathway gliomas, whereas acoustic neuromas and meningiomas are more typical of NF2.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_medicine", "pathology"]
   },
   {
     "id": 25,
@@ -410,10 +373,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Long-standing diabetes is a strong risk factor for adhesive capsulitis (frozen shoulder), presenting with progressive pain and restricted range of motion, especially abduction.",
-    "subject_keys": [
-      "orthopedics",
-      "anatomy"
-    ]
+    "subject_keys": ["orthopedics", "general_medicine"]
   },
   {
     "id": 28,
@@ -426,9 +386,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "A cystic, nontender swelling on the dorsum of the wrist that becomes more prominent with wrist flexion is classic for a ganglion cyst.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["orthopedics"]
   },
   {
     "id": 29,
@@ -441,9 +399,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Upper motor neuron lesions cause spasticity, hyperreflexia, and motor weakness; the plantar response is typically extensor (positive Babinski), not absent.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["physiology", "general_medicine"]
   },
   {
     "id": 30,
@@ -456,9 +412,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "A patient with a well-controlled systemic disease (diabetes) without functional limitation is classified as ASA 2.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["anesthesiology"]
   },
   {
     "id": 31,
@@ -501,9 +455,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Bruising over the mastoid process (Battle's sign) is a classic delayed indicator of a base of skull fracture.",
-    "subject_keys": [
-      "orthopedics"
-    ]
+    "subject_keys": ["orthopedics", "general_surgery"]
   },
   {
     "id": 34,
@@ -531,10 +483,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "SIRS can be triggered by endotoxin release, can progress to MODS, and is characterized by leukocytosis (>12x10^9/L) among other criteria; SIRS is a broader clinical syndrome and is not synonymous with bacteraemia, since it can arise from non-infective causes too.",
-    "subject_keys": [
-      "microbiology",
-      "general_medicine"
-    ]
+    "subject_keys": ["general_surgery", "general_medicine"]
   },
   {
     "id": 36,
@@ -562,9 +511,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Silicone gel sheeting, intralesional steroid injections, and laser treatment are established management options for hypertrophic scars; vitamin A gel is not a standard therapy for this.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "dermatology"]
   },
   {
     "id": 38,
@@ -577,9 +524,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "The approximate daily requirements of sodium (50-90 mM), potassium (~50 mM), and magnesium (~1 mM) are correct; the calcium requirement listed is inconsistent with typical daily maintenance needs.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["physiology", "general_surgery"]
   },
   {
     "id": 39,
@@ -592,9 +537,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Distributive shock is characterized by vasodilation, reduced peripheral vascular resistance, and inadequate afterload; cardiac output is typically normal or high (not low) in distributive shock.",
-    "subject_keys": [
-      "physiology"
-    ]
+    "subject_keys": ["physiology", "general_medicine"]
   },
   {
     "id": 40,
@@ -607,9 +550,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Urine output is a simple, reliable, continuous bedside indicator of end-organ (renal) perfusion and is widely used to monitor adequacy of resuscitation in shock.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["general_surgery", "general_medicine"]
   },
   {
     "id": 41,
@@ -622,9 +563,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Haematopoiesis begins in the yolk sac as early as around day 14-19 of gestation, making this the correct statement among the options given.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["physiology", "obstetrics_and_gynecology"]
   },
   {
     "id": 42,
@@ -637,10 +576,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Pregnancy-associated haemodilution improves gaseous exchange due to reduced blood viscosity, offers protection against postural haemodynamic effects, and buffers against blood loss at delivery — all three statements are correct.",
-    "subject_keys": [
-      "pharmacology",
-      "obstetrics_and_gynecology"
-    ]
+    "subject_keys": ["physiology", "obstetrics_and_gynecology"]
   },
   {
     "id": 43,
@@ -653,9 +589,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Oligohydramnios is defined by an amniotic fluid index (AFI) less than 5 cm; the maximum vertical pocket threshold for the definition is less than 2 cm, not 5 cm, making statement I incorrect.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["radiology", "obstetrics_and_gynecology"]
   },
   {
     "id": 44,
@@ -715,9 +649,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "In marked deflexion (military attitude), the occipitofrontal diameter is the presenting diameter of engagement of the foetal skull.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["anatomy", "obstetrics_and_gynecology"]
   },
   {
     "id": 48,
@@ -730,9 +662,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Uterine distension, activation of the foetal HPA axis with increased CRH/ACTH, and oestrogen-driven increase in myometrial oxytocin receptors all contribute to labour onset; progesterone levels typically fall (functional progesterone withdrawal), not rise, immediately before labour.",
-    "subject_keys": [
-      "obstetrics_and_gynecology"
-    ]
+    "subject_keys": ["physiology", "obstetrics_and_gynecology"]
   },
   {
     "id": 49,
@@ -745,9 +675,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "A subperiosteal collection of blood limited by suture lines is characteristic of cephalohaematoma, in contrast to caput succedaneum (crosses suture lines) or subgaleal haemorrhage (not limited by sutures).",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["pediatrics", "obstetrics_and_gynecology"]
   },
   {
     "id": 50,
@@ -760,9 +688,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Placenta accreta is pathologically characterized by absence of decidua basalis, absence of Nitabuch's fibrinoid layer, and loss of the normal hypoechoic retroplacental myometrial zone on ultrasound — all three findings are correct.",
-    "subject_keys": [
-      "radiology"
-    ]
+    "subject_keys": ["radiology", "obstetrics_and_gynecology"]
   },
   {
     "id": 51,
@@ -822,11 +748,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Hypertension with thrombocytopenia, elevated liver enzymes, and elevated LDH is the classic triad (Hemolysis, Elevated Liver enzymes, Low Platelets) diagnostic of HELLP syndrome.",
-    "subject_keys": [
-      "obstetrics_and_gynecology",
-      "microbiology",
-      "general_medicine"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "general_medicine"]
   },
   {
     "id": 55,
@@ -839,9 +761,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "A dilated internal os with products of conception felt/protruding through it indicates that miscarriage cannot be prevented, i.e., inevitable abortion.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 56,
@@ -869,9 +789,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Stress urinary incontinence pathology involves hypermobility of the urethra and lowered urethral closure pressure; the bladder neck and proximal urethra descend below (not above) the pelvic diaphragm, and increased detrusor activity is associated with urge, not stress, incontinence.",
-    "subject_keys": [
-      "anatomy"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 58,
@@ -884,9 +802,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Combined hysteroscopy (to assess the endometrial cavity) and laparoscopy (to assess the external uterine contour) allows accurate confirmation of the diagnosis of bicornuate uterus, distinguishing it from septate uterus.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 59,
@@ -899,10 +815,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Pelvic cellular tissue forms a protective sheath around vessels and the terminal ureter, prevents infection spreading beyond the pelvis, and undergoes marked hypertrophy in pregnancy; however, it does not primarily 'support' the pelvic organs in the sense implied by statement I.",
-    "subject_keys": [
-      "pathology",
-      "obstetrics_and_gynecology"
-    ]
+    "subject_keys": ["anatomy", "obstetrics_and_gynecology"]
   },
   {
     "id": 60,
@@ -915,10 +828,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Androgen insensitivity syndrome is X-linked recessive, also known as testicular feminization, and confirmed by gonadal biopsy; the karyotype is 46 XY, not 46 XXY.",
-    "subject_keys": [
-      "pathology",
-      "community_medicine"
-    ]
+    "subject_keys": ["pathology", "obstetrics_and_gynecology"]
   },
   {
     "id": 61,
@@ -931,9 +841,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Progesterone challenge test, hormonal studies, and hysterosalpingography help evaluate unresponsive endometrium as a cause of amenorrhoea; karyotype is more relevant to evaluating gonadal/chromosomal causes rather than endometrial responsiveness.",
-    "subject_keys": [
-      "radiology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 62,
@@ -946,11 +854,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "A 46,XX female with normal secondary sexual characteristics, normal ovaries, and absent uterus/upper vagina is classic for Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome.",
-    "subject_keys": [
-      "community_medicine",
-      "radiology",
-      "pediatrics"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "radiology"]
   },
   {
     "id": 63,
@@ -963,9 +867,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "A history of D&C causing intrauterine adhesions, with a normal (not elevated) FSH level, points to Asherman syndrome rather than premature ovarian failure, which would show elevated FSH.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 64,
@@ -994,10 +896,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Lower abdominal pain with vaginal discharge, fever, cervical motion tenderness, raised ESR/CRP, and IUD use are classic features pointing to acute pelvic inflammatory disease.",
-    "subject_keys": [
-      "obstetrics_and_gynecology",
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 66,
@@ -1025,9 +924,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Infertility, chronic pelvic pain, and oligomenorrhoea are common presentations of genital tuberculosis; postmenopausal bleeding is not a typical presenting symptom, as genital TB usually presents in the reproductive age group.",
-    "subject_keys": [
-      "obstetrics_and_gynecology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "microbiology"]
   },
   {
     "id": 68,
@@ -1040,9 +937,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Vaginal bleeding is the most common presenting symptom of choriocarcinoma; it is a highly chemosensitive (not resistant) tumour and usually arises in the uterus, not the fallopian tube.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pathology"]
   },
   {
     "id": 69,
@@ -1055,9 +950,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Well-differentiated tumour, smaller tumour volume, and absence of ascites are favourable prognostic factors in ovarian malignancy; younger, not older, age is generally associated with a better prognosis.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pathology"]
   },
   {
     "id": 70,
@@ -1070,10 +963,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Methotrexate is the first-line, most effective single agent used in the treatment of low-risk gestational trophoblastic neoplasia.",
-    "subject_keys": [
-      "pharmacology",
-      "pathology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
   },
   {
     "id": 71,
@@ -1086,10 +976,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Thecoma-fibroma tumours are oestrogen-secreting sex cord-stromal tumours often associated with endometrial hyperplasia; they are usually unilateral, not always associated with gross ascites, and are not germ cell tumours.",
-    "subject_keys": [
-      "pathology",
-      "general_medicine"
-    ]
+    "subject_keys": ["pathology", "obstetrics_and_gynecology"]
   },
   {
     "id": 72,
@@ -1102,9 +989,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Total vaginal length (TVL) is measured after reducing the prolapse to its normal maximum position, unlike the other point measurements which are taken with the prolapse at maximal descent.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 73,
@@ -1117,9 +1002,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Fothergill's (Manchester) operation involves amputation of the cervix, plication of Mackenrodt's ligaments in front of the cervix, and anterior colporrhaphy; laparoscopic/vaginal ligation of vessels is not an essential defining step of this specific procedure.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 74,
@@ -1132,9 +1015,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Cold knife conization is indicated for discordant colposcopy/cytology/biopsy findings, carcinoma in situ, and unsatisfactory colposcopy where the lesion margin is not visible; persistent low-grade CIN-1 alone in a fertility-desiring woman is usually managed conservatively rather than by conization.",
-    "subject_keys": [
-      "pathology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pathology"]
   },
   {
     "id": 75,
@@ -1147,9 +1028,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Dense pelvic adhesions, bilateral hydrosalpinx, and reversal after a long interval (e.g., 5 years) from sterilization are associated with poor outcomes following tuboplasty; a reconstructed tube length of less than 8 cm is not the typically cited threshold for poor outcome (a very short reconstructed tube, closer to 4 cm, is the concerning cutoff).",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology"]
   },
   {
     "id": 76,
@@ -1162,10 +1041,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Ulipristal acetate is metabolized hepatically, so significant liver dysfunction is a contraindication for its use as an emergency contraceptive.",
-    "subject_keys": [
-      "pharmacology",
-      "ophthalmology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
   },
   {
     "id": 77,
@@ -1178,9 +1054,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Antara is the brand name under which injectable DMPA (medroxyprogesterone acetate 150 mg/mL) is provided free of cost in India's national Family Planning Programme.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
   },
   {
     "id": 78,
@@ -1193,9 +1067,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Cholestasis jaundice, venous thromboembolism, and (a debated small increase in) breast cancer risk are recognized major complications of combined oral pills; chloasma and acne are minor cosmetic side effects, not major complications.",
-    "subject_keys": [
-      "pathology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
   },
   {
     "id": 79,
@@ -1223,11 +1095,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Liver enzyme-inducing drugs reduce the efficacy of oral hormonal contraceptives, but injectable DMPA (Depo-Provera) given at higher relative doses remains reliable and is not significantly affected by enzyme induction.",
-    "subject_keys": [
-      "obstetrics_and_gynecology",
-      "anatomy",
-      "pharmacology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
   },
   {
     "id": 81,
@@ -1240,9 +1108,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Under the Open Vial Policy, liquid vaccines without reconstitution requirements such as DPT and Hepatitis B can be used across multiple sessions; freeze-dried vaccines like BCG and Measles must be discarded after each session once reconstituted.",
-    "subject_keys": [
-      "microbiology"
-    ]
+    "subject_keys": ["community_medicine", "microbiology"]
   },
   {
     "id": 82,
@@ -1255,9 +1121,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "This definition, emphasizing equilibrium between humans and their environment and disease as maladjustment, is the classic ecological concept of health.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 83,
@@ -1270,9 +1134,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "All three pairings — health status/programme impact with life expectancy goals, health systems performance with immunization goals, and health systems strengthening with state health spending goals — correctly reflect NHP 2017 objectives.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 84,
@@ -1285,9 +1147,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Organizational design, personnel management, and information systems draw on behavioural science principles related to human and organizational behaviour; system analysis is primarily a quantitative/operations research technique.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 85,
@@ -1300,9 +1160,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Two of the three pairs (Goal-time constrained, and Target-permits degree of achievement) are correctly matched, while the Objective pairing does not correctly correspond to its stated characteristic.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 86,
@@ -1315,9 +1173,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "The logical planning cycle sequence is: assigning priorities, selecting the best programme, operating the programme, and finally evaluation.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 87,
@@ -1345,9 +1201,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "This description of high universal childhood infection leading to an equilibrium with lower disease evidence in adults is the classic definition of a holoendemic disease pattern.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 89,
@@ -1360,9 +1214,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Dengue virus has four serotypes, infection with one confers lifelong homotypic immunity, and secondary infection (particularly with serotype 2) is associated with severe dengue due to antibody-dependent enhancement — all three statements are correct.",
-    "subject_keys": [
-      "microbiology"
-    ]
+    "subject_keys": ["microbiology", "community_medicine"]
   },
   {
     "id": 90,
@@ -1375,9 +1227,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "The extrinsic incubation period is 8-10 days and once infective the Aedes mosquito remains infective for its lifetime; however, the genital tract of the mosquito can get infected, allowing transovarial transmission, making statement III incorrect.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["microbiology", "community_medicine"]
   },
   {
     "id": 91,
@@ -1390,9 +1240,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "A scatter diagram is the appropriate graphical tool to display the relationship/correlation between two continuous variables such as BMI and sugar intake across countries.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 92,
@@ -1405,9 +1253,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Lay reporting refers to using frontline/community-level workers to record vital events in settings where a complete formal vital registration system has not been established.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 93,
@@ -1420,9 +1266,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "The total dependency ratio is calculated as the ratio of dependents (under 15 and over 64) to the working-age population, which is used as the denominator, i.e., population aged 15 to 64 years.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 94,
@@ -1435,9 +1279,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Foetal deaths and legal separations are recognized vital events under the UN definition, along with births, deaths, marriages, divorces, adoptions, etc.; school admissions and college graduations are not classified as vital events.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 95,
@@ -1450,9 +1292,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "KFD is tick-transmitted, was historically called 'monkey disease'/associated with dead monkeys and originally noted with sick/dead monkeys (with the association also loosely tied to local terms), and was first identified in Kyasanur Forest, Karnataka — all three statements are correct as per the key.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine", "microbiology"]
   },
   {
     "id": 96,
@@ -1465,9 +1305,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "In settings with low measles transmission, the first dose of MCV is recommended to be given at 12 months of age, as maternal antibody interference is higher earlier and transmission risk is lower.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine", "microbiology", "pediatrics"]
   },
   {
     "id": 97,
@@ -1480,9 +1318,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Monkeypox is caused by the monkeypox virus, a double-stranded DNA virus belonging to the Orthopoxvirus genus of the Poxviridae family.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["microbiology"]
   },
   {
     "id": 98,
@@ -1495,9 +1331,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "A category III exposure (bleeding scratch from an animal) requires wound washing, anti-rabies vaccination, and administration of rabies immunoglobulin as per post-exposure prophylaxis protocol.",
-    "subject_keys": [
-      "community_medicine"
-    ]
+    "subject_keys": ["community_medicine", "microbiology"]
   },
   {
     "id": 99,
@@ -1510,9 +1344,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Controlled tipping (sanitary landfilling) is the method involving the combined disposal of refuse and night soil in trenches, allowing decomposition through bacterial action.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 100,
@@ -1525,9 +1357,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Septic tanks are actually recommended for small communities/institutions rather than large ones, an air space is required above the liquid level for gas venting, and effluent is not free from pathogens and requires further treatment — all three statements are incorrect.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 101,
@@ -1540,9 +1370,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Proline is classified as a nonessential amino acid since the body can synthesize it, whereas leucine, threonine, and tryptophan are essential amino acids that must be obtained from the diet.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["biochemistry"]
   },
   {
     "id": 102,
@@ -1555,9 +1383,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "In decreasing order of fat content per 100 g, buffalo milk has the highest fat content, followed by goat milk, cow milk, and then human milk with the lowest fat content among these.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["biochemistry"]
   },
   {
     "id": 103,
@@ -1570,9 +1396,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Linoleic acid and oleic acid are unsaturated fatty acids, while lauric acid and palmitic acid are saturated fatty acids.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["biochemistry"]
   },
   {
     "id": 104,
@@ -1585,9 +1409,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "In the progression of iron deficiency, a fall in percentage transferrin saturation is the most widely prevalent stage encountered in the Indian population, representing an intermediate stage before overt anaemia develops.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine", "biochemistry"]
   },
   {
     "id": 105,
@@ -1600,9 +1422,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Both statements are true, and central obesity driving insulin resistance (Statement II) explains why waist circumference/waist-hip ratio are stronger predictors of diabetes risk than BMI (Statement I).",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["community_medicine", "general_medicine"]
   },
   {
     "id": 106,
@@ -1615,9 +1435,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Preserving existing healthy lifestyles/patterns before risk factors develop, to prevent the emergence of risk factors altogether, is the definition of primordial prevention.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 107,
@@ -1630,9 +1448,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Workers in the ceramic and pottery industry are exposed to silica dust, putting them at risk of silicosis, warranting screening for this occupational lung disease.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 108,
@@ -1645,9 +1461,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Basophilic stippling of red blood cells is a classic haematological finding associated with lead poisoning due to inhibition of erythrocyte enzymes involved in RNA degradation.",
-    "subject_keys": [
-      "forensic_medicine"
-    ]
+    "subject_keys": ["forensic_medicine", "community_medicine"]
   },
   {
     "id": 109,
@@ -1660,9 +1474,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Cystic fibrosis (autosomal recessive) and Huntington's chorea (autosomal dominant) are correctly matched; Marfan's syndrome is actually autosomal dominant, not recessive sex-linked, making that pair incorrect.",
-    "subject_keys": [
-      "pediatrics"
-    ]
+    "subject_keys": ["genetics", "pediatrics"]
   },
   {
     "id": 110,
@@ -1675,9 +1487,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Thalassemia major typically manifests after 6 months of age because that is when the physiological switch from fetal (HbF) to adult (HbA) haemoglobin synthesis occurs, unmasking the defect in beta-globin chain production.",
-    "subject_keys": [
-      "biochemistry"
-    ]
+    "subject_keys": ["pediatrics", "pathology"]
   },
   {
     "id": 111,
@@ -1690,9 +1500,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "The Weekly Epidemiological Record is published by the WHO; CD Alert is published by India's NCDC, and the Morbidity and Mortality Weekly Report is published by the US CDC.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 112,
@@ -1705,9 +1513,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "The normal nuclear family life cycle progresses through Formation, Extension, Contraction, and finally Dissolution, corresponding to sequence 4 → 3 → 1 → 2.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 113,
@@ -1720,9 +1526,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Health education is characterized by actively acquired knowledge and being behaviour-centred; appealing to emotion rather than reason and arousing primitive desires are characteristics of propaganda, not health education.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine"]
   },
   {
     "id": 114,
@@ -1735,9 +1539,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "LNG-20 (Mirena) has a low pregnancy rate and is associated with reduced menstrual blood loss compared to copper IUDs; it contains synthetic levonorgestrel (not natural progesterone), and it is actually associated with a lower, not higher, rate of ectopic pregnancy.",
-    "subject_keys": [
-      "obstetrics_and_gynecology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
   },
   {
     "id": 115,
@@ -1750,9 +1552,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Obstetric haemorrhage remains the single most common direct cause of maternal mortality in India.",
-    "subject_keys": [
-      "obstetrics_and_gynecology"
-    ]
+    "subject_keys": ["obstetrics_and_gynecology", "community_medicine"]
   },
   {
     "id": 116,
@@ -1765,9 +1565,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Malathion is designated as the insecticide of choice for indoor residual spraying in India's National Malaria Control Programme, particularly in areas with DDT resistance.",
-    "subject_keys": [
-      "microbiology"
-    ]
+    "subject_keys": ["community_medicine", "microbiology"]
   },
   {
     "id": 117,
@@ -1795,9 +1593,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "CDSCO is headed by the Drugs Controller General (India), functions under the Directorate General of Health Services, and maintains port offices for monitoring drug import/export; it falls under the Ministry of Health and Family Welfare, not the Ministry of Chemicals and Fertilizers, making statement III incorrect.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["pharmacology", "community_medicine"]
   },
   {
     "id": 119,
@@ -1810,9 +1606,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Only one of the listed colour-code pairs correctly corresponds to the NACO STI/RTI kit classification; the other two pairings do not match the standard designated colour codes.",
-    "subject_keys": [
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine", "microbiology"]
   },
   {
     "id": 120,

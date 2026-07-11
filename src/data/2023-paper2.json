@@ -26,7 +26,7 @@
     "correctAnswer": 1,
     "explanation": "Poorly localized swelling, tenderness, and erythema following trivial trauma, with absent crepitus and preserved distal pulses, points to cellulitis rather than a gas-forming or necrotizing process.",
     "subject_keys": [
-      "orthopedics"
+      "general_surgery"
     ]
   },
   {
@@ -73,7 +73,7 @@
     "correctAnswer": 0,
     "explanation": "Sudden breathlessness and hypotension while mobilizing after surgery is classically attributed to postural hypotension as per the official key.",
     "subject_keys": [
-      "pathology"
+      "general_surgery"
     ]
   },
   {
@@ -119,7 +119,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, lymphoma is marked correct; classically, a history of neck irradiation with a euthyroid thyroid nodule and cervical lymphadenopathy is taught as suggestive of papillary carcinoma thyroid.",
     "subject_keys": [
-      "pathology"
+      "general_surgery"
     ]
   },
   {
@@ -134,7 +134,8 @@
     "correctAnswer": 2,
     "explanation": "A soft, cystic, compressible, brilliantly transilluminant neck swelling in an infant is classic for cystic hygroma, a lymphatic malformation.",
     "subject_keys": [
-      "ent"
+      "general_surgery",
+      "pediatrics"
     ]
   },
   {
@@ -149,7 +150,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, anaplastic carcinoma thyroid is marked correct; serum thyroglobulin is classically used as a tumor marker for differentiated (papillary/follicular) thyroid carcinoma follow-up.",
     "subject_keys": [
-      "pathology"
+      "general_surgery"
     ]
   },
   {
@@ -240,8 +241,8 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, gastric lymphoma is marked correct; note that CD117 (c-KIT) positivity is the classic diagnostic marker for gastrointestinal stromal tumor (GIST).",
     "subject_keys": [
-      "pathology",
-      "radiology"
+      "general_surgery",
+      "pathology"
     ]
   },
   {
@@ -271,7 +272,8 @@
     "correctAnswer": 3,
     "explanation": "As per the official key, chronic active hepatitis is marked as the extraintestinal manifestation correlating with disease activity in Crohn's disease.",
     "subject_keys": [
-      "ophthalmology"
+      "general_surgery",
+      "general_medicine"
     ]
   },
   {
@@ -301,6 +303,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, S. typhi as the causative organism, typhoid ulcers oriented transversely, and terminal ileum as the most common perforation site are marked correct, with the third-week timing excluded from this combination.",
     "subject_keys": [
+      "general_surgery",
       "microbiology"
     ]
   },
@@ -346,7 +349,7 @@
     "correctAnswer": 3,
     "explanation": "Hepatic adenomas are associated with OCP use and are frequently detected incidentally on imaging; they do carry some malignant potential and are commonly seen in reproductive-age women, so statement I is excluded per this key combination.",
     "subject_keys": [
-      "obstetrics_and_gynecology"
+      "general_surgery"
     ]
   },
   {
@@ -407,7 +410,7 @@
     "correctAnswer": 2,
     "explanation": "Mobility of a swelling at right angles to the line of mesenteric attachment (Tillaux's triad feature) is classic for a mesenteric cyst.",
     "subject_keys": [
-      "obstetrics_and_gynecology"
+      "general_surgery"
     ]
   },
   {
@@ -422,9 +425,7 @@
     "correctAnswer": 1,
     "explanation": "Tense, erythematous, irreducible hernia with absent cough impulse along with systemic signs of obstruction/toxicity indicates strangulation with compromised blood supply.",
     "subject_keys": [
-      "general_surgery",
-      "pharmacology",
-      "forensic_medicine"
+      "general_surgery"
     ]
   },
   {
@@ -469,7 +470,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, cerebral concussion is marked correct; the classic findings of CSF rhinorrhea, ear bleeding, and Battle's sign (bruising behind the ear) are typically taught as features of a base of skull fracture.",
     "subject_keys": [
-      "orthopedics"
+      "general_surgery"
     ]
   },
   {
@@ -484,9 +485,8 @@
     "correctAnswer": 0,
     "explanation": "Streptococcus pneumoniae is the most common causative organism in acute suppurative otitis media.",
     "subject_keys": [
-      "microbiology",
-      "general_medicine",
-      "ent"
+      "ent",
+      "microbiology"
     ]
   },
   {
@@ -518,6 +518,7 @@
     "correctAnswer": 3,
     "explanation": "As per the official key, lymph node status is marked correct; PET scanning is classically used primarily to detect occult distant metastatic disease in gastro-oesophageal cancer staging.",
     "subject_keys": [
+      "general_surgery",
       "radiology"
     ]
   },
@@ -624,7 +625,8 @@
     "correctAnswer": 1,
     "explanation": "For women with normal pre-pregnancy BMI, the IOM-recommended total weight gain during pregnancy is 11-16 kg (25-35 lbs).",
     "subject_keys": [
-      "obstetrics_and_gynecology"
+      "obstetrics_and_gynecology",
+      "physiology"
     ]
   },
   {
@@ -639,7 +641,8 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, a 10-20% increase is marked correct; standard obstetric teaching describes maternal blood volume increasing by around 40-50% by 32-34 weeks of gestation.",
     "subject_keys": [
-      "obstetrics_and_gynecology"
+      "obstetrics_and_gynecology",
+      "physiology"
     ]
   },
   {
@@ -714,7 +717,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, the statement that mothers perceive 88% of fetal movements is marked as the incorrect one, as maternal perception of true fetal movements is generally lower than this figure.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -745,8 +748,8 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, supplementation only for those not eating green vegetables is marked correct; national programs generally recommend universal iron-folic acid supplementation for all pregnant women.",
     "subject_keys": [
-      "biochemistry",
-      "obstetrics_and_gynecology"
+      "obstetrics_and_gynecology",
+      "community_medicine"
     ]
   },
   {
@@ -806,7 +809,8 @@
     "correctAnswer": 2,
     "explanation": "Colostrum has a higher protein content (especially immunoglobulins) compared to mature breast milk, along with lower fat and carbohydrate content.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology",
+      "pediatrics"
     ]
   },
   {
@@ -836,7 +840,7 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, empty bladder, intact membranes, and fully dilated cervix are marked correct; standard prerequisites for forceps delivery actually require ruptured membranes along with an empty bladder, full cervical dilatation, and the head at the level of the pelvic floor.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -851,7 +855,7 @@
     "correctAnswer": 3,
     "explanation": "As per the official key, 7-8 is marked correct; standard teaching describes normal vaginal pH in the reproductive age group as acidic, typically around 3.5-4.5, due to lactobacilli-mediated lactic acid production.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -866,7 +870,7 @@
     "correctAnswer": 3,
     "explanation": "As per the official key, labia minora is marked correct; classically, Gartner's duct cysts (remnants of the mesonephric duct) are described as arising in the anterolateral wall of the vagina.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -881,7 +885,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, the 14th day is marked correct; standard teaching for endometrial dating/ovulation confirmation is a premenstrual biopsy, typically around day 21-23 of the cycle, to assess secretory changes.",
     "subject_keys": [
-      "pathology"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -896,6 +900,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, antiprostaglandins, pre-sacral neurectomy, and uterine curettage are marked correct; standard first-line therapy for primary dysmenorrhoea actually centers on NSAIDs (antiprostaglandins) and combined oral contraceptives.",
     "subject_keys": [
+      "obstetrics_and_gynecology",
       "pharmacology"
     ]
   },
@@ -911,7 +916,6 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, obesity-related infertility is linked to hypogonadotropic hypogonadism, reflecting disruption of the hypothalamic-pituitary-ovarian axis.",
     "subject_keys": [
-      "pathology",
       "obstetrics_and_gynecology"
     ]
   },
@@ -927,7 +931,7 @@
     "correctAnswer": 1,
     "explanation": "According to WHO semen analysis reference values, normal viscosity is graded on a scale up to about 3; a viscosity grade greater than 4 falls outside the normal reference range, making it the abnormal parameter.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -942,7 +946,8 @@
     "correctAnswer": 3,
     "explanation": "As per the official key, tubercular encephalitis, McCune-Albright syndrome, and primary hypothyroidism are marked correct; constitutional (idiopathic) precocious puberty is classically the most common GnRH-dependent cause, but is excluded from this combination per the key. Note McCune-Albright is actually a GnRH-independent cause per standard teaching.",
     "subject_keys": [
-      "general_medicine"
+      "obstetrics_and_gynecology",
+      "pediatrics"
     ]
   },
   {
@@ -957,7 +962,7 @@
     "correctAnswer": 1,
     "explanation": "Coagulation disorders (such as von Willebrand disease) are important and treatable causes of puberty menorrhagia that must be ruled out in adolescents with heavy bleeding.",
     "subject_keys": [
-      "pathology"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -972,7 +977,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, 30 million/ml is marked correct; note the widely cited WHO (2010/2021) lower reference limit for sperm concentration is actually 15 million/ml.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1017,7 +1022,7 @@
     "correctAnswer": 2,
     "explanation": "Meigs' syndrome is classically defined by the triad of ovarian fibroma, ascites, and right-sided pleural effusion (hydrothorax); genital warts are unrelated.",
     "subject_keys": [
-      "general_medicine"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1063,7 +1068,7 @@
     "correctAnswer": 3,
     "explanation": "Procidentia refers to complete (third-degree) uterovaginal prolapse, where the entire uterus including the fundus lies outside the vaginal introitus with complete eversion of the vagina.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1093,7 +1098,7 @@
     "correctAnswer": 1,
     "explanation": "As per the official key, indirect Coombs test positivity in mother, fetal anemia risk, and direct Coombs positivity in baby are excluded/included per this combination (1,2,4); standard teaching actually favors MCA Doppler over Liley's chart for detecting fetal anemia.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1108,7 +1113,8 @@
     "correctAnswer": 1,
     "explanation": "As per the official key, travel history, close contact within 1 metre for >15 minutes, and direct contact with body fluids of a confirmed case are marked as valid exposure criteria; merely living in the neighbourhood does not qualify as significant exposure.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology",
+      "community_medicine"
     ]
   },
   {
@@ -1123,7 +1129,7 @@
     "correctAnswer": 0,
     "explanation": "Persistent tachycardia and impaired mental status are recognized clinical features of septic abortion/sepsis; fever (not hypothermia) is the more classic finding, though hypothermia can occur in severe sepsis — per key, statements 1 and 2 are correct.",
     "subject_keys": [
-      "microbiology"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1138,7 +1144,7 @@
     "correctAnswer": 1,
     "explanation": "As per the official key, both statements are true but statement 2 is not the correct explanation for statement 1; placental insufficiency causing brain-sparing redistribution is well established, but oligohydramnios is not an invariable ('always') feature of FGR.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1153,7 +1159,7 @@
     "correctAnswer": 1,
     "explanation": "As per the official key, DMPA, Norplant, and levonorgestrel failure rates are marked correct, with LNG-IUS excluded from this particular combination.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1168,7 +1174,8 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, statements 2, 3 and 4 are marked correct; note that Ormeloxifene is actually a non-steroidal SERM developed by CDRI Lucknow, so statement 1 (CDRI origin) and statement 2 (steroidal) present some inconsistency with standard pharmacology teaching.",
     "subject_keys": [
-      "general_surgery"
+      "obstetrics_and_gynecology",
+      "pharmacology"
     ]
   },
   {
@@ -1198,9 +1205,8 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, thrombosis history, gestational trophoblastic neoplasia, and diabetes with vascular complications are marked as absolute contraindications; standard teaching also considers severe hypertension an absolute contraindication.",
     "subject_keys": [
-      "pathology",
-      "pharmacology",
-      "general_medicine"
+      "obstetrics_and_gynecology",
+      "pharmacology"
     ]
   },
   {
@@ -1215,7 +1221,8 @@
     "correctAnswer": 1,
     "explanation": "As per the official key, 1-2 months is marked correct; standard teaching typically recommends additional contraception for about 3 months or 20 ejaculations post-vasectomy until semen analysis confirms azoospermia.",
     "subject_keys": [
-      "obstetrics_and_gynecology"
+      "obstetrics_and_gynecology",
+      "community_medicine"
     ]
   },
   {
@@ -1230,7 +1237,7 @@
     "correctAnswer": 3,
     "explanation": "Life Expectancy Index = (Actual value - Minimum value) / (Maximum value - Minimum value) = (64-20)/(86-20) = 44/66 = 0.667; as per the official key, however, 0.970 is marked as the correct answer.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1260,7 +1267,7 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, medical officer, pharmacist, and anaesthetist are marked as routinely posted to a PHC; standard teaching typically identifies medical officer, pharmacist, and health educator/health worker as PHC staff rather than an anaesthetist.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1275,7 +1282,7 @@
     "correctAnswer": 1,
     "explanation": "As per the official key, decision making is marked as the correct answer; standard management theory typically attributes job-method standardisation to work-study/work sampling techniques.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1290,7 +1297,7 @@
     "correctAnswer": 0,
     "explanation": "Sexually transmitted diseases are transmitted primarily through direct (sexual) contact with an infected person.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1337,7 +1344,7 @@
     "correctAnswer": 0,
     "explanation": "Expected deaths = (2.0×3000/1000)+(3.5×2000/1000)+(6.0×2000/1000) = 6+7+12 = 25. Observed deaths = 8+9+13 = 30. SMR = (30/25)×100 = 120; as per the official key, however, 100 is marked as the correct answer.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1412,7 +1419,9 @@
     "correctAnswer": 1,
     "explanation": "Stavudine (d4T) is avoided in first-line ART regimens due to well-documented metabolic toxicities including lipodystrophy, lactic acidosis, and peripheral neuropathy.",
     "subject_keys": [
-      "general_surgery"
+      "pharmacology",
+      "community_medicine",
+      "general_medicine"
     ]
   },
   {
@@ -1461,7 +1470,8 @@
     "correctAnswer": 3,
     "explanation": "The classic triad of Congenital Rubella Syndrome (Gregg's triad) consists of deafness, cardiac malformations (like PDA), and cataract; hydrocephalus is not part of this classic triad.",
     "subject_keys": [
-      "general_surgery",
+      "community_medicine",
+      "pediatrics",
       "ophthalmology"
     ]
   },
@@ -1477,6 +1487,8 @@
     "correctAnswer": 1,
     "explanation": "Diphtheria antitoxin is used for treatment, and it is one of the diseases covered by the pentavalent vaccine (DPT component); the actual incubation period is typically 2-5 days, not 14-28 days, making statement I incorrect.",
     "subject_keys": [
+      "community_medicine",
+      "microbiology",
       "pediatrics"
     ]
   },
@@ -1507,7 +1519,7 @@
     "correctAnswer": 2,
     "explanation": "The correct sequence of sewage treatment is: Screening → Grit chamber → Primary sedimentation tank → Sludge digester (3→1→2→4).",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1522,7 +1534,7 @@
     "correctAnswer": 2,
     "explanation": "The Schmutzdecke ('vital layer' or 'dirty skin') is the biologically active layer that forms on the surface of slow sand filters, responsible for purification via biological action.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1537,7 +1549,7 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, 2500 kcal/day is marked correct; this reflects the increased caloric requirement of a sedentary lactating woman above baseline needs due to additional lactation demands.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1552,7 +1564,8 @@
     "correctAnswer": 1,
     "explanation": "The average iron loss per menstrual cycle (28 days) in menstruating women is approximately 8.5 mg, accounting for the additional iron requirement in women of reproductive age.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine",
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1629,6 +1642,7 @@
     "correctAnswer": 3,
     "explanation": "As per the official key, basophilic stippling, progressive massive fibrosis, and coproporphyrinuria are marked correct; note lead poisoning is indeed called plumbism, though it is excluded from this particular combination, and progressive massive fibrosis is more classically linked to pneumoconiosis rather than lead toxicity.",
     "subject_keys": [
+      "community_medicine",
       "forensic_medicine"
     ]
   },
@@ -1644,7 +1658,7 @@
     "correctAnswer": 3,
     "explanation": "As per the official key, CARE is marked correct; DANIDA is classically associated with assisting India's sanitation programs in standard public health teaching.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1659,7 +1673,7 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, Kuppuswamy's scale is marked correct; NFHS surveys typically use the 'Wealth Index' (based on household assets) as their standard measure of economic status.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1689,7 +1703,8 @@
     "correctAnswer": 3,
     "explanation": "The Vande Mataram Scheme is the voluntary program under which private obstetricians/gynaecologists and MBBS doctors can register to provide free antenatal and safe motherhood services.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine",
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1736,7 +1751,7 @@
     "correctAnswer": 3,
     "explanation": "Under the ESI Act, insured persons and dependents are entitled to medical benefit, sickness benefit, funeral expenses, and disablement/rehabilitation benefits — all four are covered.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1751,7 +1766,8 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, Copper T-200 alone is marked as second generation; Lippes Loop is first generation (inert), while Copper-T 380A and LNG-IUS are generally classified as third-generation devices.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine",
+      "obstetrics_and_gynecology"
     ]
   },
   {
@@ -1781,7 +1797,7 @@
     "correctAnswer": 0,
     "explanation": "As per the official key, propagated only is marked correct; a single point exposure event like a birthday party causing simultaneous illness is classically taught as a common (point) source outbreak.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine"
     ]
   },
   {
@@ -1812,7 +1828,8 @@
     "correctAnswer": 2,
     "explanation": "As per the official key, protein subunit vaccine is marked correct; Covaxin (BBV152) is more commonly classified in standard references as an inactivated whole-virion COVID-19 vaccine.",
     "subject_keys": [
-      "general_surgery"
+      "community_medicine",
+      "microbiology"
     ]
   },
   {
