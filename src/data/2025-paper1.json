@@ -25,10 +25,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Ventricular aneurysm classically shows paradoxical precordial impulse, persistent ST elevation, and a cardiac silhouette bulge on X-ray.",
-    "subject_keys": [
-      "general_medicine",
-      "pathology"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 3,
@@ -71,10 +68,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "As mitral stenosis severity increases, left atrial pressure rises, causing the OS to occur earlier and move closer to S2.",
-    "subject_keys": [
-      "general_medicine",
-      "anatomy"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 6,
@@ -87,9 +81,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Adenosine terminates AVNRT by transiently blocking AV nodal conduction, which is part of the reentrant circuit.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine","pharmacology"]
   },
   {
     "id": 7,
@@ -102,9 +94,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Correct MDI technique: shake inhaler, breathe out, tilt head slightly, inhale while pressing canister, then hold breath.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine","pharmacology"]
   },
   {
     "id": 8,
@@ -148,9 +138,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Cystic fibrosis is caused by mutations in the CFTR gene and follows autosomal recessive inheritance.",
-    "subject_keys": [
-      "pediatrics"
-    ]
+    "subject_keys": ["pediatrics","general_medicine"]
   },
   {
     "id": 11,
@@ -163,11 +151,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Craniofacial abnormalities, significant burns, and cardiovascular instability are contraindications to NIPPV; high PaCO2 alone is not.",
-    "subject_keys": [
-      "pharmacology",
-      "forensic_medicine",
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 12,
@@ -195,10 +179,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Low protein and LDH ratios indicate a transudative effusion (Light's criteria), classically associated with myxedema.",
-    "subject_keys": [
-      "general_medicine",
-      "pathology"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 14,
@@ -211,10 +192,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Masson bodies (plugs of granulation tissue in alveolar ducts) are characteristic of Cryptogenic Organizing Pneumonia.",
-    "subject_keys": [
-      "general_medicine",
-      "pediatrics"
-    ]
+    "subject_keys": ["general_medicine","pathology"]
   },
   {
     "id": 15,
@@ -227,9 +205,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Aging increases V/Q mismatch, reduces maximal oxygen uptake, and lowers FEV1/FVC ratio; ventilatory response to hypoxia/hypercapnia actually decreases with age.",
-    "subject_keys": [
-      "physiology"
-    ]
+    "subject_keys": ["general_medicine","physiology"]
   },
   {
     "id": 16,
@@ -257,10 +233,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Lemierre syndrome is septic thrombophlebitis of the internal jugular vein following oropharyngeal infection, usually with Fusobacterium necrophorum.",
-    "subject_keys": [
-      "pathology",
-      "pediatrics"
-    ]
+    "subject_keys": ["general_medicine","microbiology"]
   },
   {
     "id": 18,
@@ -273,10 +246,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Spironolactone, an aldosterone antagonist, is first-line diuretic therapy for ascites due to cirrhosis.",
-    "subject_keys": [
-      "general_medicine",
-      "physiology"
-    ]
+    "subject_keys": ["general_medicine","pharmacology"]
   },
   {
     "id": 19,
@@ -289,9 +259,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Transabdominal ultrasound is highly sensitive and specific for detecting gallstones and is the first-line investigation.",
-    "subject_keys": [
-      "radiology"
-    ]
+    "subject_keys": ["general_medicine","radiology"]
   },
   {
     "id": 20,
@@ -320,9 +288,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Melanosis coli results from deposition of lipofuscin (a pigment from apoptotic colonic epithelial cells) in macrophages within the lamina propria.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine","pathology"]
   },
   {
     "id": 22,
@@ -335,9 +301,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Gilbert syndrome is autosomal recessive, causes unconjugated hyperbilirubinemia with no other liver disease stigmata; liver biopsy is not routinely recommended as it's a benign condition.",
-    "subject_keys": [
-      "pathology"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 23,
@@ -365,9 +329,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Erythema ab igne is a reticulated, pigmented skin change caused by chronic exposure to heat/infrared radiation, as from a hot water bottle.",
-    "subject_keys": [
-      "dermatology"
-    ]
+    "subject_keys": ["general_medicine","dermatology"]
   },
   {
     "id": 25,
@@ -380,9 +342,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Tolvaptan is an oral selective V2-receptor antagonist used for euvolemic/hypervolemic hyponatremia, not hypovolemic hyponatremia.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["pharmacology","general_medicine"]
   },
   {
     "id": 26,
@@ -395,9 +355,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Bartter syndrome results from NKCC2 mutations in the thick ascending limb, causing a Loop-diuretic-like phenotype with hypercalciuria.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine","physiology"]
   },
   {
     "id": 27,
@@ -425,9 +383,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "WT1 gene mutations are associated with Denys-Drash and Frasier syndromes, featuring FSGS, Wilms tumor, and genital abnormalities.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine","pediatrics"]
   },
   {
     "id": 29,
@@ -440,10 +396,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "GFR 15-29 mL/min/1.73m² corresponds to CKD Stage 4 (severe).",
-    "subject_keys": [
-      "physiology",
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 30,
@@ -456,9 +409,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Nephronophthisis is inherited in an autosomal recessive manner, unlike medullary cystic kidney disease which is autosomal dominant.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine","pediatrics"]
   },
   {
     "id": 31,
@@ -501,9 +452,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Lesions in the temporal lobe (Meyer's loop) cause contralateral homonymous upper quadrantanopia (\"pie in the sky\").",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "anatomy"]
   },
   {
     "id": 34,
@@ -546,9 +495,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Sleep deprivation, missed AED doses, recreational drug misuse, and physical exhaustion are all recognized seizure triggers.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 37,
@@ -593,9 +540,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "A high reticulocyte production index (>2-3) indicates an appropriate marrow response to peripheral RBC destruction/loss, as in hemolysis, rather than a production defect.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "pathology"]
   },
   {
     "id": 40,
@@ -608,9 +553,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "A decade-long vegan diet with peripheral neuropathy and gait ataxia (posterior column involvement) suggests vitamin B12 deficiency.",
-    "subject_keys": [
-      "biochemistry"
-    ]
+    "subject_keys": ["general_medicine", "biochemistry"]
   },
   {
     "id": 41,
@@ -638,10 +581,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Imatinib, a tyrosine kinase inhibitor targeting BCR-ABL, is first-line therapy for chronic phase CML.",
-    "subject_keys": [
-      "pathology",
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 43,
@@ -654,9 +594,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Treatment is based on bleeding risk, not platelet count alone; high-dose dexamethasone is used for spontaneous bleeding, IVIG raises platelet counts, and platelet transfusion is used for life-threatening bleeding.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 44,
@@ -685,9 +623,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Repeated glucocorticoid courses within the past year increase risk of HPA axis suppression and adrenal crisis on withdrawal.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 46,
@@ -700,9 +636,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Wilson's disease, caused by ATP7B gene mutations, is inherited in an autosomal recessive manner.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "biochemistry"]
   },
   {
     "id": 47,
@@ -715,9 +649,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Sodium bicarbonate shifts potassium intracellularly, sodium polystyrene sulphate removes potassium, and calcium gluconate stabilizes the myocardium; calcitonin is not a standard hyperkalaemia treatment.",
-    "subject_keys": [
-      "physiology"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 48,
@@ -745,9 +677,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Loa loa is transmitted by the Chrysops (deer fly/mango fly) vector.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["microbiology", "community_medicine"]
   },
   {
     "id": 50,
@@ -791,10 +721,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Type 2 leprosy reaction (ENL) is an immune complex-mediated (Arthus-type) reaction; Type 1 reaction is a delayed hypersensitivity reaction, and 'lion face' (leonine facies) is seen in lepromatous, not tuberculoid, leprosy.",
-    "subject_keys": [
-      "community_medicine",
-      "dermatology"
-    ]
+    "subject_keys": ["dermatology", "microbiology"]
   },
   {
     "id": 53,
@@ -807,9 +734,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Sporotrichosis, classically from thorn-prick inoculation in gardeners, presents with ulcerative nodular lesions along lymphatic spread.",
-    "subject_keys": [
-      "dermatology"
-    ]
+    "subject_keys": ["dermatology", "microbiology"]
   },
   {
     "id": 54,
@@ -822,9 +747,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "This presentation describes pellagra (niacin deficiency) with its classic 'Casal's necklace' rash; corn-based diets are niacin-deficient and associated with pellagra.",
-    "subject_keys": [
-      "biochemistry"
-    ]
+    "subject_keys": ["biochemistry", "general_medicine"]
   },
   {
     "id": 55,
@@ -837,9 +760,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Acrodermatitis enteropathica results from impaired intestinal zinc absorption due to SLC39A4 gene mutations.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "biochemistry"]
   },
   {
     "id": 56,
@@ -852,9 +773,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "High-dose retinol toxicity and acute overdose effects are correctly described, and carotenemia causes harmless orange skin pigmentation; routine vitamin A supplementation in non-endemic areas for pregnant women is not recommended due to teratogenicity risk.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["biochemistry", "pharmacology"]
   },
   {
     "id": 57,
@@ -882,9 +801,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Anagen is the active growth phase; catagen (not telogen) is the transitional phase, and telogen (not catagen) is the resting phase — so only statement I is correct.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["dermatology"]
   },
   {
     "id": 59,
@@ -913,9 +830,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "This presentation is consistent with Behçet's disease, for which the pathergy test is a supportive diagnostic tool.",
-    "subject_keys": [
-      "community_medicine"
-    ]
+    "subject_keys": ["general_medicine", "dermatology"]
   },
   {
     "id": 61,
@@ -928,9 +843,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Osteoarthritis commonly affects the first MTP joint, PIP joints, and cervical spine (e.g., C5-C6); the ankle joint is typically spared in primary OA.",
-    "subject_keys": [
-      "orthopedics"
-    ]
+    "subject_keys": ["orthopedics", "general_medicine"]
   },
   {
     "id": 62,
@@ -943,9 +856,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Hypothyroidism, vitamin B12 deficiency, and thiamine deficiency are correctable causes of dementia; dementia with Lewy bodies is a primary neurodegenerative disorder and not reversible.",
-    "subject_keys": [
-      "biochemistry"
-    ]
+    "subject_keys": ["general_medicine", "biochemistry"]
   },
   {
     "id": 63,
@@ -958,9 +869,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "FTD is characterized by early personality change, language disturbance, and relatively preserved memory early on; anti-cholinesterases are used in Alzheimer's, not FTD.",
-    "subject_keys": [
-      "psychiatry"
-    ]
+    "subject_keys": ["psychiatry", "general_medicine"]
   },
   {
     "id": 64,
@@ -973,9 +882,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Oligodendrocytes myelinate axons in the CNS, while Schwann cells perform this function in the peripheral nervous system.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["anatomy", "general_medicine"]
   },
   {
     "id": 65,
@@ -1019,9 +926,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "The 4AT includes Alertness, Abbreviated Mental Test-4 (AMT4), and Attention testing (plus acute change/fluctuating course); apnoea is not a component.",
-    "subject_keys": [
-      "psychiatry"
-    ]
+    "subject_keys": ["psychiatry", "general_medicine"]
   },
   {
     "id": 68,
@@ -1034,9 +939,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "The combination of elevated GGT and elevated CDT provides improved sensitivity and specificity for detecting heavy alcohol consumption compared to either marker alone.",
-    "subject_keys": [
-      "community_medicine"
-    ]
+    "subject_keys": ["general_medicine", "community_medicine"]
   },
   {
     "id": 69,
@@ -1065,9 +968,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Prussian blue binds thallium in the gut, preventing its absorption and enterohepatic recirculation.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["forensic_medicine", "pharmacology"]
   },
   {
     "id": 71,
@@ -1080,9 +981,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Excessive salivation and urination are classic features of a cholinergic toxidrome, typical of organophosphate pesticide poisoning.",
-    "subject_keys": [
-      "forensic_medicine"
-    ]
+    "subject_keys": ["forensic_medicine", "general_medicine"]
   },
   {
     "id": 72,
@@ -1095,9 +994,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Salicylate poisoning classically causes a mixed high anion gap metabolic acidosis with respiratory alkalosis (low pCO2 from hyperventilation), matching an elevated anion gap (18) with a low pCO2 (20).",
-    "subject_keys": [
-      "physiology"
-    ]
+    "subject_keys": ["general_medicine", "physiology"]
   },
   {
     "id": 73,
@@ -1125,9 +1022,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Leptospira is a bacterium (not a virus), so statement I is incorrect; AKI causing oliguria, microscopic agglutination test, and parenteral ceftriaxone are all correct regarding Weil's disease.",
-    "subject_keys": [
-      "microbiology"
-    ]
+    "subject_keys": ["microbiology", "general_medicine"]
   },
   {
     "id": 75,
@@ -1155,9 +1050,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Brain death diagnosis requires absent brainstem reflexes, apnoea with elevated PCO2, and irreversible unresponsive coma; hypothermia is a confounder that must be excluded, not a diagnostic criterion.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "forensic_medicine"]
   },
   {
     "id": 77,
@@ -1215,10 +1108,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "This presentation suggests thyroid storm (precipitated by missed antithyroid medication); Burch-Wartofsky score is used to assess its severity.",
-    "subject_keys": [
-      "general_medicine",
-      "psychiatry"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 81,
@@ -1231,9 +1121,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "The basal ganglia (especially putamen) are most commonly affected on MRI in Wilson's disease due to copper deposition.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "biochemistry"]
   },
   {
     "id": 82,
@@ -1246,10 +1134,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Transfusion-related overload, thalassemia (due to repeated transfusions/ineffective erythropoiesis), and chronic liver disease from Hepatitis C are all recognized causes of secondary iron overload.",
-    "subject_keys": [
-      "biochemistry",
-      "microbiology"
-    ]
+    "subject_keys": ["general_medicine", "biochemistry"]
   },
   {
     "id": 83,
@@ -1262,9 +1147,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Alzheimer's affects cerebral cortical function broadly (both short and long-term memory eventually), patients often show anosognosia (denial), and depression is a common comorbid feature.",
-    "subject_keys": [
-      "psychiatry"
-    ]
+    "subject_keys": ["psychiatry", "general_medicine"]
   },
   {
     "id": 84,
@@ -1277,9 +1160,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "The glymphatic system is a waste-clearance pathway unique to the central nervous system, functioning analogously to the lymphatic system.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["physiology", "anatomy"]
   },
   {
     "id": 85,
@@ -1292,10 +1173,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Due to intermittent cyst shedding, stool samples examined at 2-3 day intervals increase diagnostic yield for Giardiasis.",
-    "subject_keys": [
-      "pathology",
-      "microbiology"
-    ]
+    "subject_keys": ["microbiology"]
   },
   {
     "id": 86,
@@ -1308,9 +1186,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "The 'Get Up and Go' test assesses mobility, gait, and balance in elderly patients, useful for fall-risk screening.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "community_medicine"]
   },
   {
     "id": 87,
@@ -1356,10 +1232,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Andexanet alfa is the specific reversal agent for factor Xa inhibitors like rivaroxaban and apixaban.",
-    "subject_keys": [
-      "pharmacology",
-      "forensic_medicine"
-    ]
+    "subject_keys": ["pharmacology", "general_medicine"]
   },
   {
     "id": 90,
@@ -1372,9 +1245,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Goitre and thymic tumours are classic superior/anterior mediastinal masses; neurogenic tumours are typically found in the posterior mediastinum.",
-    "subject_keys": [
-      "anatomy"
-    ]
+    "subject_keys": ["anatomy", "general_medicine"]
   },
   {
     "id": 91,
@@ -1387,9 +1258,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Idarucizumab is a monoclonal antibody fragment that specifically reverses dabigatran's anticoagulant effect.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 92,
@@ -1402,9 +1271,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Small bowel stricture is a contraindication due to risk of capsule retention/obstruction.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["general_medicine"]
   },
   {
     "id": 93,
@@ -1417,9 +1284,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Erythrasma is caused by Corynebacterium minutissimum, a superficial bacterial skin infection often mistaken for a fungal infection.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["dermatology", "microbiology"]
   },
   {
     "id": 94,
@@ -1462,10 +1327,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Recurrent jaundice with facial grimacing (dystonia/movement disorder) suggests Wilson's disease; Kayser-Fleischer rings are a classic clinical clue.",
-    "subject_keys": [
-      "dermatology",
-      "ophthalmology"
-    ]
+    "subject_keys": ["general_medicine", "ophthalmology"]
   },
   {
     "id": 97,
@@ -1478,10 +1340,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Phenytoin, severe malnutrition, and nephrotic syndrome (through loss of immunoglobulins) are recognized causes of secondary immunodeficiency; post-varicella state is not typically classified as a cause of secondary immunodeficiency.",
-    "subject_keys": [
-      "pharmacology",
-      "general_medicine"
-    ]
+    "subject_keys": ["pediatrics", "general_medicine"]
   },
   {
     "id": 98,
@@ -1494,11 +1353,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Two vaccines can be given in the same thigh if separated by at least 1 inch, and vaccine/immunoglobulin should be given at separate sites; in infants, deltoid injection is avoided due to insufficient muscle mass, not reduced vaccine efficacy per se.",
-    "subject_keys": [
-      "microbiology",
-      "anatomy",
-      "community_medicine"
-    ]
+    "subject_keys": ["community_medicine", "pediatrics"]
   },
   {
     "id": 99,
@@ -1526,9 +1381,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Prader-Willi and Angelman syndromes both result from genomic imprinting defects on chromosome 15 (paternal vs maternal deletion respectively).",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["pediatrics", "biochemistry"]
   },
   {
     "id": 101,
@@ -1572,11 +1425,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Stridor in a calm child and chest indrawing are IMNCI danger signs of severe pneumonia/very severe disease; fast breathing alone indicates pneumonia (not severe), and vomiting everything is a general danger sign, not specific to severe pneumonia classification here.",
-    "subject_keys": [
-      "community_medicine",
-      "general_medicine",
-      "pediatrics"
-    ]
+    "subject_keys": ["community_medicine", "pediatrics"]
   },
   {
     "id": 104,
@@ -1589,9 +1438,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Tender swelling behind the ear suggests mastoiditis, a serious complication requiring urgent hospital referral.",
-    "subject_keys": [
-      "ent"
-    ]
+    "subject_keys": ["ent", "pediatrics"]
   },
   {
     "id": 105,
@@ -1620,9 +1467,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Cerebral palsy is a permanent, non-progressive disorder of movement and posture; a progressive course would argue against the diagnosis.",
-    "subject_keys": [
-      "pediatrics"
-    ]
+    "subject_keys": ["pediatrics", "orthopedics"]
   },
   {
     "id": 107,
@@ -1635,10 +1480,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "The Modified Ashworth Scale is used to classify spasticity; GMFCS classifies gross motor function (not specifically spasticity), and Connors scale is used for ADHD assessment, not spasticity.",
-    "subject_keys": [
-      "psychiatry",
-      "pediatrics"
-    ]
+    "subject_keys": ["pediatrics"]
   },
   {
     "id": 108,
@@ -1651,10 +1493,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Methylphenidate (stimulant) and atomoxetine (non-stimulant) are established pharmacological treatments for ADHD.",
-    "subject_keys": [
-      "psychiatry",
-      "pharmacology"
-    ]
+    "subject_keys": ["psychiatry", "pharmacology", "pediatrics"]
   },
   {
     "id": 109,
@@ -1667,11 +1506,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Under RBSK's 4D framework, Vitamin A deficiency, Anemia, and Vitamin D deficiency are listed as 'Deficiencies'; hypothyroidism falls under a different category (Defects at birth/Diseases), not Deficiency.",
-    "subject_keys": [
-      "biochemistry",
-      "community_medicine",
-      "general_medicine"
-    ]
+    "subject_keys": ["community_medicine", "pediatrics"]
   },
   {
     "id": 110,
@@ -1684,9 +1519,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Insulin-glucose and beta-agonists shift potassium intracellularly, while sodium polystyrene sulfonate removes potassium from the body; calcium stabilizes the myocardial membrane (not calcium enhancing potassium uptake, and beta-agonists don't stabilize membrane) — correct pairing is insulin/glucose (intracellular shift) and polystyrene sulfonate (total body elimination).",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["pharmacology", "pediatrics"]
   },
   {
     "id": 111,
@@ -1699,11 +1532,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "Rotavirus vaccine requires 2-8°C storage, and a past history of intussusception is a contraindication to vaccination.",
-    "subject_keys": [
-      "pharmacology",
-      "community_medicine",
-      "general_surgery"
-    ]
+    "subject_keys": ["community_medicine", "pharmacology", "pediatrics"]
   },
   {
     "id": 112,
@@ -1746,10 +1575,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Early breastfeeding within one hour and intramuscular vitamin K prophylaxis are standard newborn care practices; the baby should not be separated from the mother (skin-to-skin/rooming-in is recommended).",
-    "subject_keys": [
-      "biochemistry",
-      "pediatrics"
-    ]
+    "subject_keys": ["pediatrics", "community_medicine"]
   },
   {
     "id": 115,
@@ -1762,9 +1588,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "Topiramate is one of the oral agents used as adjunctive therapy in the management of super-refractory status epilepticus.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 116,
@@ -1777,9 +1601,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Up to two doses of benzodiazepines can be given 5 minutes apart if seizures persist, and both lorazepam and midazolam are typically dosed at 0.1 mg/kg in this setting.",
-    "subject_keys": [
-      "general_medicine"
-    ]
+    "subject_keys": ["general_medicine", "pharmacology"]
   },
   {
     "id": 117,
@@ -1792,10 +1614,7 @@
     ],
     "correctAnswer": 0,
     "explanation": "Central diabetes insipidus, boiled skimmed milk (concentrated solute load), and lactulose (osmotic water loss) can all cause hypernatremia; Addison disease typically causes hyponatremia due to aldosterone deficiency, not hypernatremia.",
-    "subject_keys": [
-      "physiology",
-      "general_medicine"
-    ]
+    "subject_keys": ["pediatrics", "general_medicine"]
   },
   {
     "id": 118,
@@ -1808,9 +1627,7 @@
     ],
     "correctAnswer": 2,
     "explanation": "EST has up to 90% efficacy in controlling acute variceal bleeding, and secondary prophylaxis is recommended for all patients after an acute variceal bleeding episode; the cyanoacrylate glue injection described in statement II actually refers to endoscopic variceal glue injection, not classic sclerotherapy, and the 7-day somatostatin/octreotide duration is not a standard fixed rule.",
-    "subject_keys": [
-      "pharmacology"
-    ]
+    "subject_keys": ["pediatrics", "general_medicine"]
   },
   {
     "id": 119,
@@ -1823,9 +1640,7 @@
     ],
     "correctAnswer": 1,
     "explanation": "Endotracheal intubation allows control of inspiratory time, provision of PEEP, and reduces aspiration risk by protecting the airway; peak expiratory pressure is not a controllable parameter of ETT ventilation in this context.",
-    "subject_keys": [
-      "anesthesiology"
-    ]
+    "subject_keys": ["anesthesiology", "pediatrics"]
   },
   {
     "id": 120,
@@ -1838,8 +1653,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "Hypomagnesemia impairs PTH secretion/action causing hypocalcemia, and pseudohypoparathyroidism involves PTH resistance leading to hypocalcemia; hypophosphatemia and metabolic acidosis are not typical causes (acidosis actually increases ionized calcium).",
-    "subject_keys": [
-      "physiology"
-    ]
+    "subject_keys": ["pediatrics", "general_medicine"]
   }
 ]
