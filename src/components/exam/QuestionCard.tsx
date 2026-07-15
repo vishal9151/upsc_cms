@@ -2,7 +2,11 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { useExamStore, useCurrentAnswer, useIsExamReadOnly } from '@/store/examStore'
 import { Card } from '@/components/ui/Card'
 import { cn } from '@/utils/cn'
-import { formatOptionText, formatQuestionText } from '@/utils/textFormatter'
+import {
+  formatOptionText,
+  formatQuestionText,
+  splitQuestionInstruction,
+} from '@/utils/textFormatter'
 
 export function QuestionCard() {
   const currentQuestionIndex = useExamStore((s) => s.currentQuestionIndex)
@@ -14,6 +18,10 @@ export function QuestionCard() {
   const question = questions[currentQuestionIndex]
 
   if (!question) return null
+
+  const { main, instruction } = splitQuestionInstruction(
+    formatQuestionText(question.question),
+  )
 
   return (
     <Card>
@@ -30,9 +38,14 @@ export function QuestionCard() {
             <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-blue-100 text-sm font-semibold text-blue-700 dark:bg-blue-950 dark:text-blue-300">
               {currentQuestionIndex + 1}
             </span>
-            <p className="whitespace-pre-line text-base leading-relaxed text-gray-900 dark:text-gray-100">
-              {formatQuestionText(question.question)}
-            </p>
+            <div className="whitespace-pre-line text-base leading-relaxed text-gray-900 dark:text-gray-100">
+              <p>{main}</p>
+              {instruction && (
+                <p className="mt-3 mb-1 text-sm text-gray-500 dark:text-gray-400">
+                  {instruction}
+                </p>
+              )}
+            </div>
           </div>
 
           <fieldset>

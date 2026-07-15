@@ -8,6 +8,7 @@ import {
   formatExplanationText,
   formatOptionText,
   formatQuestionText,
+  splitQuestionInstruction,
 } from '@/utils/textFormatter'
 
 interface ReviewQuestionCardProps {
@@ -25,6 +26,9 @@ export const ReviewQuestionCard = memo(function ReviewQuestionCard({
     skipped: { label: 'Skipped', variant: 'gray' as const },
   }
   const status = statusLabels[result.status]
+  const { main, instruction } = splitQuestionInstruction(
+    formatQuestionText(question.question),
+  )
 
   return (
     <Card>
@@ -34,9 +38,14 @@ export const ReviewQuestionCard = memo(function ReviewQuestionCard({
             <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-blue-100 text-sm font-semibold text-blue-700 dark:bg-blue-950 dark:text-blue-300">
               {result.index + 1}
             </span>
-            <p className="whitespace-pre-line text-base leading-relaxed text-gray-900 dark:text-gray-100">
-              {formatQuestionText(question.question)}
-            </p>
+            <div className="whitespace-pre-line text-base leading-relaxed text-gray-900 dark:text-gray-100">
+              <p>{main}</p>
+              {instruction && (
+                <p className="mt-3 mb-1 text-sm text-gray-500 dark:text-gray-400">
+                  {instruction}
+                </p>
+              )}
+            </div>
           </div>
           <div className="flex shrink-0 gap-2">
             <Badge variant={status.variant}>{status.label}</Badge>

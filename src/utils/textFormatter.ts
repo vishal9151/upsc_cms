@@ -94,6 +94,26 @@ function trimLineEdges(lines: string[]): string[] {
   return lines.map((line) => (line === '' ? '' : line.trim()))
 }
 
+/** Roman numeral list marker, e.g. "II." / "IV." (I through X only). */
+const INLINE_ROMAN_MARKER =
+  /[ \t]+(I|II|III|IV|V|VI|VII|VIII|IX|X)\.[ \t]+(?=[A-Z])/g
+
+/** Trailing instruction line that follows a run of sub-statements. */
+const INLINE_TRAILING_INSTRUCTION =
+  /[ \t]+(Select the correct answer\b|Which of the above\b|Which of the statements given above\b)/g
+
+/**
+ * Breaks sub-statement lists that were OCR'd/typed onto a single line
+ * (e.g. "... occur? I. Foo II. Bar III. Baz. Select the correct answer...")
+ * into separate lines, one per numbered statement plus the trailing
+ * instruction sentence.
+ */
+function splitInlineListMarkers(text: string): string {
+  return text
+    .replace(INLINE_ROMAN_MARKER, '\n$1. ')
+    .replace(INLINE_TRAILING_INSTRUCTION, '\n$1')
+}
+
 function normalizeLineEndings(text: string): string {
   return text.replace(/\r\n/g, '\n').replace(/\r/g, '\n')
 }
@@ -129,7 +149,7 @@ function applyLineRules(text: string, rules: LineFormatRule[]): string {
  */
 export function formatQuestionText(question: string): string {
   if (!question) return ''
-  return applyLineRules(question, QUESTION_LINE_RULES)
+  return applyLineRules(splitInlineListMarkers(question), QUESTION_LINE_RULES)
 }
 
 /** Same normalization rules as questions — explanations share OCR artifacts. */
@@ -140,6 +160,31 @@ export function formatExplanationText(explanation: string): string {
 /** Same normalization rules for instruction copy shown in the UI. */
 export function formatInstructionText(instruction: string): string {
   return formatQuestionText(instruction)
+}
+
+/** Whole line is the trailing "pick from the code below" style instruction. */
+const INSTRUCTION_LINE =
+  /^(Select the correct answer\b.*|Which of the above\b.*|Which of the statements given above\b.*)$/i
+
+/**
+ * Splits a formatted question into its main body and the trailing
+ * instruction sentence (e.g. "Select the correct answer using the code
+ * given below."), so the instruction can be rendered with extra spacing
+ * to visually separate it from the statement list above and the answer
+ * options below.
+ */
+export function splitQuestionInstruction(formattedQuestion: string): {
+  main: string
+  instruction: string | null
+} {
+  const lines = formattedQuestion.split('\n')
+  const lastLine = lines[lines.length - 1]?.trim() ?? ''
+
+  if (lines.length > 1 && INSTRUCTION_LINE.test(lastLine)) {
+    return { main: lines.slice(0, -1).join('\n').trim(), instruction: lastLine }
+  }
+
+  return { main: formattedQuestion, instruction: null }
 }
 
 /**
