@@ -98,19 +98,37 @@ function trimLineEdges(lines: string[]): string[] {
 const INLINE_ROMAN_MARKER =
   /[ \t]+(I|II|III|IV|V|VI|VII|VIII|IX|X)\.[ \t]+(?=[A-Z])/g
 
-/** Trailing instruction line that follows a run of sub-statements. */
+/** Arabic numeral list marker, e.g. "2." / "4." (1 through 10 only). */
+const INLINE_ARABIC_MARKER = /[ \t]+([1-9]|10)\.[ \t]+(?=[A-Z])/g
+
+/** "Statement-I:" / "Statement II:" style assertion-reason sub-statement marker. */
+const INLINE_STATEMENT_MARKER =
+  /[ \t]+(Statement[\s-]*(?:I|II)\s*:)/g
+
+/**
+ * Trailing instruction line that follows a run of sub-statements, e.g.
+ * "Select the correct answer using the code given below.",
+ * "Which of the above are correct?",
+ * "Which of the statements given above are correct?",
+ * "Which of the features given above are generally present in ...?",
+ * "How many of the pairs given above are correctly matched?",
+ * "Of the above statements, how many are correct?"
+ */
 const INLINE_TRAILING_INSTRUCTION =
-  /[ \t]+(Select the correct answer\b|Which of the above\b|Which of the statements given above\b)/g
+  /[ \t]+(Select the correct answer\b|Which of the above\b|Which of the \w+(?: \w+)? given above\b|How many of the \w+(?: \w+)? given above\b|Of the above \w+,|Which one of the following is correct in respect of the above\b|What is the correct order of the above\b)/gi
 
 /**
  * Breaks sub-statement lists that were OCR'd/typed onto a single line
- * (e.g. "... occur? I. Foo II. Bar III. Baz. Select the correct answer...")
+ * (e.g. "... occur? I. Foo II. Bar III. Baz. Select the correct answer..."
+ * or "... occur? 1. Foo 2. Bar 3. Baz. Select the correct answer...")
  * into separate lines, one per numbered statement plus the trailing
  * instruction sentence.
  */
 function splitInlineListMarkers(text: string): string {
   return text
     .replace(INLINE_ROMAN_MARKER, '\n$1. ')
+    .replace(INLINE_ARABIC_MARKER, '\n$1. ')
+    .replace(INLINE_STATEMENT_MARKER, '\n$1')
     .replace(INLINE_TRAILING_INSTRUCTION, '\n$1')
 }
 
@@ -164,7 +182,7 @@ export function formatInstructionText(instruction: string): string {
 
 /** Whole line is the trailing "pick from the code below" style instruction. */
 const INSTRUCTION_LINE =
-  /^(Select the correct answer\b.*|Which of the above\b.*|Which of the statements given above\b.*)$/i
+  /^(Select the correct answer\b.*|Which of the above\b.*|Which of the \w+(?: \w+)? given above\b.*|How many of the \w+(?: \w+)? given above\b.*|Of the above \w+,.*|Which one of the following is correct in respect of the above\b.*|What is the correct order of the above\b.*)$/i
 
 /**
  * Splits a formatted question into its main body and the trailing
