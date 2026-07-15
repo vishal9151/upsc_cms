@@ -1478,8 +1478,8 @@
       "III and IV",
       "I and IV"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Modified Ashworth Scale is used to classify spasticity; GMFCS classifies gross motor function (not specifically spasticity), and Connors scale is used for ADHD assessment, not spasticity.",
+    "correctAnswer": 3,
+    "explanation": "The Modified Ashworth Scale directly grades spasticity, and the Gross Motor Function Classification System (GMFCS) is the standard tool used alongside it to classify motor function in cerebral palsy; the Medical Research Council scale grades muscle power (not spasticity), and the Modified Connors Scale is an ADHD assessment tool unrelated to spasticity.",
     "subject_keys": ["pediatrics"]
   },
   {
