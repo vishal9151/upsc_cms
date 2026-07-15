@@ -605,6 +605,55 @@
     "subject_keys": ["microbiology", "general_medicine"]
   },
   {
+    "id": 56,
+    "question": "Consider the following statements with regard to strongyloidiasis: I. It parasitizes the mucosa of upper part of small intestine. II. Larva currens is fast-moving transient rash seen across abdomen and buttocks. III. Ivermectin is not an effective treatment. IV. Systematic strongyloidiasis is seen in immune competent state. Which of the statements given above are correct?",
+    "options": ["1 and 2", "2 and 3 only", "2, 3 and 4", "1 and 4"],
+    "correctAnswer": 0,
+    "explanation": "Strongyloides stercoralis parasitizes the mucosa of the proximal small intestine, and larva currens is its characteristic rapidly migrating urticarial rash over the abdomen/buttocks from autoinfective larvae. Ivermectin is actually the drug of choice and highly effective treatment, and disseminated (systemic) strongyloidiasis occurs specifically in immunocompromised states (e.g., steroid use, HTLV-1 infection), not in immunocompetent individuals, making statements III and IV false.",
+    "subject_keys": ["microbiology", "general_medicine"]
+  },
+  {
+    "id": 57,
+    "question": "Consider the following statements with regard to cutaneous larva migrans: I. It is one of the commonest linear lesions seen in travellers. II. It may be associated with a recent visit to a beach. III. It is non-pruritic. IV. Track moves across the skin at a rate of 2-3 cm/day. Which of the statements given above are correct?",
+    "options": ["1, 2 and 3", "1, 3 and 4", "1, 2 and 4", "2, 3 and 4"],
+    "correctAnswer": 2,
+    "explanation": "Cutaneous larva migrans is a common linear/serpiginous travel-associated dermatosis, typically acquired from walking barefoot on contaminated beach sand, with the larval track advancing a few centimeters daily. It is characteristically intensely pruritic rather than non-pruritic, making statement III false.",
+    "subject_keys": ["dermatology", "microbiology"]
+  },
+  {
+    "id": 58,
+    "question": "Consider the following statements with regard to giardiasis: I. Stools should be examined for cysts at 2-3 days interval for its diagnosis. II. Colonoscopy aspirate gives the highest diagnostic yield. III. Infection usually occurs by ingesting contaminated water. IV. Giardia has a flagellate trophozoite form. Which of the statements given above are correct?",
+    "options": ["1 and 3 only", "1, 2 and 4", "1, 3 and 4", "2 and 4 only"],
+    "correctAnswer": 2,
+    "explanation": "Giardia cyst shedding is intermittent, so serial stool exams at 2-3 day intervals improve diagnostic yield, infection is classically acquired via ingestion of cyst-contaminated water, and the organism has a distinctive flagellate trophozoite form. Duodenal aspirate or biopsy (via upper endoscopy), not colonoscopy, provides the highest diagnostic yield since Giardia infects the proximal small intestine, making statement II false.",
+    "subject_keys": ["microbiology", "general_medicine"]
+  },
+  {
+    "id": 59,
+    "question": "Type-2 necrotizing fasciitis is caused by",
+    "options": [
+      "Group A Streptococcus",
+      "Vibrio vulnificus",
+      "Clostridium septicum",
+      "Staphylococcus aureus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Type 2 necrotizing fasciitis is a monomicrobial infection classically caused by Group A Streptococcus (Streptococcus pyogenes), often associated with toxic shock-like features, distinguishing it from Type 1 necrotizing fasciitis, which is polymicrobial. This classification is standard in surgical microbiology teaching.",
+    "subject_keys": ["microbiology", "general_surgery"]
+  },
+  {
+    "id": 60,
+    "question": "Which of the following treatments for a pregnant lady who has been exposed to a patient of chicken pox are correct? I. Varicella-zoster immune globulin II. Varicella-zoster vaccine III. Acyclovir IV. Prednisolone. Select the correct answer using the code given below.",
+    "options": ["1, 2 and 4", "2 and 3", "1 and 3 only", "1, 3 and 4"],
+    "correctAnswer": 2,
+    "explanation": "Post-exposure prophylaxis in a susceptible pregnant woman includes varicella-zoster immune globulin (VZIG) to provide passive immunity, and antiviral therapy with acyclovir may be used if infection develops or as prophylaxis in high-risk exposures. The varicella vaccine is a live attenuated vaccine and is contraindicated during pregnancy, and corticosteroids like prednisolone are not part of standard post-exposure management and could worsen outcomes.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "microbiology",
+      "pharmacology"
+    ]
+  },
+  {
     "id": 61,
     "question": "Which of the following drugs is/are useful in the treatment of Listeria monocytogenes infection? I. Ceftriaxone II. Gentamicin III. Ampicillin IV. Sulfamethoxazole. Select the correct answer using the code given below.",
     "options": ["1 only", "2, 3 and 4 only", "1 and 2 only", "1, 2, 3 and 4"],
