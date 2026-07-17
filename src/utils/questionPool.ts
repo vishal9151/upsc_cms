@@ -55,6 +55,18 @@ export function filterPoolBySubjects(
   )
 }
 
+export function filterPoolBySubTopics(
+  pool: PoolEntry[],
+  subTopics: PracticeFilters['subTopics'],
+): PoolEntry[] {
+  if (subTopics === undefined) return pool
+  if (subTopics.length === 0) return []
+  const topicSet = new Set(subTopics)
+  return pool.filter((q) =>
+    (q.sub_topics ?? []).some((topic) => topicSet.has(topic)),
+  )
+}
+
 export function deduplicatePool(pool: PoolEntry[]): PoolEntry[] {
   const seen = new Set<string>()
   const result: PoolEntry[] = []
@@ -94,6 +106,7 @@ export function countMatchingQuestions(filters: PracticeFilters): number {
   let pool = buildQuestionCatalog()
   pool = filterPoolByYears(pool, filters.years)
   pool = filterPoolBySubjects(pool, filters.subjects)
+  pool = filterPoolBySubTopics(pool, filters.subTopics)
   pool = deduplicatePool(pool)
   return pool.length
 }

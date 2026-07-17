@@ -12,6 +12,9 @@
     "explanation": "Vibration white finger is a form of secondary Raynaud's syndrome caused by prolonged exposure to hand-transmitted vibration.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Vascular Surgery"
     ]
   },
   {
@@ -27,6 +30,9 @@
     "explanation": "Effective screening requires a sensitive/specific test, acceptability to the population, and early disease recognisability; the disease being uncommon is not a screening criterion (in fact, higher prevalence improves screening yield).",
     "subject_keys": [
       "community_medicine"
+    ],
+    "sub_topics": [
+      "Screening"
     ]
   },
   {
@@ -40,7 +46,14 @@
     ],
     "correctAnswer": 1,
     "explanation": "Hypercalcemia with renal calculi and muscle weakness suggests primary hyperparathyroidism; a sestamibi scan localizes the parathyroid adenoma.",
-    "subject_keys": ["general_surgery", "radiology"]
+    "subject_keys": [
+      "general_surgery",
+      "radiology"
+    ],
+    "sub_topics": [
+      "Thyroid",
+      "Nuclear Medicine"
+    ]
   },
   {
     "id": 4,
@@ -55,6 +68,9 @@
     "explanation": "Post-haemorrhagic states, CSF infection, and raised CSF protein impair CSF absorption at the arachnoid granulations, causing communicating hydrocephalus; intraventricular lesions typically cause obstructive (non-communicating) hydrocephalus.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Neurosurgery"
     ]
   },
   {
@@ -68,7 +84,14 @@
     ],
     "correctAnswer": 1,
     "explanation": "Direct spread from fractures/sinus infection, the described clinical presentation, and the wide range of causative organisms are all correct; CT (not MRI) is typically the first-line initial imaging for suspected brain abscess.",
-    "subject_keys": ["general_surgery", "microbiology"]
+    "subject_keys": [
+      "general_surgery",
+      "microbiology"
+    ],
+    "sub_topics": [
+      "Neurosurgery",
+      "Bacteriology"
+    ]
   },
   {
     "id": 6,
@@ -81,7 +104,14 @@
     ],
     "correctAnswer": 0,
     "explanation": "Epithelial tumours (including mucinous neoplasms and adenocarcinoma) are the most common tumour type of the appendix.",
-    "subject_keys": ["general_surgery", "pathology"]
+    "subject_keys": [
+      "general_surgery",
+      "pathology"
+    ],
+    "sub_topics": [
+      "Gastrointestinal Surgery",
+      "Neoplasia"
+    ]
   },
   {
     "id": 7,
@@ -94,7 +124,14 @@
     ],
     "correctAnswer": 2,
     "explanation": "Pseudotubercles, formed by granulomatous reaction to Schistosoma ova, represent the earliest specific cystoscopic finding in bilharzial cystitis.",
-    "subject_keys": ["general_surgery", "microbiology"]
+    "subject_keys": [
+      "general_surgery",
+      "microbiology"
+    ],
+    "sub_topics": [
+      "Urology",
+      "Parasitology"
+    ]
   },
   {
     "id": 8,
@@ -109,6 +146,9 @@
     "explanation": "Craniosynostosis is the premature fusion of cranial sutures, which restricts skull growth perpendicular to the fused suture, leading to characteristic skull shape abnormalities.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Neurosurgery"
     ]
   },
   {
@@ -124,6 +164,9 @@
     "explanation": "Breast cancer is a common cause of osteolytic bone metastases in women, particularly in vertebrae and ribs.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Breast"
     ]
   },
   {
@@ -139,6 +182,10 @@
     "explanation": "Cauda equina syndrome presents with the described symptoms, requires urgent MRI, and confirmed cases need emergency surgical decompression; it is not specifically most common in the 45-60 age group.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Neurosurgery",
+      "Spine"
     ]
   },
   {
@@ -154,6 +201,9 @@
     "explanation": "The ischial tuberosity is the most common site for pressure sores, particularly in seated or bedridden patients.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Wound Healing"
     ]
   },
   {
@@ -169,6 +219,9 @@
     "explanation": "The proximal jejunum can be resected with minimal effect on fluid and electrolyte balance, as its absorptive functions are largely compensated by the distal small bowel.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Gastrointestinal Surgery"
     ]
   },
   {
@@ -184,6 +237,10 @@
     "explanation": "Lactate and base deficit are sensitive markers reflecting tissue hypoperfusion and are commonly used to assess systemic perfusion status.",
     "subject_keys": [
       "general_medicine"
+    ],
+    "sub_topics": [
+      "Critical Care",
+      "Acid-Base Disorders"
     ]
   },
   {
@@ -199,6 +256,9 @@
     "explanation": "Phrygian cap, floating gall bladder, and gall bladder agenesis are recognized congenital anomalies; 'Spigelian gall bladder' is not a standard recognized entity.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Hepatobiliary Surgery"
     ]
   },
   {
@@ -214,6 +274,9 @@
     "explanation": "The gall bladder stores, concentrates, and secretes mucus into bile, but does not produce bile — bile is produced by the liver.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Hepatobiliary Surgery"
     ]
   },
   {
@@ -227,7 +290,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "Abdominal discomfort and ascites are the classic presenting features of Budd-Chiari syndrome due to hepatic venous outflow obstruction.",
-    "subject_keys": ["general_surgery", "general_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "general_medicine"
+    ],
+    "sub_topics": [
+      "Hepatobiliary Surgery",
+      "Gastroenterology"
+    ]
   },
   {
     "id": 17,
@@ -242,6 +312,9 @@
     "explanation": "Splenic artery aneurysms are usually located in the main trunk of the splenic artery and are more common in women, typically not caused by blunt trauma, and usually solitary.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Vascular Surgery"
     ]
   },
   {
@@ -257,6 +330,10 @@
     "explanation": "Primary survey focuses on securing oxygenation/circulation, excluding hypoglycaemia as a reversible cause of altered consciousness, and assessing pupillary response; mechanism of injury is part of history-taking, not primary survey.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Trauma",
+      "Neurosurgery"
     ]
   },
   {
@@ -272,6 +349,9 @@
     "explanation": "In the ATLS ABCDE approach, A=Airway with C-spine protection, B=Breathing, D=Disability; C classically stands for Circulation with haemorrhage control, though massive external haemorrhage control is now often prioritized as a separate initial step in updated protocols.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Trauma"
     ]
   },
   {
@@ -287,6 +367,9 @@
     "explanation": "Inguinal hernias in children should be repaired promptly, are almost always indirect, and may be transilluminant if associated with a hydrocele; they are actually more common in preterm boys, not full-term.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "General Surgery"
     ]
   },
   {
@@ -302,6 +385,9 @@
     "explanation": "Glanular/subcoronal hypospadias (opening just proximal to the glans) is the most common type.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Urology"
     ]
   },
   {
@@ -317,6 +403,9 @@
     "explanation": "Minimal access surgery offers decreased heat loss, improved visualization, and improved postoperative mobility; it is associated with reduced (not increased) chances of incisional herniation compared to open surgery.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "General Surgery"
     ]
   },
   {
@@ -332,6 +421,9 @@
     "explanation": "The maximum safe dose of plain lignocaine (without adrenaline) is 3 mg/kg.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Local Anaesthesia"
     ]
   },
   {
@@ -347,6 +439,9 @@
     "explanation": "Swelling, burning sensation, and cramps are commonly reported symptoms of lymphoedema; intolerance to cold is not a typical feature.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Vascular Surgery"
     ]
   },
   {
@@ -360,7 +455,14 @@
     ],
     "correctAnswer": 0,
     "explanation": "Chronic lymphoedema is associated with increased risk of Kaposi sarcoma, squamous cell carcinoma, and malignant melanoma (as well as lymphangiosarcoma/Stewart-Treves syndrome); leukaemia is not a typical association.",
-    "subject_keys": ["general_surgery", "pathology"]
+    "subject_keys": [
+      "general_surgery",
+      "pathology"
+    ],
+    "sub_topics": [
+      "Vascular Surgery",
+      "Neoplasia"
+    ]
   },
   {
     "id": 26,
@@ -375,6 +477,9 @@
     "explanation": "The Limberg flap, Z-plasty, and Karydakis procedure are all off-midline closure techniques used to reduce recurrence in pilonidal sinus surgery.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "General Surgery"
     ]
   },
   {
@@ -388,7 +493,12 @@
     ],
     "correctAnswer": 1,
     "explanation": "A tumour of 3-4 cm falls into the T2 category (2-5 cm), and mobile ipsilateral level I axillary nodes correspond to N1, giving cT2N1Mx.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": [
+      "Breast"
+    ]
   },
   {
     "id": 28,
@@ -401,7 +511,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "High resolution manometry is the gold standard investigation for diagnosing oesophageal motility disorders.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": [
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 29,
@@ -414,7 +529,14 @@
     ],
     "correctAnswer": 0,
     "explanation": "Barrett's oesophagus, GERD, and obesity are established risk factors for oesophageal adenocarcinoma; alcohol is more strongly linked to squamous cell carcinoma of the oesophagus.",
-    "subject_keys": ["general_surgery", "pathology"]
+    "subject_keys": [
+      "general_surgery",
+      "pathology"
+    ],
+    "sub_topics": [
+      "Gastrointestinal Surgery",
+      "Neoplasia"
+    ]
   },
   {
     "id": 30,
@@ -427,7 +549,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "Plummer-Vinson syndrome presents with cervical oesophageal web, iron deficiency anaemia, and dysphagia in middle-aged women, with increased risk of postcricoid carcinoma; treatment is primarily medical (iron supplementation, dilation), not surgical.",
-    "subject_keys": ["general_surgery", "general_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "general_medicine"
+    ],
+    "sub_topics": [
+      "Gastrointestinal Surgery",
+      "Hematology"
+    ]
   },
   {
     "id": 31,
@@ -442,6 +571,9 @@
     "explanation": "Late dumping occurs 2-3 hours post-meal due to reactive hypoglycaemia, lasting 30-40 minutes with symptoms of tremor, faintness, and prostration; lying down is characteristic of early (not late) dumping relief.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Gastrointestinal Surgery"
     ]
   },
   {
@@ -455,7 +587,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "Medical therapy (acid suppression, balloon dilation) does have a role in managing gastric outlet obstruction from peptic ulcer disease, making this statement incorrect.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": [
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 33,
@@ -470,6 +607,9 @@
     "explanation": "Suxamethonium (succinylcholine) has the fastest onset of action among muscle relaxants and undergoes rapid spontaneous recovery due to plasma cholinesterase metabolism.",
     "subject_keys": [
       "anesthesiology"
+    ],
+    "sub_topics": [
+      "General Anaesthesia"
     ]
   },
   {
@@ -486,6 +626,10 @@
     "subject_keys": [
       "radiology",
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Ultrasound",
+      "General Surgery"
     ]
   },
   {
@@ -499,7 +643,12 @@
     ],
     "correctAnswer": 3,
     "explanation": "The Mallampati score is a standard bedside test used to predict difficulty of airway management/intubation.",
-    "subject_keys": ["anesthesiology"]
+    "subject_keys": [
+      "anesthesiology"
+    ],
+    "sub_topics": [
+      "Airway Management"
+    ]
   },
   {
     "id": 36,
@@ -512,7 +661,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "Diabetes, renal failure, and jaundice impair wound healing and are established risk factors for wound dehiscence; hypertension is not a classical direct risk factor.",
-    "subject_keys": ["general_surgery","general_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "general_medicine"
+    ],
+    "sub_topics": [
+      "Wound Healing"
+    ]
   },
   {
     "id": 37,
@@ -525,7 +680,13 @@
     ],
     "correctAnswer": 3,
     "explanation": "In a genuine life-threatening emergency with no time to obtain consent, doctrine of necessity permits proceeding with life-saving surgery without consent.",
-    "subject_keys": ["forensic_medicine","general_surgery"]
+    "subject_keys": [
+      "forensic_medicine",
+      "general_surgery"
+    ],
+    "sub_topics": [
+      "Medical Jurisprudence"
+    ]
   },
   {
     "id": 38,
@@ -538,7 +699,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "Valid informed consent requires disclosure of the condition, type of surgery, and potential unexpected hazards/risks; disclosure of the specific surgeon's personal experience level is not a standard legal requirement for consent.",
-    "subject_keys": ["forensic_medicine","general_surgery"]
+    "subject_keys": [
+      "forensic_medicine",
+      "general_surgery"
+    ],
+    "sub_topics": [
+      "Medical Jurisprudence"
+    ]
   },
   {
     "id": 39,
@@ -551,7 +718,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "Negative results are scientifically valuable and should be reported, contributing to the overall body of evidence rather than being discarded.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Biostatistics"
+    ]
   },
   {
     "id": 40,
@@ -566,6 +738,9 @@
     "explanation": "Barbed sutures eliminate knot-tying, vertical mattress sutures promote wound edge eversion, and the Aberdeen knot secures continuous sutures; silk is not preferred for subcuticular closure due to tissue reactivity.",
     "subject_keys": [
       "general_surgery"
+    ],
+    "sub_topics": [
+      "Wound Healing"
     ]
   },
   {
@@ -581,6 +756,9 @@
     "explanation": "Chadwick's sign refers to the bluish-purple discoloration of the vagina and cervix due to increased vascularity, visible around the 8th week of pregnancy.",
     "subject_keys": [
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Physiology of Pregnancy"
     ]
   },
   {
@@ -594,7 +772,15 @@
     ],
     "correctAnswer": 2,
     "explanation": "Folic acid supplementation, penicillin prophylaxis (due to functional asplenia), and thromboprophylaxis with LMWH are all recommended in pregnant women with sickle cell disease; azathioprine has no indicated role.",
-    "subject_keys": ["obstetrics_and_gynecology","general_medicine", "pharmacology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_medicine",
+      "pharmacology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Hematology"
+    ]
   },
   {
     "id": 43,
@@ -607,7 +793,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Multiple pregnancy, previous cesarean delivery, and Rhesus isoimmunization are recognized contraindications/cautions for ECV; ECV is typically performed at or after 36-37 weeks, so pregnancy less than 36 weeks is not itself listed as a contraindication in this context.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Labour"
+    ]
   },
   {
     "id": 44,
@@ -620,7 +812,14 @@
     ],
     "correctAnswer": 0,
     "explanation": "Beta-thalassemia trait is characterized by raised HbA2 with microcytosis (low MCV), distinguishing it from iron deficiency anemia.",
-    "subject_keys": ["obstetrics_and_gynecology","general_medicine"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_medicine"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Hematology"
+    ]
   },
   {
     "id": 45,
@@ -633,7 +832,15 @@
     ],
     "correctAnswer": 0,
     "explanation": "Hydroxychloroquine is considered safe and is recommended for maintenance therapy of SLE throughout pregnancy.",
-    "subject_keys": ["obstetrics_and_gynecology","general_medicine","pharmacology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_medicine",
+      "pharmacology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Rheumatology"
+    ]
   },
   {
     "id": 46,
@@ -646,7 +853,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "Severe hyperemesis gravidarum can lead to Wernicke's encephalopathy (thiamine deficiency), hepatic dysfunction, coagulopathy (hypoprothrombinemia from vitamin K deficiency), and seizures/convulsions in extreme cases.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Physiology of Pregnancy"
+    ]
   },
   {
     "id": 47,
@@ -662,6 +875,10 @@
     "subject_keys": [
       "pathology",
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Female Genital Tract",
+      "High-Risk Pregnancy"
     ]
   },
   {
@@ -677,6 +894,9 @@
     "explanation": "Anencephaly (due to macrosomia patterns) is a risk factor, and turtle-neck sign is a classic feature; episiotomy is not always mandatory (it does not relieve bony dystocia), and shoulder dystocia often cannot be reliably predicted.",
     "subject_keys": [
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Labour"
     ]
   },
   {
@@ -690,7 +910,14 @@
     ],
     "correctAnswer": 1,
     "explanation": "High-dose oxytocin has an antidiuretic effect (structural similarity to ADH) that can cause water retention and dilutional hyponatremia, leading to confusion and seizures.",
-    "subject_keys": ["obstetrics_and_gynecology","pharmacology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pharmacology"
+    ],
+    "sub_topics": [
+      "Labour",
+      "Clinical Pharmacology"
+    ]
   },
   {
     "id": 50,
@@ -703,7 +930,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "Anthropoid pelvis shape, anterior placental attachment, and primary brachycephaly favour occipito-posterior positioning of the fetal vertex; a low inclination pelvis does not.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Labour"
+    ]
   },
   {
     "id": 51,
@@ -718,6 +950,9 @@
     "explanation": "Malpresentation, contracted pelvis, unstable lie requiring stabilizing induction, and prematurity are all recognized risk factors for umbilical cord prolapse.",
     "subject_keys": [
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Labour"
     ]
   },
   {
@@ -731,7 +966,14 @@
     ],
     "correctAnswer": 0,
     "explanation": "Magnesium toxicity progresses through loss of deep tendon reflexes, then respiratory depression (not increased rate), cardiac conduction abnormalities, and eventually cardiac arrest.",
-    "subject_keys": ["obstetrics_and_gynecology","pharmacology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pharmacology"
+    ],
+    "sub_topics": [
+      "Hypertension in Pregnancy",
+      "Toxicology"
+    ]
   },
   {
     "id": 53,
@@ -744,7 +986,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Postpartum psychosis typically has an acute onset within the first 2 weeks (often within days) after delivery.",
-    "subject_keys": ["obstetrics_and_gynecology","psychiatry"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "psychiatry"
+    ],
+    "sub_topics": [
+      "Mood Disorders"
+    ]
   },
   {
     "id": 54,
@@ -757,7 +1005,12 @@
     ],
     "correctAnswer": 3,
     "explanation": "Correcting the latch, temporarily expressing milk if painful, and treating concurrent oral thrush with topical antifungal in both mother and baby are all correct management strategies for cracked nipple.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Postpartum Hemorrhage"
+    ]
   },
   {
     "id": 55,
@@ -770,7 +1023,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "Puerperal (postpartum) blues affects about 50% of women, has no specific identifiable metabolic/endocrine cause, and is managed with reassurance and support as it is typically self-limiting.",
-    "subject_keys": ["obstetrics_and_gynecology","psychiatry"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "psychiatry"
+    ],
+    "sub_topics": [
+      "Mood Disorders",
+      "Postpartum Hemorrhage"
+    ]
   },
   {
     "id": 56,
@@ -785,6 +1045,9 @@
     "explanation": "The Matthews Duncan mechanism describes marginal (as opposed to Schultze's central) separation of the placenta during the third stage of labour.",
     "subject_keys": [
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Labour"
     ]
   },
   {
@@ -798,7 +1061,12 @@
     ],
     "correctAnswer": 1,
     "explanation": "Vulval hematoma classically presents with severe perineal pain, tenesmus, bearing-down sensation, and urinary retention due to local pressure effects.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Postpartum Hemorrhage"
+    ]
   },
   {
     "id": 58,
@@ -813,6 +1081,9 @@
     "explanation": "WHO 2018 guidelines note that a precise upper time limit for the latent phase in primigravidae has not been clearly established, moving away from rigid time-based thresholds.",
     "subject_keys": [
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Labour"
     ]
   },
   {
@@ -826,7 +1097,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "WHO guidelines support individual choice of birthing position and encourage upright positions for women without epidural; for women with epidural, a variety of positions (not only lithotomy/supine) are recommended based on evidence and comfort.",
-    "subject_keys": ["obstetrics_and_gynecology","anesthesiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "anesthesiology"
+    ],
+    "sub_topics": [
+      "Labour"
+    ]
   },
   {
     "id": 60,
@@ -842,6 +1119,10 @@
     "subject_keys": [
       "obstetrics_and_gynecology",
       "radiology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Ultrasound"
     ]
   },
   {
@@ -858,6 +1139,10 @@
     "subject_keys": [
       "general_medicine",
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Diabetes in Pregnancy",
+      "Neonatology"
     ]
   },
   {
@@ -871,7 +1156,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "Abnormal uterine artery Doppler, fetal echogenic bowel, and maternal medical disorders are recognized predictive factors for FGR; low first-trimester beta-hCG is not a standard predictive marker for FGR.",
-    "subject_keys": ["obstetrics_and_gynecology","radiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "radiology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Ultrasound"
+    ]
   },
   {
     "id": 63,
@@ -884,7 +1176,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "Umbilical artery Doppler is the primary surveillance tool used to monitor placental function and fetal wellbeing in growth-restricted fetuses.",
-    "subject_keys": ["obstetrics_and_gynecology","radiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "radiology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Ultrasound"
+    ]
   },
   {
     "id": 64,
@@ -897,7 +1196,14 @@
     ],
     "correctAnswer": 0,
     "explanation": "The gland of Cloquet (deepest inguinal/femoral lymph node) is part of the lymphatic drainage pathway of the vulva.",
-    "subject_keys": ["obstetrics_and_gynecology","anatomy"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "anatomy"
+    ],
+    "sub_topics": [
+      "Pelvis & Perineum",
+      "Gynecologic Oncology"
+    ]
   },
   {
     "id": 65,
@@ -914,6 +1220,10 @@
       "pathology",
       "radiology",
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Menstrual Disorders",
+      "Ultrasound"
     ]
   },
   {
@@ -927,7 +1237,15 @@
     ],
     "correctAnswer": 0,
     "explanation": "Valacyclovir 1 g once daily is a standard regimen for daily suppressive therapy of genital herpes (HSV-1/HSV-2).",
-    "subject_keys": ["obstetrics_and_gynecology","pharmacology","microbiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pharmacology",
+      "microbiology"
+    ],
+    "sub_topics": [
+      "Antivirals",
+      "Sexually Transmitted Diseases"
+    ]
   },
   {
     "id": 67,
@@ -940,7 +1258,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "N. gonorrhoeae, Chlamydia trachomatis, and Mycoplasma hominis are recognized primary causative organisms of pelvic inflammatory disease; Candida is not typically implicated in PID.",
-    "subject_keys": ["microbiology","obstetrics_and_gynecology"]
+    "subject_keys": [
+      "microbiology",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Bacteriology"
+    ]
   },
   {
     "id": 68,
@@ -953,7 +1277,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "Dermoid cysts (mature cystic teratomas) are germ cell tumours, bilateral in about 15-20% of cases, and prone to torsion due to their mobility; rupture is comparatively uncommon.",
-    "subject_keys": ["obstetrics_and_gynecology","pathology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pathology"
+    ],
+    "sub_topics": [
+      "Female Genital Tract",
+      "Gynecologic Oncology"
+    ]
   },
   {
     "id": 69,
@@ -966,7 +1297,12 @@
     ],
     "correctAnswer": 3,
     "explanation": "Gartner's cyst (a remnant of the mesonephric duct found in the lateral vaginal wall) is not a differential diagnosis of chronic uterine inversion, unlike fibroid polyp, cervical malignancy, or cervical prolapse.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Urogynecology"
+    ]
   },
   {
     "id": 70,
@@ -979,7 +1315,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "This presentation suggests bacterial vaginosis; the whiff test using 10% potassium hydroxide (releasing an amine/fishy odour) is a bedside diagnostic criterion (part of Amsel's criteria).",
-    "subject_keys": ["obstetrics_and_gynecology","microbiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "microbiology"
+    ],
+    "sub_topics": [
+      "Bacteriology"
+    ]
   },
   {
     "id": 71,
@@ -995,6 +1337,10 @@
     "subject_keys": [
       "radiology",
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Infertility",
+      "X-Ray"
     ]
   },
   {
@@ -1008,7 +1354,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "Endometrial sampling is indicated for suspected endometrial tuberculosis, postmenopausal bleeding, and abnormal uterine bleeding; endometrial polyp is typically diagnosed by imaging/hysteroscopy rather than blind sampling alone.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Menstrual Disorders"
+    ]
   },
   {
     "id": 73,
@@ -1023,6 +1374,9 @@
     "explanation": "Despite prior tubal ligation, ectopic pregnancy remains possible (tubal ligation failure); adnexal tenderness with a closed os and acute pain/bleeding is classic for ectopic pregnancy.",
     "subject_keys": [
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "High-Risk Pregnancy"
     ]
   },
   {
@@ -1036,7 +1390,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "Clinical audit updates outdated practices, serves as an educational tool, and relies on scientific evidence; it is, however, generally labour-intensive, not the opposite.",
-    "subject_keys": ["obstetrics_and_gynecology","community_medicine"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Health Management"
+    ]
   },
   {
     "id": 75,
@@ -1049,7 +1409,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "HER-2/neu overexpression, papillary serous/clear cell histology, and aneuploidy are poor prognostic factors; hormone receptor (ER/PR) positivity is actually a favorable prognostic factor, not a poor one.",
-    "subject_keys": ["obstetrics_and_gynecology","pathology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pathology"
+    ],
+    "sub_topics": [
+      "Gynecologic Oncology",
+      "Female Genital Tract"
+    ]
   },
   {
     "id": 76,
@@ -1064,6 +1431,9 @@
     "explanation": "Surgical management is indicated for symptomatic fibroids failing medical treatment, large fibroids (>12 weeks size), and pedunculated fibroids at risk of torsion.",
     "subject_keys": [
       "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Menstrual Disorders"
     ]
   },
   {
@@ -1077,7 +1447,12 @@
     ],
     "correctAnswer": 0,
     "explanation": "Total vaginal length (TVL) is measured at rest without straining, unlike other POP-Q points which are measured during maximal Valsalva/straining.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Urogynecology"
+    ]
   },
   {
     "id": 78,
@@ -1090,7 +1465,12 @@
     ],
     "correctAnswer": 3,
     "explanation": "Le Fort's colpocleisis is suitable for elderly women with procidentia who are unfit for prolonged surgery and who no longer require coital function; associated uterine pathology would necessitate a different approach (as the uterus/cervix must be examinable).",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Urogynecology"
+    ]
   },
   {
     "id": 79,
@@ -1103,7 +1483,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "The Bartholin's duct opens into the vestibule outside the hymen, at the junction of the anterior two-thirds and posterior one-third, in the groove between the hymen and labium minus.",
-    "subject_keys": ["obstetrics_and_gynecology","anatomy"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "anatomy"
+    ],
+    "sub_topics": [
+      "Pelvis & Perineum"
+    ]
   },
   {
     "id": 80,
@@ -1116,7 +1502,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "Amsel's criteria for bacterial vaginosis include elevated vaginal pH, positive whiff test, and presence of clue cells; bacterial culture is not part of the clinical diagnostic criteria.",
-    "subject_keys": ["obstetrics_and_gynecology","microbiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "microbiology"
+    ],
+    "sub_topics": [
+      "Bacteriology"
+    ]
   },
   {
     "id": 81,
@@ -1131,6 +1523,9 @@
     "explanation": "PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate; per capita income is not a component of this index.",
     "subject_keys": [
       "community_medicine"
+    ],
+    "sub_topics": [
+      "Demography"
     ]
   },
   {
@@ -1146,6 +1541,9 @@
     "explanation": "Eradication refers to the permanent, worldwide reduction of infection to zero through deliberate efforts, an all-or-none phenomenon (e.g., smallpox).",
     "subject_keys": [
       "community_medicine"
+    ],
+    "sub_topics": [
+      "Epidemiology"
     ]
   },
   {
@@ -1159,7 +1557,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "This definition describes Management by Objectives (MBO), a management approach involving decentralized, unit-specific goal-setting.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Health Management"
+    ]
   },
   {
     "id": 84,
@@ -1172,7 +1575,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "Gram Sabha, Gram Panchayat, and Nyaya Panchayat operate at the village level; Panchayat Samiti functions at the block level.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Health Management"
+    ]
   },
   {
     "id": 85,
@@ -1187,6 +1595,9 @@
     "explanation": "The first step in epidemic investigation is verifying the diagnosis to confirm that reported cases indeed reflect the suspected condition, before proceeding to confirm the epidemic and search for cases.",
     "subject_keys": [
       "community_medicine"
+    ],
+    "sub_topics": [
+      "Epidemiology"
     ]
   },
   {
@@ -1200,7 +1611,12 @@
     ],
     "correctAnswer": 1,
     "explanation": "John Snow's classic cholera investigation (Broad Street pump) is considered a natural experiment, as exposure (water source) varied naturally among the population without researcher intervention.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Epidemiology"
+    ]
   },
   {
     "id": 87,
@@ -1213,7 +1629,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "Sensitivity = 45/50 = 90%, and Specificity = 32,000/40,000 = 80%; both calculated values match the given statements.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Biostatistics"
+    ]
   },
   {
     "id": 88,
@@ -1226,7 +1647,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "Missed mild/subclinical cases, undefined catchment populations, and varying admission policies all contribute to hospital data being unrepresentative; cost of care recording is not directly relevant to representativeness.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Epidemiology",
+      "Biostatistics"
+    ]
   },
   {
     "id": 89,
@@ -1239,7 +1666,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "As per the official answer key, conjunctival xerosis is designated as the first clinically visible sign in this sequence, though night blindness (nyctalopia) is often cited as the earliest functional symptom in some classifications.",
-    "subject_keys": ["ophthalmology","community_medicine"]
+    "subject_keys": [
+      "ophthalmology",
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Nutrition"
+    ]
   },
   {
     "id": 90,
@@ -1252,7 +1685,15 @@
     ],
     "correctAnswer": 1,
     "explanation": "Pigeon chest (pectus carinatum) is a skeletal deformity associated with rickets, caused by Vitamin D deficiency.",
-    "subject_keys": ["community_medicine","orthopedics","biochemistry"]
+    "subject_keys": [
+      "community_medicine",
+      "orthopedics",
+      "biochemistry"
+    ],
+    "sub_topics": [
+      "Vitamins",
+      "Metabolic Bone Disease"
+    ]
   },
   {
     "id": 91,
@@ -1265,7 +1706,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Methionine is typically the limiting amino acid in most pulses (legumes), while lysine is limiting in cereals.",
-    "subject_keys": ["biochemistry"]
+    "subject_keys": [
+      "biochemistry"
+    ],
+    "sub_topics": [
+      "Protein Metabolism",
+      "Nutrition"
+    ]
   },
   {
     "id": 92,
@@ -1278,7 +1725,12 @@
     ],
     "correctAnswer": 0,
     "explanation": "Rationalization, regression, and projection are classic psychological defence mechanisms; 'replacement' is not a standard recognized defence mechanism (displacement and substitution are the correct related terms).",
-    "subject_keys": ["psychiatry"]
+    "subject_keys": [
+      "psychiatry"
+    ],
+    "sub_topics": [
+      "Anxiety Disorders"
+    ]
   },
   {
     "id": 93,
@@ -1291,7 +1743,13 @@
     ],
     "correctAnswer": 0,
     "explanation": "Coliforms are chosen as fecal indicators because they are abundant in feces and easily detected by simple culture methods; they actually survive longer (not lesser) than many pathogens and have higher (not lower) resistance to purification, making them reliable sentinel organisms.",
-    "subject_keys": ["community_medicine","microbiology"]
+    "subject_keys": [
+      "community_medicine",
+      "microbiology"
+    ],
+    "sub_topics": [
+      "Environment"
+    ]
   },
   {
     "id": 94,
@@ -1307,6 +1765,10 @@
     "subject_keys": [
       "biochemistry",
       "community_medicine"
+    ],
+    "sub_topics": [
+      "National Health Programmes",
+      "Nutrition"
     ]
   },
   {
@@ -1320,7 +1782,12 @@
     ],
     "correctAnswer": 1,
     "explanation": "As per the National Framework, establishing fully functional case-based malaria surveillance across all states/UTs is a milestone targeted for 2027.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "National Health Programmes"
+    ]
   },
   {
     "id": 96,
@@ -1333,7 +1800,14 @@
     ],
     "correctAnswer": 2,
     "explanation": "PMSMA designates the 9th day of every month for providing free, comprehensive antenatal care to pregnant women.",
-    "subject_keys": ["community_medicine","obstetrics_and_gynecology"]
+    "subject_keys": [
+      "community_medicine",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Maternal & Child Health",
+      "Antenatal Care"
+    ]
   },
   {
     "id": 97,
@@ -1346,7 +1820,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "Small for gestational age is defined as birth weight below the 10th percentile for gestational age.",
-    "subject_keys": ["obstetrics_and_gynecology","pediatrics"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pediatrics"
+    ],
+    "sub_topics": [
+      "Neonatology"
+    ]
   },
   {
     "id": 98,
@@ -1359,7 +1839,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "The standard stillbirth rate calculation typically uses fetal deaths weighing 1000 grams or more (or ≥28 weeks gestation) as the numerator threshold.",
-    "subject_keys": ["community_medicine","obstetrics_and_gynecology"]
+    "subject_keys": [
+      "community_medicine",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": [
+      "Demography"
+    ]
   },
   {
     "id": 99,
@@ -1372,7 +1858,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "In standard triage colour-coding, Red represents the highest priority, indicating immediate life-threatening conditions requiring urgent intervention.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Health Management"
+    ]
   },
   {
     "id": 100,
@@ -1385,7 +1876,12 @@
     ],
     "correctAnswer": 3,
     "explanation": "ILRs are top-opening units, and vaccines should not be placed directly on the floor of the unit due to risk of damage from cold air concentration or ice packs; the upper part is actually warmer, not cooler, than the lower part.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Vaccination"
+    ]
   },
   {
     "id": 101,
@@ -1398,7 +1894,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Carbohydrates form the major energy contributor in a typical Indian diet, which is predominantly cereal-based.",
-    "subject_keys": ["community_medicine","biochemistry"]
+    "subject_keys": [
+      "community_medicine",
+      "biochemistry"
+    ],
+    "sub_topics": [
+      "Nutrition"
+    ]
   },
   {
     "id": 102,
@@ -1411,7 +1913,12 @@
     ],
     "correctAnswer": 3,
     "explanation": "All four statements are accurate: essential amino acids must come from diet, non-essential amino acids are still needed for protein synthesis, incomplete proteins lack adequate essential amino acids, and animal proteins are generally rated as higher biological value than most plant proteins.",
-    "subject_keys": ["biochemistry"]
+    "subject_keys": [
+      "biochemistry"
+    ],
+    "sub_topics": [
+      "Protein Metabolism"
+    ]
   },
   {
     "id": 103,
@@ -1424,7 +1931,14 @@
     ],
     "correctAnswer": 1,
     "explanation": "GOBI stands for Growth monitoring, Oral rehydration, Breastfeeding, and Immunization. Statement III incorrectly describes 'B' as evaluation rather than breastfeeding, making it wrong; I, II, and IV correctly describe the other components.",
-    "subject_keys": ["community_medicine","pediatrics"]
+    "subject_keys": [
+      "community_medicine",
+      "pediatrics"
+    ],
+    "sub_topics": [
+      "Maternal & Child Health",
+      "Nutrition"
+    ]
   },
   {
     "id": 104,
@@ -1437,7 +1951,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "85 dB is the recommended exposure limit (REL) for daily noise exposure over 8 hours beyond which substantial hearing damage risk increases.",
-    "subject_keys": ["community_medicine","ent"]
+    "subject_keys": [
+      "community_medicine",
+      "ent"
+    ],
+    "sub_topics": [
+      "Occupational Health"
+    ]
   },
   {
     "id": 105,
@@ -1450,7 +1970,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "400 lux is the recommended illumination level for general office work as per Illuminating Engineering Society standards.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Occupational Health"
+    ]
   },
   {
     "id": 106,
@@ -1463,7 +1988,12 @@
     ],
     "correctAnswer": 2,
     "explanation": "Dietary fibres are not digested or absorbed by the body and therefore have no direct metabolic (anabolic or catabolic) effect, though they influence gut function and nutrient absorption indirectly.",
-    "subject_keys": ["biochemistry"]
+    "subject_keys": [
+      "biochemistry"
+    ],
+    "sub_topics": [
+      "Nutrition"
+    ]
   },
   {
     "id": 107,
@@ -1476,7 +2006,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Egg protein is considered the reference/ideal protein due to high biological value, excellent digestibility, and a complete essential amino acid profile. Calorie content (IV) is unrelated to protein quality.",
-    "subject_keys": ["biochemistry"]
+    "subject_keys": [
+      "biochemistry"
+    ],
+    "sub_topics": [
+      "Protein Metabolism",
+      "Nutrition"
+    ]
   },
   {
     "id": 108,
@@ -1489,7 +2025,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Silicosis produces upper-lobe nodular opacities on chest X-ray that closely resemble pulmonary tuberculosis, and silicosis also predisposes patients to true TB co-infection (silicotuberculosis), making radiographic differentiation difficult.",
-    "subject_keys": ["community_medicine","general_medicine"]
+    "subject_keys": [
+      "community_medicine",
+      "general_medicine"
+    ],
+    "sub_topics": [
+      "Occupational Health"
+    ]
   },
   {
     "id": 109,
@@ -1502,7 +2044,14 @@
     ],
     "correctAnswer": 2,
     "explanation": "Crocidolite (blue asbestos) has the strongest documented association with malignant mesothelioma among all asbestos fiber types.",
-    "subject_keys": ["community_medicine","pathology"]
+    "subject_keys": [
+      "community_medicine",
+      "pathology"
+    ],
+    "sub_topics": [
+      "Occupational Health",
+      "Respiratory Pathology"
+    ]
   },
   {
     "id": 110,
@@ -1515,7 +2064,12 @@
     ],
     "correctAnswer": 0,
     "explanation": "Under the Biomedical Waste Management Rules 2016, human anatomical waste falls under Category corresponding to Yellow bags, meant for incineration/deep burial.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Environment"
+    ]
   },
   {
     "id": 111,
@@ -1528,7 +2082,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "Corrected Effective Temperature improves on Effective Temperature by additionally accounting for mean radiant heat (measured via a globe thermometer), along with the air velocity and humidity already included in ET.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Environment",
+      "Occupational Health"
+    ]
   },
   {
     "id": 112,
@@ -1544,6 +2104,9 @@
     "subject_keys": [
       "community_medicine",
       "pediatrics"
+    ],
+    "sub_topics": [
+      "Vaccination"
     ]
   },
   {
@@ -1559,6 +2122,9 @@
     "explanation": "As per International Health Regulations, an unvaccinated traveller from a yellow fever endemic zone entering a receptive area must be quarantined for 6 days from the date of departure from the infected area, covering the remainder of the maximum incubation period.",
     "subject_keys": [
       "community_medicine"
+    ],
+    "sub_topics": [
+      "International Health"
     ]
   },
   {
@@ -1572,7 +2138,13 @@
     ],
     "correctAnswer": 2,
     "explanation": "Under the ESI Act 1948, Sickness Benefit as periodical cash payment is payable for a maximum of 91 days in any continuous period of 365 days.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "Health Management",
+      "Occupational Health"
+    ]
   },
   {
     "id": 115,
@@ -1585,7 +2157,14 @@
     ],
     "correctAnswer": 1,
     "explanation": "Wernicke's encephalopathy is caused by thiamine (vitamin B1) deficiency, not niacin, making statement I false. It is classically seen in alcoholics, presents with ophthalmoplegia, ataxia and confusion/polyneuritis, and can also occur with prolonged fasting or malnutrition — making II, III, and IV correct.",
-    "subject_keys": ["biochemistry","general_medicine"]
+    "subject_keys": [
+      "biochemistry",
+      "general_medicine"
+    ],
+    "sub_topics": [
+      "Vitamins",
+      "Neurology"
+    ]
   },
   {
     "id": 116,
@@ -1598,7 +2177,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Houseflies most commonly transmit pathogens mechanically — via contaminated body parts (legs, mouthparts) — rather than through biological multiplication or development of the organism within the vector.",
-    "subject_keys": ["community_medicine","microbiology"]
+    "subject_keys": [
+      "community_medicine",
+      "microbiology"
+    ],
+    "sub_topics": [
+      "Environment"
+    ]
   },
   {
     "id": 117,
@@ -1611,7 +2196,14 @@
     ],
     "correctAnswer": 3,
     "explanation": "Weight-for-height reflects current nutritional status (wasting) independent of age, whereas birth weight is historical, MUAC is primarily used for under-5 children, and head circumference is not a nutritional status indicator at this age.",
-    "subject_keys": ["community_medicine","pediatrics"]
+    "subject_keys": [
+      "community_medicine",
+      "pediatrics"
+    ],
+    "sub_topics": [
+      "Nutrition",
+      "Growth & Development"
+    ]
   },
   {
     "id": 118,
@@ -1627,6 +2219,10 @@
     "subject_keys": [
       "community_medicine",
       "pediatrics"
+    ],
+    "sub_topics": [
+      "Maternal & Child Health",
+      "Neonatology"
     ]
   },
   {
@@ -1640,7 +2236,13 @@
     ],
     "correctAnswer": 1,
     "explanation": "Colour blindness and Duchenne muscular dystrophy are classic X-linked recessive conditions, and retinitis pigmentosa also has a well-recognized X-linked recessive form. Cystic fibrosis, in contrast, is an autosomal recessive disorder, not sex-linked.",
-    "subject_keys": ["pediatrics","biochemistry"]
+    "subject_keys": [
+      "pediatrics",
+      "biochemistry"
+    ],
+    "sub_topics": [
+      "Molecular Biology"
+    ]
   },
   {
     "id": 120,
@@ -1653,6 +2255,11 @@
     ],
     "correctAnswer": 3,
     "explanation": "NACO provides STI/RTI (Sexually Transmitted Infections/Reproductive Tract Infections) services under the brand name 'Suraksha Clinic' as part of its designated STI clinic network.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": [
+      "National Health Programmes"
+    ]
   }
 ]

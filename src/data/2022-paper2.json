@@ -9,7 +9,8 @@
       "Arthritis"
     ],
     "correctAnswer": 2,
-    "explanation": "Tuberculosis is a communicable disease caused by Mycobacterium tuberculosis."
+    "explanation": "Tuberculosis is a communicable disease caused by Mycobacterium tuberculosis.",
+    "sub_topics": []
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "Pituitary"
     ],
     "correctAnswer": 2,
-    "explanation": "The liver is the largest gland and internal organ in the human body."
+    "explanation": "The liver is the largest gland and internal organ in the human body.",
+    "sub_topics": []
   },
   {
     "id": 3,
@@ -33,6 +35,7 @@
       "O"
     ],
     "correctAnswer": 3,
-    "explanation": "Blood group O negative is considered the universal donor."
+    "explanation": "Blood group O negative is considered the universal donor.",
+    "sub_topics": []
   }
 ]

@@ -22,6 +22,11 @@ export function PracticeSummaryBar({
             ? filters.subjects.map((s) => getSubjectLabel(s)).join(', ')
             : 'None'}
         </li>
+        {filters.subTopics && (
+          <li>
+            Subtopics: {filters.subTopics.length} selected
+          </li>
+        )}
         <li>Years: {filters.years.join(', ') || 'None'}</li>
         <li>Available: {matchingCount} questions</li>
         <li>Test size: {Math.min(filters.questionCount, matchingCount)}</li>

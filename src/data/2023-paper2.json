@@ -2,10 +2,19 @@
   {
     "id": 1,
     "question": "The ratio for Type-I to Type-III collagen during maturation of collagen in remodelling phase is:",
-    "options": ["1 : 1", "2 : 1", "3 : 1", "4 : 1"],
+    "options": [
+      "1 : 1",
+      "2 : 1",
+      "3 : 1",
+      "4 : 1"
+    ],
     "correctAnswer": 3,
     "explanation": "Normal, mature dermal collagen has a Type I to Type III ratio of approximately 4:1, and as a wound progresses through the remodelling phase, this ratio shifts back toward the normal 4:1 from the lower ratio seen in early granulation tissue. This reflects the gradual replacement of thinner Type III collagen with stronger Type I collagen.",
-    "subject_keys": ["pathology", "general_surgery"]
+    "subject_keys": [
+      "pathology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 2,
@@ -18,15 +27,28 @@
     ],
     "correctAnswer": 1,
     "explanation": "Gas gangrene is most commonly caused by Clostridium perfringens, which is correctly characterized as a gram-positive, anaerobic, spore-forming bacillus. C. tetani causes tetanus, a distinct clinical entity, not gas gangrene.",
-    "subject_keys": ["microbiology", "general_surgery"]
+    "subject_keys": [
+      "microbiology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 3,
     "question": "The term \"Gompertzian curve\" is related to which one of the following?",
-    "options": ["Tumour", "Gallstone", "Intestinal obstruction", "Hernia"],
+    "options": [
+      "Tumour",
+      "Gallstone",
+      "Intestinal obstruction",
+      "Hernia"
+    ],
     "correctAnswer": 0,
     "explanation": "The Gompertzian growth curve describes the pattern of tumor growth, where growth rate is rapid initially but progressively slows as tumor size increases, following an exponential-then-plateauing sigmoidal pattern. This model is widely used to describe cancer cell population dynamics and response to chemotherapy timing.",
-    "subject_keys": ["pathology", "general_surgery"]
+    "subject_keys": [
+      "pathology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 4,
@@ -39,7 +61,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "This clinical picture, a scrotal swelling that varies with activity/time of day without a cough impulse, is typical of a communicating hydrocele in a child, caused by a patent processus vaginalis. In children, this is treated with herniotomy (high ligation of the processus vaginalis) rather than the eversion of sac procedure used in adults.",
-    "subject_keys": ["pediatrics", "general_surgery"]
+    "subject_keys": [
+      "pediatrics",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 5,
@@ -52,7 +78,10 @@
     ],
     "correctAnswer": 0,
     "explanation": "This presentation describes a varicocele, and percutaneous embolization of the gonadal (testicular) vein is a minimally invasive, effective first-line option that avoids open surgery. Note: surgical varicocelectomy is also widely considered a first-line treatment in many guidelines, so there is some ambiguity in labeling embolization as the singular first-line option; both are accepted management strategies.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 6,
@@ -65,23 +94,45 @@
     ],
     "correctAnswer": 3,
     "explanation": "A postoperative, unilateral, painful calf swelling in an immobilized, malnourished patient following major abdominal surgery is highly suggestive of deep vein thrombosis. Unilateral limb swelling is not typical of hypoproteinemia, renal failure, or cardiac causes, which usually cause bilateral edema.",
-    "subject_keys": ["general_surgery", "general_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "general_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 7,
     "question": "Consider the following in respect of Salmon patch: I. It is a hemangioma. II. Its usual site is nape of neck. III. It is common in children. IV. It needs surgical excision. Which of the statements given above are correct?",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
     "explanation": "Salmon patch (nevus simplex) is a common capillary vascular birthmark in infants, typically located on the nape of the neck, eyelids, or glabella. It usually fades spontaneously within the first few years of life and does not require surgical excision, making statement IV false.",
-    "subject_keys": ["dermatology", "pediatrics"]
+    "subject_keys": [
+      "dermatology",
+      "pediatrics"
+    ],
+    "sub_topics": []
   },
   {
     "id": 8,
     "question": "Which of the following are components of \"Klippel-Trenaunay syndrome\"? I. Cutaneous Naevus II. Subcutaneous Lipomas III. Varicose veins IV. Soft tissue hypertrophy. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "The classic triad of Klippel-Trenaunay syndrome consists of a capillary malformation (cutaneous naevus/port-wine stain), venous malformation with varicose veins, and soft tissue/bony hypertrophy of the affected limb. Subcutaneous lipomas are not a recognized component of this syndrome's classic triad.",
-    "subject_keys": ["dermatology", "general_surgery"]
+    "subject_keys": [
+      "dermatology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 9,
@@ -94,15 +145,28 @@
     ],
     "correctAnswer": 2,
     "explanation": "On transverse ultrasound at the groin, the common femoral vein, common femoral artery, and great saphenous vein form a configuration resembling Mickey Mouse's head and ears, which is used as a landmark for femoral vascular access and assessment. This sign aids in rapid identification of these vessels during duplex scanning.",
-    "subject_keys": ["radiology", "anatomy"]
+    "subject_keys": [
+      "radiology",
+      "anatomy"
+    ],
+    "sub_topics": []
   },
   {
     "id": 10,
     "question": "Which of the following statements regarding Thyroglossal duct are correct? I. It is situated in midline of neck. II. It moves upwards on swallowing but not on tongue protrusion. III. It is treated with Sistrunk operation. IV. It may be the only functioning thyroid tissue in the body. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "A thyroglossal duct cyst is midline, is treated definitively with the Sistrunk operation (excision of the cyst tract along with the central portion of the hyoid bone), and may represent the only functioning thyroid tissue in a patient with thyroid dysgenesis. Its classic clinical distinguishing feature is that it moves upward on BOTH swallowing AND tongue protrusion (due to its embryological attachment to the foramen cecum), making statement II false.",
-    "subject_keys": ["anatomy", "general_surgery"]
+    "subject_keys": [
+      "anatomy",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 11,
@@ -115,7 +179,11 @@
     ],
     "correctAnswer": 0,
     "explanation": "Speckled leucoplakia is a mixed red-and-white oral lesion, matching the description of white mucosa with a red velvety plaque, and carries a significantly higher risk of malignant transformation than homogeneous leukoplakia. The concurrent diminished mouth opening also suggests underlying oral submucous fibrosis from tobacco/areca nut use, a known risk factor for such premalignant lesions.",
-    "subject_keys": ["ent", "general_surgery"]
+    "subject_keys": [
+      "ent",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 12,
@@ -128,7 +196,11 @@
     ],
     "correctAnswer": 0,
     "explanation": "A collar-stud abscess is a classic feature of tuberculous lymphadenitis, where a cold abscess in the lymph node breaches the deep fascia to form a smaller, connected superficial abscess, giving the characteristic dumbbell/collar-stud shape. This is due to the indolent, non-suppurative inflammatory nature of tuberculous infection.",
-    "subject_keys": ["microbiology", "general_surgery"]
+    "subject_keys": [
+      "microbiology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 13,
@@ -141,15 +213,27 @@
     ],
     "correctAnswer": 2,
     "explanation": "The transverse rectus abdominis myocutaneous (TRAM) flap uses the patient's own abdominal tissue, providing a natural look, feel, and long-term durability that generally surpasses implant-based reconstruction in cosmetic outcome. Autologous tissue reconstructions like TRAM flaps also age more naturally with the patient's body compared to implants.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 14,
     "question": "Which of the following are correct regarding Trichobezoar? I. It is a hair ball in the stomach. II. It is common in psychiatric patients. III. Common complications are bleeding, perforation or obstruction. IV. Treated with long course of proton pump inhibitors. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
     "explanation": "A trichobezoar is a mass of ingested hair accumulating in the stomach, seen particularly in patients with trichotillomania/trichophagia (often associated with psychiatric conditions), and can cause bleeding, perforation, or obstruction. Definitive treatment requires endoscopic or surgical removal rather than long-term PPI therapy, making statement IV false.",
-    "subject_keys": ["general_surgery", "psychiatry"]
+    "subject_keys": [
+      "general_surgery",
+      "psychiatry"
+    ],
+    "sub_topics": []
   },
   {
     "id": 15,
@@ -162,47 +246,94 @@
     ],
     "correctAnswer": 2,
     "explanation": "The inferior rectal artery arises as a branch of the internal pudendal artery within the pudendal (Alcock's) canal, supplying the anal canal below the dentate line and the external anal sphincter. This differs from the superior rectal artery, which arises from the inferior mesenteric artery.",
-    "subject_keys": ["anatomy"]
+    "subject_keys": [
+      "anatomy"
+    ],
+    "sub_topics": []
   },
   {
     "id": 16,
     "question": "Zollinger Ellison syndrome is characterized by which of the following? I. Fulminating gastric ulcers II. Recurrent ulceration despite treatment III. Non-beta islet cell tumour of pancreas IV. Recurrent episodes of dysentery. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
     "explanation": "Zollinger-Ellison syndrome results from a gastrin-secreting non-beta islet cell tumor (gastrinoma) causing severe, treatment-refractory peptic ulceration. Diarrhea is a recognized feature due to excess gastric acid, but this is not classically described as \"recurrent episodes of dysentery,\" which implies bloody/mucoid stool from an infective or inflammatory colonic process.",
-    "subject_keys": ["general_medicine", "pathology"]
+    "subject_keys": [
+      "general_medicine",
+      "pathology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 17,
     "question": "Which of the following statements with regard to Meckel's Diverticulum are correct? I. It represents a persistent remnant of the Vitello intestinal duct. II. It is a pseudo diverticulum of gastrointestinal tract. III. It is most commonly found on antimesenteric border of ileum. IV. Heterotopic mucosa is present in 20% patients. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "2, 3 and 4", "1, 3 and 4", "1, 2 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "Meckel's diverticulum is a true diverticulum (containing all layers of the bowel wall), arising from persistence of the vitellointestinal duct, and is classically located on the antimesenteric border of the ileum. Since it is a true, not pseudo, diverticulum, statement II is false.",
-    "subject_keys": ["anatomy", "general_surgery"]
+    "subject_keys": [
+      "anatomy",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 18,
     "question": "Which of the following statements with regard to Colorectal Carcinoma are correct? I. Left-sided Colorectal Carcinoma presents with bleeding per rectum. II. Right-sided Colorectal Carcinoma presents with iron deficiency anaemia. III. Right-sided Colorectal Carcinoma is more common as compared to the left-sided Colorectal Carcinoma. IV. Colonoscopy is the investigation of choice for suspected Colorectal Carcinoma. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "2, 3 and 4", "1, 3 and 4", "1, 2 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
     "correctAnswer": 3,
     "explanation": "Left-sided colorectal cancers classically present with rectal bleeding, right-sided lesions present with occult blood loss causing iron deficiency anemia, and colonoscopy remains the gold-standard investigation for suspected colorectal cancer. Left-sided (including rectosigmoid) tumors have traditionally been more common than right-sided tumors, making statement III false.",
-    "subject_keys": ["general_surgery", "general_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "general_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 19,
     "question": "While managing oesophageal perforations, which of the following factors favour non-operative management? I. Perforation by a flexible endoscope II. Perforation into mediastinum III. Perforation with a small septic load IV. Perforation of the abdominal oesophagus. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
     "explanation": "Non-operative management of esophageal perforation is favored when the perforation is iatrogenic (flexible endoscope), well-contained within the mediastinum without free spillage, and associated with a small septic load. Abdominal esophageal perforations typically communicate with the peritoneal cavity leading to significant contamination, which favors surgical rather than conservative management.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 20,
     "question": "Which of the following statements are correct with regard to Familial Adenomatous Polyposis? I. It is associated with mutation of APC gene located on the short arm of chromosome 5. II. It is inherited as an autosomal recessive condition. III. It is associated with 100% lifetime risk for development of Colorectal carcinoma. IV. Congenital hypertrophy of retinal pigment epithelium is present in half of the cases of familial adenomatous polyposis. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "FAP results from a mutation in the APC gene, carries a nearly 100% lifetime risk of colorectal cancer if untreated, and CHRPE is seen in roughly half of affected patients. Note: FAP is inherited in an autosomal dominant (not recessive) pattern, correctly excluding statement II; however, the APC gene is actually located on the long arm (5q21), not the short arm as stated in statement I, which appears to be an error in the question itself.",
-    "subject_keys": ["general_surgery", "pathology"]
+    "subject_keys": [
+      "general_surgery",
+      "pathology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 21,
@@ -215,7 +346,11 @@
     ],
     "correctAnswer": 3,
     "explanation": "Perianal disease, including fistulas, abscesses, and fissures, is a hallmark feature of Crohn's disease due to its transmural inflammatory nature. Crohn's disease characteristically spares the rectum in many cases (rectal sparing), and both fistula and stricture formation are more typical of Crohn's disease than ulcerative colitis, which is a mucosal disease.",
-    "subject_keys": ["general_medicine", "general_surgery"]
+    "subject_keys": [
+      "general_medicine",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 22,
@@ -228,7 +363,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "The Sengstaken-Blakemore tube is a balloon tamponade device used to control acute esophageal and gastric variceal bleeding when endoscopic or pharmacological measures fail or are unavailable. It works by applying direct pressure on the bleeding varices via inflated gastric and esophageal balloons.",
-    "subject_keys": ["general_surgery", "general_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "general_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 23,
@@ -241,7 +380,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "Hepatic hemangioma is the most common benign liver tumor, typically an incidental finding on imaging, composed of a mass of blood vessels lined by endothelium. It is usually asymptomatic and managed conservatively unless it becomes large or symptomatic.",
-    "subject_keys": ["pathology", "general_surgery"]
+    "subject_keys": [
+      "pathology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 24,
@@ -254,7 +397,10 @@
     ],
     "correctAnswer": 1,
     "explanation": "Palpating the left subcostal area with the patient in the right lateral decubitus position (Schuster's position) brings the spleen forward and downward under the examining hand due to gravity, making it the most sensitive technique to detect minimal splenic enlargement. This position is particularly useful when standard supine palpation fails to detect an early enlarged spleen.",
-    "subject_keys": ["general_medicine"]
+    "subject_keys": [
+      "general_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 25,
@@ -267,15 +413,27 @@
     ],
     "correctAnswer": 2,
     "explanation": "Subphrenic abscess classically presents with delayed-onset fever, toxemia, and referred right shoulder tip pain along with hiccoughs due to irritation of the diaphragm and phrenic nerve. This presentation, occurring after initial recovery from perforation peritonitis surgery, is a classic scenario for subphrenic abscess formation.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 26,
     "question": "In seat belt syndrome the most common site of bleeding is from:",
-    "options": ["Bowel", "Mesentery", "Liver", "Spleen"],
+    "options": [
+      "Bowel",
+      "Mesentery",
+      "Liver",
+      "Spleen"
+    ],
     "correctAnswer": 1,
     "explanation": "Seat belt syndrome, caused by rapid deceleration compressing the abdomen against a restraint, classically causes mesenteric tears with associated bleeding, along with bowel perforation and lumbar spine (Chance) fractures. Mesenteric vessel injury is the most common source of significant intra-abdominal bleeding in this mechanism.",
-    "subject_keys": ["general_surgery", "forensic_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "forensic_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 27,
@@ -288,7 +446,10 @@
     ],
     "correctAnswer": 2,
     "explanation": "Peritoneal malignancy causes exudative ascites due to increased capillary permeability and protein leakage from tumor-involved peritoneal surfaces, typically reflected by a high serum-ascites albumin gradient (SAAG) less than 1.1 g/dL with elevated ascitic protein. Congestive cardiac failure, portal vein thrombosis, and nephrotic syndrome all cause transudative ascites via portal hypertension or hypoalbuminemia mechanisms.",
-    "subject_keys": ["general_medicine"]
+    "subject_keys": [
+      "general_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 28,
@@ -301,7 +462,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "Extended FAST (eFAST) builds upon the standard FAST exam by adding assessment of the thoracic cavity (for hemothorax and pneumothorax) to the traditional evaluation of the abdominal cavity and pericardial space. This makes it a comprehensive point-of-care ultrasound tool for the initial trauma assessment.",
-    "subject_keys": ["general_surgery", "radiology"]
+    "subject_keys": [
+      "general_surgery",
+      "radiology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 29,
@@ -314,31 +479,61 @@
     ],
     "correctAnswer": 1,
     "explanation": "Pneumaturia (passage of gas/bubbles in urine causing frothy urine) along with recurrent UTIs is a classic sign of a colovesical fistula, most commonly resulting from diverticulitis or colorectal malignancy allowing communication between bowel and bladder. This allows intestinal gas and flora to enter the urinary tract.",
-    "subject_keys": ["general_surgery", "general_medicine"]
+    "subject_keys": [
+      "general_surgery",
+      "general_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 30,
     "question": "Which of the following are seen in Normal pressure hydrocephalus? I. Hearing loss II. Gait disturbance III. Incontinence IV. Cognitive decline. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "3 and 4 only"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "3 and 4 only"
+    ],
     "correctAnswer": 1,
     "explanation": "The classic triad of normal pressure hydrocephalus is gait disturbance, urinary incontinence, and cognitive decline (\"wet, wobbly, and wacky\"), with hearing loss not being a recognized feature. Note: the official key selects option (d), excluding gait disturbance, but gait disturbance is actually the earliest and most consistent feature of the classic triad, so the combination of 2, 3 and 4 (not offered as an option) would be medically most accurate; among the given choices, this represents an apparent inconsistency in the question's answer options.",
-    "subject_keys": ["general_medicine"]
+    "subject_keys": [
+      "general_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 31,
     "question": "Which of the following are the functions of larynx? I. Fixation of the chest II. Aids in swallowing of food III. Phonation IV. Respiration. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "The larynx functions in fixation of the thoracic cage (needed for Valsalva maneuvers like lifting/straining), phonation via the vocal cords, and regulation of airflow during respiration. Its primary role during swallowing is airway protection (via epiglottic closure) rather than directly aiding the swallowing/bolus transport process itself, which is the function of the pharynx and esophagus.",
-    "subject_keys": ["anatomy", "physiology"]
+    "subject_keys": [
+      "anatomy",
+      "physiology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 32,
     "question": "Which of the following are included in the classical clinical presentation of pericardial tamponade? I. Tachycardia II. Muffled heart sounds III. Decreased arterial pressure IV. Collapsed neck veins. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
     "explanation": "Beck's triad of pericardial tamponade consists of hypotension, muffled heart sounds, and jugular venous distension, with reflex tachycardia also being a common compensatory finding. Neck veins are classically distended (raised JVP) in tamponade due to impaired cardiac filling, not collapsed, making statement IV incorrect.",
-    "subject_keys": ["general_medicine", "general_surgery"]
+    "subject_keys": [
+      "general_medicine",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 33,
@@ -351,7 +546,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "The Masaoka staging system is specifically used to stage thymomas based on the degree of capsular invasion, extension into surrounding structures, and presence of metastases. It guides prognosis and surgical planning for this mediastinal tumor.",
-    "subject_keys": ["general_surgery", "pathology"]
+    "subject_keys": [
+      "general_surgery",
+      "pathology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 34,
@@ -364,15 +563,28 @@
     ],
     "correctAnswer": 3,
     "explanation": "Cauda equina syndrome classically presents with a combination of low back pain, saddle anesthesia, lower extremity motor weakness, and bowel/bladder dysfunction, resulting from compression of the lumbosacral nerve roots below the spinal cord termination. All four features listed are recognized components of this syndrome, though their combination and severity can vary between patients.",
-    "subject_keys": ["orthopedics", "general_surgery"]
+    "subject_keys": [
+      "orthopedics",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 35,
     "question": "Which one of the following drugs is a long acting local anaesthetic agent?",
-    "options": ["Lignocaine", "Bupivacaine", "Prilocaine", "Ropivacaine"],
+    "options": [
+      "Lignocaine",
+      "Bupivacaine",
+      "Prilocaine",
+      "Ropivacaine"
+    ],
     "correctAnswer": 1,
     "explanation": "Bupivacaine is the classic long-acting amide local anesthetic, providing prolonged analgesia useful for regional blocks and postoperative pain control. Note: ropivacaine is also a long-acting local anesthetic with a similar duration of action and improved cardiotoxicity profile, so there is some overlap between these two options, though bupivacaine remains the traditionally taught prototype long-acting agent.",
-    "subject_keys": ["pharmacology", "anesthesiology"]
+    "subject_keys": [
+      "pharmacology",
+      "anesthesiology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 36,
@@ -385,7 +597,11 @@
     ],
     "correctAnswer": 2,
     "explanation": "Head injury severity based on GCS is classified as mild (13-15), moderate (9-12), and severe (3-8). A GCS of 10 falls within the moderate traumatic brain injury category.",
-    "subject_keys": ["general_surgery", "anesthesiology"]
+    "subject_keys": [
+      "general_surgery",
+      "anesthesiology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 37,
@@ -398,23 +614,44 @@
     ],
     "correctAnswer": 1,
     "explanation": "Clostridium perfringens is the classic causative organism of gas gangrene (clostridial myonecrosis), producing gas within tissues (causing crepitus) along with a characteristic sweet, foul-smelling, serosanguinous exudate due to its exotoxin-mediated tissue destruction. This presentation is a hallmark of clostridial soft tissue infection.",
-    "subject_keys": ["microbiology", "general_surgery"]
+    "subject_keys": [
+      "microbiology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 38,
     "question": "Which of the following are the common complications associated with enteral nutrition in postoperative patients? I. Tube malposition, displacement II. Diarrhoea, constipation III. Predisposition to systemic sepsis IV. Electrolytic imbalance. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
     "explanation": "Tube malposition/displacement, GI disturbances like diarrhea or constipation, and electrolyte imbalances are all recognized complications of enteral nutrition. Enteral feeding, unlike parenteral nutrition, is generally associated with a lower (not increased) risk of systemic sepsis, as it helps maintain gut mucosal integrity and reduces bacterial translocation.",
-    "subject_keys": ["general_surgery"]
+    "subject_keys": [
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 39,
     "question": "Which of the following are correct regarding Blood substitutes? I. They are biomimetic. II. They are extensively used in war injuries. III. They are made of perfluorocarbon emulsions. IV. They are haemoglobin-based. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "Blood substitutes are biomimetic oxygen carriers that can be formulated as perfluorocarbon emulsions or hemoglobin-based oxygen carriers (HBOCs), designed to mimic the oxygen-carrying function of red blood cells. Despite their theoretical utility in combat/trauma settings, safety concerns and limited regulatory approval mean they are not currently extensively used, making statement II inaccurate.",
-    "subject_keys": ["general_medicine", "pharmacology"]
+    "subject_keys": [
+      "general_medicine",
+      "pharmacology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 40,
@@ -427,7 +664,11 @@
     ],
     "correctAnswer": 0,
     "explanation": "Ischemia-reperfusion injury occurs when blood flow is restored to previously ischemic (hypoxic) tissue, triggering a burst of reactive oxygen species and a robust inflammatory cascade that paradoxically causes further tissue damage. This process is central to injury seen after organ transplantation, limb replantation, and reperfused vascular occlusions.",
-    "subject_keys": ["physiology", "general_surgery"]
+    "subject_keys": [
+      "physiology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 41,
@@ -440,7 +681,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "During the second half of pregnancy, the daily iron requirement increases to approximately 6 mg/day due to expanding maternal red cell mass and fetal-placental iron demands, compared to about 2-3 mg/day in the non-pregnant state. This increased physiological requirement is why iron supplementation is routinely recommended during pregnancy.",
-    "subject_keys": ["obstetrics_and_gynecology", "physiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "physiology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 42,
@@ -453,79 +698,159 @@
     ],
     "correctAnswer": 0,
     "explanation": "Normal pregnancy is characterized by a state of relative fasting hypoglycemia (due to increased fetal glucose utilization) alongside postprandial hyperglycemia and increased insulin resistance from placental hormones like human placental lactogen. This represents decreased, not increased, maternal insulin sensitivity.",
-    "subject_keys": ["physiology", "obstetrics_and_gynecology"]
+    "subject_keys": [
+      "physiology",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 43,
     "question": "A typical case of Iron Deficiency Anaemia (IDA) in pregnancy will show which of the following? I. Hb less than 10gm% II. PCV less than 30% III. MCHC more than 30% IV. Microcytic hypochromic picture on peripheral blood smear (PBS). Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
     "explanation": "Iron deficiency anemia in pregnancy typically shows Hb less than 10 gm%, PCV less than 30%, and a microcytic, hypochromic picture on peripheral smear. IDA characteristically shows a LOW (not elevated) MCHC due to reduced hemoglobin content per red cell, making statement III incorrect as written.",
-    "subject_keys": ["obstetrics_and_gynecology", "pathology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pathology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 44,
     "question": "Which of the following are the clinical features of molar pregnancy? I. History of amenorrhea and vaginal bleeding II. Patient has excessive vomiting III. History of expulsion of grape-like vesicles. Select the correct answer using the code given below.",
-    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
     "correctAnswer": 3,
     "explanation": "Molar pregnancy classically presents with amenorrhea followed by vaginal bleeding, exaggerated pregnancy symptoms like hyperemesis due to markedly elevated hCG, and characteristic passage of grape-like vesicles per vaginam. All three features are well-recognized clinical hallmarks of this condition.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 45,
     "question": "Which of the following vaccines can be given to a pregnant woman? I. COVID vaccine II. Measles, Mumps, Rubella vaccine III. Hepatitis B vaccine IV. Rabies vaccine. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "COVID-19, Hepatitis B, and rabies vaccines are inactivated/non-live formulations and are considered safe to administer during pregnancy when indicated. The MMR vaccine is a live attenuated vaccine and is contraindicated during pregnancy due to theoretical risk to the fetus.",
-    "subject_keys": ["obstetrics_and_gynecology", "community_medicine"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "community_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 46,
     "question": "Which of the following are the characteristics of true labour pains? I. Intensity and duration of contractions increase progressively II. Progressive effacement and dilatation of the cervix III. Formation of the 'bag of forewaters' IV. Pain is confined to lower abdomen and groin. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
     "explanation": "True labour pains are characterized by progressively increasing intensity and duration of contractions, associated progressive cervical effacement and dilatation, and formation of the bag of forewaters. Pain confined only to the lower abdomen and groin without radiation to the back is actually characteristic of false labour, making statement IV incorrect.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 47,
     "question": "Which are the parts of active management of third stage of labour? I. Injection oxytocin 10 units IM within 1 minute of delivery of baby II. Injection oxytocin 10 units IM at the birth of first twin in twin pregnancy III. Controlled cord traction IV. Delayed cord clamping as per indications. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "Active management of the third stage of labour includes prophylactic oxytocin given within one minute of delivery, controlled cord traction, and appropriately timed cord clamping. In twin pregnancies, oxytocin should be administered after delivery of the LAST baby, not the first twin, since active management of the third stage begins only once all fetuses have been delivered, making statement II incorrect.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 48,
     "question": "Which of the following are correct regarding acute mastitis? I. It usually occurs in first 2-4 weeks postpartum. II. Microscopic examination of breast milk shows leukocyte count more than 10^6/mL and bacterial count more than 10^3/mL. III. Common organisms are bacteroides, E. coli and Klebsiella. IV. The source of infection is infant's nose and throat. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
     "explanation": "Acute mastitis typically occurs 2-4 weeks postpartum, is diagnosed via Thomsen's criteria (leukocyte count >10^6/mL and bacterial count >10^3/mL in milk), and the infant's nasopharynx is the usual source of the infecting organism transmitted during breastfeeding. Staphylococcus aureus, not bacteroides, E. coli, or Klebsiella, is the most common causative organism, making statement III incorrect.",
-    "subject_keys": ["obstetrics_and_gynecology", "microbiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "microbiology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 49,
     "question": "As per the classification of Obstetric Anal Sphincter Injury (RCOG-2007), tear of greater than 50% of External Anal Sphincter is of degree:",
-    "options": ["3c", "2c", "3b", "3a"],
+    "options": [
+      "3c",
+      "2c",
+      "3b",
+      "3a"
+    ],
     "correctAnswer": 2,
     "explanation": "Under the RCOG classification, third-degree perineal tears are subdivided based on the extent of external anal sphincter (EAS) involvement: 3a is less than 50% EAS thickness torn, 3b is more than 50% EAS thickness torn, and 3c involves the internal anal sphincter as well. A tear of greater than 50% of the EAS corresponds to degree 3b.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 50,
     "question": "What are the causes of lactation failure after delivery? I. Infrequent suckling II. Depression or anxiety state in the puerperium III. Prolactin inhibition. Select the correct answer using the code given below.",
-    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
     "correctAnswer": 3,
     "explanation": "Lactation failure can result from infrequent suckling (reduced stimulation of prolactin and oxytocin release), postpartum depression/anxiety (which inhibits the oxytocin-mediated let-down reflex), and prolactin insufficiency. All three factors are recognized contributors to inadequate milk production and letdown.",
-    "subject_keys": ["obstetrics_and_gynecology", "psychiatry"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "psychiatry"
+    ],
+    "sub_topics": []
   },
   {
     "id": 51,
     "question": "Secondary arrest of dilatation during the process of labour may be due to which of the following factors? I. Poor uterine contractions II. Cessation of cervical dilatation despite strong uterine contractions III. Disproportion and malpresentation. Select the correct answer using the code given below.",
-    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
     "correctAnswer": 3,
     "explanation": "Secondary arrest of cervical dilatation can result from inadequate uterine contractions, cephalopelvic disproportion, or malpresentation preventing further progress despite otherwise strong contractions. All three listed factors are recognized causes of this labour complication.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 52,
@@ -538,31 +863,61 @@
     ],
     "correctAnswer": 2,
     "explanation": "The first stage of labour is defined as beginning with the onset of true, regular labour pains and concluding with full dilatation of the cervix (10 cm). The subsequent second stage covers full dilatation through delivery of the baby.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 53,
     "question": "Vesicovaginal fistula is classified as complicated if it has which of the following features? I. Size - more than 3 cm II. Bladder involvement - Supratrigonal III. Location - Midvaginal IV. Presence of prior radiation. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "A vesicovaginal fistula is considered complicated when it is large (>3 cm), located in a technically challenging site such as midvaginal position, or associated with prior pelvic radiation, all of which increase surgical difficulty and reduce success of primary repair. Supratrigonal bladder involvement is generally considered a simpler location (away from the ureteric orifices) compared to trigonal involvement, so it does not independently classify a fistula as complicated.",
-    "subject_keys": ["obstetrics_and_gynecology", "general_surgery"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 54,
     "question": "Which of the following set of muscles collectively form the muscle 'Levator Ani' that forms the pelvic floor? I. Ischiococcygeus II. Pubococcygeus III. Sacrococcygeus IV. Iliococcygeus. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 1,
     "explanation": "The levator ani muscle complex is generally described as being formed by the pubococcygeus and iliococcygeus (along with puborectalis). Some textbooks group the ischiococcygeus (coccygeus) together within this complex, though many standard anatomy references classify it as a separate muscle of the pelvic diaphragm rather than a true component of levator ani; this represents a degree of textbook-dependent variation. \"Sacrococcygeus\" is not a recognized distinct pelvic floor muscle.",
-    "subject_keys": ["anatomy", "obstetrics_and_gynecology"]
+    "subject_keys": [
+      "anatomy",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 55,
     "question": "Blood supply to the uterus comes from which of the following arteries? I. Ovarian artery II. Vaginal artery III. Uterine artery IV. Inferior vesical artery. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 0,
     "explanation": "The uterus receives its blood supply predominantly from the uterine artery, with anastomotic contributions from the ovarian artery (supplying the fundus) and the vaginal artery (supplying the cervix and lower uterine segment). The inferior vesical artery primarily supplies the bladder and does not contribute significantly to uterine blood supply.",
-    "subject_keys": ["anatomy", "obstetrics_and_gynecology"]
+    "subject_keys": [
+      "anatomy",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 56,
@@ -575,7 +930,10 @@
     ],
     "correctAnswer": 3,
     "explanation": "Endometrial ablation is offered to women who have completed childbearing but wish to avoid hysterectomy, making preservation of the uterus (without desiring future fertility) a key prerequisite; a normal-sized uterine cavity is also required. An enlarged uterus (12-14 weeks size), desire to preserve reproductive function, and large submucosal fibroids (>3 cm) are generally contraindications rather than prerequisites, since ablation destroys the endometrium and precludes future pregnancy while large fibroids distort the cavity, making the officially keyed answer (c) medically inconsistent with option (d), which better reflects the accepted prerequisite for the procedure.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 57,
@@ -588,7 +946,10 @@
     ],
     "correctAnswer": 3,
     "explanation": "Endometrial sampling performed on days 21-23 of an average 28-day cycle captures the mid-to-late secretory phase, where the presence of secretory endometrial changes confirms that ovulation and subsequent progesterone action have occurred. Sampling too early would fall before these characteristic secretory changes develop.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 58,
@@ -601,23 +962,44 @@
     ],
     "correctAnswer": 2,
     "explanation": "An irregular uterine cavity outline with rigid, beaded (nodular) fallopian tubes on hysterosalpingography is a classic radiological finding of genital tuberculosis, a well-known cause of tubal factor infertility. This distinctive HSG appearance strongly points toward tuberculous involvement of the endometrium and tubes.",
-    "subject_keys": ["obstetrics_and_gynecology", "microbiology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "microbiology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 59,
     "question": "NACO (National AIDS Control Organization) in India works towards which of the following causes? I. Screening high risk cases of HIV II. Facilitating adoption of orphans III. Public education towards safe sex IV. Treating HIV cases free of cost. Select the correct answer using the code given below.",
-    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
     "correctAnswer": 2,
     "explanation": "NACO's mandate includes screening and identifying high-risk HIV cases, public education promoting safe sexual practices, and providing free antiretroviral treatment for HIV-positive individuals. Facilitating adoption of orphans is not part of NACO's functions, which focus specifically on HIV/AIDS prevention, screening, and treatment.",
-    "subject_keys": ["community_medicine"]
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
   },
   {
     "id": 60,
     "question": "Prophylactic oophorectomy is recommended in high risk women with which of the following? I. Carrying BRCA1 or BRCA2 genes II. Family history of breast, colon, ovarian cancer III. Patients having tubo-ovarian abscess. Select the correct answer using the code given below.",
-    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
     "correctAnswer": 0,
     "explanation": "Prophylactic (risk-reducing) oophorectomy is recommended for women carrying BRCA1/BRCA2 mutations or with a strong family history of breast, colon, or ovarian cancer, due to their substantially elevated lifetime cancer risk. Tubo-ovarian abscess is an infectious condition managed with antibiotics and/or surgical drainage, not an indication for prophylactic cancer-risk-reducing surgery.",
-    "subject_keys": ["obstetrics_and_gynecology", "general_surgery"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 61,
@@ -630,7 +1012,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "Schiller-Duval bodies are glomerulus-like structures composed of a central blood vessel surrounded by tumor cells, and are a pathognomonic histological finding in yolk sac tumors (endodermal sinus tumors) of the ovary. Their presence is diagnostic and helps distinguish this tumor from other germ cell tumors like dysgerminoma.",
-    "subject_keys": ["pathology", "obstetrics_and_gynecology"]
+    "subject_keys": [
+      "pathology",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 62,
@@ -643,7 +1029,10 @@
     ],
     "correctAnswer": 3,
     "explanation": "Gartner's duct cysts are firm, non-reducible masses in the anterolateral vaginal wall that do not change with position or straining, whereas a cystocele demonstrates a positive cough impulse and reduces on repositioning or lying down. This lack of reducibility is the key clinical feature distinguishing Gartner's cyst from a cystocele.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
   {
     "id": 63,
@@ -656,7 +1045,11 @@
     ],
     "correctAnswer": 1,
     "explanation": "Ventrosuspension is a surgical procedure that fixes the uterus in an anteverted position by shortening the round ligaments, and is used specifically to correct symptomatic retroversion of the uterus. It is not a standard treatment for pelvic organ prolapse or vault prolapse, which require different surgical approaches.",
-    "subject_keys": ["obstetrics_and_gynecology", "general_surgery"]
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_surgery"
+    ],
+    "sub_topics": []
   },
   {
     "id": 64,
@@ -669,456 +1062,950 @@
     ],
     "correctAnswer": 3,
     "explanation": "During pregnancy, symptomatic uterine prolapse is managed conservatively with a vaginal pessary to support the uterus and prevent complications, since definitive surgical correction is deferred until after delivery. Reassurance alone would be inadequate given her symptomatic second-degree prolapse, while cervical amputation and cerclage are not appropriate treatments for this condition.",
-    "subject_keys": ["obstetrics_and_gynecology"]
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
   },
-    {
-      "id": 65,
-      "question": "During delivery of HIV infected women, which of the following are recommended? I. Zidovudine (ZDV) is given at the onset of labour. II. Elective caesarean delivery reduces the risk of vertical transmission. III. Amniotomy and oxytocin augmentation should be done. IV. Antiretroviral therapy should be given to all neonates. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Intrapartum zidovudine, elective caesarean section (which reduces exposure to maternal blood/secretions), and neonatal antiretroviral prophylaxis are all established measures to reduce mother-to-child HIV transmission. Amniotomy and oxytocin augmentation should be avoided as they increase the duration of fetal exposure to infected maternal fluids, raising transmission risk.",
-      "subject_keys": ["obstetrics_and_gynecology", "microbiology"]
-    },
-    {
-      "id": 66,
-      "question": "Which of the following can be a complication in the baby due to post maturity of pregnancy? I. Meconium aspiration II. Hypoglycemia III. Intra ventricular haemorrhage IV. Polycythemia. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Postmature infants are at risk of meconium aspiration syndrome, hypoglycemia (from placental insufficiency depleting glycogen stores), and polycythemia (compensatory response to chronic placental hypoxia). Intraventricular hemorrhage is characteristically a complication of prematurity due to fragile germinal matrix vasculature, not postmaturity.",
-      "subject_keys": ["pediatrics", "obstetrics_and_gynecology"]
-    },
-    {
-      "id": 67,
-      "question": "Intrahepatic cholestasis of pregnancy presents with which of the following features? I. Pruritus after 28 weeks gestation, especially in palms and soles II. Serum bilirubin levels > 5 mg% III. Raised levels of serum bile acids IV. Features subside within two weeks postpartum. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "Intrahepatic cholestasis of pregnancy classically presents with third-trimester pruritus involving palms and soles, elevated serum bile acids (the diagnostic hallmark), and rapid resolution of symptoms after delivery. Bilirubin elevation is typically mild, usually staying below 5 mg%, so marked elevation above this threshold is not a typical feature.",
-      "subject_keys": ["obstetrics_and_gynecology", "general_medicine"]
-    },
-    {
-      "id": 68,
-      "question": "Which of the following are blood values of Iron Deficiency Anaemia? I. Serum iron is less than 30 µgm/100 mL II. Total iron binding capacity is less than 400 µgm/dL III. Percentage saturation is 10% or less IV. Serum ferritin is below 30 µgm/L. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "Iron deficiency anemia is characterized by low serum iron, low transferrin saturation (typically ≤10%), and low serum ferritin reflecting depleted iron stores. Total iron binding capacity is actually increased (not decreased) in iron deficiency, as the body upregulates transferrin production in an attempt to capture more iron, making statement II incorrect.",
-      "subject_keys": ["general_medicine", "pathology"]
-    },
-    {
-      "id": 69,
-      "question": "Clinical features of an infant with Fetal growth retardation at birth include which of the following? I. Physical features give 'an old man look'. II. Baby is alert, reflexes are normal. III. There is presence of weight deficit. IV. Thick fat accumulates around shoulders of baby. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 0,
-      "explanation": "Infants with fetal growth restriction classically have a wizened, 'old man' appearance, remain alert with normal reflexes despite their small size, and demonstrate weight deficit relative to gestational age. These babies characteristically have diminished (not increased) subcutaneous fat, giving loose, wrinkled skin rather than thick fat accumulation, making statement IV incorrect.",
-      "subject_keys": ["pediatrics", "obstetrics_and_gynecology"]
-    },
-    {
-      "id": 70,
-      "question": "Which of the following are correct regarding 'Chhaya' contraceptive? I. It has potent anti-estrogenic and weak estrogenic property. II. Failure rate is 1-4 per HWY (Hundred Women Years) of use. III. It inhibits ovulation. IV. It creates asynchrony between zygote and endometrium. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Chhaya (centchroman) is a non-steroidal, non-hormonal contraceptive with potent anti-estrogenic and weak estrogenic activity that works by creating asynchrony between the developing zygote and the endometrium, preventing implantation, with a documented failure rate in the range described. It does not act by inhibiting ovulation, which is a distinguishing feature from conventional hormonal contraceptives, making statement III incorrect.",
-      "subject_keys": ["pharmacology", "obstetrics_and_gynecology"]
-    },
-    {
-      "id": 71,
-      "question": "Which of the following are examples of LARC (Long Acting Reversible Contraceptives)? I. Copper-T 380A II. Implants III. LNG-IUS. Select the correct answer using the code given below.",
-      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
-      "correctAnswer": 3,
-      "explanation": "LARCs include intrauterine devices (both copper-based like Copper-T 380A and hormonal like the levonorgestrel intrauterine system) as well as subdermal implants, all of which provide highly effective, reversible contraception without requiring frequent user action. All three listed methods are recognized as LARCs.",
-      "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
-    },
-    {
-      "id": 72,
-      "question": "How many times in a year does withdrawal bleeding occur in extended continuous regimens of combined oral contraceptive pills?",
-      "options": ["3", "4", "5", "6"],
-      "correctAnswer": 0,
-      "explanation": "Extended-cycle combined oral contraceptive regimens are designed to reduce the frequency of withdrawal bleeding compared to standard monthly regimens. There is some ambiguity here depending on the specific regimen's active-pill/placebo interval used as reference, as commonly described 91-day extended-cycle regimens can also be cited as producing approximately 4 withdrawal bleeds per year; this answer defers to the key given this variation in source material.",
-      "subject_keys": ["pharmacology", "obstetrics_and_gynecology"]
-    },
-    {
-      "id": 73,
-      "question": "Bilateral total salpingectomy is recommended surgical procedure to reduce the risk of:",
-      "options": ["Epithelial ovarian cancer", "Uterine cancer", "Fallopian tube cancer", "Peritoneal cancer"],
-      "correctAnswer": 0,
-      "explanation": "Note: the official key marks option (c) fallopian tube cancer, but the clinically significant and widely publicized benefit of opportunistic bilateral salpingectomy is reduction in epithelial (particularly high-grade serous) ovarian cancer risk, since current evidence indicates most of these cancers actually originate in the fallopian tube fimbriae. This is the primary rationale behind recommending the procedure during other pelvic surgeries, making option (a) medically more accurate as the intended clinical benefit.",
-      "subject_keys": ["obstetrics_and_gynecology", "general_surgery"]
-    },
-    {
-      "id": 74,
-      "question": "Tongue bite occurs in eclampsia at:",
-      "options": ["Tonic stage", "Clonic stage", "Coma stage", "Postictal stage"],
-      "correctAnswer": 1,
-      "explanation": "During the clonic phase of an eclamptic (or any generalized tonic-clonic) seizure, rhythmic contraction and relaxation of the jaw muscles causes the tongue to be repeatedly bitten. The tonic phase involves sustained muscle contraction without the rhythmic jaw movement needed to cause tongue biting.",
-      "subject_keys": ["obstetrics_and_gynecology", "general_medicine"]
-    },
-    {
-      "id": 75,
-      "question": "Indication for removal of IUDs include which of the following? I. Perforation of uterus II. Pregnancy with device in situ III. One year after menopause IV. Persistent migraine. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 0,
-      "explanation": "Recognized indications for IUD removal include uterine perforation, pregnancy occurring with the device still in situ (to reduce risk of septic abortion when strings are accessible), and confirmed menopause (typically removed one year after the last menstrual period). Persistent migraine, particularly with aura, is generally a concern specific to estrogen-containing methods rather than an indication requiring removal of an IUD, which is a local, largely non-systemic device.",
-      "subject_keys": ["obstetrics_and_gynecology"]
-    },
-    {
-      "id": 76,
-      "question": "Which of the following are the absolute contraindications for the use of combined oral contraceptive pills? I. Severe hypertension II. Pregnancy III. Diabetes with retinopathy IV. Gall bladder disease. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 0,
-      "explanation": "Severe hypertension, pregnancy, and diabetes with vascular complications like retinopathy are all absolute contraindications to combined oral contraceptives due to the elevated risk of thromboembolic and cardiovascular complications. Gallbladder disease is considered a relative rather than absolute contraindication for COC use.",
-      "subject_keys": ["pharmacology", "obstetrics_and_gynecology"]
-    },
-    {
-      "id": 77,
-      "question": "A 27-year-old recently married female comes to family planning clinic requesting for long term reversible contraception. Which one of the following is the best suited option for her?",
-      "options": ["Combined oral contraceptives", "Diaphragm", "Nexplanon", "Chhaya"],
-      "correctAnswer": 2,
-      "explanation": "Note: the official key marks option (a) combined oral contraceptives, but Nexplanon, a subdermal contraceptive implant, is a true long-acting reversible contraceptive (LARC) providing highly effective, low-maintenance protection for up to 3 years with rapid return of fertility upon removal. Combined oral contraceptives require daily compliance and do not fit the definition of \"long term\" contraception, making option (c) medically more appropriate for this patient's stated request.",
-      "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
-    },
-    {
-      "id": 78,
-      "question": "Which one of the following is an indication for cold knife conisation?",
-      "options": ["Treatment of Nabothian follicle on ectocervix", "Inconsistent findings of colposcopy, cytology and directed biopsy", "Negative endocervical curettage", "Squamous cell carcinoma cervix stage IIA"],
-      "correctAnswer": 1,
-      "explanation": "Cold knife conisation is indicated when there is a discrepancy between colposcopic impression, cytology (Pap smear), and directed biopsy results, or when the entire transformation zone or endocervical extent of a lesion cannot be adequately visualized, to obtain a definitive histological diagnosis. It is a diagnostic and sometimes therapeutic procedure for cervical intraepithelial neoplasia, not a treatment for benign Nabothian cysts or invasive cervical cancer.",
-      "subject_keys": ["obstetrics_and_gynecology"]
-    },
-    {
-      "id": 79,
-      "question": "Which of the following statements are correct regarding female sterilization? I. It can be done 24-48 hours following delivery. II. Ideal time for interval ligation is luteal phase preceding menstruation. III. It can be combined with medical termination of pregnancy. IV. It is a preventive measure against serous ovarian cancer. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "Postpartum sterilization is commonly performed within 24-48 hours of delivery, sterilization can be combined with medical termination of pregnancy, and tubal ligation is associated with a reduced long-term risk of serous ovarian cancer by interrupting the fallopian tube pathway implicated in its origin. The ideal timing for interval (non-postpartum) tubal ligation is actually the early follicular/proliferative phase, to minimize the chance of ligating a fallopian tube containing an early undetected pregnancy, not the luteal phase preceding menstruation.",
-      "subject_keys": ["obstetrics_and_gynecology"]
-    },
-    {
-      "id": 80,
-      "question": "The most popular technique of tubal ligation is:",
-      "options": ["Madlener Operation", "Pomeroy Technique", "Uchida method", "Cornual resection"],
-      "correctAnswer": 1,
-      "explanation": "The Pomeroy technique, involving ligation and excision of a loop of fallopian tube, is the most widely used and popular method of tubal ligation worldwide due to its simplicity, effectiveness, and low complication rate. The Madlener and Uchida methods, while historically described, are used far less frequently in current practice.",
-      "subject_keys": ["obstetrics_and_gynecology", "general_surgery"]
-    },
-    {
-      "id": 81,
-      "question": "Which one of the following is defined as \"the average number of children a woman would have if she were to pass through her reproductive years, bearing children at the same rates as the women now in each age group\"?",
-      "options": ["Age-Specific Fertility Rate (ASFR)", "General Fertility Rate (GFR)", "Net Reproduction Rate (NRR)", "Total Fertility Rate (TFR)"],
-      "correctAnswer": 3,
-      "explanation": "The Total Fertility Rate (TFR) is precisely defined as the average number of children a woman would bear over her reproductive lifespan if she experienced the current age-specific fertility rates throughout her childbearing years. It is a widely used summary measure of a population's fertility level, distinct from the Net Reproduction Rate which additionally accounts for female mortality.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 82,
-      "question": "Which among the following is correct about yellow fever vaccination requirement for international travellers? I. Term of validity of the certificate is changed from 10 years to the duration of the life of the vaccinated person, some years ago. II. Lifetime validity of the certificate applies automatically to all existing and new certificates. III. Validity of the certificate begins 4 days after vaccination. IV. In India, booster dose of yellow fever vaccine is required for those whose certificate is prior to the year 2016. Select the correct answer using the code given below.",
-      "options": ["1 and 2", "1 and 3", "2 and 3", "2 and 4"],
-      "correctAnswer": 0,
-      "explanation": "Under the 2016 amendment to International Health Regulations, yellow fever vaccination certificate validity was extended from 10 years to the lifetime of the vaccinated person, and this change applies retroactively to all previously issued certificates as well as new ones. Certificate validity actually begins 10 days after vaccination (not 4 days), and since immunity is now considered lifelong after a single dose, no booster is required regardless of when the original certificate was issued.",
-      "subject_keys": ["community_medicine", "microbiology"]
-    },
-    {
-      "id": 83,
-      "question": "Regarding active immunization against Typhoid fever, consider the following statements: I. The typhoid polysaccharide vaccine is injectable and can be given subcutaneously or intramuscularly. II. The typhoid polysaccharide vaccine is required to be given in two doses and administered on 0 and 7th day. III. The typhoid oral Ty21a vaccine requires to be given in three doses on 0, 3rd and 7th days. IV. Protective immunity with typhoid vaccines is achieved immediately after the vaccine is received. Which of the statements given above is/are correct?",
-      "options": ["1 only", "1, 3 and 4", "1 and 2 only", "2 only"],
-      "correctAnswer": 0,
-      "explanation": "The Vi capsular polysaccharide typhoid vaccine is indeed given as a single injectable dose (subcutaneously or intramuscularly), unlike the two-dose schedule stated. The oral Ty21a vaccine actually requires four doses on alternate days, and protective immunity from either vaccine takes one to two weeks to develop rather than being immediate, making only statement I correct.",
-      "subject_keys": ["community_medicine", "microbiology"]
-    },
-    {
-      "id": 84,
-      "question": "Which of the following statements are correct regarding Mantoux test for tuberculosis? I. It entails injecting 1 TU (Tuberculin Unit) of PPD (Purified Protein Derivative) in 0.1 mL intradermally. II. The injection should be given with the needle bevel facing downward. III. When placed correctly, the injection should produce a pale wheal of the skin, 1-2 mm in diameter. IV. The injection should be given with a tuberculin syringe. Select the correct answer using the code given below.",
-      "options": ["1 and 2", "1 and 4", "2 and 3", "2 and 4"],
-      "correctAnswer": 1,
-      "explanation": "The Mantoux test correctly involves intradermal injection of 0.1 mL of PPD tuberculin using a dedicated tuberculin syringe. The needle bevel should face upward (not downward) for proper intradermal placement, and a correctly placed injection produces a much larger pale wheal, typically 6-10 mm in diameter, not the 1-2 mm stated.",
-      "subject_keys": ["microbiology", "community_medicine"]
-    },
-    {
-      "id": 85,
-      "question": "Which one among the following types of ventilation, best fits the following description - \"A system of ventilation in which fresh air is blown into the room by centrifugal fans so as to create a positive pressure, and displace the vitiated air\"?",
-      "options": ["Exhaust ventilation", "Balanced ventilation", "Natural ventilation", "Plenum ventilation"],
-      "correctAnswer": 3,
-      "explanation": "Plenum (or supply) ventilation uses mechanical fans to actively push fresh air into an enclosed space, creating positive pressure that pushes out the vitiated air. This contrasts with exhaust ventilation, which mechanically removes stale air to create negative pressure that draws in fresh air.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 86,
-      "question": "The 'Nalgonda Technique' developed by the National Environmental Engineering Research Institute (NEERI) was developed primarily for the removal of which one of the following from water?",
-      "options": ["Asbestos", "Fluorine", "Chlorine", "Iron"],
-      "correctAnswer": 1,
-      "explanation": "The Nalgonda technique, developed by NEERI, uses alum, lime, and bleaching powder for the defluoridation of drinking water, addressing endemic fluorosis in regions with high fluoride content in groundwater, such as Nalgonda district in Telangana. It remains a widely adopted low-cost method for community-level fluoride removal in India.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 87,
-      "question": "Smoking is considered to be a modifiable risk factor for Coronary Heart Disease. Consider the following statements with regard to possible mechanisms on the basis of which it acts as a risk factor: I. Nicotine stimulation of adrenergic drive raises the blood pressure and myocardial oxygen demand. II. It increases carbon monoxide and induces atherogenesis. III. It leads to fall in protective high density lipoproteins. IV. It reduces the apolipoprotein-B plasma levels. Which of the statements given above are correct?",
-      "options": ["1 and 2 only", "1 and 3 only", "1, 2 and 3", "2, 3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "Smoking contributes to coronary heart disease through nicotine-induced adrenergic stimulation raising blood pressure and cardiac oxygen demand, carbon monoxide-induced atherogenesis, and reduction in protective HDL cholesterol levels. Smoking actually increases (not reduces) apolipoprotein-B, a component of atherogenic lipoproteins like LDL, making statement IV incorrect.",
-      "subject_keys": ["community_medicine", "general_medicine"]
-    },
-    {
-      "id": 88,
-      "question": "The expected outcome of Government of India's initiative 'SUMAN' is:",
-      "options": ["Zero preventable maternal and newborn deaths", "Limit preventable maternal and newborn deaths to between 0.5-1%", "Limit preventable maternal and newborn deaths to between 1-2%", "Limit preventable maternal and newborn deaths to between 2-5%"],
-      "correctAnswer": 0,
-      "explanation": "Surakshit Matritva Aashwasan (SUMAN), launched by the Government of India, aims to provide assured, dignified, and quality healthcare at no cost for pregnant women, mothers, and newborns, with the explicit goal of achieving zero preventable maternal and newborn deaths. This zero-preventable-death target is the scheme's defining aspirational outcome.",
-      "subject_keys": ["community_medicine", "obstetrics_and_gynecology"]
-    },
-    {
-      "id": 89,
-      "question": "Water contamination with high content of which chemical can lead to methaemoglobinaemia?",
-      "options": ["Cyanide", "Nitrate", "Fluoride", "Sulphide"],
-      "correctAnswer": 1,
-      "explanation": "Excess nitrate in drinking water, when converted to nitrite by gut bacteria (particularly in infants), oxidizes hemoglobin's ferrous iron to the ferric state, forming methemoglobin that cannot carry oxygen, causing methemoglobinemia (\"blue baby syndrome\"). This is a well-recognized public health concern in areas with nitrate-contaminated groundwater from agricultural runoff or sewage.",
-      "subject_keys": ["community_medicine", "pediatrics"]
-    },
-    {
-      "id": 90,
-      "question": "With reference to human body's requirement for proteins, they are essential because they are: I. a key supply source for energy. II. required for maintenance of osmotic pressure within the intravascular compartment. III. critical for upkeep of cell mediated immune response. IV. vital for the synthesis of certain hormones. Which of the statements given above are correct?",
-      "options": ["1, 3 and 4", "1, 2 and 4", "2, 3 and 4", "1, 2 and 3"],
-      "correctAnswer": 2,
-      "explanation": "Proteins maintain plasma oncotic pressure (via albumin), support cell-mediated immunity (via antibodies and immune cell function), and serve as precursors for peptide hormone synthesis. Proteins are not a primary energy source under normal physiological conditions, that role being served by carbohydrates and fats, making statement I incorrect.",
-      "subject_keys": ["biochemistry", "physiology"]
-    },
-    {
-      "id": 91,
-      "question": "Which food proteins among the following are considered to be the best and are used in nutritional studies as 'reference protein'?",
-      "options": ["Milk proteins", "Egg proteins", "Wheat proteins", "Legume proteins"],
-      "correctAnswer": 1,
-      "explanation": "Egg protein has the highest biological value among common food proteins and contains all essential amino acids in proportions closely matching human requirements, making it the standard 'reference protein' against which other dietary proteins are compared in nutritional studies. This high-quality amino acid profile makes it ideal for such comparative assessments.",
-      "subject_keys": ["biochemistry", "community_medicine"]
-    },
-    {
-      "id": 92,
-      "question": "Consider the following statements with reference to 'trans fatty acids': I. They are geometrical isomers of cis-unsaturated fatty acids. II. Though atherogenic, being unsaturated they are less so than saturated fatty acids. III. It takes years for trans fatty acids to be flushed from the body. IV. They lower both LDL cholesterol and HDL cholesterol in the body. Which of the statements given above are correct?",
-      "options": ["1 and 2 only", "1 and 3 only", "1, 2 and 3", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "Trans fatty acids are geometrical (trans) isomers of naturally occurring cis-unsaturated fatty acids and, being incorporated into cell membranes, take a prolonged period to be metabolized and cleared from the body. Despite being unsaturated, trans fats are actually as atherogenic as, or more atherogenic than, saturated fats, and they raise LDL cholesterol while lowering HDL cholesterol, rather than lowering both, making statements II and IV incorrect.",
-      "subject_keys": ["biochemistry", "community_medicine"]
-    },
-    {
-      "id": 93,
-      "question": "Consider the following disorders: I. Delayed motor milestones II. Extrapyramidal spasticity III. Nyctalopia IV. Hearing defects. Which of the above disorders occur as part of the spectrum of iodine deficiency disorders?",
-      "options": ["1, 2 and 3", "1, 3 and 4", "2, 3 and 4", "1, 2 and 4"],
-      "correctAnswer": 3,
-      "explanation": "Neurological cretinism, a manifestation of severe iodine deficiency disorder, includes delayed motor milestones, extrapyramidal signs like spasticity, and sensorineural deafness/hearing defects due to impaired thyroid hormone-dependent brain development. Nyctalopia (night blindness) is characteristically associated with vitamin A deficiency, not iodine deficiency, making statement III incorrect.",
-      "subject_keys": ["community_medicine", "pediatrics"]
-    },
-    {
-      "id": 94,
-      "question": "With reference to occupational cancers, consider the following statements: I. Skin cancer is a common occupational hazard in workers employed in nickel and chromium work. II. Cancer bladder is an occupational hazard in workers employed in dye-stuffs and dyeing industry. III. Leukaemia can occur on long exposure to benzol. IV. Lung cancer is typically found in workers employed in electric cable industries. Which of the statements given above are correct?",
-      "options": ["1 and 2 only", "2 and 3 only", "3 and 4 only", "1 and 4 only"],
-      "correctAnswer": 1,
-      "explanation": "Bladder cancer from aromatic amine exposure in the dye and dyeing industry, and leukemia from prolonged benzene (benzol) exposure, are both well-established classic occupational cancer associations. Skin cancer is more classically linked to occupational exposure to tar, soot, mineral oils, and arsenic rather than nickel/chromium specifically, and lung cancer in the electric cable industry is not a standard recognized occupational cancer association.",
-      "subject_keys": ["community_medicine", "pathology"]
-    },
-    {
-      "id": 95,
-      "question": "If, on amniocentesis, the alpha fetoprotein is found to be elevated in the amniotic fluid, which defect/disorder is the foetus likely to harbour?",
-      "options": ["Cardiac septal defects", "Neural tube defects", "Duchenne muscular dystrophy", "Galactosaemia"],
-      "affirmedNote": "",
-      "correctAnswer": 1,
-      "explanation": "Elevated amniotic fluid alpha-fetoprotein is classically associated with open neural tube defects (such as spina bifida and anencephaly) as well as other ventral wall defects, due to leakage of fetal serum proteins into the amniotic fluid through the exposed neural tissue or defect. This finding prompts further evaluation with detailed ultrasound to confirm the diagnosis.",
-      "subject_keys": ["obstetrics_and_gynecology", "pediatrics"]
-    },
-    {
-      "id": 96,
-      "question": "Which of the following are domains (or types) of learning? I. Affective learning II. Cognitive learning III. Physiological learning IV. Psychomotor learning. Select the correct answer using the code given below.",
-      "options": ["1, 3 and 4", "2, 3 and 4", "1, 2 and 3", "1, 2 and 4"],
-      "correctAnswer": 3,
-      "explanation": "Bloom's taxonomy classically identifies three domains of learning: cognitive (knowledge/thinking), affective (attitudes/emotions), and psychomotor (physical skills). \"Physiological learning\" is not a recognized domain within this widely used educational framework.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 97,
-      "question": "Which of the following are beneficiaries of services provided under the Integrated Child Development Scheme (ICDS)? I. Adolescent boys II. Adolescent girls III. Pregnant women IV. Children less than 6 years of age. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 3,
-      "explanation": "ICDS provides services to children under 6 years, pregnant and lactating women, and adolescent girls (through specific components like the Scheme for Adolescent Girls). Adolescent boys are not designated beneficiaries under the ICDS framework, which specifically targets the identified vulnerable groups.",
-      "subject_keys": ["community_medicine", "pediatrics"]
-    },
-    {
-      "id": 98,
-      "question": "Which of the following correctly represent the three critical determinants of a healthy facility being declared as a First Referral Unit (FRU)? I. Availability of emergency obstetric surgical interventions II. Availability of immunization services III. Blood storage facility IV. Newborn care. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 3 and 4", "1, 2 and 4", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "A First Referral Unit is defined by the availability of emergency obstetric surgical care (including caesarean section), a functional blood storage/transfusion facility, and round-the-clock newborn care services. Routine immunization services, while important, are not one of the three specific criteria used to designate a facility as an FRU.",
-      "subject_keys": ["community_medicine", "obstetrics_and_gynecology"]
-    },
-    {
-      "id": 99,
-      "question": "What is the correct increasing order of minimum age at which the following vaccines are administered to a child, as part of the National Immunization Schedule (NIS) after birth of child? I. BCG vaccine II. Japanese Encephalitis (JE) vaccine III. Rotavirus vaccine IV. Tetanus and adult diphtheria (Td) vaccine. Select the correct answer using the code given below.",
-      "options": ["1→2→3→4", "1→3→2→4", "2→3→4→1", "3→1→4→2"],
-      "correctAnswer": 1,
-      "explanation": "Per the National Immunization Schedule, BCG is given at birth, Rotavirus vaccine begins at 6 weeks, JE vaccine is given at 9-12 months, and Td vaccine is administered at 10 and 16 years. This produces the increasing age order: BCG, then Rotavirus, then JE, then Td.",
-      "subject_keys": ["pediatrics", "community_medicine"]
-    },
-    {
-      "id": 100,
-      "question": "Under the National Leprosy Eradication Programme, ASHAs have been entrusted to carry out which of the following activities? I. ASHAs are to search for suspected cases of leprosy in their villages and take them to the PHCs for diagnosis and treatment. II. ASHAs arrange an amount of ₹5,000 as an incentive to each leprosy affected person in their village for undergoing reconstructive surgery. III. ASHAs ensure that each leprosy affected person in their village receives micro-cellular rubber footwear for protection of insensitive feet. IV. ASHAs follow up all confirmed cases of leprosy in their village to ensure their treatment completion. Select the correct answer using the code given below.",
-      "options": ["1 and 2 only", "2 and 3 only", "1 and 4 only", "3 and 4 only"],
-      "correctAnswer": 2,
-      "explanation": "Core ASHA responsibilities under the National Leprosy Eradication Programme include actively searching for suspected leprosy cases in the community and referring them for diagnosis/treatment, as well as following up confirmed cases to ensure treatment completion. The specific incentive disbursement and footwear provision described are more accurately roles of the broader health system/facility rather than direct ASHA-arranged activities as worded.",
-      "subject_keys": ["community_medicine", "dermatology"]
-    },
-    {
-      "id": 101,
-      "question": "The cost of implementation of 'Ayushman Bharat Pradhan Mantri Jan Arogya Yojana' is borne by:",
-      "options": ["Central Government only", "State Government only", "Both Central Government and State Government", "Private institutions only as a part of their Corporate Social Responsibility"],
-      "affirmedNote": "",
-      "correctAnswer": 2,
-      "explanation": "Ayushman Bharat PM-JAY is funded through a cost-sharing arrangement between the Central and State Governments, with the typical funding ratio being 60:40 for most states and 90:10 for northeastern and hilly states. This joint funding model supports the scheme's implementation nationwide.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 102,
-      "question": "All of the following are dashboard indicators used for monitoring of India Newborn Action Plan (INAP). Which one of them is an 'impact level indicator'?",
-      "options": ["Caesarean section rate", "Neonatal mortality rate", "Exclusive breastfeeding rate", "Percentage of preterm births"],
-      "correctAnswer": 1,
-      "explanation": "Neonatal mortality rate is the classic impact-level indicator for newborn health programs, directly reflecting the ultimate health outcome that interventions aim to improve. Caesarean section rate and exclusive breastfeeding rate are typically classified as process or coverage indicators rather than impact indicators.",
-      "subject_keys": ["community_medicine", "pediatrics"]
-    },
-    {
-      "id": 103,
-      "question": "Which of the following are health education models? I. Medical model II. Motivation model III. Persuasion model IV. Social intervention model. Select the correct answer using the code given below.",
-      "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
-      "correctAnswer": 1,
-      "explanation": "The medical, motivation, and social intervention (or social change) models are commonly cited approaches to health education in public health literature. There is some overlap in classification systems across textbooks regarding the persuasion model's status as a distinct category, which may account for its exclusion here.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 104,
-      "question": "Who among the following has two general phases - first, simple pneumoconiosis and a second phase characterized by progressive massive fibrosis (PMF)?",
-      "options": ["Anthracosis", "Bagassosis", "Byssinosis", "Siderosis"],
-      "correctAnswer": 0,
-      "explanation": "Coal worker's pneumoconiosis (anthracosis) classically progresses through an initial simple pneumoconiosis stage to a more severe complicated stage characterized by progressive massive fibrosis, distinguishing it from other occupational lung diseases. This two-phase progression is a hallmark feature used to describe disease severity and prognosis in affected coal miners.",
-      "subject_keys": ["community_medicine", "general_medicine"]
-    },
-    {
-      "id": 105,
-      "question": "Consider the following statements about correlation between two variables: I. The correlation is done between an independent variable X and a dependent Y. II. The coefficient of correlation can range from -1 to ∞. III. If coefficient of correlation (r) is equal to 1, it indicates there is no association between X and Y. IV. Correlation does not necessarily prove causation. Which of the statements given above is/are correct?",
-      "options": ["1 only", "4 only", "1, 2 and 3", "1 and 4 only"],
-      "correctAnswer": 1,
-      "explanation": "Correlation coefficients range only from -1 to +1, and a coefficient of +1 indicates a perfect positive association, not an absence of association, making statements II and III incorrect. Correlation, unlike regression, does not require designation of independent and dependent variables and, importantly, correlation alone never proves a causal relationship between the variables studied.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 106,
-      "question": "With regard to lead poisoning, consider the following statements: I. Coproporphyrin in urine is a useful screening test. II. Hand washing before eating is an important measure of personal hygiene. III. The use of d-penicillamine has been reported to be effective in management. How many of the statements given above is/are correct?",
-      "options": ["1 only", "2 only", "All three", "None"],
-      "correctAnswer": 2,
-      "explanation": "Urinary coproporphyrin is a recognized screening test for lead exposure, handwashing before eating is an important preventive measure to reduce ingestion of lead-contaminated dust/soil, and d-penicillamine is a chelating agent used in the management of lead poisoning. All three statements accurately describe recognized aspects of lead poisoning prevention and treatment.",
-      "subject_keys": ["community_medicine", "pharmacology"]
-    },
-    {
-      "id": 107,
-      "question": "A water body was inspected to look for the presence of mosquito eggs. It was observed that there were boat-shaped eggs, laid singly, not in clusters. The eggs also had lateral floats. Which one of the following diseases is most likely to be spread by the mosquito whose eggs were found?",
-      "options": ["Chikungunya fever", "Dengue fever", "Japanese encephalitis", "Malaria"],
-      "correctAnswer": 3,
-      "explanation": "Anopheles mosquito eggs are distinctively boat-shaped, laid singly (not in rafts or clusters) on the water surface, and possess characteristic lateral floats that help keep them afloat. Anopheles is the vector for malaria, distinguishing it from Aedes (dengue, chikungunya) and Culex (Japanese encephalitis) mosquitoes, whose eggs have different morphological characteristics.",
-      "subject_keys": ["microbiology", "community_medicine"]
-    },
-    {
-      "id": 108,
-      "question": "In the National Health Policy 2017, a target of 90:90:90 has been set for HIV/AIDS. Which among the following are targets for which a 90% level has been set as part of 90:90:90 for HIV/AIDS? I. Proportion of couples who have safe sex II. Proportion of people living with HIV who know their HIV status III. Proportion of adolescents who have access to contraceptives IV. Proportion of people receiving antiretroviral therapy who have viral suppression. Select the correct answer using the code given below.",
-      "options": ["1 and 4", "1 and 3", "2 and 3", "2 and 4"],
-      "correctAnswer": 3,
-      "explanation": "The UNAIDS 90:90:90 targets specify that 90% of people living with HIV should know their status, 90% of those diagnosed should receive sustained antiretroviral therapy, and 90% of those on treatment should achieve viral suppression. Safe sex practices and adolescent contraceptive access, while important public health goals, are not part of this specific three-tiered HIV care cascade target.",
-      "subject_keys": ["community_medicine", "microbiology"]
-    },
-    {
-      "id": 109,
-      "question": "The Sample Registration System (SRS), an important source of health information, consists of continuous enumeration of births and deaths by an enumerator and an independent survey every six months by an investigator-supervisor. Which one of the following terms best describes this system?",
-      "options": ["Dual-record system", "Triple-record system", "Double blinding", "Double data entry"],
-      "correctAnswer": 0,
-      "explanation": "The Sample Registration System is described as a dual-record system because it combines two independent data collection mechanisms, continuous enumeration by a resident enumerator and periodic independent retrospective surveys by a supervisor, which are then matched and reconciled to improve the accuracy of vital events data.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 110,
-      "question": "Cross-over type of study designs are those in which each patient serves as his/her own control. In which of the following conditions is a cross-over study not suitable? I. If the drug of interest cures the disease II. If the drug is effective during all stages of the disease III. If the disease changes radically during the period of time required for the study. Select the correct answer using the code given below.",
-      "options": ["1 only", "2 only", "2 and 3", "1 and 3"],
-      "correctAnswer": 3,
-      "explanation": "Cross-over studies are unsuitable when the drug being tested actually cures the disease, since a cured patient cannot subsequently be crossed over to the alternate treatment for later comparison, and are also unsuitable when the disease itself changes substantially over the study period, invalidating the assumption of a stable baseline condition needed for valid within-patient comparison. A drug being effective at all disease stages would actually support, rather than undermine, the feasibility of a cross-over design.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 111,
-      "question": "In which one of the following diseases are the source of infection and reservoir of infection the same?",
-      "options": ["Hookworm infection", "Cholera", "Tetanus", "Typhoid"],
-      "correctAnswer": 2,
-      "explanation": "For soil-based clostridial organisms such as Clostridium tetani, the environmental soil reservoir where the organism naturally persists as spores is itself also the direct source from which human wound contamination and infection occurs, making the reservoir and source effectively identical. This differs from diseases like typhoid and cholera, where epidemiological convention distinguishes the human carrier (reservoir) from the excreta/contaminated matter (source) that directly transmits infection.",
-      "subject_keys": ["microbiology", "community_medicine"]
-    },
-    {
-      "id": 112,
-      "question": "Which of the following statements are correct regarding Chikungunya fever? I. It is usually transmitted by Culex mosquito. II. A safe and effective vaccine is available for commercial use. III. Incubation period is 4-7 days. IV. One of the prominent symptoms is arthropathy. Select the correct answer using the code given below.",
-      "options": ["1 and 2 only", "1 and 4 only", "2 and 3 only", "3 and 4 only"],
-      "correctAnswer": 3,
-      "explanation": "Chikungunya has an incubation period typically cited as 4-7 days and is well known for causing prominent, often debilitating joint pain (arthropathy). It is transmitted chiefly by Aedes mosquitoes, not Culex, and while vaccine candidates have been in development, a widely available, established commercial vaccine has not historically been part of standard public health teaching for this disease.",
-      "subject_keys": ["microbiology", "community_medicine"]
-    },
-    {
-      "id": 113,
-      "question": "In which one of the following vector-borne diseases, the transmission chain is 'Man-Snail-Man'?",
-      "options": ["Fish tapeworm", "Malaria", "Onchocerciasis", "Schistosomiasis"],
-      "correctAnswer": 3,
-      "explanation": "Schistosomiasis has a life cycle in which infected humans release eggs in urine/feces that hatch into miracidia infecting freshwater snails (the intermediate host), which then release cercariae that penetrate human skin, completing a man-snail-man transmission cycle. This distinguishes it from other vector-borne diseases like malaria (mosquito vector) or onchocerciasis (blackfly vector).",
-      "subject_keys": ["microbiology", "community_medicine"]
-    },
-    {
-      "id": 114,
-      "question": "Which of the following mosquito-borne diseases are transmitted chiefly by Aedes mosquito? I. Dengue II. West Nile fever III. Yellow fever IV. Zika fever. Select the correct answer using the code given below.",
-      "options": ["1 and 3 only", "1, 2 and 3", "1, 3 and 4", "2 and 4 only"],
-      "correctAnswer": 2,
-      "explanation": "Dengue, yellow fever, and Zika virus are all classically transmitted by Aedes mosquitoes (particularly Aedes aegypti), which are daytime-biting, container-breeding mosquitoes. West Nile fever is instead transmitted chiefly by Culex mosquitoes, distinguishing its vector ecology from the other three diseases.",
-      "subject_keys": ["microbiology", "community_medicine"]
-    },
-    {
-      "id": 115,
-      "question": "Which one among the following is best defined as the interval of time between receipt of infection by a host and maximal infectivity of that host?",
-      "options": ["Generation time", "Latent period", "Incubation period", "Serial interval"],
-      "correctAnswer": 0,
-      "explanation": "Generation time is specifically defined as the time interval between a host acquiring infection and reaching maximal infectivity (i.e., peak ability to transmit the pathogen to others), an important epidemiological parameter distinct from incubation period, which instead refers to the time until symptom onset.",
-      "subject_keys": ["community_medicine", "microbiology"]
-    },
-    {
-      "id": 116,
-      "question": "Consider the following vaccines: I. BCG Vaccine II. Hepatitis B Vaccine III. Inactivated Polio Vaccine (IPV) IV. Oral Polio Vaccine (OPV). What is the correct order of the above vaccines as per their sensitivity to heat (most sensitive to least sensitive) given in the National Immunization Schedule (NIS)?",
-      "options": ["4→3→2→1", "2→1→3→4", "2→1→4→3", "4→3→1→2"],
-      "correctAnswer": 3,
-      "explanation": "Oral Polio Vaccine is generally recognized as the most heat-sensitive vaccine in the schedule, requiring the coldest storage conditions, followed in sensitivity by other live/lyophilized vaccines. There is some ambiguity in the exact relative ordering of BCG, Hepatitis B, and IPV depending on the specific classification source used, so this answer defers to the official key.",
-      "subject_keys": ["pediatrics", "community_medicine"]
-    },
-    {
-      "id": 117,
-      "question": "Exposure to gases is a common hazard in industries. The gases can be classified as simple, asphyxiating and anaesthetic gases. Which among the following are asphyxiating gases? I. Carbon monoxide II. Chloroform III. Cyanide gas IV. Hydrogen. Select the correct answer using the code given below.",
-      "options": ["1 and 3", "1 and 4", "2 and 3", "2 and 4"],
-      "correctAnswer": 0,
-      "explanation": "Carbon monoxide and cyanide gas are classic chemical asphyxiants that interfere with cellular oxygen utilization and hemoglobin oxygen-carrying capacity, causing tissue hypoxia despite adequate ambient oxygen. Chloroform is classified as an anaesthetic gas, while hydrogen, though capable of displacing oxygen as a simple asphyxiant in a different sub-classification, is grouped separately from this specific asphyxiant category in this question's framework.",
-      "subject_keys": ["community_medicine", "forensic_medicine"]
-    },
-    {
-      "id": 118,
-      "question": "The Employees State Insurance Act, 1948 of India provides for certain benefits to employees. Which among the following are benefits to insured persons or to other dependents under the Act? I. Disablement benefit II. Funeral expenses III. Maternity benefit IV. Travel benefit. Select the correct answer using the code given below.",
-      "options": ["1 and 3 only", "2 and 4 only", "1, 2 and 3 only", "1, 2, 3 and 4"],
-      "correctAnswer": 2,
-      "explanation": "The ESI Act, 1948 provides insured persons and their dependents with disablement benefit, funeral expenses, and maternity benefit, along with other benefits like medical, sickness, and dependents' benefits. Travel benefit is not among the recognized entitlements provided under this social security legislation.",
-      "subject_keys": ["community_medicine"]
-    },
-    {
-      "id": 119,
-      "question": "Which among the following vaccines best represent interventions that focus on cancer prevention too? I. Hepatitis A vaccine II. Hepatitis B vaccine III. Hemophilus influenzae B vaccine IV. Human papilloma virus vaccine. Select the correct answer using the code given below.",
-      "options": ["1 and 2", "2 and 3", "2 and 4", "1 and 4"],
-      "correctAnswer": 2,
-      "explanation": "The Hepatitis B vaccine prevents chronic HBV infection, a major cause of hepatocellular carcinoma, while the HPV vaccine directly prevents infection with oncogenic HPV strains responsible for cervical and other anogenital/oropharyngeal cancers. Hepatitis A and Hib vaccines, while important for preventing their respective infectious diseases, are not primarily recognized as cancer-preventive interventions.",
-      "subject_keys": ["community_medicine", "microbiology"]
-    },
-    {
-      "id": 120,
-      "question": "Consider the following statements: Statement-I: While calculating the number of expected pregnancies per year in an area, a correction factor (usually 10%) is added to the expected number of live births in the year in the area. Statement-II: All the pregnancies in the area may not be registered by the health worker in the area. Which one of the following is correct in respect of the above statements?",
-      "options": ["Statement-I and Statement-II are independently correct, and Statement-II is a correct explanation for Statement-I", "Statement-I and Statement-II are independently correct, but Statement-II is not a correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
-      "correctAnswer": 0,
-      "explanation": "A correction factor is conventionally added to expected live births to estimate total expected pregnancies, accounting for pregnancies ending in miscarriage, stillbirth, or induced abortion that would not be captured as live births. This correction is specifically necessary because such pregnancy losses, along with some live births, may go unregistered by health workers in the community, making Statement-II a valid explanation for the practice described in Statement-I.",
-      "subject_keys": ["community_medicine", "obstetrics_and_gynecology"]
-    }
+  {
+    "id": 65,
+    "question": "During delivery of HIV infected women, which of the following are recommended? I. Zidovudine (ZDV) is given at the onset of labour. II. Elective caesarean delivery reduces the risk of vertical transmission. III. Amniotomy and oxytocin augmentation should be done. IV. Antiretroviral therapy should be given to all neonates. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Intrapartum zidovudine, elective caesarean section (which reduces exposure to maternal blood/secretions), and neonatal antiretroviral prophylaxis are all established measures to reduce mother-to-child HIV transmission. Amniotomy and oxytocin augmentation should be avoided as they increase the duration of fetal exposure to infected maternal fluids, raising transmission risk.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "microbiology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 66,
+    "question": "Which of the following can be a complication in the baby due to post maturity of pregnancy? I. Meconium aspiration II. Hypoglycemia III. Intra ventricular haemorrhage IV. Polycythemia. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Postmature infants are at risk of meconium aspiration syndrome, hypoglycemia (from placental insufficiency depleting glycogen stores), and polycythemia (compensatory response to chronic placental hypoxia). Intraventricular hemorrhage is characteristically a complication of prematurity due to fragile germinal matrix vasculature, not postmaturity.",
+    "subject_keys": [
+      "pediatrics",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 67,
+    "question": "Intrahepatic cholestasis of pregnancy presents with which of the following features? I. Pruritus after 28 weeks gestation, especially in palms and soles II. Serum bilirubin levels > 5 mg% III. Raised levels of serum bile acids IV. Features subside within two weeks postpartum. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Intrahepatic cholestasis of pregnancy classically presents with third-trimester pruritus involving palms and soles, elevated serum bile acids (the diagnostic hallmark), and rapid resolution of symptoms after delivery. Bilirubin elevation is typically mild, usually staying below 5 mg%, so marked elevation above this threshold is not a typical feature.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 68,
+    "question": "Which of the following are blood values of Iron Deficiency Anaemia? I. Serum iron is less than 30 µgm/100 mL II. Total iron binding capacity is less than 400 µgm/dL III. Percentage saturation is 10% or less IV. Serum ferritin is below 30 µgm/L. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iron deficiency anemia is characterized by low serum iron, low transferrin saturation (typically ≤10%), and low serum ferritin reflecting depleted iron stores. Total iron binding capacity is actually increased (not decreased) in iron deficiency, as the body upregulates transferrin production in an attempt to capture more iron, making statement II incorrect.",
+    "subject_keys": [
+      "general_medicine",
+      "pathology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 69,
+    "question": "Clinical features of an infant with Fetal growth retardation at birth include which of the following? I. Physical features give 'an old man look'. II. Baby is alert, reflexes are normal. III. There is presence of weight deficit. IV. Thick fat accumulates around shoulders of baby. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Infants with fetal growth restriction classically have a wizened, 'old man' appearance, remain alert with normal reflexes despite their small size, and demonstrate weight deficit relative to gestational age. These babies characteristically have diminished (not increased) subcutaneous fat, giving loose, wrinkled skin rather than thick fat accumulation, making statement IV incorrect.",
+    "subject_keys": [
+      "pediatrics",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 70,
+    "question": "Which of the following are correct regarding 'Chhaya' contraceptive? I. It has potent anti-estrogenic and weak estrogenic property. II. Failure rate is 1-4 per HWY (Hundred Women Years) of use. III. It inhibits ovulation. IV. It creates asynchrony between zygote and endometrium. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chhaya (centchroman) is a non-steroidal, non-hormonal contraceptive with potent anti-estrogenic and weak estrogenic activity that works by creating asynchrony between the developing zygote and the endometrium, preventing implantation, with a documented failure rate in the range described. It does not act by inhibiting ovulation, which is a distinguishing feature from conventional hormonal contraceptives, making statement III incorrect.",
+    "subject_keys": [
+      "pharmacology",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 71,
+    "question": "Which of the following are examples of LARC (Long Acting Reversible Contraceptives)? I. Copper-T 380A II. Implants III. LNG-IUS. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "LARCs include intrauterine devices (both copper-based like Copper-T 380A and hormonal like the levonorgestrel intrauterine system) as well as subdermal implants, all of which provide highly effective, reversible contraception without requiring frequent user action. All three listed methods are recognized as LARCs.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pharmacology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 72,
+    "question": "How many times in a year does withdrawal bleeding occur in extended continuous regimens of combined oral contraceptive pills?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Extended-cycle combined oral contraceptive regimens are designed to reduce the frequency of withdrawal bleeding compared to standard monthly regimens. There is some ambiguity here depending on the specific regimen's active-pill/placebo interval used as reference, as commonly described 91-day extended-cycle regimens can also be cited as producing approximately 4 withdrawal bleeds per year; this answer defers to the key given this variation in source material.",
+    "subject_keys": [
+      "pharmacology",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 73,
+    "question": "Bilateral total salpingectomy is recommended surgical procedure to reduce the risk of:",
+    "options": [
+      "Epithelial ovarian cancer",
+      "Uterine cancer",
+      "Fallopian tube cancer",
+      "Peritoneal cancer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Note: the official key marks option (c) fallopian tube cancer, but the clinically significant and widely publicized benefit of opportunistic bilateral salpingectomy is reduction in epithelial (particularly high-grade serous) ovarian cancer risk, since current evidence indicates most of these cancers actually originate in the fallopian tube fimbriae. This is the primary rationale behind recommending the procedure during other pelvic surgeries, making option (a) medically more accurate as the intended clinical benefit.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_surgery"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 74,
+    "question": "Tongue bite occurs in eclampsia at:",
+    "options": [
+      "Tonic stage",
+      "Clonic stage",
+      "Coma stage",
+      "Postictal stage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "During the clonic phase of an eclamptic (or any generalized tonic-clonic) seizure, rhythmic contraction and relaxation of the jaw muscles causes the tongue to be repeatedly bitten. The tonic phase involves sustained muscle contraction without the rhythmic jaw movement needed to cause tongue biting.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 75,
+    "question": "Indication for removal of IUDs include which of the following? I. Perforation of uterus II. Pregnancy with device in situ III. One year after menopause IV. Persistent migraine. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recognized indications for IUD removal include uterine perforation, pregnancy occurring with the device still in situ (to reduce risk of septic abortion when strings are accessible), and confirmed menopause (typically removed one year after the last menstrual period). Persistent migraine, particularly with aura, is generally a concern specific to estrogen-containing methods rather than an indication requiring removal of an IUD, which is a local, largely non-systemic device.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 76,
+    "question": "Which of the following are the absolute contraindications for the use of combined oral contraceptive pills? I. Severe hypertension II. Pregnancy III. Diabetes with retinopathy IV. Gall bladder disease. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Severe hypertension, pregnancy, and diabetes with vascular complications like retinopathy are all absolute contraindications to combined oral contraceptives due to the elevated risk of thromboembolic and cardiovascular complications. Gallbladder disease is considered a relative rather than absolute contraindication for COC use.",
+    "subject_keys": [
+      "pharmacology",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 77,
+    "question": "A 27-year-old recently married female comes to family planning clinic requesting for long term reversible contraception. Which one of the following is the best suited option for her?",
+    "options": [
+      "Combined oral contraceptives",
+      "Diaphragm",
+      "Nexplanon",
+      "Chhaya"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Note: the official key marks option (a) combined oral contraceptives, but Nexplanon, a subdermal contraceptive implant, is a true long-acting reversible contraceptive (LARC) providing highly effective, low-maintenance protection for up to 3 years with rapid return of fertility upon removal. Combined oral contraceptives require daily compliance and do not fit the definition of \"long term\" contraception, making option (c) medically more appropriate for this patient's stated request.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pharmacology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 78,
+    "question": "Which one of the following is an indication for cold knife conisation?",
+    "options": [
+      "Treatment of Nabothian follicle on ectocervix",
+      "Inconsistent findings of colposcopy, cytology and directed biopsy",
+      "Negative endocervical curettage",
+      "Squamous cell carcinoma cervix stage IIA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cold knife conisation is indicated when there is a discrepancy between colposcopic impression, cytology (Pap smear), and directed biopsy results, or when the entire transformation zone or endocervical extent of a lesion cannot be adequately visualized, to obtain a definitive histological diagnosis. It is a diagnostic and sometimes therapeutic procedure for cervical intraepithelial neoplasia, not a treatment for benign Nabothian cysts or invasive cervical cancer.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 79,
+    "question": "Which of the following statements are correct regarding female sterilization? I. It can be done 24-48 hours following delivery. II. Ideal time for interval ligation is luteal phase preceding menstruation. III. It can be combined with medical termination of pregnancy. IV. It is a preventive measure against serous ovarian cancer. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Postpartum sterilization is commonly performed within 24-48 hours of delivery, sterilization can be combined with medical termination of pregnancy, and tubal ligation is associated with a reduced long-term risk of serous ovarian cancer by interrupting the fallopian tube pathway implicated in its origin. The ideal timing for interval (non-postpartum) tubal ligation is actually the early follicular/proliferative phase, to minimize the chance of ligating a fallopian tube containing an early undetected pregnancy, not the luteal phase preceding menstruation.",
+    "subject_keys": [
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 80,
+    "question": "The most popular technique of tubal ligation is:",
+    "options": [
+      "Madlener Operation",
+      "Pomeroy Technique",
+      "Uchida method",
+      "Cornual resection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Pomeroy technique, involving ligation and excision of a loop of fallopian tube, is the most widely used and popular method of tubal ligation worldwide due to its simplicity, effectiveness, and low complication rate. The Madlener and Uchida methods, while historically described, are used far less frequently in current practice.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "general_surgery"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 81,
+    "question": "Which one of the following is defined as \"the average number of children a woman would have if she were to pass through her reproductive years, bearing children at the same rates as the women now in each age group\"?",
+    "options": [
+      "Age-Specific Fertility Rate (ASFR)",
+      "General Fertility Rate (GFR)",
+      "Net Reproduction Rate (NRR)",
+      "Total Fertility Rate (TFR)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Total Fertility Rate (TFR) is precisely defined as the average number of children a woman would bear over her reproductive lifespan if she experienced the current age-specific fertility rates throughout her childbearing years. It is a widely used summary measure of a population's fertility level, distinct from the Net Reproduction Rate which additionally accounts for female mortality.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 82,
+    "question": "Which among the following is correct about yellow fever vaccination requirement for international travellers? I. Term of validity of the certificate is changed from 10 years to the duration of the life of the vaccinated person, some years ago. II. Lifetime validity of the certificate applies automatically to all existing and new certificates. III. Validity of the certificate begins 4 days after vaccination. IV. In India, booster dose of yellow fever vaccine is required for those whose certificate is prior to the year 2016. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 3",
+      "2 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Under the 2016 amendment to International Health Regulations, yellow fever vaccination certificate validity was extended from 10 years to the lifetime of the vaccinated person, and this change applies retroactively to all previously issued certificates as well as new ones. Certificate validity actually begins 10 days after vaccination (not 4 days), and since immunity is now considered lifelong after a single dose, no booster is required regardless of when the original certificate was issued.",
+    "subject_keys": [
+      "community_medicine",
+      "microbiology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 83,
+    "question": "Regarding active immunization against Typhoid fever, consider the following statements: I. The typhoid polysaccharide vaccine is injectable and can be given subcutaneously or intramuscularly. II. The typhoid polysaccharide vaccine is required to be given in two doses and administered on 0 and 7th day. III. The typhoid oral Ty21a vaccine requires to be given in three doses on 0, 3rd and 7th days. IV. Protective immunity with typhoid vaccines is achieved immediately after the vaccine is received. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1, 3 and 4",
+      "1 and 2 only",
+      "2 only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Vi capsular polysaccharide typhoid vaccine is indeed given as a single injectable dose (subcutaneously or intramuscularly), unlike the two-dose schedule stated. The oral Ty21a vaccine actually requires four doses on alternate days, and protective immunity from either vaccine takes one to two weeks to develop rather than being immediate, making only statement I correct.",
+    "subject_keys": [
+      "community_medicine",
+      "microbiology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 84,
+    "question": "Which of the following statements are correct regarding Mantoux test for tuberculosis? I. It entails injecting 1 TU (Tuberculin Unit) of PPD (Purified Protein Derivative) in 0.1 mL intradermally. II. The injection should be given with the needle bevel facing downward. III. When placed correctly, the injection should produce a pale wheal of the skin, 1-2 mm in diameter. IV. The injection should be given with a tuberculin syringe. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "1 and 4",
+      "2 and 3",
+      "2 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Mantoux test correctly involves intradermal injection of 0.1 mL of PPD tuberculin using a dedicated tuberculin syringe. The needle bevel should face upward (not downward) for proper intradermal placement, and a correctly placed injection produces a much larger pale wheal, typically 6-10 mm in diameter, not the 1-2 mm stated.",
+    "subject_keys": [
+      "microbiology",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 85,
+    "question": "Which one among the following types of ventilation, best fits the following description - \"A system of ventilation in which fresh air is blown into the room by centrifugal fans so as to create a positive pressure, and displace the vitiated air\"?",
+    "options": [
+      "Exhaust ventilation",
+      "Balanced ventilation",
+      "Natural ventilation",
+      "Plenum ventilation"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Plenum (or supply) ventilation uses mechanical fans to actively push fresh air into an enclosed space, creating positive pressure that pushes out the vitiated air. This contrasts with exhaust ventilation, which mechanically removes stale air to create negative pressure that draws in fresh air.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 86,
+    "question": "The 'Nalgonda Technique' developed by the National Environmental Engineering Research Institute (NEERI) was developed primarily for the removal of which one of the following from water?",
+    "options": [
+      "Asbestos",
+      "Fluorine",
+      "Chlorine",
+      "Iron"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Nalgonda technique, developed by NEERI, uses alum, lime, and bleaching powder for the defluoridation of drinking water, addressing endemic fluorosis in regions with high fluoride content in groundwater, such as Nalgonda district in Telangana. It remains a widely adopted low-cost method for community-level fluoride removal in India.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 87,
+    "question": "Smoking is considered to be a modifiable risk factor for Coronary Heart Disease. Consider the following statements with regard to possible mechanisms on the basis of which it acts as a risk factor: I. Nicotine stimulation of adrenergic drive raises the blood pressure and myocardial oxygen demand. II. It increases carbon monoxide and induces atherogenesis. III. It leads to fall in protective high density lipoproteins. IV. It reduces the apolipoprotein-B plasma levels. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Smoking contributes to coronary heart disease through nicotine-induced adrenergic stimulation raising blood pressure and cardiac oxygen demand, carbon monoxide-induced atherogenesis, and reduction in protective HDL cholesterol levels. Smoking actually increases (not reduces) apolipoprotein-B, a component of atherogenic lipoproteins like LDL, making statement IV incorrect.",
+    "subject_keys": [
+      "community_medicine",
+      "general_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 88,
+    "question": "The expected outcome of Government of India's initiative 'SUMAN' is:",
+    "options": [
+      "Zero preventable maternal and newborn deaths",
+      "Limit preventable maternal and newborn deaths to between 0.5-1%",
+      "Limit preventable maternal and newborn deaths to between 1-2%",
+      "Limit preventable maternal and newborn deaths to between 2-5%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Surakshit Matritva Aashwasan (SUMAN), launched by the Government of India, aims to provide assured, dignified, and quality healthcare at no cost for pregnant women, mothers, and newborns, with the explicit goal of achieving zero preventable maternal and newborn deaths. This zero-preventable-death target is the scheme's defining aspirational outcome.",
+    "subject_keys": [
+      "community_medicine",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 89,
+    "question": "Water contamination with high content of which chemical can lead to methaemoglobinaemia?",
+    "options": [
+      "Cyanide",
+      "Nitrate",
+      "Fluoride",
+      "Sulphide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Excess nitrate in drinking water, when converted to nitrite by gut bacteria (particularly in infants), oxidizes hemoglobin's ferrous iron to the ferric state, forming methemoglobin that cannot carry oxygen, causing methemoglobinemia (\"blue baby syndrome\"). This is a well-recognized public health concern in areas with nitrate-contaminated groundwater from agricultural runoff or sewage.",
+    "subject_keys": [
+      "community_medicine",
+      "pediatrics"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 90,
+    "question": "With reference to human body's requirement for proteins, they are essential because they are: I. a key supply source for energy. II. required for maintenance of osmotic pressure within the intravascular compartment. III. critical for upkeep of cell mediated immune response. IV. vital for the synthesis of certain hormones. Which of the statements given above are correct?",
+    "options": [
+      "1, 3 and 4",
+      "1, 2 and 4",
+      "2, 3 and 4",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Proteins maintain plasma oncotic pressure (via albumin), support cell-mediated immunity (via antibodies and immune cell function), and serve as precursors for peptide hormone synthesis. Proteins are not a primary energy source under normal physiological conditions, that role being served by carbohydrates and fats, making statement I incorrect.",
+    "subject_keys": [
+      "biochemistry",
+      "physiology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 91,
+    "question": "Which food proteins among the following are considered to be the best and are used in nutritional studies as 'reference protein'?",
+    "options": [
+      "Milk proteins",
+      "Egg proteins",
+      "Wheat proteins",
+      "Legume proteins"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Egg protein has the highest biological value among common food proteins and contains all essential amino acids in proportions closely matching human requirements, making it the standard 'reference protein' against which other dietary proteins are compared in nutritional studies. This high-quality amino acid profile makes it ideal for such comparative assessments.",
+    "subject_keys": [
+      "biochemistry",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 92,
+    "question": "Consider the following statements with reference to 'trans fatty acids': I. They are geometrical isomers of cis-unsaturated fatty acids. II. Though atherogenic, being unsaturated they are less so than saturated fatty acids. III. It takes years for trans fatty acids to be flushed from the body. IV. They lower both LDL cholesterol and HDL cholesterol in the body. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trans fatty acids are geometrical (trans) isomers of naturally occurring cis-unsaturated fatty acids and, being incorporated into cell membranes, take a prolonged period to be metabolized and cleared from the body. Despite being unsaturated, trans fats are actually as atherogenic as, or more atherogenic than, saturated fats, and they raise LDL cholesterol while lowering HDL cholesterol, rather than lowering both, making statements II and IV incorrect.",
+    "subject_keys": [
+      "biochemistry",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 93,
+    "question": "Consider the following disorders: I. Delayed motor milestones II. Extrapyramidal spasticity III. Nyctalopia IV. Hearing defects. Which of the above disorders occur as part of the spectrum of iodine deficiency disorders?",
+    "options": [
+      "1, 2 and 3",
+      "1, 3 and 4",
+      "2, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Neurological cretinism, a manifestation of severe iodine deficiency disorder, includes delayed motor milestones, extrapyramidal signs like spasticity, and sensorineural deafness/hearing defects due to impaired thyroid hormone-dependent brain development. Nyctalopia (night blindness) is characteristically associated with vitamin A deficiency, not iodine deficiency, making statement III incorrect.",
+    "subject_keys": [
+      "community_medicine",
+      "pediatrics"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 94,
+    "question": "With reference to occupational cancers, consider the following statements: I. Skin cancer is a common occupational hazard in workers employed in nickel and chromium work. II. Cancer bladder is an occupational hazard in workers employed in dye-stuffs and dyeing industry. III. Leukaemia can occur on long exposure to benzol. IV. Lung cancer is typically found in workers employed in electric cable industries. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1 and 4 only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bladder cancer from aromatic amine exposure in the dye and dyeing industry, and leukemia from prolonged benzene (benzol) exposure, are both well-established classic occupational cancer associations. Skin cancer is more classically linked to occupational exposure to tar, soot, mineral oils, and arsenic rather than nickel/chromium specifically, and lung cancer in the electric cable industry is not a standard recognized occupational cancer association.",
+    "subject_keys": [
+      "community_medicine",
+      "pathology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 95,
+    "question": "If, on amniocentesis, the alpha fetoprotein is found to be elevated in the amniotic fluid, which defect/disorder is the foetus likely to harbour?",
+    "options": [
+      "Cardiac septal defects",
+      "Neural tube defects",
+      "Duchenne muscular dystrophy",
+      "Galactosaemia"
+    ],
+    "affirmedNote": "",
+    "correctAnswer": 1,
+    "explanation": "Elevated amniotic fluid alpha-fetoprotein is classically associated with open neural tube defects (such as spina bifida and anencephaly) as well as other ventral wall defects, due to leakage of fetal serum proteins into the amniotic fluid through the exposed neural tissue or defect. This finding prompts further evaluation with detailed ultrasound to confirm the diagnosis.",
+    "subject_keys": [
+      "obstetrics_and_gynecology",
+      "pediatrics"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 96,
+    "question": "Which of the following are domains (or types) of learning? I. Affective learning II. Cognitive learning III. Physiological learning IV. Psychomotor learning. Select the correct answer using the code given below.",
+    "options": [
+      "1, 3 and 4",
+      "2, 3 and 4",
+      "1, 2 and 3",
+      "1, 2 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bloom's taxonomy classically identifies three domains of learning: cognitive (knowledge/thinking), affective (attitudes/emotions), and psychomotor (physical skills). \"Physiological learning\" is not a recognized domain within this widely used educational framework.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 97,
+    "question": "Which of the following are beneficiaries of services provided under the Integrated Child Development Scheme (ICDS)? I. Adolescent boys II. Adolescent girls III. Pregnant women IV. Children less than 6 years of age. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ICDS provides services to children under 6 years, pregnant and lactating women, and adolescent girls (through specific components like the Scheme for Adolescent Girls). Adolescent boys are not designated beneficiaries under the ICDS framework, which specifically targets the identified vulnerable groups.",
+    "subject_keys": [
+      "community_medicine",
+      "pediatrics"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 98,
+    "question": "Which of the following correctly represent the three critical determinants of a healthy facility being declared as a First Referral Unit (FRU)? I. Availability of emergency obstetric surgical interventions II. Availability of immunization services III. Blood storage facility IV. Newborn care. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 3 and 4",
+      "1, 2 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A First Referral Unit is defined by the availability of emergency obstetric surgical care (including caesarean section), a functional blood storage/transfusion facility, and round-the-clock newborn care services. Routine immunization services, while important, are not one of the three specific criteria used to designate a facility as an FRU.",
+    "subject_keys": [
+      "community_medicine",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 99,
+    "question": "What is the correct increasing order of minimum age at which the following vaccines are administered to a child, as part of the National Immunization Schedule (NIS) after birth of child? I. BCG vaccine II. Japanese Encephalitis (JE) vaccine III. Rotavirus vaccine IV. Tetanus and adult diphtheria (Td) vaccine. Select the correct answer using the code given below.",
+    "options": [
+      "1→2→3→4",
+      "1→3→2→4",
+      "2→3→4→1",
+      "3→1→4→2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Per the National Immunization Schedule, BCG is given at birth, Rotavirus vaccine begins at 6 weeks, JE vaccine is given at 9-12 months, and Td vaccine is administered at 10 and 16 years. This produces the increasing age order: BCG, then Rotavirus, then JE, then Td.",
+    "subject_keys": [
+      "pediatrics",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 100,
+    "question": "Under the National Leprosy Eradication Programme, ASHAs have been entrusted to carry out which of the following activities? I. ASHAs are to search for suspected cases of leprosy in their villages and take them to the PHCs for diagnosis and treatment. II. ASHAs arrange an amount of ₹5,000 as an incentive to each leprosy affected person in their village for undergoing reconstructive surgery. III. ASHAs ensure that each leprosy affected person in their village receives micro-cellular rubber footwear for protection of insensitive feet. IV. ASHAs follow up all confirmed cases of leprosy in their village to ensure their treatment completion. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "3 and 4 only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Core ASHA responsibilities under the National Leprosy Eradication Programme include actively searching for suspected leprosy cases in the community and referring them for diagnosis/treatment, as well as following up confirmed cases to ensure treatment completion. The specific incentive disbursement and footwear provision described are more accurately roles of the broader health system/facility rather than direct ASHA-arranged activities as worded.",
+    "subject_keys": [
+      "community_medicine",
+      "dermatology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 101,
+    "question": "The cost of implementation of 'Ayushman Bharat Pradhan Mantri Jan Arogya Yojana' is borne by:",
+    "options": [
+      "Central Government only",
+      "State Government only",
+      "Both Central Government and State Government",
+      "Private institutions only as a part of their Corporate Social Responsibility"
+    ],
+    "affirmedNote": "",
+    "correctAnswer": 2,
+    "explanation": "Ayushman Bharat PM-JAY is funded through a cost-sharing arrangement between the Central and State Governments, with the typical funding ratio being 60:40 for most states and 90:10 for northeastern and hilly states. This joint funding model supports the scheme's implementation nationwide.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 102,
+    "question": "All of the following are dashboard indicators used for monitoring of India Newborn Action Plan (INAP). Which one of them is an 'impact level indicator'?",
+    "options": [
+      "Caesarean section rate",
+      "Neonatal mortality rate",
+      "Exclusive breastfeeding rate",
+      "Percentage of preterm births"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neonatal mortality rate is the classic impact-level indicator for newborn health programs, directly reflecting the ultimate health outcome that interventions aim to improve. Caesarean section rate and exclusive breastfeeding rate are typically classified as process or coverage indicators rather than impact indicators.",
+    "subject_keys": [
+      "community_medicine",
+      "pediatrics"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 103,
+    "question": "Which of the following are health education models? I. Medical model II. Motivation model III. Persuasion model IV. Social intervention model. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The medical, motivation, and social intervention (or social change) models are commonly cited approaches to health education in public health literature. There is some overlap in classification systems across textbooks regarding the persuasion model's status as a distinct category, which may account for its exclusion here.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 104,
+    "question": "Who among the following has two general phases - first, simple pneumoconiosis and a second phase characterized by progressive massive fibrosis (PMF)?",
+    "options": [
+      "Anthracosis",
+      "Bagassosis",
+      "Byssinosis",
+      "Siderosis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coal worker's pneumoconiosis (anthracosis) classically progresses through an initial simple pneumoconiosis stage to a more severe complicated stage characterized by progressive massive fibrosis, distinguishing it from other occupational lung diseases. This two-phase progression is a hallmark feature used to describe disease severity and prognosis in affected coal miners.",
+    "subject_keys": [
+      "community_medicine",
+      "general_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 105,
+    "question": "Consider the following statements about correlation between two variables: I. The correlation is done between an independent variable X and a dependent Y. II. The coefficient of correlation can range from -1 to ∞. III. If coefficient of correlation (r) is equal to 1, it indicates there is no association between X and Y. IV. Correlation does not necessarily prove causation. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "4 only",
+      "1, 2 and 3",
+      "1 and 4 only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Correlation coefficients range only from -1 to +1, and a coefficient of +1 indicates a perfect positive association, not an absence of association, making statements II and III incorrect. Correlation, unlike regression, does not require designation of independent and dependent variables and, importantly, correlation alone never proves a causal relationship between the variables studied.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 106,
+    "question": "With regard to lead poisoning, consider the following statements: I. Coproporphyrin in urine is a useful screening test. II. Hand washing before eating is an important measure of personal hygiene. III. The use of d-penicillamine has been reported to be effective in management. How many of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "All three",
+      "None"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Urinary coproporphyrin is a recognized screening test for lead exposure, handwashing before eating is an important preventive measure to reduce ingestion of lead-contaminated dust/soil, and d-penicillamine is a chelating agent used in the management of lead poisoning. All three statements accurately describe recognized aspects of lead poisoning prevention and treatment.",
+    "subject_keys": [
+      "community_medicine",
+      "pharmacology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 107,
+    "question": "A water body was inspected to look for the presence of mosquito eggs. It was observed that there were boat-shaped eggs, laid singly, not in clusters. The eggs also had lateral floats. Which one of the following diseases is most likely to be spread by the mosquito whose eggs were found?",
+    "options": [
+      "Chikungunya fever",
+      "Dengue fever",
+      "Japanese encephalitis",
+      "Malaria"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Anopheles mosquito eggs are distinctively boat-shaped, laid singly (not in rafts or clusters) on the water surface, and possess characteristic lateral floats that help keep them afloat. Anopheles is the vector for malaria, distinguishing it from Aedes (dengue, chikungunya) and Culex (Japanese encephalitis) mosquitoes, whose eggs have different morphological characteristics.",
+    "subject_keys": [
+      "microbiology",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 108,
+    "question": "In the National Health Policy 2017, a target of 90:90:90 has been set for HIV/AIDS. Which among the following are targets for which a 90% level has been set as part of 90:90:90 for HIV/AIDS? I. Proportion of couples who have safe sex II. Proportion of people living with HIV who know their HIV status III. Proportion of adolescents who have access to contraceptives IV. Proportion of people receiving antiretroviral therapy who have viral suppression. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 4",
+      "1 and 3",
+      "2 and 3",
+      "2 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The UNAIDS 90:90:90 targets specify that 90% of people living with HIV should know their status, 90% of those diagnosed should receive sustained antiretroviral therapy, and 90% of those on treatment should achieve viral suppression. Safe sex practices and adolescent contraceptive access, while important public health goals, are not part of this specific three-tiered HIV care cascade target.",
+    "subject_keys": [
+      "community_medicine",
+      "microbiology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 109,
+    "question": "The Sample Registration System (SRS), an important source of health information, consists of continuous enumeration of births and deaths by an enumerator and an independent survey every six months by an investigator-supervisor. Which one of the following terms best describes this system?",
+    "options": [
+      "Dual-record system",
+      "Triple-record system",
+      "Double blinding",
+      "Double data entry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Sample Registration System is described as a dual-record system because it combines two independent data collection mechanisms, continuous enumeration by a resident enumerator and periodic independent retrospective surveys by a supervisor, which are then matched and reconciled to improve the accuracy of vital events data.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 110,
+    "question": "Cross-over type of study designs are those in which each patient serves as his/her own control. In which of the following conditions is a cross-over study not suitable? I. If the drug of interest cures the disease II. If the drug is effective during all stages of the disease III. If the disease changes radically during the period of time required for the study. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "2 and 3",
+      "1 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cross-over studies are unsuitable when the drug being tested actually cures the disease, since a cured patient cannot subsequently be crossed over to the alternate treatment for later comparison, and are also unsuitable when the disease itself changes substantially over the study period, invalidating the assumption of a stable baseline condition needed for valid within-patient comparison. A drug being effective at all disease stages would actually support, rather than undermine, the feasibility of a cross-over design.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 111,
+    "question": "In which one of the following diseases are the source of infection and reservoir of infection the same?",
+    "options": [
+      "Hookworm infection",
+      "Cholera",
+      "Tetanus",
+      "Typhoid"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For soil-based clostridial organisms such as Clostridium tetani, the environmental soil reservoir where the organism naturally persists as spores is itself also the direct source from which human wound contamination and infection occurs, making the reservoir and source effectively identical. This differs from diseases like typhoid and cholera, where epidemiological convention distinguishes the human carrier (reservoir) from the excreta/contaminated matter (source) that directly transmits infection.",
+    "subject_keys": [
+      "microbiology",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 112,
+    "question": "Which of the following statements are correct regarding Chikungunya fever? I. It is usually transmitted by Culex mosquito. II. A safe and effective vaccine is available for commercial use. III. Incubation period is 4-7 days. IV. One of the prominent symptoms is arthropathy. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "3 and 4 only"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Chikungunya has an incubation period typically cited as 4-7 days and is well known for causing prominent, often debilitating joint pain (arthropathy). It is transmitted chiefly by Aedes mosquitoes, not Culex, and while vaccine candidates have been in development, a widely available, established commercial vaccine has not historically been part of standard public health teaching for this disease.",
+    "subject_keys": [
+      "microbiology",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 113,
+    "question": "In which one of the following vector-borne diseases, the transmission chain is 'Man-Snail-Man'?",
+    "options": [
+      "Fish tapeworm",
+      "Malaria",
+      "Onchocerciasis",
+      "Schistosomiasis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Schistosomiasis has a life cycle in which infected humans release eggs in urine/feces that hatch into miracidia infecting freshwater snails (the intermediate host), which then release cercariae that penetrate human skin, completing a man-snail-man transmission cycle. This distinguishes it from other vector-borne diseases like malaria (mosquito vector) or onchocerciasis (blackfly vector).",
+    "subject_keys": [
+      "microbiology",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 114,
+    "question": "Which of the following mosquito-borne diseases are transmitted chiefly by Aedes mosquito? I. Dengue II. West Nile fever III. Yellow fever IV. Zika fever. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1, 3 and 4",
+      "2 and 4 only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dengue, yellow fever, and Zika virus are all classically transmitted by Aedes mosquitoes (particularly Aedes aegypti), which are daytime-biting, container-breeding mosquitoes. West Nile fever is instead transmitted chiefly by Culex mosquitoes, distinguishing its vector ecology from the other three diseases.",
+    "subject_keys": [
+      "microbiology",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 115,
+    "question": "Which one among the following is best defined as the interval of time between receipt of infection by a host and maximal infectivity of that host?",
+    "options": [
+      "Generation time",
+      "Latent period",
+      "Incubation period",
+      "Serial interval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Generation time is specifically defined as the time interval between a host acquiring infection and reaching maximal infectivity (i.e., peak ability to transmit the pathogen to others), an important epidemiological parameter distinct from incubation period, which instead refers to the time until symptom onset.",
+    "subject_keys": [
+      "community_medicine",
+      "microbiology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 116,
+    "question": "Consider the following vaccines: I. BCG Vaccine II. Hepatitis B Vaccine III. Inactivated Polio Vaccine (IPV) IV. Oral Polio Vaccine (OPV). What is the correct order of the above vaccines as per their sensitivity to heat (most sensitive to least sensitive) given in the National Immunization Schedule (NIS)?",
+    "options": [
+      "4→3→2→1",
+      "2→1→3→4",
+      "2→1→4→3",
+      "4→3→1→2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Oral Polio Vaccine is generally recognized as the most heat-sensitive vaccine in the schedule, requiring the coldest storage conditions, followed in sensitivity by other live/lyophilized vaccines. There is some ambiguity in the exact relative ordering of BCG, Hepatitis B, and IPV depending on the specific classification source used, so this answer defers to the official key.",
+    "subject_keys": [
+      "pediatrics",
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 117,
+    "question": "Exposure to gases is a common hazard in industries. The gases can be classified as simple, asphyxiating and anaesthetic gases. Which among the following are asphyxiating gases? I. Carbon monoxide II. Chloroform III. Cyanide gas IV. Hydrogen. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 3",
+      "1 and 4",
+      "2 and 3",
+      "2 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbon monoxide and cyanide gas are classic chemical asphyxiants that interfere with cellular oxygen utilization and hemoglobin oxygen-carrying capacity, causing tissue hypoxia despite adequate ambient oxygen. Chloroform is classified as an anaesthetic gas, while hydrogen, though capable of displacing oxygen as a simple asphyxiant in a different sub-classification, is grouped separately from this specific asphyxiant category in this question's framework.",
+    "subject_keys": [
+      "community_medicine",
+      "forensic_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 118,
+    "question": "The Employees State Insurance Act, 1948 of India provides for certain benefits to employees. Which among the following are benefits to insured persons or to other dependents under the Act? I. Disablement benefit II. Funeral expenses III. Maternity benefit IV. Travel benefit. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ESI Act, 1948 provides insured persons and their dependents with disablement benefit, funeral expenses, and maternity benefit, along with other benefits like medical, sickness, and dependents' benefits. Travel benefit is not among the recognized entitlements provided under this social security legislation.",
+    "subject_keys": [
+      "community_medicine"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 119,
+    "question": "Which among the following vaccines best represent interventions that focus on cancer prevention too? I. Hepatitis A vaccine II. Hepatitis B vaccine III. Hemophilus influenzae B vaccine IV. Human papilloma virus vaccine. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "2 and 4",
+      "1 and 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Hepatitis B vaccine prevents chronic HBV infection, a major cause of hepatocellular carcinoma, while the HPV vaccine directly prevents infection with oncogenic HPV strains responsible for cervical and other anogenital/oropharyngeal cancers. Hepatitis A and Hib vaccines, while important for preventing their respective infectious diseases, are not primarily recognized as cancer-preventive interventions.",
+    "subject_keys": [
+      "community_medicine",
+      "microbiology"
+    ],
+    "sub_topics": []
+  },
+  {
+    "id": 120,
+    "question": "Consider the following statements: Statement-I: While calculating the number of expected pregnancies per year in an area, a correction factor (usually 10%) is added to the expected number of live births in the year in the area. Statement-II: All the pregnancies in the area may not be registered by the health worker in the area. Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Statement-I and Statement-II are independently correct, and Statement-II is a correct explanation for Statement-I",
+      "Statement-I and Statement-II are independently correct, but Statement-II is not a correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A correction factor is conventionally added to expected live births to estimate total expected pregnancies, accounting for pregnancies ending in miscarriage, stillbirth, or induced abortion that would not be captured as live births. This correction is specifically necessary because such pregnancy losses, along with some live births, may go unregistered by health workers in the community, making Statement-II a valid explanation for the practice described in Statement-I.",
+    "subject_keys": [
+      "community_medicine",
+      "obstetrics_and_gynecology"
+    ],
+    "sub_topics": []
+  }
 ]

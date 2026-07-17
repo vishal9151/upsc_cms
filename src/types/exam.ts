@@ -7,6 +7,7 @@ export interface Question {
   correctAnswer: number
   explanation: string
   subject_keys: SubjectKey[]
+  sub_topics: string[]
 }
 
 export type PaperId = 'paper1' | 'paper2'

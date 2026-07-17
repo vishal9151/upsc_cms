@@ -9,6 +9,8 @@ export const MAX_PRACTICE_INDEX_ENTRIES = 20
 
 export interface PracticeFilters {
   subjects: SubjectKey[]
+  /** When set, only tagged questions matching these subtopics are included. */
+  subTopics?: string[]
   years: string[]
   questionCount: number
   randomize?: boolean

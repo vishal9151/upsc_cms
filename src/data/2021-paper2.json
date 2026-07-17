@@ -9,7 +9,8 @@
       "Vitamin D"
     ],
     "correctAnswer": 2,
-    "explanation": "Scurvy is caused by deficiency of Vitamin C (ascorbic acid)."
+    "explanation": "Scurvy is caused by deficiency of Vitamin C (ascorbic acid).",
+    "sub_topics": []
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "41°C"
     ],
     "correctAnswer": 1,
-    "explanation": "Normal body temperature is approximately 37°C (98.6°F)."
+    "explanation": "Normal body temperature is approximately 37°C (98.6°F).",
+    "sub_topics": []
   },
   {
     "id": 3,
@@ -33,6 +35,7 @@
       "Pancreas"
     ],
     "correctAnswer": 1,
-    "explanation": "The liver is the primary organ for detoxification of harmful substances."
+    "explanation": "The liver is the primary organ for detoxification of harmful substances.",
+    "sub_topics": []
   }
 ]

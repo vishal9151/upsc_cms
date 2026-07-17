@@ -9,7 +9,8 @@
       "National Advisory Council"
     ],
     "correctAnswer": 1,
-    "explanation": "The Finance Commission is a constitutional body established under Article 280 of the Constitution."
+    "explanation": "The Finance Commission is a constitutional body established under Article 280 of the Constitution.",
+    "sub_topics": []
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "S.R. Bommai Case"
     ],
     "correctAnswer": 1,
-    "explanation": "The Kesavananda Bharati Case (1973) established the doctrine of Basic Structure."
+    "explanation": "The Kesavananda Bharati Case (1973) established the doctrine of Basic Structure.",
+    "sub_topics": []
   },
   {
     "id": 3,
@@ -33,6 +35,7 @@
       "Twelfth Schedule"
     ],
     "correctAnswer": 2,
-    "explanation": "The Eleventh Schedule contains 29 subjects related to Panchayats."
+    "explanation": "The Eleventh Schedule contains 29 subjects related to Panchayats.",
+    "sub_topics": []
   }
 ]

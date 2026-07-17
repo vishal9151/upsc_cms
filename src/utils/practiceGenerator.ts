@@ -4,6 +4,7 @@ import {
   buildQuestionCatalog,
   deduplicatePool,
   filterPoolBySubjects,
+  filterPoolBySubTopics,
   filterPoolByYears,
   reindexQuestions,
   shufflePool,
@@ -30,7 +31,12 @@ function buildPracticeLabel(filters: PracticeFilters): string {
       ? [...filters.years].sort((a, b) => Number(b) - Number(a)).join(', ')
       : 'All Years'
 
-  return `${subjectPart} · ${years}`
+  const topicPart =
+    filters.subTopics && filters.subTopics.length > 0
+      ? ` · ${filters.subTopics.length} topics`
+      : ''
+
+  return `${subjectPart}${topicPart} · ${years}`
 }
 
 export function generatePracticeTest(
@@ -39,6 +45,7 @@ export function generatePracticeTest(
   let pool = buildQuestionCatalog()
   pool = filterPoolByYears(pool, filters.years)
   pool = filterPoolBySubjects(pool, filters.subjects)
+  pool = filterPoolBySubTopics(pool, filters.subTopics)
   pool = deduplicatePool(pool)
 
   if (pool.length === 0) return null

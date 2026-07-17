@@ -9,7 +9,8 @@
       "Sardar Vallabhbhai Patel"
     ],
     "correctAnswer": 1,
-    "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+    "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962.",
+    "sub_topics": []
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "1947"
     ],
     "correctAnswer": 1,
-    "explanation": "The Quit India Movement was launched on 8 August 1942."
+    "explanation": "The Quit India Movement was launched on 8 August 1942.",
+    "sub_topics": []
   },
   {
     "id": 3,
@@ -33,6 +35,7 @@
       "Aurangzeb"
     ],
     "correctAnswer": 2,
-    "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal."
+    "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal.",
+    "sub_topics": []
   }
 ]

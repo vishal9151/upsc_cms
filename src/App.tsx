@@ -4,7 +4,7 @@ import { Exam } from '@/pages/Exam'
 import { Home } from '@/pages/Home'
 import { Instructions } from '@/pages/Instructions'
 import { NotFound } from '@/pages/NotFound'
-import { PracticeBuilder, PracticeInstructions } from '@/pages/Practice'
+import { PracticeBuilder, PracticeInstructions, SubjectTopicPracticeBuilder } from '@/pages/Practice'
 import { Result } from '@/pages/Result'
 import { Review } from '@/pages/Review'
 
@@ -15,6 +15,7 @@ const router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: 'practice', element: <PracticeBuilder /> },
+      { path: 'practice/topics', element: <SubjectTopicPracticeBuilder /> },
       { path: 'practice/:testId/instructions', element: <PracticeInstructions /> },
       { path: 'exam/:year/:paper/instructions', element: <Instructions /> },
       { path: 'exam/:year/:paper', element: <Exam /> },
