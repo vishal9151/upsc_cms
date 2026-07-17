@@ -48,7 +48,13 @@ export function PracticeInstructions() {
           <div className="flex flex-wrap gap-2">
             <Badge variant="gray">Untimed</Badge>
             <Badge variant="blue">{config.questions.length} Questions</Badge>
-            <Badge variant="purple">Custom Practice</Badge>
+            {config.filters.practiceKind === 'high_yield' ? (
+              <Badge variant="green">High Yield Practice</Badge>
+            ) : config.filters.practiceKind === 'topic' ? (
+              <Badge variant="blue">Subject-level Practice</Badge>
+            ) : (
+              <Badge variant="purple">Custom Practice</Badge>
+            )}
           </div>
           <div className="space-y-2 text-sm text-gray-600 dark:text-gray-400">
             <p>
@@ -59,6 +65,16 @@ export function PracticeInstructions() {
                 .map((s) => getSubjectLabel(s))
                 .join(', ')}
             </p>
+            {config.filters.subTopics && config.filters.subTopics.length > 0 && (
+              <p>
+                <strong className="text-gray-900 dark:text-gray-100">
+                  {config.filters.practiceKind === 'high_yield'
+                    ? 'Topics:'
+                    : 'Subtopics:'}
+                </strong>{' '}
+                {config.filters.subTopics.length} selected
+              </p>
+            )}
             <p>
               <strong className="text-gray-900 dark:text-gray-100">Years:</strong>{' '}
               {config.filters.years.join(', ')}

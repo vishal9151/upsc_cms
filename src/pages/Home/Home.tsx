@@ -17,6 +17,7 @@ import {
   getPaperQuestionCount,
 } from '@/utils/paperData'
 import { CustomPracticeCard } from '@/components/practice/CustomPracticeCard'
+import { HighYieldPracticeCard } from '@/components/practice/HighYieldPracticeCard'
 import { SubjectTopicPracticeCard } from '@/components/practice/SubjectTopicPracticeCard'
 
 /** Papers shown on the homepage — uncomment entries to enable more. */
@@ -251,10 +252,11 @@ export function Home() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.4, delay: 0.05 }}
-        className="grid grid-cols-1 items-stretch gap-4 md:grid-cols-2"
+        className="grid grid-cols-1 items-stretch gap-4 md:grid-cols-2 lg:grid-cols-3"
       >
         <CustomPracticeCard />
         <SubjectTopicPracticeCard />
+        <HighYieldPracticeCard />
       </motion.section>
 
       <section className="flex flex-col gap-6">

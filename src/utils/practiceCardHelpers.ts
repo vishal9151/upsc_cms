@@ -7,20 +7,22 @@ import {
   loadPracticeConfig,
 } from '@/utils/practiceStorage'
 
-export type PracticeCardKind = 'custom' | 'topic'
+export type PracticeCardKind = 'custom' | 'topic' | 'high_yield'
 
-export function isTopicLevelPracticeFilters(
+export function resolvePracticeKind(
   filters: PracticeFilters,
-): boolean {
-  return filters.subTopics !== undefined
+): PracticeCardKind {
+  if (filters.practiceKind === 'high_yield') return 'high_yield'
+  if (filters.practiceKind === 'topic') return 'topic'
+  if (filters.subTopics !== undefined) return 'topic'
+  return 'custom'
 }
 
 function matchesPracticeKind(
   filters: PracticeFilters,
   kind: PracticeCardKind,
 ): boolean {
-  const isTopic = isTopicLevelPracticeFilters(filters)
-  return kind === 'topic' ? isTopic : !isTopic
+  return resolvePracticeKind(filters) === kind
 }
 
 export function filterPracticeIndexByKind(

@@ -11,6 +11,8 @@ export interface PracticeFilters {
   subjects: SubjectKey[]
   /** When set, only tagged questions matching these subtopics are included. */
   subTopics?: string[]
+  /** Distinguishes topic-level vs high-yield practice in saved configs. */
+  practiceKind?: 'topic' | 'high_yield'
   years: string[]
   questionCount: number
   randomize?: boolean

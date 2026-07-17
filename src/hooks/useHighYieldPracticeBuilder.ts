@@ -2,9 +2,11 @@ import { useEffect, useMemo, useState } from 'react'
 import type { PracticeFilters } from '@/types/practice'
 import type { SubjectKey } from '@/types/subject'
 import {
-  getFlatTopicsForSubjects,
-  getTopicsForSubjects,
-} from '@/types/syllabus'
+  getDefaultHighYieldTopics,
+  getDefaultHighYieldTopicsForSubject,
+  getFlatTopicsByYieldForSubjects,
+  getTopicsByYieldForSubjects,
+} from '@/types/highYield'
 import { countMatchingQuestions } from '@/utils/questionPool'
 import { EXAM_YEARS } from '@/utils/paperData'
 
@@ -14,14 +16,14 @@ const DEFAULT_YEARS = [...EXAM_YEARS].filter((y) =>
 
 const LAST_STEP = 3
 
-function syncSubTopicsForSubjects(
+function syncHighYieldSubTopics(
   subjects: SubjectKey[],
   previous: string[],
 ): string[] {
   if (subjects.length === 0) return []
 
-  const topicGroups = getTopicsForSubjects(subjects)
-  const allTopics = getFlatTopicsForSubjects(subjects)
+  const topicGroups = getTopicsByYieldForSubjects(subjects)
+  const allTopics = getFlatTopicsByYieldForSubjects(subjects)
   const allSet = new Set(allTopics)
   const kept = previous.filter((topic) => allSet.has(topic))
   const keptSet = new Set(kept)
@@ -30,7 +32,7 @@ function syncSubTopicsForSubjects(
   for (const group of topicGroups) {
     const hasAny = group.topics.some((topic) => keptSet.has(topic))
     if (!hasAny) {
-      for (const topic of group.topics) {
+      for (const topic of getDefaultHighYieldTopicsForSubject(group.subject)) {
         result.add(topic)
       }
     }
@@ -39,7 +41,7 @@ function syncSubTopicsForSubjects(
   return Array.from(result)
 }
 
-export function useTopicPracticeBuilder() {
+export function useHighYieldPracticeBuilder() {
   const [step, setStep] = useState(0)
   const [subjects, setSubjects] = useState<SubjectKey[]>([])
   const [subTopics, setSubTopics] = useState<string[]>([])
@@ -47,11 +49,11 @@ export function useTopicPracticeBuilder() {
   const [questionCount, setQuestionCount] = useState(50)
 
   useEffect(() => {
-    setSubTopics((previous) => syncSubTopicsForSubjects(subjects, previous))
+    setSubTopics((previous) => syncHighYieldSubTopics(subjects, previous))
   }, [subjects])
 
   const topicGroups = useMemo(
-    () => getTopicsForSubjects(subjects),
+    () => getTopicsByYieldForSubjects(subjects),
     [subjects],
   )
 
@@ -59,7 +61,7 @@ export function useTopicPracticeBuilder() {
     () => ({
       subjects,
       subTopics,
-      practiceKind: 'topic',
+      practiceKind: 'high_yield',
       years,
       questionCount,
       randomize: true,
@@ -93,8 +95,12 @@ export function useTopicPracticeBuilder() {
     )
   }
 
+  const selectHighYieldSubTopics = () => {
+    setSubTopics(getDefaultHighYieldTopics(subjects))
+  }
+
   const selectAllSubTopics = () => {
-    setSubTopics(getFlatTopicsForSubjects(subjects))
+    setSubTopics(getFlatTopicsByYieldForSubjects(subjects))
   }
 
   const clearAllSubTopics = () => {
@@ -126,6 +132,7 @@ export function useTopicPracticeBuilder() {
     canGenerate,
     toggleSubject,
     toggleSubTopic,
+    selectHighYieldSubTopics,
     selectAllSubTopics,
     clearAllSubTopics,
     toggleYear,

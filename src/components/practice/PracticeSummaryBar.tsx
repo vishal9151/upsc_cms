@@ -24,13 +24,19 @@ export function PracticeSummaryBar({
         </li>
         {filters.subTopics && (
           <li>
-            Subtopics: {filters.subTopics.length} selected
+            {filters.practiceKind === 'high_yield' ? 'Topics' : 'Subtopics'}:{' '}
+            {filters.subTopics.length} selected
           </li>
+        )}
+        {filters.practiceKind === 'high_yield' && (
+          <li>Mode: High Yield Practice (untimed)</li>
+        )}
+        {filters.practiceKind !== 'high_yield' && (
+          <li>Mode: Untimed practice</li>
         )}
         <li>Years: {filters.years.join(', ') || 'None'}</li>
         <li>Available: {matchingCount} questions</li>
         <li>Test size: {Math.min(filters.questionCount, matchingCount)}</li>
-        <li>Mode: Untimed practice</li>
       </ul>
     </div>
   )

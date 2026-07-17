@@ -36,7 +36,14 @@ function buildPracticeLabel(filters: PracticeFilters): string {
       ? ` · ${filters.subTopics.length} topics`
       : ''
 
-  return `${subjectPart}${topicPart} · ${years}`
+  const modePart =
+    filters.practiceKind === 'high_yield'
+      ? ' · High Yield'
+      : filters.practiceKind === 'topic'
+        ? ''
+        : ''
+
+  return `${subjectPart}${modePart}${topicPart} · ${years}`
 }
 
 export function generatePracticeTest(
