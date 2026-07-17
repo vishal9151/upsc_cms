@@ -14,7 +14,10 @@
       "pathology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Wound Healing",
+      "Healing"
+    ]
   },
   {
     "id": 2,
@@ -31,7 +34,10 @@
       "microbiology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology",
+      "Wound Healing"
+    ]
   },
   {
     "id": 3,
@@ -48,7 +54,9 @@
       "pathology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neoplasia"
+    ]
   },
   {
     "id": 4,
@@ -65,7 +73,10 @@
       "pediatrics",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Urology",
+      "Pediatric Orthopaedics"
+    ]
   },
   {
     "id": 5,
@@ -81,7 +92,9 @@
     "subject_keys": [
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Urology"
+    ]
   },
   {
     "id": 6,
@@ -98,7 +111,10 @@
       "general_surgery",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vascular Surgery",
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 7,
@@ -115,7 +131,9 @@
       "dermatology",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Skin Anatomy"
+    ]
   },
   {
     "id": 8,
@@ -132,7 +150,10 @@
       "dermatology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vascular Surgery",
+      "Pigmentary Disorders"
+    ]
   },
   {
     "id": 9,
@@ -149,7 +170,10 @@
       "radiology",
       "anatomy"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Ultrasound",
+      "Lower Limb"
+    ]
   },
   {
     "id": 10,
@@ -166,7 +190,10 @@
       "anatomy",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Thyroid",
+      "Head & Neck"
+    ]
   },
   {
     "id": 11,
@@ -183,7 +210,9 @@
       "ent",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Oral Cavity"
+    ]
   },
   {
     "id": 12,
@@ -200,7 +229,9 @@
       "microbiology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology"
+    ]
   },
   {
     "id": 13,
@@ -216,7 +247,10 @@
     "subject_keys": [
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Plastic Surgery",
+      "Breast"
+    ]
   },
   {
     "id": 14,
@@ -233,7 +267,10 @@
       "general_surgery",
       "psychiatry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastrointestinal Surgery",
+      "Substance Abuse"
+    ]
   },
   {
     "id": 15,
@@ -249,7 +286,9 @@
     "subject_keys": [
       "anatomy"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Pelvis & Perineum"
+    ]
   },
   {
     "id": 16,
@@ -266,7 +305,10 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Endocrine Pathology"
+    ]
   },
   {
     "id": 17,
@@ -283,7 +325,10 @@
       "anatomy",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Embryology",
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 18,
@@ -300,7 +345,10 @@
       "general_surgery",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastrointestinal Surgery",
+      "Gastrointestinal Pathology"
+    ]
   },
   {
     "id": 19,
@@ -316,7 +364,9 @@
     "subject_keys": [
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 20,
@@ -333,7 +383,10 @@
       "general_surgery",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Genetic Disorders",
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 21,
@@ -350,7 +403,9 @@
       "general_medicine",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology"
+    ]
   },
   {
     "id": 22,
@@ -367,7 +422,10 @@
       "general_surgery",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Hepatobiliary Surgery"
+    ]
   },
   {
     "id": 23,
@@ -384,7 +442,10 @@
       "pathology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Liver & Biliary Pathology",
+      "Hepatobiliary Surgery"
+    ]
   },
   {
     "id": 24,
@@ -400,7 +461,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology"
+    ]
   },
   {
     "id": 25,
@@ -416,7 +479,9 @@
     "subject_keys": [
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 26,
@@ -433,7 +498,10 @@
       "general_surgery",
       "forensic_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Trauma",
+      "Mechanical Injuries"
+    ]
   },
   {
     "id": 27,
@@ -449,7 +517,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology"
+    ]
   },
   {
     "id": 28,
@@ -466,7 +536,10 @@
       "general_surgery",
       "radiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Trauma",
+      "Ultrasound"
+    ]
   },
   {
     "id": 29,
@@ -483,7 +556,10 @@
       "general_surgery",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Urology",
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 30,
@@ -499,7 +575,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neurology"
+    ]
   },
   {
     "id": 31,
@@ -516,7 +594,10 @@
       "anatomy",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Head & Neck",
+      "Respiratory System"
+    ]
   },
   {
     "id": 32,
@@ -533,7 +614,9 @@
       "general_medicine",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology"
+    ]
   },
   {
     "id": 33,
@@ -550,7 +633,9 @@
       "general_surgery",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neoplasia"
+    ]
   },
   {
     "id": 34,
@@ -567,7 +652,10 @@
       "orthopedics",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Spine",
+      "Neurosurgery"
+    ]
   },
   {
     "id": 35,
@@ -584,7 +672,9 @@
       "pharmacology",
       "anesthesiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Local Anaesthesia"
+    ]
   },
   {
     "id": 36,
@@ -601,7 +691,10 @@
       "general_surgery",
       "anesthesiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Trauma",
+      "Neurosurgery"
+    ]
   },
   {
     "id": 37,
@@ -618,7 +711,10 @@
       "microbiology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology",
+      "Wound Healing"
+    ]
   },
   {
     "id": 38,
@@ -634,7 +730,9 @@
     "subject_keys": [
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "General Surgery"
+    ]
   },
   {
     "id": 39,
@@ -651,7 +749,10 @@
       "general_medicine",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology",
+      "Clinical Pharmacology"
+    ]
   },
   {
     "id": 40,
@@ -668,7 +769,10 @@
       "physiology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vascular Surgery",
+      "Cell Injury"
+    ]
   },
   {
     "id": 41,
@@ -685,7 +789,10 @@
       "obstetrics_and_gynecology",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Physiology of Pregnancy",
+      "Antenatal Care"
+    ]
   },
   {
     "id": 42,
@@ -702,7 +809,9 @@
       "physiology",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Physiology of Pregnancy"
+    ]
   },
   {
     "id": 43,
@@ -719,7 +828,10 @@
       "obstetrics_and_gynecology",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Hematology"
+    ]
   },
   {
     "id": 44,
@@ -735,7 +847,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "High-Risk Pregnancy"
+    ]
   },
   {
     "id": 45,
@@ -752,7 +866,10 @@
       "obstetrics_and_gynecology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Antenatal Care",
+      "Vaccination"
+    ]
   },
   {
     "id": 46,
@@ -768,7 +885,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Labour"
+    ]
   },
   {
     "id": 47,
@@ -784,7 +903,10 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Labour",
+      "Postpartum Hemorrhage"
+    ]
   },
   {
     "id": 48,
@@ -801,7 +923,10 @@
       "obstetrics_and_gynecology",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Postpartum Hemorrhage",
+      "Bacteriology"
+    ]
   },
   {
     "id": 49,
@@ -817,7 +942,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Labour"
+    ]
   },
   {
     "id": 50,
@@ -834,7 +961,10 @@
       "obstetrics_and_gynecology",
       "psychiatry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Mood Disorders",
+      "Postpartum Hemorrhage"
+    ]
   },
   {
     "id": 51,
@@ -850,7 +980,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Labour"
+    ]
   },
   {
     "id": 52,
@@ -866,7 +998,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Labour"
+    ]
   },
   {
     "id": 53,
@@ -883,7 +1017,9 @@
       "obstetrics_and_gynecology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Urogynecology"
+    ]
   },
   {
     "id": 54,
@@ -900,7 +1036,9 @@
       "anatomy",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Pelvis & Perineum"
+    ]
   },
   {
     "id": 55,
@@ -917,7 +1055,9 @@
       "anatomy",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Pelvis & Perineum"
+    ]
   },
   {
     "id": 56,
@@ -933,7 +1073,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Menstrual Disorders"
+    ]
   },
   {
     "id": 57,
@@ -949,7 +1091,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Infertility"
+    ]
   },
   {
     "id": 58,
@@ -966,7 +1110,10 @@
       "obstetrics_and_gynecology",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Infertility",
+      "Bacteriology"
+    ]
   },
   {
     "id": 59,
@@ -982,7 +1129,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "National Health Programmes"
+    ]
   },
   {
     "id": 60,
@@ -999,7 +1148,9 @@
       "obstetrics_and_gynecology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gynecologic Oncology"
+    ]
   },
   {
     "id": 61,
@@ -1016,7 +1167,10 @@
       "pathology",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Female Genital Tract",
+      "Gynecologic Oncology"
+    ]
   },
   {
     "id": 62,
@@ -1032,7 +1186,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Urogynecology"
+    ]
   },
   {
     "id": 63,
@@ -1049,7 +1205,9 @@
       "obstetrics_and_gynecology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Urogynecology"
+    ]
   },
   {
     "id": 64,
@@ -1065,7 +1223,10 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Urogynecology",
+      "High-Risk Pregnancy"
+    ]
   },
   {
     "id": 65,
@@ -1082,7 +1243,10 @@
       "obstetrics_and_gynecology",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Virology"
+    ]
   },
   {
     "id": 66,
@@ -1099,7 +1263,10 @@
       "pediatrics",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neonatology",
+      "High-Risk Pregnancy"
+    ]
   },
   {
     "id": 67,
@@ -1116,7 +1283,10 @@
       "obstetrics_and_gynecology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Gastroenterology"
+    ]
   },
   {
     "id": 68,
@@ -1133,7 +1303,9 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology"
+    ]
   },
   {
     "id": 69,
@@ -1150,7 +1322,10 @@
       "pediatrics",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neonatology",
+      "High-Risk Pregnancy"
+    ]
   },
   {
     "id": 70,
@@ -1167,7 +1342,9 @@
       "pharmacology",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 71,
@@ -1184,7 +1361,9 @@
       "obstetrics_and_gynecology",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 72,
@@ -1201,7 +1380,9 @@
       "pharmacology",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 73,
@@ -1218,7 +1399,9 @@
       "obstetrics_and_gynecology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gynecologic Oncology"
+    ]
   },
   {
     "id": 74,
@@ -1235,7 +1418,9 @@
       "obstetrics_and_gynecology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hypertension in Pregnancy"
+    ]
   },
   {
     "id": 75,
@@ -1251,7 +1436,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 76,
@@ -1268,7 +1455,9 @@
       "pharmacology",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 77,
@@ -1285,7 +1474,9 @@
       "obstetrics_and_gynecology",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 78,
@@ -1301,7 +1492,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gynecologic Oncology"
+    ]
   },
   {
     "id": 79,
@@ -1317,7 +1510,9 @@
     "subject_keys": [
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 80,
@@ -1334,7 +1529,9 @@
       "obstetrics_and_gynecology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Contraception"
+    ]
   },
   {
     "id": 81,
@@ -1350,7 +1547,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Demography"
+    ]
   },
   {
     "id": 82,
@@ -1367,7 +1566,9 @@
       "community_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "International Health"
+    ]
   },
   {
     "id": 83,
@@ -1384,7 +1585,9 @@
       "community_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination"
+    ]
   },
   {
     "id": 84,
@@ -1401,7 +1604,9 @@
       "microbiology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology"
+    ]
   },
   {
     "id": 85,
@@ -1417,7 +1622,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Environment"
+    ]
   },
   {
     "id": 86,
@@ -1433,7 +1640,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Environment"
+    ]
   },
   {
     "id": 87,
@@ -1450,7 +1659,9 @@
       "community_medicine",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology"
+    ]
   },
   {
     "id": 88,
@@ -1467,7 +1678,10 @@
       "community_medicine",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Maternal & Child Health",
+      "National Health Programmes"
+    ]
   },
   {
     "id": 89,
@@ -1484,7 +1698,9 @@
       "community_medicine",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Environment"
+    ]
   },
   {
     "id": 90,
@@ -1501,7 +1717,9 @@
       "biochemistry",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Protein Metabolism"
+    ]
   },
   {
     "id": 91,
@@ -1518,7 +1736,10 @@
       "biochemistry",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Protein Metabolism",
+      "Nutrition"
+    ]
   },
   {
     "id": 92,
@@ -1535,7 +1756,10 @@
       "biochemistry",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Lipid Metabolism",
+      "Nutrition"
+    ]
   },
   {
     "id": 93,
@@ -1552,7 +1776,9 @@
       "community_medicine",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nutrition"
+    ]
   },
   {
     "id": 94,
@@ -1569,7 +1795,9 @@
       "community_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Occupational Health"
+    ]
   },
   {
     "id": 95,
@@ -1580,14 +1808,15 @@
       "Duchenne muscular dystrophy",
       "Galactosaemia"
     ],
-    "affirmedNote": "",
     "correctAnswer": 1,
     "explanation": "Elevated amniotic fluid alpha-fetoprotein is classically associated with open neural tube defects (such as spina bifida and anencephaly) as well as other ventral wall defects, due to leakage of fetal serum proteins into the amniotic fluid through the exposed neural tissue or defect. This finding prompts further evaluation with detailed ultrasound to confirm the diagnosis.",
     "subject_keys": [
       "obstetrics_and_gynecology",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "High-Risk Pregnancy"
+    ]
   },
   {
     "id": 96,
@@ -1603,7 +1832,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Health Management"
+    ]
   },
   {
     "id": 97,
@@ -1620,7 +1851,10 @@
       "community_medicine",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Maternal & Child Health",
+      "National Health Programmes"
+    ]
   },
   {
     "id": 98,
@@ -1637,7 +1871,10 @@
       "community_medicine",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Maternal & Child Health",
+      "Health Management"
+    ]
   },
   {
     "id": 99,
@@ -1654,7 +1891,9 @@
       "pediatrics",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination"
+    ]
   },
   {
     "id": 100,
@@ -1671,7 +1910,10 @@
       "community_medicine",
       "dermatology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "National Health Programmes",
+      "Leprosy"
+    ]
   },
   {
     "id": 101,
@@ -1682,13 +1924,14 @@
       "Both Central Government and State Government",
       "Private institutions only as a part of their Corporate Social Responsibility"
     ],
-    "affirmedNote": "",
     "correctAnswer": 2,
     "explanation": "Ayushman Bharat PM-JAY is funded through a cost-sharing arrangement between the Central and State Governments, with the typical funding ratio being 60:40 for most states and 90:10 for northeastern and hilly states. This joint funding model supports the scheme's implementation nationwide.",
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "National Health Programmes"
+    ]
   },
   {
     "id": 102,
@@ -1705,7 +1948,10 @@
       "community_medicine",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Maternal & Child Health",
+      "Neonatology"
+    ]
   },
   {
     "id": 103,
@@ -1721,7 +1967,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Health Management"
+    ]
   },
   {
     "id": 104,
@@ -1738,7 +1986,9 @@
       "community_medicine",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Occupational Health"
+    ]
   },
   {
     "id": 105,
@@ -1754,7 +2004,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Biostatistics"
+    ]
   },
   {
     "id": 106,
@@ -1771,7 +2023,10 @@
       "community_medicine",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Occupational Health",
+      "Toxicology"
+    ]
   },
   {
     "id": 107,
@@ -1788,7 +2043,9 @@
       "microbiology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Parasitology"
+    ]
   },
   {
     "id": 108,
@@ -1805,7 +2062,9 @@
       "community_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "National Health Programmes"
+    ]
   },
   {
     "id": 109,
@@ -1821,7 +2080,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Demography"
+    ]
   },
   {
     "id": 110,
@@ -1837,7 +2098,9 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Biostatistics"
+    ]
   },
   {
     "id": 111,
@@ -1854,7 +2117,10 @@
       "microbiology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Epidemiology",
+      "Bacteriology"
+    ]
   },
   {
     "id": 112,
@@ -1871,7 +2137,9 @@
       "microbiology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology"
+    ]
   },
   {
     "id": 113,
@@ -1888,7 +2156,9 @@
       "microbiology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Parasitology"
+    ]
   },
   {
     "id": 114,
@@ -1905,7 +2175,9 @@
       "microbiology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology"
+    ]
   },
   {
     "id": 115,
@@ -1922,7 +2194,9 @@
       "community_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Epidemiology"
+    ]
   },
   {
     "id": 116,
@@ -1939,7 +2213,9 @@
       "pediatrics",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination"
+    ]
   },
   {
     "id": 117,
@@ -1956,7 +2232,10 @@
       "community_medicine",
       "forensic_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Occupational Health",
+      "Poisoning"
+    ]
   },
   {
     "id": 118,
@@ -1972,7 +2251,10 @@
     "subject_keys": [
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Health Management",
+      "Occupational Health"
+    ]
   },
   {
     "id": 119,
@@ -1989,7 +2271,9 @@
       "community_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination"
+    ]
   },
   {
     "id": 120,
@@ -2006,6 +2290,8 @@
       "community_medicine",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Demography"
+    ]
   }
 ]

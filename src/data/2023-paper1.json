@@ -14,7 +14,10 @@
       "general_medicine",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology",
+      "Cardiovascular System"
+    ]
   },
   {
     "id": 2,
@@ -31,7 +34,10 @@
       "general_medicine",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology",
+      "ECG"
+    ]
   },
   {
     "id": 3,
@@ -47,7 +53,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology"
+    ]
   },
   {
     "id": 4,
@@ -63,7 +71,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology"
+    ]
   },
   {
     "id": 5,
@@ -79,7 +89,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology"
+    ]
   },
   {
     "id": 6,
@@ -96,7 +108,10 @@
       "general_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Infectious Diseases",
+      "Cardiology"
+    ]
   },
   {
     "id": 7,
@@ -113,7 +128,10 @@
       "pathology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Rheumatology",
+      "Cardiovascular Pathology"
+    ]
   },
   {
     "id": 8,
@@ -130,7 +148,10 @@
       "general_medicine",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "ECG",
+      "Temperature Regulation"
+    ]
   },
   {
     "id": 9,
@@ -147,7 +168,10 @@
       "physiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Respiratory Medicine",
+      "Respiratory System"
+    ]
   },
   {
     "id": 10,
@@ -163,7 +187,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology"
+    ]
   },
   {
     "id": 11,
@@ -179,7 +205,10 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology",
+      "Respiratory Medicine"
+    ]
   },
   {
     "id": 12,
@@ -196,7 +225,10 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Infectious Diseases",
+      "Cardiology"
+    ]
   },
   {
     "id": 13,
@@ -212,7 +244,9 @@
     "subject_keys": [
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Respiratory System"
+    ]
   },
   {
     "id": 14,
@@ -229,7 +263,10 @@
       "general_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Bacteriology"
+    ]
   },
   {
     "id": 15,
@@ -246,7 +283,10 @@
       "general_medicine",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Gastrointestinal Surgery"
+    ]
   },
   {
     "id": 16,
@@ -263,7 +303,10 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology",
+      "Gastroenterology"
+    ]
   },
   {
     "id": 17,
@@ -280,7 +323,10 @@
       "general_medicine",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Critical Care",
+      "Gastroenterology"
+    ]
   },
   {
     "id": 18,
@@ -297,7 +343,10 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology",
+      "Gastroenterology"
+    ]
   },
   {
     "id": 19,
@@ -314,7 +363,9 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology"
+    ]
   },
   {
     "id": 20,
@@ -331,7 +382,10 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Gastrointestinal Pathology"
+    ]
   },
   {
     "id": 21,
@@ -348,7 +402,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Antivirals",
+      "Gastroenterology"
+    ]
   },
   {
     "id": 22,
@@ -365,7 +422,10 @@
       "general_medicine",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology",
+      "Clinical Pharmacology"
+    ]
   },
   {
     "id": 23,
@@ -381,7 +441,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neurology"
+    ]
   },
   {
     "id": 24,
@@ -397,7 +459,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neurology"
+    ]
   },
   {
     "id": 25,
@@ -413,7 +477,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neurology"
+    ]
   },
   {
     "id": 26,
@@ -430,7 +496,10 @@
       "physiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nerve & Muscle",
+      "Neurology"
+    ]
   },
   {
     "id": 27,
@@ -447,7 +516,10 @@
       "psychiatry",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Substance Abuse",
+      "Psychopharmacology"
+    ]
   },
   {
     "id": 28,
@@ -464,7 +536,10 @@
       "pathology",
       "biochemistry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology",
+      "Cancer Biochemistry"
+    ]
   },
   {
     "id": 29,
@@ -480,7 +555,9 @@
     "subject_keys": [
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Anticancer Drugs"
+    ]
   },
   {
     "id": 30,
@@ -497,7 +574,10 @@
       "microbiology",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology",
+      "Neoplasia"
+    ]
   },
   {
     "id": 31,
@@ -513,7 +593,9 @@
     "subject_keys": [
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Parasitology"
+    ]
   },
   {
     "id": 32,
@@ -530,7 +612,10 @@
       "general_medicine",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology",
+      "Blood"
+    ]
   },
   {
     "id": 33,
@@ -547,7 +632,10 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology",
+      "Hematology"
+    ]
   },
   {
     "id": 34,
@@ -564,7 +652,10 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology",
+      "Genetic Disorders"
+    ]
   },
   {
     "id": 35,
@@ -581,7 +672,9 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology"
+    ]
   },
   {
     "id": 36,
@@ -598,7 +691,9 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology"
+    ]
   },
   {
     "id": 37,
@@ -614,7 +709,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology"
+    ]
   },
   {
     "id": 38,
@@ -631,7 +728,9 @@
       "physiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology"
+    ]
   },
   {
     "id": 39,
@@ -648,7 +747,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrine Drugs",
+      "Endocrinology"
+    ]
   },
   {
     "id": 40,
@@ -665,7 +767,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrine Drugs",
+      "Endocrinology"
+    ]
   },
   {
     "id": 41,
@@ -681,7 +786,9 @@
     "subject_keys": [
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrine Drugs"
+    ]
   },
   {
     "id": 42,
@@ -698,7 +805,10 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology",
+      "Endocrine Pathology"
+    ]
   },
   {
     "id": 43,
@@ -715,7 +825,10 @@
       "general_medicine",
       "biochemistry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology",
+      "Clinical Biochemistry"
+    ]
   },
   {
     "id": 44,
@@ -731,7 +844,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology"
+    ]
   },
   {
     "id": 45,
@@ -748,7 +863,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrine Drugs",
+      "Endocrinology"
+    ]
   },
   {
     "id": 46,
@@ -764,7 +882,10 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology",
+      "Rheumatology"
+    ]
   },
   {
     "id": 47,
@@ -781,7 +902,10 @@
       "general_surgery",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Thyroid",
+      "Endocrinology"
+    ]
   },
   {
     "id": 48,
@@ -797,7 +921,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology"
+    ]
   },
   {
     "id": 49,
@@ -814,7 +940,10 @@
       "general_medicine",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology",
+      "Genetic Disorders"
+    ]
   },
   {
     "id": 50,
@@ -831,7 +960,9 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrine Drugs"
+    ]
   },
   {
     "id": 51,
@@ -848,7 +979,10 @@
       "general_medicine",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrinology",
+      "Clinical Pharmacology"
+    ]
   },
   {
     "id": 52,
@@ -865,7 +999,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nephrology",
+      "Clinical Pharmacology"
+    ]
   },
   {
     "id": 53,
@@ -882,7 +1019,10 @@
       "pharmacology",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Antimalarials",
+      "Parasitology"
+    ]
   },
   {
     "id": 54,
@@ -899,7 +1039,10 @@
       "general_medicine",
       "psychiatry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Infectious Diseases",
+      "Neurology"
+    ]
   },
   {
     "id": 55,
@@ -916,7 +1059,10 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Parasitology",
+      "Neurology"
+    ]
   },
   {
     "id": 56,
@@ -933,7 +1079,9 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Parasitology"
+    ]
   },
   {
     "id": 57,
@@ -950,7 +1098,9 @@
       "dermatology",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Parasitology"
+    ]
   },
   {
     "id": 58,
@@ -967,7 +1117,9 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Parasitology"
+    ]
   },
   {
     "id": 59,
@@ -984,7 +1136,10 @@
       "microbiology",
       "general_surgery"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology",
+      "Wound Healing"
+    ]
   },
   {
     "id": 60,
@@ -1002,7 +1157,10 @@
       "microbiology",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "High-Risk Pregnancy",
+      "Virology"
+    ]
   },
   {
     "id": 61,
@@ -1019,7 +1177,10 @@
       "pharmacology",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Antibiotics",
+      "Bacteriology"
+    ]
   },
   {
     "id": 62,
@@ -1035,7 +1196,10 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nutrition",
+      "Growth & Development"
+    ]
   },
   {
     "id": 63,
@@ -1052,7 +1216,10 @@
       "physiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Blood",
+      "Hematology"
+    ]
   },
   {
     "id": 64,
@@ -1069,7 +1236,10 @@
       "general_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nephrology",
+      "Bacteriology"
+    ]
   },
   {
     "id": 65,
@@ -1086,7 +1256,10 @@
       "general_medicine",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Toxicology",
+      "Critical Care"
+    ]
   },
   {
     "id": 66,
@@ -1103,7 +1276,10 @@
       "microbiology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology",
+      "Epidemiology"
+    ]
   },
   {
     "id": 67,
@@ -1120,7 +1296,9 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Bacteriology"
+    ]
   },
   {
     "id": 68,
@@ -1136,7 +1314,10 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology",
+      "ECG"
+    ]
   },
   {
     "id": 69,
@@ -1153,7 +1334,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrine Drugs",
+      "Endocrinology"
+    ]
   },
   {
     "id": 70,
@@ -1169,7 +1353,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology"
+    ]
   },
   {
     "id": 71,
@@ -1185,7 +1371,9 @@
     "subject_keys": [
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology"
+    ]
   },
   {
     "id": 72,
@@ -1202,7 +1390,10 @@
       "general_medicine",
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiology",
+      "Cardiovascular System"
+    ]
   },
   {
     "id": 73,
@@ -1219,7 +1410,10 @@
       "physiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "ECG",
+      "Cardiology"
+    ]
   },
   {
     "id": 74,
@@ -1236,7 +1430,10 @@
       "pharmacology",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Antimalarials",
+      "Parasitology"
+    ]
   },
   {
     "id": 75,
@@ -1253,7 +1450,9 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Mycology"
+    ]
   },
   {
     "id": 76,
@@ -1270,7 +1469,10 @@
       "microbiology",
       "dermatology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Mycology",
+      "Fungal Diseases"
+    ]
   },
   {
     "id": 77,
@@ -1287,7 +1489,9 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Mycology"
+    ]
   },
   {
     "id": 78,
@@ -1304,7 +1508,10 @@
       "forensic_medicine",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Poisoning",
+      "Critical Care"
+    ]
   },
   {
     "id": 79,
@@ -1320,7 +1527,9 @@
     "subject_keys": [
       "physiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastrointestinal System"
+    ]
   },
   {
     "id": 80,
@@ -1337,7 +1546,10 @@
       "general_medicine",
       "radiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Radiation Physics"
+    ]
   },
   {
     "id": 81,
@@ -1354,7 +1566,9 @@
       "microbiology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology"
+    ]
   },
   {
     "id": 82,
@@ -1370,7 +1584,9 @@
     "subject_keys": [
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Virology"
+    ]
   },
   {
     "id": 83,
@@ -1387,7 +1603,10 @@
       "general_medicine",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Liver & Biliary Pathology"
+    ]
   },
   {
     "id": 84,
@@ -1404,7 +1623,10 @@
       "general_medicine",
       "dermatology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastroenterology",
+      "Pigmentary Disorders"
+    ]
   },
   {
     "id": 85,
@@ -1421,7 +1643,10 @@
       "general_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nephrology",
+      "Bacteriology"
+    ]
   },
   {
     "id": 86,
@@ -1438,7 +1663,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nephrology",
+      "Cardiovascular Drugs"
+    ]
   },
   {
     "id": 87,
@@ -1455,7 +1683,10 @@
       "pathology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Renal Pathology",
+      "Nephrology"
+    ]
   },
   {
     "id": 88,
@@ -1472,7 +1703,10 @@
       "pathology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology",
+      "Immunopathology"
+    ]
   },
   {
     "id": 89,
@@ -1489,7 +1723,9 @@
       "pathology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Hematology"
+    ]
   },
   {
     "id": 90,
@@ -1505,7 +1741,9 @@
     "subject_keys": [
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Endocrine Drugs"
+    ]
   },
   {
     "id": 91,
@@ -1521,7 +1759,9 @@
     "subject_keys": [
       "psychiatry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Mood Disorders"
+    ]
   },
   {
     "id": 92,
@@ -1537,7 +1777,9 @@
     "subject_keys": [
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Cardiovascular Drugs"
+    ]
   },
   {
     "id": 93,
@@ -1554,7 +1796,10 @@
       "pharmacology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Gastrointestinal Drugs",
+      "Gastroenterology"
+    ]
   },
   {
     "id": 94,
@@ -1571,7 +1816,10 @@
       "general_medicine",
       "anesthesiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neurology",
+      "Pain Management"
+    ]
   },
   {
     "id": 95,
@@ -1588,7 +1836,10 @@
       "pathology",
       "general_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Genetic Disorders",
+      "Respiratory Pathology"
+    ]
   },
   {
     "id": 96,
@@ -1605,7 +1856,10 @@
       "pharmacology",
       "pathology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Liver & Biliary Pathology",
+      "Clinical Pharmacology"
+    ]
   },
   {
     "id": 97,
@@ -1622,7 +1876,10 @@
       "pediatrics",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development",
+      "Maternal & Child Health"
+    ]
   },
   {
     "id": 98,
@@ -1638,7 +1895,10 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Nutrition",
+      "Neonatology"
+    ]
   },
   {
     "id": 99,
@@ -1655,7 +1915,10 @@
       "pediatrics",
       "obstetrics_and_gynecology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neonatology",
+      "High-Risk Pregnancy"
+    ]
   },
   {
     "id": 100,
@@ -1671,7 +1934,10 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neonatology",
+      "Growth & Development"
+    ]
   },
   {
     "id": 101,
@@ -1687,7 +1953,9 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development"
+    ]
   },
   {
     "id": 102,
@@ -1704,7 +1972,10 @@
       "pharmacology",
       "forensic_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Toxicology",
+      "Poisoning"
+    ]
   },
   {
     "id": 103,
@@ -1721,7 +1992,10 @@
       "forensic_medicine",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Poisoning",
+      "Toxicology"
+    ]
   },
   {
     "id": 104,
@@ -1738,7 +2012,10 @@
       "forensic_medicine",
       "pharmacology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Poisoning",
+      "Toxicology"
+    ]
   },
   {
     "id": 105,
@@ -1755,7 +2032,10 @@
       "pediatrics",
       "psychiatry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Child Psychiatry",
+      "Growth & Development"
+    ]
   },
   {
     "id": 106,
@@ -1772,7 +2052,10 @@
       "obstetrics_and_gynecology",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Antenatal Care",
+      "Nutrition"
+    ]
   },
   {
     "id": 107,
@@ -1789,7 +2072,10 @@
       "community_medicine",
       "microbiology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination",
+      "Virology"
+    ]
   },
   {
     "id": 108,
@@ -1806,7 +2092,10 @@
       "pediatrics",
       "psychiatry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Child Psychiatry",
+      "Growth & Development"
+    ]
   },
   {
     "id": 109,
@@ -1822,7 +2111,10 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Neonatology",
+      "Pediatric Emergencies"
+    ]
   },
   {
     "id": 110,
@@ -1838,7 +2130,9 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development"
+    ]
   },
   {
     "id": 111,
@@ -1855,7 +2149,9 @@
       "pediatrics",
       "ophthalmology"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development"
+    ]
   },
   {
     "id": 112,
@@ -1872,7 +2168,9 @@
       "pediatrics",
       "psychiatry"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development"
+    ]
   },
   {
     "id": 113,
@@ -1888,7 +2186,9 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development"
+    ]
   },
   {
     "id": 114,
@@ -1904,7 +2204,9 @@
     "subject_keys": [
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development"
+    ]
   },
   {
     "id": 115,
@@ -1921,7 +2223,10 @@
       "pediatrics",
       "forensic_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Pediatric Emergencies",
+      "Poisoning"
+    ]
   },
   {
     "id": 116,
@@ -1938,7 +2243,9 @@
       "pediatrics",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination"
+    ]
   },
   {
     "id": 117,
@@ -1955,7 +2262,9 @@
       "pediatrics",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination"
+    ]
   },
   {
     "id": 118,
@@ -1972,7 +2281,10 @@
       "community_medicine",
       "pediatrics"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Growth & Development",
+      "Screening"
+    ]
   },
   {
     "id": 119,
@@ -1989,7 +2301,10 @@
       "pediatrics",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Pediatric Infections",
+      "Pediatric Emergencies"
+    ]
   },
   {
     "id": 120,
@@ -2006,6 +2321,8 @@
       "pediatrics",
       "community_medicine"
     ],
-    "sub_topics": []
+    "sub_topics": [
+      "Vaccination"
+    ]
   }
 ]
