@@ -16,8 +16,10 @@ import {
 } from '@/components/result/PerformanceSummary'
 import { QuestionAnalysis } from '@/components/result/QuestionAnalysis'
 import { ResultCharts } from '@/components/result/ResultCharts'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
 import { useExamResult } from '@/hooks/useExamResult'
 import { getExamSubtitle } from '@/utils/examDisplay'
+import { getExamPath, getExamListPath, getReviewPath } from '@/utils/examRoutes'
 import { formatTime } from '@/utils/examHelpers'
 import { isCustomExamYear, loadPracticeConfig } from '@/utils/practiceStorage'
 import { deleteExamResult } from '@/utils/resultStorage'
@@ -26,6 +28,7 @@ import { regeneratePracticeTest } from '@/utils/practiceGenerator'
 
 export function Result() {
   const data = useExamResult()
+  const examKey = useExamKeyParam()
   const navigate = useNavigate()
   const location = useLocation()
   const [showRetakeConfirm, setShowRetakeConfirm] = useState(false)
@@ -58,14 +61,7 @@ export function Result() {
     deleteExam(year, paper)
     deleteExamResult(year, paper)
     setShowRetakeConfirm(false)
-    if (isCustom) {
-      const config = loadPracticeConfig(paper)
-      if (config) {
-        navigate(`/exam/${year}/${paper}?new=true`)
-        return
-      }
-    }
-    navigate(`/exam/${year}/${paper}?new=true`)
+    navigate(`${getExamPath(examKey, year, paper)}?new=true`)
   }
 
   const handleNewShuffle = () => {
@@ -92,7 +88,7 @@ export function Result() {
           Test Results
         </h1>
         <p className="mt-2 text-gray-600 dark:text-gray-400">
-          {getExamSubtitle(year, paper)}
+          {getExamSubtitle(year, paper, examKey)}
         </p>
         {autoSubmitted && !isCustom && (
           <p className="mt-2 text-sm text-amber-600 dark:text-amber-400">
@@ -158,12 +154,14 @@ export function Result() {
       <QuestionAnalysis
         questionResults={questionResults}
         onQuestionClick={(index) =>
-          navigate(`/review/${year}/${paper}`, { state: { questionIndex: index } })
+          navigate(getReviewPath(examKey, year, paper), {
+            state: { questionIndex: index },
+          })
         }
       />
 
       <div className="flex flex-col gap-3 sm:flex-row sm:justify-center">
-        <Link to={`/review/${year}/${paper}`}>
+        <Link to={getReviewPath(examKey, year, paper)}>
           <Button className="w-full sm:w-auto">Review Answers</Button>
         </Link>
         <Button
@@ -183,7 +181,7 @@ export function Result() {
             New Shuffle
           </Button>
         )}
-        <Link to="/">
+        <Link to={getExamListPath(examKey)}>
           <Button variant="outline" className="min-h-11 w-full sm:w-auto">
             <Home className="h-4 w-4" />
             Back Home

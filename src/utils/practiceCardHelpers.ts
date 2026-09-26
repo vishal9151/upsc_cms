@@ -1,5 +1,7 @@
 import type { PracticeFilters, PracticeIndexEntry, PracticeTestConfig } from '@/types/practice'
-import { CUSTOM_EXAM_YEAR } from '@/types/practice'
+import { CUSTOM_EXAM_YEAR, resolvePracticeExamKey } from '@/types/practice'
+import type { ExamKey } from '@/types/exams'
+import { DEFAULT_EXAM_KEY } from '@/types/exams'
 import { deleteExam, hasSavedExam, loadExam } from '@/utils/examStorage'
 import type { PersistedExamState } from '@/types/persistence'
 import {
@@ -25,23 +27,37 @@ function matchesPracticeKind(
   return resolvePracticeKind(filters) === kind
 }
 
+function matchesExamKey(
+  filters: PracticeFilters,
+  examKey: ExamKey,
+): boolean {
+  return resolvePracticeExamKey(filters) === examKey
+}
+
 export function filterPracticeIndexByKind(
   kind: PracticeCardKind,
   limit?: number,
+  examKey: ExamKey = DEFAULT_EXAM_KEY,
 ): PracticeIndexEntry[] {
-  const entries = getPracticeIndex().filter((entry) =>
-    matchesPracticeKind(entry.filters, kind),
+  const entries = getPracticeIndex().filter(
+    (entry) =>
+      matchesPracticeKind(entry.filters, kind) &&
+      matchesExamKey(entry.filters, examKey),
   )
   return limit !== undefined ? entries.slice(0, limit) : entries
 }
 
-export function getInProgressPractice(kind: PracticeCardKind): {
+export function getInProgressPractice(
+  kind: PracticeCardKind,
+  examKey: ExamKey = DEFAULT_EXAM_KEY,
+): {
   entry: PracticeIndexEntry
   saved: PersistedExamState
   config: PracticeTestConfig
 } | null {
   for (const entry of getPracticeIndex()) {
     if (!matchesPracticeKind(entry.filters, kind)) continue
+    if (!matchesExamKey(entry.filters, examKey)) continue
     if (!hasSavedExam(CUSTOM_EXAM_YEAR, entry.testId)) continue
 
     const saved = loadExam(CUSTOM_EXAM_YEAR, entry.testId)

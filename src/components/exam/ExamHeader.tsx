@@ -1,11 +1,13 @@
 import { Clock } from 'lucide-react'
 import { Badge } from '@/components/ui/Badge'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
 import { useExamStore } from '@/store/examStore'
 import { getExamSubtitle, getExamTitle } from '@/utils/examDisplay'
 import { formatTime } from '@/utils/examHelpers'
 import { cn } from '@/utils/cn'
 
 export function ExamHeader() {
+  const examKey = useExamKeyParam()
   const year = useExamStore((s) => s.year)
   const paper = useExamStore((s) => s.paper)
   const remainingTime = useExamStore((s) => s.remainingTime)
@@ -19,10 +21,10 @@ export function ExamHeader() {
     <div className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white p-3 sm:p-4 dark:border-gray-800 dark:bg-gray-900">
       <div className="min-w-0 flex-1">
         <h1 className="truncate text-base font-semibold text-gray-900 sm:text-lg dark:text-gray-100">
-          {getExamTitle(year, paper)}
+          {getExamTitle(year, paper, examKey)}
         </h1>
         <p className="hidden text-sm text-gray-500 sm:block dark:text-gray-400">
-          {getExamSubtitle(year, paper)}
+          {getExamSubtitle(year, paper, examKey)}
         </p>
       </div>
       <div className="flex items-center gap-2 sm:gap-4">

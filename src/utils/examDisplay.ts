@@ -1,15 +1,27 @@
 import { isCustomExamYear, loadPracticeConfig } from '@/utils/practiceStorage'
 import { resolvePracticeLabel } from '@/utils/questionResolver'
-import { getPaperLabel } from '@/utils/paperData'
+import { getExamConfig, getPaperLabel } from '@/utils/paperData'
+import { DEFAULT_EXAM_KEY, type ExamKey } from '@/types/exams'
 
-export function getExamSubtitle(year: string, paper: string): string {
+export function getExamSubtitle(
+  year: string,
+  paper: string,
+  examKey: ExamKey = DEFAULT_EXAM_KEY,
+): string {
   if (isCustomExamYear(year)) {
     return resolvePracticeLabel(year, paper) ?? 'Custom Practice Test'
+  }
+  if (examKey !== DEFAULT_EXAM_KEY) {
+    return getPaperLabel(paper, examKey, year)
   }
   return `${year} · ${getPaperLabel(paper)}`
 }
 
-export function getExamTitle(year: string, paper?: string): string {
+export function getExamTitle(
+  year: string,
+  paper?: string,
+  examKey: ExamKey = DEFAULT_EXAM_KEY,
+): string {
   if (isCustomExamYear(year)) {
     if (paper) {
       const kind = loadPracticeConfig(paper)?.filters.practiceKind
@@ -18,5 +30,5 @@ export function getExamTitle(year: string, paper?: string): string {
     }
     return 'Custom Practice Test'
   }
-  return 'UPSC CMS Examination'
+  return getExamConfig(examKey)?.label ?? 'UPSC CMS Examination'
 }

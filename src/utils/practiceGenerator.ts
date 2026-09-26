@@ -1,4 +1,5 @@
 import type { PracticeFilters, PracticeTestConfig } from '@/types/practice'
+import { resolvePracticeExamKey } from '@/types/practice'
 import { getSubjectLabel } from '@/types/subject'
 import {
   buildQuestionCatalog,
@@ -49,7 +50,8 @@ function buildPracticeLabel(filters: PracticeFilters): string {
 export function generatePracticeTest(
   filters: PracticeFilters,
 ): PracticeTestConfig | null {
-  let pool = buildQuestionCatalog()
+  const examKey = resolvePracticeExamKey(filters)
+  let pool = buildQuestionCatalog(examKey)
   pool = filterPoolByYears(pool, filters.years)
   pool = filterPoolBySubjects(pool, filters.subjects)
   pool = filterPoolBySubTopics(pool, filters.subTopics)
@@ -73,7 +75,7 @@ export function generatePracticeTest(
     version: 1,
     testId,
     label: buildPracticeLabel({ ...filters, questionCount: count }),
-    filters: { ...filters, questionCount: count },
+    filters: { ...filters, examKey, questionCount: count },
     questions,
     createdAt,
     examMode: 'practice',

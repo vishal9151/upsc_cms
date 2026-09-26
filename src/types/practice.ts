@@ -1,5 +1,7 @@
 import type { Question } from '@/types/exam'
 import type { SubjectKey } from '@/types/subject'
+import type { ExamKey } from '@/types/exams'
+import { DEFAULT_EXAM_KEY } from '@/types/exams'
 
 export const PRACTICE_CONFIG_VERSION = 1
 export const CUSTOM_EXAM_YEAR = 'custom'
@@ -16,6 +18,8 @@ export interface PracticeFilters {
   years: string[]
   questionCount: number
   randomize?: boolean
+  /** Which exam's papers to pull from. Defaults to cms for older saved configs. */
+  examKey?: ExamKey
 }
 
 export interface PracticeTestConfig {
@@ -42,4 +46,11 @@ export type PoolEntry = Question & {
   sourcePaper: string
   sourceId: number
   dedupKey: string
+  sourceExamKey: ExamKey
+}
+
+export function resolvePracticeExamKey(
+  filters: Pick<PracticeFilters, 'examKey'> | undefined | null,
+): ExamKey {
+  return filters?.examKey ?? DEFAULT_EXAM_KEY
 }

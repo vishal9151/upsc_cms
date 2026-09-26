@@ -8,6 +8,7 @@ import { YearSelectionStep } from '@/components/practice/YearSelectionStep'
 import { Button } from '@/components/ui/Button'
 import { Card } from '@/components/ui/Card'
 import { usePracticeBuilder } from '@/hooks/usePracticeBuilder'
+import { getPracticeInstructionsPath } from '@/utils/examRoutes'
 import { generatePracticeTest } from '@/utils/practiceGenerator'
 
 const STEPS = ['Subjects', 'Years', 'Count'] as const
@@ -26,7 +27,7 @@ export function PracticeBuilder() {
     })
     setGenerating(false)
     if (!config) return
-    navigate(`/practice/${config.testId}/instructions`)
+    navigate(getPracticeInstructionsPath(config.testId))
   }
 
   return (

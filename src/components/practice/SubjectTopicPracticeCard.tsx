@@ -4,9 +4,14 @@ import { PracticeCardActivity } from '@/components/practice/PracticeCardActivity
 import { Badge } from '@/components/ui/Badge'
 import { Button } from '@/components/ui/Button'
 import { Card } from '@/components/ui/Card'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
+import { getPracticePath } from '@/utils/examRoutes'
+import { examHasSubTopics } from '@/utils/questionPool'
 
 export function SubjectTopicPracticeCard() {
   const navigate = useNavigate()
+  const examKey = useExamKeyParam()
+  const hasSubTopics = examHasSubTopics(examKey)
 
   return (
     <Card hoverable className="h-full">
@@ -20,8 +25,9 @@ export function SubjectTopicPracticeCard() {
               </h2>
             </div>
             <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
-              Choose subjects, then fine-tune by subtopics before picking years
-              and question count.
+              {hasSubTopics
+                ? 'Choose subjects, then fine-tune by subtopics before picking years and question count.'
+                : 'Choose subjects, then pick years and question count from this exam’s papers.'}
             </p>
           </div>
           <Badge variant="blue">Topics</Badge>
@@ -32,7 +38,7 @@ export function SubjectTopicPracticeCard() {
         <div className="mt-auto">
           <Button
             className="min-h-11 w-full"
-            onClick={() => navigate('/practice/topics')}
+            onClick={() => navigate(getPracticePath(examKey, 'topics'))}
           >
             <Play className="h-4 w-4" />
             Create Topic Practice

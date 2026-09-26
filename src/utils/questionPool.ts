@@ -1,38 +1,54 @@
 import type { PracticeFilters, PoolEntry } from '@/types/practice'
+import { resolvePracticeExamKey } from '@/types/practice'
 import type { Question } from '@/types/exam'
-import { EXAM_YEARS } from '@/utils/paperData'
-import { getPaperQuestions } from '@/utils/paperData'
+import type { ExamKey } from '@/types/exams'
+import { DEFAULT_EXAM_KEY } from '@/types/exams'
+import { getExamPapers, getPaperQuestions } from '@/utils/paperData'
 
-let catalogCache: PoolEntry[] | null = null
-
-const PAPER_IDS = ['paper1', 'paper2'] as const
+const catalogCache = new Map<ExamKey, PoolEntry[]>()
 
 function normalizeDedupKey(text: string): string {
   return text.toLowerCase().replace(/\s+/g, ' ').trim()
 }
 
-export function buildQuestionCatalog(): PoolEntry[] {
-  if (catalogCache) return catalogCache
+export function buildQuestionCatalog(
+  examKey: ExamKey = DEFAULT_EXAM_KEY,
+): PoolEntry[] {
+  const cached = catalogCache.get(examKey)
+  if (cached) return cached
 
   const catalog: PoolEntry[] = []
 
-  for (const year of EXAM_YEARS) {
-    for (const paper of PAPER_IDS) {
-      const questions = getPaperQuestions(year, paper)
-      for (const question of questions) {
-        catalog.push({
-          ...question,
-          sourceYear: year,
-          sourcePaper: paper,
-          sourceId: question.id,
-          dedupKey: normalizeDedupKey(question.question),
-        })
-      }
+  for (const paper of getExamPapers(examKey)) {
+    const questions = getPaperQuestions(paper.year, paper.paper, examKey)
+    for (const question of questions) {
+      catalog.push({
+        ...question,
+        sourceYear: paper.year,
+        sourcePaper: paper.paper,
+        sourceId: question.id,
+        sourceExamKey: examKey,
+        dedupKey: normalizeDedupKey(question.question),
+      })
     }
   }
 
-  catalogCache = catalog
+  catalogCache.set(examKey, catalog)
   return catalog
+}
+
+export function examHasSubTopics(examKey: ExamKey = DEFAULT_EXAM_KEY): boolean {
+  return buildQuestionCatalog(examKey).some(
+    (q) => (q.sub_topics?.length ?? 0) > 0,
+  )
+}
+
+export function getCatalogYears(examKey: ExamKey = DEFAULT_EXAM_KEY): string[] {
+  const years = new Set<string>()
+  for (const paper of getExamPapers(examKey, { visibleOnly: true })) {
+    years.add(paper.year)
+  }
+  return Array.from(years).sort((a, b) => Number(b) - Number(a))
 }
 
 export function filterPoolByYears(
@@ -93,17 +109,26 @@ export function takePoolCount(pool: PoolEntry[], count: number): PoolEntry[] {
 
 export function reindexQuestions(entries: PoolEntry[]): Question[] {
   return entries.map((entry, index) => {
-    const { sourceYear, sourcePaper, sourceId, dedupKey, ...question } = entry
+    const {
+      sourceYear,
+      sourcePaper,
+      sourceId,
+      sourceExamKey,
+      dedupKey,
+      ...question
+    } = entry
     void sourceYear
     void sourcePaper
     void sourceId
+    void sourceExamKey
     void dedupKey
     return { ...question, id: index + 1 }
   })
 }
 
 export function countMatchingQuestions(filters: PracticeFilters): number {
-  let pool = buildQuestionCatalog()
+  const examKey = resolvePracticeExamKey(filters)
+  let pool = buildQuestionCatalog(examKey)
   pool = filterPoolByYears(pool, filters.years)
   pool = filterPoolBySubjects(pool, filters.subjects)
   pool = filterPoolBySubTopics(pool, filters.subTopics)

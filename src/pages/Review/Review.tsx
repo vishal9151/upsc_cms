@@ -11,8 +11,10 @@ import { Card } from '@/components/ui/Card'
 import { ReviewPalette } from '@/components/review/ReviewPalette'
 import { ReviewQuestionCard } from '@/components/review/ReviewQuestionCard'
 import type { ReviewFilter } from '@/types/result'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
 import { useExamResult } from '@/hooks/useExamResult'
 import { getExamSubtitle } from '@/utils/examDisplay'
+import { getResultPath } from '@/utils/examRoutes'
 
 const FILTERS: { id: ReviewFilter; label: string }[] = [
   { id: 'all', label: 'All' },
@@ -47,6 +49,7 @@ function matchesFilter(
 
 export function Review() {
   const data = useExamResult()
+  const examKey = useExamKeyParam()
   const location = useLocation()
   const initialIndex =
     (location.state as { questionIndex?: number } | null)?.questionIndex ?? 0
@@ -131,7 +134,7 @@ export function Review() {
             Review Answers
           </h1>
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            {getExamSubtitle(year, paper)}
+            {getExamSubtitle(year, paper, examKey)}
           </p>
         </div>
         <Badge variant="blue">
@@ -195,7 +198,7 @@ export function Review() {
       />
 
       <div className="flex justify-center gap-3">
-        <Link to={`/result/${year}/${paper}`}>
+        <Link to={getResultPath(examKey, year, paper)}>
           <Button variant="outline">Back to Results</Button>
         </Link>
         <Link to="/">

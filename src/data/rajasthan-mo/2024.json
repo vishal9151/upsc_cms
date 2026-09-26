@@ -1,0 +1,1167 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following structures do not form the boundary of the triangle of Koch containing the atrioventricular node and its connections?",
+    "options": [
+      "Coronary sinus opening",
+      "Tendon of Todaro",
+      "Septal leaflet of tricuspid valve",
+      "Limbus fossa ovalis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The triangle of Koch is bounded by the coronary sinus opening (base), tendon of Todaro (posterior/superior), and the septal leaflet of the tricuspid valve (anterior/inferior), with the AV node at its apex. The limbus fossa ovalis is a margin of the interatrial septum located outside this triangle.",
+    "subject_keys": ["anatomy"]
+  },
+  {
+    "id": 2,
+    "question": "A patient visits the OPD and complains of large fluid-filled blisters. The patient was diagnosed as a case of bullous pemphigoid. Autoantibodies to which of the following cell junctions is most likely to be affected?",
+    "options": [
+      "Hemidesmosomes",
+      "Tight junction",
+      "Gap junction",
+      "Desmosomes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bullous pemphigoid is caused by IgG and C3 autoantibodies against hemidesmosomal antigens (BP180/collagen XVII and BP230) at the dermo-epidermal junction, producing tense subepidermal blisters with a negative Nikolsky sign. This contrasts with pemphigus vulgaris, where antibodies target desmosomes (desmoglein 1/3), causing flaccid intraepidermal blisters.",
+    "subject_keys": ["pathology", "dermatology"]
+  },
+  {
+    "id": 3,
+    "question": "Onodi and Haller cells of ethmoid labyrinth are found in relation to which of the following structures?",
+    "options": [
+      "Optic nerve and floor of orbit",
+      "Optic nerve and nasolacrimal duct",
+      "Orbital floor and nasolacrimal duct",
+      "Optic nerve and internal carotid artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Onodi cells are posterior ethmoidal air cells that pneumatize toward the sphenoid in close relation to the optic nerve, risking optic nerve injury during FESS. Haller cells pneumatize along the medial orbital floor, narrowing the ostiomeatal complex; together they relate to the optic nerve and orbital floor.",
+    "subject_keys": ["ent", "anatomy"]
+  },
+  {
+    "id": 4,
+    "question": "A 20-year-old male was hit on the temple with a baseball bat and became unconscious. After some time after he regains consciousness, he becomes lethargic over the next two hours with unequal pupils. With the provisional diagnosis of intracranial hemorrhage in mind, which of the following arteries is most likely injured, leading to hemorrhage?",
+    "options": [
+      "Anterior cerebral artery",
+      "Middle meningeal artery",
+      "Basilar artery",
+      "Anterior communicating artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Temporal trauma over the thin pterion classically tears the middle meningeal artery, producing an epidural hematoma with the classic pattern of brief unconsciousness, a lucid interval, then rapid deterioration with anisocoria from uncal herniation and third nerve compression. CT shows a biconvex, lens-shaped hyperdensity limited by suture lines.",
+    "subject_keys": ["general_surgery", "anatomy"]
+  },
+  {
+    "id": 5,
+    "question": "A pedestrian crossing the road is met with a road traffic accident. He has presented to the emergency with left foot drop. Power in tibialis anterior, extensor digitorum longus, and extensor hallucis longus is 0/5. While power in tibialis posterior, gastrocnemius is 4/5. What is the likely site of injury?",
+    "options": [
+      "Supracondylar fracture of left femur",
+      "Fracture neck of left fibula",
+      "Posterior dislocation of femur head",
+      "Left ankle fracture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The common peroneal nerve winds superficially around the fibular neck, making it highly vulnerable to fracture there; its deep branch supplies the anterior compartment dorsiflexors, whose paralysis causes foot drop. Preserved plantarflexion/inversion power confirms the tibial nerve (posterior compartment) is spared, localizing the lesion to the fibular neck.",
+    "subject_keys": ["orthopedics", "anatomy"]
+  },
+  {
+    "id": 6,
+    "question": "A 45 year old woman comes to hospital for her executive health check up. Her blood pressure is found to be same while lying and while standing. Which of the following changes is seen in lying to standing positions: I. Heart rate - increased II. Preload - decreased III. Heart rate - decreased IV. Preload - increased.",
+    "options": ["I and II", "II and III", "III and IV", "I and IV"],
+    "correctAnswer": 0,
+    "explanation": "On standing, gravitational venous pooling in the lower limbs and splanchnic bed reduces venous return, decreasing preload. Baroreceptor-mediated reflex sympathetic activation then increases heart rate and peripheral vasoconstriction to maintain blood pressure.",
+    "subject_keys": ["physiology"]
+  },
+  {
+    "id": 7,
+    "question": "A 20 year old presents to emergency with history of severe vomiting for last 2 days and orthostatic hypotension. Which of the following metabolic abnormality can be seen in this patient: I. Hypokalemia II. Hypochloremia III. Metabolic alkalosis IV. Respiratory alkalosis.",
+    "options": ["I and IV", "I, II and III", "I, II and IV", "II and IV"],
+    "correctAnswer": 1,
+    "explanation": "Loss of gastric HCl in severe vomiting causes hypochloremia and generates excess bicarbonate, producing metabolic alkalosis. Resulting volume contraction activates the renin-angiotensin-aldosterone system, driving renal potassium and hydrogen loss and causing hypokalemia with paradoxical aciduria.",
+    "subject_keys": ["biochemistry", "general_medicine"]
+  },
+  {
+    "id": 8,
+    "question": "A 50 year old woman presents with heat intolerance, warm soft skin, protruding eyeball, nervousness, increased pulse rate, high plasma T4 and T3 but low plasma TSH level. She is advised to take methimazole. Which of the following might not be the underlying cause of her clinical condition?",
+    "options": [
+      "Graves disease",
+      "Myxedema",
+      "Solitary toxic adenoma",
+      "Toxic multinodular goiter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This patient's findings (elevated T3/T4, suppressed TSH, exophthalmos, tachycardia, heat intolerance) are classic for thyrotoxicosis, which can arise from Graves disease, toxic adenoma, or toxic multinodular goiter. Myxedema is severe hypothyroidism with the opposite hormonal profile (low T4, high TSH), so it cannot be the cause here.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 9,
+    "question": "A 23-year-old boy presented with complaints of diplopia, dysphagia and dysphonia following consumption of food from a roadside vendor. On examination he was found to have ptosis and dysarthria also. A diagnosis of botulism was made. Botulinum toxin B causes these symptoms by:",
+    "options": [
+      "Cleaving synaptobrevin",
+      "Cleaving SNAP-25",
+      "Cleaving Ras",
+      "Cleaving Rab"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Botulinum toxins are zinc-dependent endopeptidases that cleave SNARE proteins needed for acetylcholine vesicle exocytosis at cholinergic synapses. Toxin serotypes B, D, F and G cleave synaptobrevin (VAMP), while types A, C and E cleave SNAP-25, producing the descending flaccid paralysis and bulbar palsy seen in botulism.",
+    "subject_keys": ["pharmacology", "microbiology"]
+  },
+  {
+    "id": 10,
+    "question": "70 year old hypertensive male discontinued his medicines. He suffered a hemorrhagic stroke involving inferior parietal lobule. Which of the following symptoms may be observed as a result of this damage?",
+    "options": [
+      "Inability to recognize familiar face",
+      "Nonsense speech full of jargon",
+      "Impairment of calculation ability",
+      "Ignorance of stimuli on one side of the body."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dominant (left) inferior parietal lobule (angular gyrus) lesions produce Gerstmann syndrome, comprising acalculia, finger agnosia, agraphia without alexia, and left-right disorientation. Note: the official key also accepts hemispatial neglect (option d), which results from non-dominant inferior parietal lobule damage instead.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 11,
+    "question": "Modification of a defective enzyme to restore functional enzyme activity of cultured human pluripotent stem cells can be achieved by which one of the following methods?",
+    "options": [
+      "Nucleotide base excision repair",
+      "CRISPR/Cas9-based gene editing",
+      "Mismatch repair",
+      "Gene cloning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRISPR/Cas9 uses a guide RNA complementary to the mutant locus and the Cas9 endonuclease to create a site-specific double-strand break. With a donor template, homology-directed repair then allows precise correction of the mutation to restore normal enzyme function in pluripotent stem cells.",
+    "subject_keys": ["biochemistry"]
+  },
+  {
+    "id": 12,
+    "question": "Which amino acid majorly contributes to the nitrogen in urea biosynthesis?",
+    "options": ["Lysine", "Arginine", "Glutamine", "Ornithine"],
+    "correctAnswer": 2,
+    "explanation": "Glutamine is the principal inter-organ nitrogen carrier in blood; hepatic mitochondrial glutaminase releases free ammonia from glutamine, which is fixed into carbamoyl phosphate by carbamoyl phosphate synthetase I, the first committed step of the urea cycle. The second urea nitrogen comes from aspartate, whose nitrogen also traces back to the glutamate/glutamine pool via transamination.",
+    "subject_keys": ["biochemistry"]
+  },
+  {
+    "id": 13,
+    "question": "Assessment of Vitamin B12 nutritional status can be done by determining the urinary levels of:",
+    "options": [
+      "Cobalamin",
+      "Folic acid",
+      "Methylmalonic acid",
+      "Propionyl CoA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vitamin B12 is a cofactor for methylmalonyl-CoA mutase, which converts methylmalonyl-CoA to succinyl-CoA. When B12 is deficient, methylmalonyl-CoA accumulates and is hydrolyzed to methylmalonic acid, which is excreted in urine and serves as a sensitive, specific marker distinguishing B12 deficiency from folate deficiency.",
+    "subject_keys": ["biochemistry"]
+  },
+  {
+    "id": 14,
+    "question": "Presence of which vitamin in the gut enhances the absorption of iron?",
+    "options": ["Vitamin C", "Vitamin B6", "Vitamin B12", "Vitamin B9"],
+    "correctAnswer": 0,
+    "explanation": "Ascorbic acid (vitamin C) reduces insoluble ferric iron (Fe3+) to soluble ferrous iron (Fe2+), the form transported across the enterocyte apical membrane by DMT1. Vitamin C also forms soluble chelates with iron that resist precipitation by dietary phytates and tannins.",
+    "subject_keys": ["physiology", "biochemistry"]
+  },
+  {
+    "id": 15,
+    "question": "Prion diseases are transmitted by:",
+    "options": ["DNA", "RNA", "Carbohydrates", "Proteins"],
+    "correctAnswer": 3,
+    "explanation": "Prions are infectious agents devoid of any nucleic acid genome. Disease results when the normal cellular prion protein (PrP^C) misfolds into the pathogenic beta-sheet-rich isoform (PrP^Sc), which then templates further misfolding, causing spongiform neurodegeneration such as Creutzfeldt-Jakob disease.",
+    "subject_keys": ["microbiology"]
+  },
+  {
+    "id": 16,
+    "question": "What is the primary mode of transmission for tuberculosis?",
+    "options": [
+      "Blood transfusion",
+      "Airborne droplets",
+      "Contaminated food",
+      "Skin contact"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mycobacterium tuberculosis spreads almost exclusively via airborne droplet nuclei (1-5 microns) generated when a patient with active pulmonary or laryngeal TB coughs or sneezes. These tiny nuclei remain suspended in air for hours and can reach the alveoli directly.",
+    "subject_keys": ["microbiology", "community_medicine"]
+  },
+  {
+    "id": 17,
+    "question": "Which of the following cells play a key role in asthma inflammation?",
+    "options": ["Red blood cells", "Eosinophils", "Neutrophils", "Platelets"],
+    "correctAnswer": 1,
+    "explanation": "In allergic (T2-high) asthma, Th2-derived IL-5 drives eosinophil differentiation, recruitment, and activation in the airway. Degranulating eosinophils release major basic protein, eosinophil cationic protein, and cysteinyl leukotrienes that damage epithelium and drive bronchial hyperreactivity and remodeling.",
+    "subject_keys": ["pathology", "general_medicine"]
+  },
+  {
+    "id": 18,
+    "question": "A 55-year-old male with a history of hypertension and smoking presents to the emergency department with sudden onset of severe chest pain radiating to his left arm and jaw. He is sweating profusely and appears anxious. An electrocardiogram (ECG) shows ST-segment elevation with elevated Troponin and Creatine kinase-MB (CK-MB) enzyme markers. What is the likely diagnosis?",
+    "options": [
+      "Angina",
+      "Myocardial infarction (MI)",
+      "Gastroesophageal reflux disease (GERD)",
+      "Pulmonary embolism"
+    ],
+    "correctAnswer": 1,
+    "explanation": "New ST-segment elevation on ECG combined with a rise in cardiac troponin and CK-MB above the 99th percentile, in the setting of typical ischemic chest pain radiating to the jaw/arm with diaphoresis, is diagnostic of acute ST-elevation myocardial infarction.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 19,
+    "question": "Sickle cell anemia is inherited in which pattern?",
+    "options": [
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Autosomal recessive",
+      "Mitochondrial inheritance"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sickle cell disease follows autosomal recessive inheritance, caused by a point mutation (GAG→GTG) at codon 6 of the beta-globin gene on chromosome 11, replacing glutamic acid with valine. Homozygotes (HbSS) develop sickle cell anemia, while heterozygotes (HbAS) carry sickle trait and have relative malaria resistance.",
+    "subject_keys": ["pathology"]
+  },
+  {
+    "id": 20,
+    "question": "A 58-year-old woman with a history of breast cancer presents with back pain and weakness in her legs. Imaging reveals lytic lesions in her spine. What is the most likely cause of her symptoms?",
+    "options": [
+      "Degenerative disc disease",
+      "Osteoporosis",
+      "Metastasis of breast cancer to the bone",
+      "Pulled muscle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bone is the most common site of distant metastasis in breast cancer, with tumor cells reaching vertebral bodies via the valveless Batson venous plexus. Osteoclast-activating factors cause lytic bone destruction, producing back pain, pathological fracture risk, and cord compression with leg weakness.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 21,
+    "question": "A 45-year-old male presents with a 3-month history of chronic cough, night sweats, weight loss, and occasional hemoptysis. He has no history of recent travel or contact with known tuberculosis patients. Chest X-ray shows cavitary lesions in the upper lobes of the lungs. Which of the following is the most appropriate next step for diagnosing pulmonary tuberculosis?",
+    "options": [
+      "Start empirical antitubercular therapy without further testing.",
+      "Order a complete blood count (CBC) and liver function tests (LFTs).",
+      "Perform a sputum smear and culture for acid-fast bacilli (AFB) and conduct a nucleic acid amplification test (NAAT) for Mycobacterium tuberculosis",
+      "Obtain a CT scan of the chest for better visualization of the cavitary lesions."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Microbiological confirmation is mandatory before starting anti-tubercular therapy under WHO/NTEP guidelines. Sputum AFB smear/culture combined with a rapid NAAT (CBNAAT/GeneXpert) confirms M. tuberculosis and detects rifampicin resistance within hours, without needing to wait for empirical treatment or additional imaging.",
+    "subject_keys": ["general_medicine", "microbiology"]
+  },
+  {
+    "id": 22,
+    "question": "A 52-year-old diabetic patient presents with a 3-day history of redness, warmth, and swelling in the right lower leg. On examination, the area is tender, erythematous, and has poorly defined borders. The patient is afebrile and reports mild pain in the affected area. What is the most appropriate initial management for this patient?",
+    "options": [
+      "Prescribe topical antibiotics and advise elevation of the limb.",
+      "Administer intravenous vancomycin immediately.",
+      "Start oral antibiotics effective against Streptococcus and Staphylococcus species, such as cephalexin or amoxicillin-clavulanate.",
+      "Order a CT scan to confirm the diagnosis before starting treatment."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Non-purulent cellulitis with erythema, warmth, and poorly defined borders is usually caused by Group A Streptococcus and MSSA. In a stable, afebrile patient without systemic toxicity, initial treatment is oral beta-lactam therapy (cephalexin or amoxicillin-clavulanate) with limb elevation; IV vancomycin is reserved for severe or MRSA-suspected infections.",
+    "subject_keys": ["general_medicine", "dermatology"]
+  },
+  {
+    "id": 23,
+    "question": "A 6-year-old child presents to the emergency department with a 4-day history of sore throat, low-grade fever, and difficulty swallowing. On examination, the child has cervical lymphadenopathy, a swollen neck, and a thick, grayish-white membrane covering the tonsils and pharynx that bleeds when attempts are made to remove it. The child is unvaccinated. What is the most appropriate next step in management?",
+    "options": [
+      "Prescribe oral antibiotics and discharge the patient with follow-up.",
+      "Admit the patient, isolate them, administer diphtheria antitoxin, and start intravenous antibiotics.",
+      "Schedule an outpatient appointment for a throat culture before starting treatment.",
+      "Perform a throat swab for rapid strep testing and provide supportive care only."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An adherent pseudomembrane that bleeds on removal, cervical lymphadenopathy with neck swelling ('bull neck'), and lack of immunization are classic for respiratory diphtheria. Management requires urgent diphtheria antitoxin to neutralize circulating exotoxin, droplet isolation, and IV antibiotics, without waiting for culture confirmation.",
+    "subject_keys": ["pediatrics", "microbiology"]
+  },
+  {
+    "id": 24,
+    "question": "A 70-year-old woman with a history of chronic obstructive pulmonary disease (COPD) and diabetes mellitus presents to her primary care physician in early flu season with a 3-day history of fever, malaise, productive cough, and dyspnea. She is vaccinated for seasonal influenza every year. On examination, her temperature is 38.2°C, and her lung exam reveals diffuse wheezes but no crackles. Her oxygen saturation is 94% on room air. What is the most appropriate management approach for this patient?",
+    "options": [
+      "Admit her to the hospital and start oseltamivir and antibiotics",
+      "Discharge with supportive care and close outpatient follow-up",
+      "Perform RIDT, initiate oseltamivir if positive, and send her home",
+      "Prescribe antibiotics for possible secondary bacterial infection only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elderly patients with underlying COPD and diabetes are high risk for severe influenza complications, respiratory failure, and secondary bacterial pneumonia. This warrants hospital admission with early empiric oseltamivir, bronchodilators, and antibacterial coverage rather than outpatient management alone.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 25,
+    "question": "A 45-year-old woman presents with fever, chills, and muscle aches after a recent visit to rural India. Malaria was diagnosed by blood smear, which shows Plasmodium falciparum infection with a parasitemia level of 4%. She complains of abdominal pain, nausea, and mild confusion. Her vital signs are temperature 39.5°C, pulse 120 bpm, blood pressure 90/60 mmHg, and oxygen saturation 93% on room air. What is the most appropriate initial management?",
+    "options": [
+      "Admit to the hospital and start oral chloroquine",
+      "Administer artesunate intravenously and admit to the ICU",
+      "Begin oral artemisinin-based combination therapy and observe",
+      "Prescribe atovaquone-proguanil as an outpatient"
+    ],
+    "correctAnswer": 1,
+    "explanation": "High parasitemia (≥4%), altered mental status, and hypotension meet WHO criteria for severe falciparum malaria. IV artesunate is the treatment of choice, shown to significantly reduce mortality versus IV quinine, and ICU admission with close monitoring is mandatory.",
+    "subject_keys": ["general_medicine", "microbiology"]
+  },
+  {
+    "id": 26,
+    "question": "An 8-year-old girl was taking 800 mg carbamazepine daily and was prescribed 1 g of erythromycin for 14 days. Within 2 days she began to experience balancing difficulties and ataxia. What could be the cause of her symptoms?",
+    "options": [
+      "She is experiencing relapse of epileptic symptoms",
+      "She is experiencing carbamazepine toxicity",
+      "She is experiencing erythromycin toxicity",
+      "She is experiencing hypersensitivity reaction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbamazepine is metabolized by hepatic CYP3A4, which erythromycin potently inhibits. This interaction sharply raises carbamazepine plasma levels within days, producing classic neurotoxicity such as cerebellar ataxia, diplopia, and dizziness.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 27,
+    "question": "A 35-year-old patient presented to the ER with chest pain and syncope. On ECG, the following rhythm was observed. Which drug will you give for rapid termination of this condition?",
+    "options": ["IV digoxin", "IV propranolol", "IV adenosine", "IV atropine"],
+    "correctAnswer": 2,
+    "explanation": "Note: in the original paper the ECG image was omitted from print, so the exam board awarded bonus marks to all candidates for this question rather than scoring a specific option. For a standard regular narrow-complex tachycardia (e.g., PSVT/AVNRT) as implied by the stem, IV adenosine is the drug of choice for rapid termination via transient AV nodal blockade.",
+    "subject_keys": ["pharmacology", "general_medicine"]
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is not a limitation of intravenous route of administration?",
+    "options": [
+      "Increased risk of adverse effects",
+      "Must inject solutions slowly as a rule",
+      "Not suitable for oily solutions or poorly soluble substances",
+      "May interfere with interpretation of Creatine Kinase test"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Intramuscular injections cause local tissue trauma that leaks creatine kinase into the blood, falsely elevating CK levels; the intravenous route bypasses muscle entirely and does not cause this interference. True IV limitations include higher toxicity risk, need for slow administration, and unsuitability for oily/poorly soluble drugs.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 29,
+    "question": "Which of the following statements is wrong about gabapentin?",
+    "options": [
+      "Its oral absorption is dose proportionate and well metabolized in humans",
+      "It is not bound to plasma proteins and is excreted unchanged",
+      "It has no known interactions with other anti-seizure drugs",
+      "It is effective for focal seizures, with and without progression to tonic-clonic seizures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gabapentin absorption is saturable via the LAT1 transporter, so bioavailability actually falls as dose increases (non dose-proportionate), and the drug undergoes negligible hepatic metabolism, being eliminated almost entirely unchanged by the kidneys. The other statements about lack of protein binding, minimal drug interactions, and efficacy in focal seizures are accurate.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 30,
+    "question": "A farmer was brought to the emergency room after he accidentally consumed a liquid. He had four episodes of vomiting and was copious secretions from his mouth. His blood pressure was unrecordable and had pin-point pupils. What is the poison consumed?",
+    "options": ["Acetone", "Atropine", "Ethanol", "Malathion"],
+    "correctAnswer": 3,
+    "explanation": "Organophosphates like malathion irreversibly inhibit acetylcholinesterase, causing massive acetylcholine accumulation with muscarinic toxicity: excessive secretions, vomiting, bradycardia/hypotension, and pinpoint pupils (part of the classic DUMBELS toxidrome). Treatment includes IV atropine and pralidoxime.",
+    "subject_keys": ["forensic_medicine", "pharmacology"]
+  },
+  {
+    "id": 31,
+    "question": "A dead body was brought for postmortem examination. On examination of the eyes, sclera showed triangular shaped discolored areas. What is this known as?",
+    "options": [
+      "Kevorkian sign",
+      "Tache noire",
+      "La facies sympathique",
+      "Lazarus syndrome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tache noire de la sclerotique refers to triangular brownish-black discolored zones that appear on exposed sclera within 2-3 hours after death when the eyelids remain open, caused by desiccation and dust deposition on the drying sclera.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 32,
+    "question": "A person was found dead by his wife in his garage with his car running. Carbon monoxide gas poisoning was confirmed to be the cause of his death. What will be the color of post mortem staining in this case?",
+    "options": ["Cherry red", "Brick red", "Grayish/black", "Chocolate brown"],
+    "correctAnswer": 0,
+    "explanation": "Carbon monoxide binds hemoglobin to form carboxyhemoglobin, producing a characteristic bright cherry-red postmortem lividity. This distinguishes it from the chocolate-brown discoloration of methemoglobinemia (nitrites/aniline) or the bluish-green staining of hydrogen sulfide poisoning.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 33,
+    "question": "A 27 year old male sustained injury to the right eye in an assault. He subsequently developed right corneal opacity following injury resulting in impairment of vision. Medicolegally such injury is labelled as?",
+    "options": ["Simple", "Grievous", "Dangerous", "Serious"],
+    "correctAnswer": 1,
+    "explanation": "Under the penal code's definition of grievous hurt, permanent privation of the sight of either eye is explicitly listed as one of the eight categories. Corneal opacity causing lasting visual impairment following assault therefore qualifies as grievous hurt.",
+    "subject_keys": ["forensic_medicine", "ophthalmology"]
+  },
+  {
+    "id": 34,
+    "question": "A couple is known to be hostile to each other. The wife is seen buying arsenic allegedly for killing rats on a particular day. The husband dies of arsenic poisoning the next day. Police raids the house and finds that there is arsenic in food, which the wife prepared. What type of evidence is this?",
+    "options": [
+      "Direct evidence",
+      "Hearsay evidence",
+      "Documentary evidence",
+      "Circumstantial evidence"
+    ],
+    "correctAnswer": 3,
+    "explanation": "No one directly witnessed the wife administering the poison; instead, the conclusion is inferred from a chain of surrounding facts (purchase of arsenic, hostility, arsenic found in food she prepared, and the husband's death). This inferential chain of collateral facts constitutes circumstantial evidence.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 35,
+    "question": "A 29 year old male reported to emergency with alleged history of being beaten by the neighbour. On examination, a dark brown color bruise was present over back of left forearm in the lower third part. Vesicles were present on the site and the patient was itching the site of bruise. What is the most likely causative factor in this case?",
+    "options": [
+      "Blunt trauma",
+      "Calotropis gigantea",
+      "Single edge weapon",
+      "Double edge weapon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The irritant latex of Calotropis gigantea (Madar) is sometimes rubbed on skin to fabricate false assault marks, producing dark brownish contact dermatitis with vesicles and intense itching. True blunt-trauma contusions do not typically present with vesicles or pruritus.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 36,
+    "question": "The best way of teaching urban women about ORS is:",
+    "options": ["Lecture", "Demonstration", "Flash cards", "Role play"],
+    "correctAnswer": 1,
+    "explanation": "Demonstration ('learning by doing and seeing') is the most effective method for teaching hands-on practical skills such as correctly preparing and administering ORS, since caregivers directly observe and practice the technique rather than passively receiving information.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 37,
+    "question": "A publicity campaign aimed at promoting a particular product in a favorable light, so that people accept it without further exploring various details, is called:",
+    "options": [
+      "Health Education",
+      "Behavior change communication",
+      "Propaganda",
+      "Advocacy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Propaganda is a one-way, biased dissemination of information designed to persuade people toward a predetermined belief or product without encouraging independent critical evaluation, unlike health education which is a two-way process empowering informed decision-making.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 38,
+    "question": "When a doctor is giving a talk that the vaccines used in the vaccination programme do not lead to impotence among the vaccinated children in their later life, what type of barrier to communication is the doctor trying to overcome in the present scenario?",
+    "options": [
+      "Physical barrier",
+      "Cultural barrier",
+      "Environmental barrier",
+      "Psychological barrier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Myths and traditional beliefs linking vaccination to infertility or loss of virility reflect deep-rooted socio-cultural taboos. Overcoming this misinformation requires culturally sensitive communication addressing this cultural barrier to vaccine acceptance.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 39,
+    "question": "When we take a clinical history from a patient, it is an example of:",
+    "options": [
+      "Structured interview",
+      "Unstructured interview",
+      "Health education",
+      "Counseling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clinical history-taking uses open-ended questions and flexible follow-up probes tailored to the patient's narrative rather than a fixed set of closed-ended questions, classifying it as an unstructured (or semi-structured) interview, unlike rigid epidemiological questionnaires.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 40,
+    "question": "A village is affected with an epidemic of cholera. What is the first step which should be taken in the village to decrease deaths from cholera?",
+    "options": [
+      "Safe water supply and sanitation",
+      "Cholera vaccination to all individuals",
+      "Primary chemoprophylaxis",
+      "Treat everyone in village with tetracycline"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cholera spreads mainly through fecally contaminated drinking water, so the most immediate and important outbreak-control measure is ensuring a safe, chlorinated water supply along with sanitary excreta disposal. Mass chemoprophylaxis or vaccination cannot substitute for safe water infrastructure.",
+    "subject_keys": ["community_medicine", "microbiology"]
+  },
+  {
+    "id": 41,
+    "question": "Any direct or indirect intervention taken by the government to bring change in the existing behavior is called:",
+    "options": [
+      "Service approach",
+      "Regulatory approach",
+      "Health education approach",
+      "Primary healthcare approach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The regulatory approach uses statutory laws, mandates, taxation, and legal enforcement (such as anti-tobacco laws or mandatory helmet legislation) instituted by government to directly or indirectly alter population health behaviors.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 42,
+    "question": "A PHC which conducts more than 20 deliveries in a month is designated as:",
+    "options": ["Type A", "Type B", "Type C", "Type D"],
+    "correctAnswer": 1,
+    "explanation": "Under Indian Public Health Standards categorization, a Type A PHC handles fewer than 20 deliveries per month, while a Type B PHC handles 20 or more deliveries per month and is equipped with enhanced maternal-newborn infrastructure and round-the-clock nursing coverage.",
+    "subject_keys": ["community_medicine", "obstetrics_and_gynecology"]
+  },
+  {
+    "id": 43,
+    "question": "The multipurpose worker scheme in India was introduced following the recommendation of:",
+    "options": [
+      "Srivastava Committee",
+      "Bhore Committee",
+      "Kartar Singh Committee",
+      "Mudaliar Committee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Kartar Singh Committee (1973) recommended converting unipurpose vertical disease-control workers into multipurpose health workers under integrated health and family planning services. The Bhore Committee laid the foundation of the PHC system, while the Mudaliar Committee reviewed health planning and the Srivastava Committee introduced the village health guide/ROME scheme.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 44,
+    "question": "The public health care delivery system is developed on the philosophy of:",
+    "options": [
+      "Primary health care",
+      "Secondary health care",
+      "Tertiary health care",
+      "Primordial health care"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India's public healthcare delivery system is built on the philosophy of primary health care as declared at Alma-Ata in 1978, emphasizing universal accessibility, equity, community participation, and appropriate technology.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 45,
+    "question": "The foundation of the Indian public health system was laid on the basis of which committee's recommendations?",
+    "options": [
+      "Health survey and development committee",
+      "Health survey and planning committee",
+      "Integration of health service committee",
+      "Health and sanitation committee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Health Survey and Development Committee (the Bhore Committee, 1946) provided the foundational blueprint for India's three-tier health infrastructure (sub-centre, PHC, secondary hospital), integrating preventive and curative care.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 46,
+    "question": "The following are observational studies EXCEPT:",
+    "options": ["Ecological", "Cohort", "Field Trials", "Case Control"],
+    "correctAnswer": 2,
+    "explanation": "Observational studies (ecological, cohort, case-control) involve the investigator merely observing exposures without allocating them, whereas field trials are experimental (interventional) studies in which the investigator actively assigns the intervention to healthy community participants.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 47,
+    "question": "Following is the direct mode of transmission of infectious diseases:",
+    "options": [
+      "Fomite Borne",
+      "Contact with soil",
+      "Unclean hands and fingers",
+      "Air-Borne"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Direct transmission includes direct skin/mucosal contact, droplet spray, transplacental spread, and inoculation via contact with soil, such as hookworm larvae penetration or tetanus spore inoculation. Fomites, unwashed hands, and airborne droplet nuclei are all indirect transmission routes.",
+    "subject_keys": ["community_medicine", "microbiology"]
+  },
+  {
+    "id": 48,
+    "question": "Walk-in coolers (WIC) are used for storage of the following vaccines EXCEPT:",
+    "options": ["OPV Vaccine", "BCG", "Hepatitis B", "DPT"],
+    "correctAnswer": 0,
+    "explanation": "Walk-in coolers are maintained at +2°C to +8°C, the correct storage range for freeze-sensitive vaccines like Hepatitis B and DPT and heat-sensitive vaccines like BCG. Oral polio vaccine requires deep-freeze storage (-15°C to -25°C) in walk-in freezers instead.",
+    "subject_keys": ["community_medicine", "pediatrics"]
+  },
+  {
+    "id": 49,
+    "question": "Following agent is NOT suitable for disinfection of faeces and urine:",
+    "options": ["Bleaching Powder", "Salt Solution", "Cresol", "Formalin"],
+    "correctAnswer": 1,
+    "explanation": "Standard agents for terminal disinfection of excreta include bleaching powder, saponated cresol, and formalin, all of which have proven germicidal activity. A simple salt solution has essentially no significant disinfectant efficacy.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 50,
+    "question": "Correct match of indications of prenatal diagnosis with methods used is:",
+    "options": [
+      "Biochemical Disorders - Protein Assay",
+      "Chromosomal anomaly - Biochemical analysis of fluid",
+      "Metabolic defects - Culture and karyotyping of fetal cells from amniotic fluid",
+      "Neural Tube Defects - DNA Diagnosis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biochemical/enzymatic inborn errors are diagnosed by specific protein or enzyme assays on cultured fetal cells. Chromosomal anomalies require karyotyping/FISH of fetal cells (not fluid biochemistry), and neural tube defects are detected via maternal serum/amniotic alpha-fetoprotein plus ultrasound, not DNA diagnosis.",
+    "subject_keys": ["obstetrics_and_gynecology", "biochemistry"]
+  },
+  {
+    "id": 51,
+    "question": "A 40-year-old man undergoes a routine eye exam with an irregular pupil that is non-reactive to light but accommodates. What is the most likely cause of this finding?",
+    "options": [
+      "Adie's tonic pupil",
+      "Horner's syndrome",
+      "Third nerve palsy",
+      "Argyll Robertson pupil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A single irregular pupil that is poorly reactive to light but shows a slow tonic response to accommodation is classic for Adie's tonic pupil, typically unilateral and due to denervation of the ciliary ganglion. Note: the official key also accepts Argyll Robertson pupil, which classically presents bilaterally and is associated with neurosyphilis rather than an isolated finding as described here.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 52,
+    "question": "Secondary glaucoma following corneal perforation is due to:",
+    "options": [
+      "Anterior synechiae formation",
+      "Peripheral synechiae",
+      "Hyphema",
+      "Angle disruption"
+    ],
+    "correctAnswer": 0,
+    "explanation": "After corneal perforation, sudden aqueous loss collapses the anterior chamber and pushes the iris against the cornea and trabecular meshwork, forming extensive anterior/peripheral synechiae that permanently obstruct aqueous outflow and cause secondary angle-closure glaucoma.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 53,
+    "question": "In the grading of trachoma, trachomatous inflammation follicular is defined as the presence of:",
+    "options": [
+      "Five or more follicles in the lower tarsal conjunctiva",
+      "Three or more follicles in the lower tarsal conjunctiva",
+      "Five or more follicles in the upper tarsal conjunctiva",
+      "Three or more follicles in the upper tarsal conjunctiva"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Under the WHO simplified trachoma grading system, TF (trachomatous inflammation-follicular) is defined as five or more follicles, each at least 0.5 mm in diameter, on the upper tarsal conjunctiva.",
+    "subject_keys": ["ophthalmology", "community_medicine"]
+  },
+  {
+    "id": 54,
+    "question": "A 65-year-old male presents with a sudden loss of vision in his right eye. A dilated fundus examination reveals a pale retina with a well-defined 'cherry-red spot' at the fovea. What is the most likely diagnosis?",
+    "options": [
+      "Central retinal artery occlusion",
+      "Central retinal vein occlusion",
+      "Diabetic retinopathy",
+      "Retinal detachment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occlusion of the central retinal artery causes rapid cytotoxic edema and whitening of the inner retina, except at the thin foveola which lacks ganglion cells, allowing the underlying vascular choroid to show through as the classic cherry-red spot.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 55,
+    "question": "Prominent corneal nerves may be seen in all of the following EXCEPT:",
+    "options": [
+      "Keratoconus",
+      "Herpes simplex keratitis",
+      "Leprosy",
+      "Neurofibromatosis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prominent corneal nerves are seen in keratoconus, leprosy, and neurofibromatosis-1. In contrast, herpes simplex keratitis damages sensory corneal nerves, causing corneal hypoesthesia rather than nerve hypertrophy.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 56,
+    "question": "A 10 year old boy presents with sudden unprovoked nasal bleed which was noticed by his friend while playing an afternoon cricket match. On examination, his pulse is 84/min, no dehydration, dry posterior pharyngeal wall. He comes with a partially soaked handkerchief. Which of the following statements is correct pertaining to the clinical scenario?",
+    "options": [
+      "In majority of these cases, epistaxis typically originates from the septal branches of posterior ethmoid artery",
+      "Management includes firm pressure over the nose with head backwards for 20 minutes.",
+      "Placement of absorbable nasal pack is the gold standard for controlling arterial bleed.",
+      "Nasal clots should be gently suctioned under vision to identify the site of bleeding."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Most childhood epistaxis arises from Kiesselbach's plexus in Little's area of the anterior septum, not the posterior ethmoidal artery. Gentle suctioning of clots under direct vision is necessary to identify the bleeding point for cautery, and the head should be tilted forward (not backward) to avoid airway aspiration of blood.",
+    "subject_keys": ["ent", "pediatrics"]
+  },
+  {
+    "id": 57,
+    "question": "A 2 month old child presents with noisy breathing for 3 weeks. Examination reveals noisy breathing on inspiration with a pulse rate of 157/min, respiratory rate of 48/min with suprasternal retractions. Noisy breathing and retractions reduce on proning. Which of the following is the unlikely cause for airway obstruction?",
+    "options": [
+      "Laryngomalacia",
+      "Vallecular cyst",
+      "Micro-retrognathia",
+      "Subglottic hemangioma"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In laryngomalacia, vallecular cysts, and micro-retrognathia, prone positioning lets gravity pull redundant supraglottic tissue or tongue forward, easing dynamic obstruction and reducing stridor. Subglottic hemangioma is a fixed anatomical mass, so its stridor does not improve with positional change.",
+    "subject_keys": ["ent", "pediatrics"]
+  },
+  {
+    "id": 58,
+    "question": "Which of the following is the most commonly involved semicircular canal in benign paroxysmal positional vertigo?",
+    "options": ["Lateral", "Superior", "Posterior", "Saccule"],
+    "correctAnswer": 2,
+    "explanation": "The posterior semicircular canal is the most gravity-dependent canal in upright and supine positions, so dislodged otoconia most often settle there, accounting for 85-95% of BPPV cases diagnosed by the Dix-Hallpike test and treated with the Epley maneuver.",
+    "subject_keys": ["ent"]
+  },
+  {
+    "id": 59,
+    "question": "Following are the clinical tests of assessment of vestibular functions EXCEPT:",
+    "options": [
+      "Spontaneous nystagmus",
+      "Fistula Test",
+      "Romberg Test",
+      "Caloric Test"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bedside clinical vestibular tests include spontaneous nystagmus assessment, the fistula test, and the Romberg test. The bithermal caloric test requires specialized water/air irrigation equipment and electronystagmography recording, making it an instrumental laboratory test rather than a simple bedside clinical test.",
+    "subject_keys": ["ent"]
+  },
+  {
+    "id": 60,
+    "question": "Facial nerve leaves the brainstem at:",
+    "options": [
+      "Pontomedullary junction",
+      "Posterior Cranial Fossa",
+      "Internal acoustic meatus",
+      "Stylomastoid foramen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The facial nerve emerges from the brainstem at the cerebellopontine angle, at the lateral pontomedullary junction, as a motor root and the smaller nervus intermedius, situated medial to the vestibulocochlear nerve.",
+    "subject_keys": ["anatomy", "ent"]
+  },
+  {
+    "id": 61,
+    "question": "Treatment of choice for middle third clavicle fracture in a 30-year-old male patient with 1 cm gap between fracture fragments is:",
+    "options": [
+      "Closed Reduction and Intramedullary Nailing",
+      "Conservative Treatment",
+      "Open Reduction and Intramedullary Nailing",
+      "Open Reduction and Internal Fixation with Broad DCP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Midshaft clavicle fractures with less than 2 cm of displacement or shortening, no skin tenting, and no neurovascular compromise heal reliably with conservative treatment (sling immobilization) and do not require surgical fixation.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 62,
+    "question": "Ideal treatment for unstable extracapsular fracture neck femur in a 72-year-old male patient is:",
+    "options": [
+      "Cemented Bipolar Hemiarthroplasty",
+      "Open reduction and internal fixation with DHS",
+      "Closed reduction and Intramedullary Nailing",
+      "Open reduction and internal fixation with CCS"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For unstable extracapsular (intertrochanteric) fractures with posteromedial comminution, closed reduction and cephalomedullary (intramedullary) nailing is the current biomechanical standard, offering a shorter lever arm and better load-sharing than an extramedullary dynamic hip screw, reducing risk of screw cutout.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 63,
+    "question": "All are tests for anterior cruciate ligament deficiency of the knee, except:",
+    "options": [
+      "Lachman's",
+      "Anterior Drawer test",
+      "Pivot shift test",
+      "McMurray's test"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lachman's test, the anterior drawer test, and the pivot-shift test all assess ACL integrity. McMurray's test instead evaluates for meniscal tears, not ligamentous ACL deficiency.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 64,
+    "question": "All are features of neurogenic shock EXCEPT:",
+    "options": [
+      "Low Systolic BP",
+      "Bradycardia",
+      "Cool and Clammy Skin",
+      "Reduced Urinary Output"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Neurogenic shock, from loss of sympathetic tone after high spinal cord injury, causes vasodilation producing warm, dry, flushed skin rather than cool, clammy skin. Its classic triad is hypotension, bradycardia, and warm extremities, unlike the cold, clammy skin seen in hypovolemic or cardiogenic shock.",
+    "subject_keys": ["general_surgery", "anesthesiology"]
+  },
+  {
+    "id": 65,
+    "question": "Thomas test of the hip joint is done to diagnose:",
+    "options": [
+      "Fixed Flexion Deformity of hip joint",
+      "Fixed Adduction Deformity of hip joint",
+      "Fixed Abduction deformity of hip joint",
+      "Internal Rotation deformity of hip joint"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Thomas test flexes the contralateral normal hip to flatten compensatory lumbar lordosis; if the affected hip then rises off the table, it reveals and quantifies a fixed flexion deformity of that hip that was otherwise masked.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 66,
+    "question": "Which of the following imaging modalities does not produce harmful ionizing radiation?",
+    "options": ["X-ray", "MRI", "PET-scan", "CT scan"],
+    "correctAnswer": 1,
+    "explanation": "MRI uses magnetic fields and radiofrequency pulses rather than ionizing radiation, unlike X-ray, CT, and PET, which all rely on ionizing radiation for image generation.",
+    "subject_keys": ["radiology"]
+  },
+  {
+    "id": 67,
+    "question": "X-rays are produced when accelerated electrons hit:",
+    "options": ["Cathode", "Diode", "Voltage regulators", "Anode"],
+    "correctAnswer": 3,
+    "explanation": "In an X-ray tube, electrons are thermionically emitted from the cathode filament, accelerated by a high voltage, and strike the rotating tungsten anode target, converting kinetic energy into X-rays (bremsstrahlung and characteristic radiation).",
+    "subject_keys": ["radiology"]
+  },
+  {
+    "id": 68,
+    "question": "Which of the following imaging modality methods is used for acute suspicion of stroke?",
+    "options": [
+      "Diffusion weighted MRI",
+      "T2 weighted MRI",
+      "Contrast enhanced MRI",
+      "MR Spectroscopy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diffusion-weighted MRI detects cytotoxic cellular edema within minutes of arterial occlusion, appearing bright on DWI with corresponding dark signal on ADC maps, making it far more sensitive for acute ischemic stroke than conventional T1/T2 imaging or non-contrast CT.",
+    "subject_keys": ["radiology", "general_medicine"]
+  },
+  {
+    "id": 69,
+    "question": "A 45-year-old patient presented to emergency with RIF pain and showed a single liver abscess with features of appendicitis on CT scan. What is the likely etiology?",
+    "options": ["Bacterial", "Metastatic colon cancer", "Amoebic", "Fungal"],
+    "correctAnswer": 0,
+    "explanation": "Acute appendicitis can lead to septic thrombophlebitis of the portal venous system (pylephlebitis), seeding a pyogenic (bacterial) liver abscess. Note: the official key also accepts amoebic etiology, since Entamoeba histolytica can cause cecal involvement mimicking appendicitis with spread to a solitary amoebic liver abscess, but the direct link to appendicitis here favors a bacterial cause.",
+    "subject_keys": ["general_surgery", "general_medicine"]
+  },
+  {
+    "id": 70,
+    "question": "What is the imaging of choice for suspected acute osteomyelitis?",
+    "options": ["CT scan", "X-ray", "Ultrasonography", "MRI"],
+    "correctAnswer": 3,
+    "explanation": "MRI detects marrow edema, periosteal reaction, and subperiosteal abscess within 24-48 hours of infection onset with high sensitivity and specificity, whereas plain X-rays remain normal until 10-14 days later when significant bone demineralization has occurred.",
+    "subject_keys": ["radiology", "orthopedics"]
+  },
+  {
+    "id": 71,
+    "question": "An 18 year old male presented to emergency room with history of pain abdomen, anorexia and nausea since last 24 hours. On clinical examination patient was febrile with tenderness over right lower quadrant of abdomen but no rebound tenderness. His total leucocyte count was 13000/mm3. His Alvarado score is:",
+    "options": ["7", "8", "9", "6"],
+    "correctAnswer": 0,
+    "explanation": "Scoring anorexia (1), nausea/vomiting (1), RLQ tenderness (2), elevated temperature (1), and leukocytosis (2) gives a total Alvarado score of 7, since rebound tenderness and migration of pain were not present. A score of 7 or more indicates high probability of acute appendicitis warranting surgery.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 72,
+    "question": "Incision given for placement of feeding gastrostomy is a:",
+    "options": [
+      "Contaminated wound",
+      "Clean wound",
+      "Clean contaminated wound",
+      "Dirty Wound"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CDC wound classification defines Class II (clean-contaminated) wounds as those where the alimentary, respiratory, or urinary tract is entered under controlled conditions without significant spillage, which applies to an elective gastrostomy incision.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 73,
+    "question": "Modified Wells criteria for predicting deep vein thrombosis DO NOT include:",
+    "options": [
+      "Previous DVT",
+      "Pitting Oedema",
+      "Intravenous drug abuse",
+      "Entire limb not swollen"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Wells criteria award points for previously documented DVT and for pitting edema confined to the symptomatic leg, along with criteria like an entire leg being swollen. 'Entire limb not swollen' is the opposite of the actual criterion ('entire leg swollen') and is therefore not part of the score.",
+    "subject_keys": ["general_surgery", "general_medicine"]
+  },
+  {
+    "id": 74,
+    "question": "False statement regarding screening mammography is:",
+    "options": [
+      "Screening mammography is performed in asymptomatic women.",
+      "Annual screening mammography is recommended for women older than 40 years",
+      "Younger women with a previous breast cancer, significant family history of breast cancer should also recommend for screening mammography",
+      "The goal of screening mammography is detecting occult breast cancer with better prognosis than cancers identified by palpation."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Per the official key, young high-risk women (BRCA mutation carriers or strong family history) are better served by contrast-enhanced breast MRI given their dense breast tissue, rather than standard screening mammography alone. This item is somewhat ambiguous, since option C does not explicitly exclude MRI as an adjunct, but the intended answer follows the key's emphasis on MRI being preferred in this population.",
+    "subject_keys": ["general_surgery", "radiology"]
+  },
+  {
+    "id": 75,
+    "question": "Which is not an etiology of obstructive shock?",
+    "options": [
+      "Massive pulmonary embolism",
+      "Tension Pneumothorax",
+      "Cardiac Tamponade",
+      "Myocardial infarction"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Obstructive shock results from mechanical extracardiac obstruction to blood flow, as in massive pulmonary embolism, tension pneumothorax, or cardiac tamponade. Myocardial infarction instead causes cardiogenic shock through primary pump failure of the heart muscle itself.",
+    "subject_keys": ["general_surgery", "anesthesiology"]
+  },
+  {
+    "id": 76,
+    "question": "A 55 year female with history of palpable breast lump underwent mammography. Her mammography categorized the lesion as BI-RADS 0. The interpretation of the test result is:",
+    "options": ["Negative", "Inconclusive", "Benign", "Probably Benign"],
+    "correctAnswer": 1,
+    "explanation": "BI-RADS 0 denotes an incomplete or inconclusive assessment requiring additional imaging (such as ultrasound) or comparison with prior films, distinct from BI-RADS 1 (negative) or BI-RADS 2 (benign).",
+    "subject_keys": ["radiology", "general_surgery"]
+  },
+  {
+    "id": 77,
+    "question": "Which statement is not true regarding differentiated thyroid cancers?",
+    "options": [
+      "Papillary thyroid carcinoma has a female preponderance",
+      "Follicular thyroid carcinoma disseminates primarily via the lymphatic route",
+      "Hurthle cell carcinoma usually affects older population",
+      "Follicular Thyroid Carcinoma cannot be reliably diagnosed by FNAC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Follicular thyroid carcinoma spreads predominantly via the hematogenous route to bone and lung due to early angioinvasion, with lymph node involvement being uncommon; papillary carcinoma is the one that spreads mainly via lymphatics. FTC also cannot be reliably diagnosed by FNAC because differentiating it from a benign adenoma requires histologic demonstration of capsular or vascular invasion.",
+    "subject_keys": ["general_surgery", "pathology"]
+  },
+  {
+    "id": 78,
+    "question": "Which is not a characteristic feature of achalasia cardia?",
+    "options": [
+      "The classic triad of presenting symptoms consists of dysphagia, regurgitation, and weight loss.",
+      "Dysphagia often begins with liquids and progresses to solids",
+      "Dysphagia progresses rapidly during the course of disease",
+      "Achalasia known to be a premalignant condition of the esophagus."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Achalasia typically produces slowly progressive dysphagia over months to years due to failure of LES relaxation from myenteric plexus degeneration. Rapidly progressive dysphagia over weeks is atypical and should raise suspicion for pseudoachalasia or esophageal malignancy instead.",
+    "subject_keys": ["general_surgery", "general_medicine"]
+  },
+  {
+    "id": 79,
+    "question": "Unfavourable factor for non-operative enterocutaneous fistula closure is:",
+    "options": [
+      "Length of fistula tract less than 2 cm",
+      "Fistula output less than 200ml/24 hours",
+      "Fistula formation secondary to appendicitis or diverticulitis",
+      "Distal fistula"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Per the FRIENDS mnemonic for factors preventing spontaneous fistula closure, a short tract (less than 2 cm) rapidly epithelializes between mucosal and cutaneous surfaces, preventing spontaneous closure and typically requiring surgical intervention, unlike low-output or distal fistulas which favor spontaneous healing.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 80,
+    "question": "Which is a soft sign on clinical examination in case of peripheral vascular injury?",
+    "options": [
+      "Pulsatile bleeding",
+      "Expanding hematoma",
+      "Audible bruit",
+      "Diminished but palpable distal pulse"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hard signs (pulsatile bleeding, expanding hematoma, audible bruit, absent pulses) mandate immediate surgical exploration for vascular injury. A diminished but still palpable distal pulse is a soft sign, indicating a need for further imaging such as CT angiography rather than immediate surgery.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 81,
+    "question": "Which of the following risk factors is associated with both adenocarcinoma and squamous cell carcinoma of the esophagus?",
+    "options": [
+      "Barrett esophagus",
+      "Chronic gastroesophageal reflux disease",
+      "Cigarette smoking",
+      "Male sex"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cigarette smoking is a shared risk factor for both esophageal squamous cell carcinoma (along with alcohol, achalasia, and caustic injury) and adenocarcinoma (along with chronic GERD, Barrett's esophagus, and obesity), making it the common etiologic thread between the two histological subtypes.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is not a long-acting insulin?",
+    "options": ["Glargine", "Lispro", "Detemir", "Degludec"],
+    "correctAnswer": 1,
+    "explanation": "Glargine, detemir, and degludec are long-acting/ultra-long-acting basal insulin analogs with flat, prolonged profiles, while lispro is a rapid-acting insulin analog used for prandial (mealtime) glucose control.",
+    "subject_keys": ["pharmacology", "general_medicine"]
+  },
+  {
+    "id": 83,
+    "question": "A 76-year-old woman presents with 3 days of fever and 1 day of severe pain in her left knee to the point where she can no longer stand. She has no past medical history. She is not sexually active. On examination, her temperature is 102°F. Her heart rate is 100 beats/min, with blood pressure of 108/65. Her left knee is tender, with erythema and a palpable effusion. Her cardiac, lung, and abdominal examinations are all normal. Which of the following should you do?",
+    "options": [
+      "Draw blood cultures and perform joint aspiration.",
+      "Draw blood cultures, perform an x-ray of the left knee, and initiate vancomycin",
+      "Draw blood cultures, perform joint aspiration, and initiate vancomycin",
+      "Initiate vancomycin and perform an x-ray of the left knee."
+    ],
+    "correctAnswer": 2,
+    "explanation": "An acutely hot, swollen, febrile monoarthritis is a surgical emergency requiring blood cultures, diagnostic joint aspiration (for cell count, Gram stain, and culture) before antibiotics, and prompt empirical IV vancomycin to prevent rapid cartilage destruction from septic arthritis.",
+    "subject_keys": ["general_medicine", "orthopedics"]
+  },
+  {
+    "id": 84,
+    "question": "A 36-year-old man presents to the clinic reporting ankle swelling. On examination, his blood pressure is elevated at 172/90, and he has bilateral ankle edema. There are no other abnormalities on physical examination. Laboratory studies show a potassium of 2.9 and normal creatinine. Which of the following studies is recommended next?",
+    "options": [
+      "AM cortisol",
+      "CT of adrenals",
+      "Plasma renin and aldosterone",
+      "Thyroid-stimulating hormone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hypertension with unprovoked hypokalemia strongly suggests primary aldosteronism (Conn syndrome). The recommended initial screening test is the plasma aldosterone-to-renin ratio, with adrenal CT reserved for confirmed cases with an elevated ratio.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 85,
+    "question": "All of the following are typical causes of secondary membranous glomerulonephritis EXCEPT?",
+    "options": [
+      "Hepatitis C",
+      "Nonsteroidal anti-inflammatory drug use",
+      "Systemic lupus erythematosus",
+      "Tuberculosis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Secondary membranous nephropathy is classically caused by hepatitis B/C infection, NSAID use, and lupus nephritis (class V). Tuberculosis is more typically associated with secondary AA amyloidosis or chronic tubulointerstitial nephritis, not membranous glomerulonephritis.",
+    "subject_keys": ["pathology", "general_medicine"]
+  },
+  {
+    "id": 86,
+    "question": "All of the following medications are effective in treating both psoriatic arthritis and the skin disease of psoriasis EXCEPT:",
+    "options": ["Adalimumab", "Infliximab", "Rituximab", "Secukinumab"],
+    "correctAnswer": 2,
+    "explanation": "Anti-TNF agents (adalimumab, infliximab) and IL-17A inhibitors (secukinumab) are effective for both cutaneous psoriasis and psoriatic arthritis. Rituximab, an anti-CD20 B-cell depleting agent, has no established efficacy in psoriasis or psoriatic arthritis, which are driven by T-cell/IL-17/IL-23 pathways.",
+    "subject_keys": ["pharmacology", "general_medicine"]
+  },
+  {
+    "id": 87,
+    "question": "A 45-year-old woman is admitted to the emergency room after a first episode of witnessed generalized tonic-clonic seizure. She is administered lorazepam 2 mg with cessation of seizure activity. All the following are likely possible causes of her seizure EXCEPT:",
+    "options": [
+      "Alcohol withdrawal",
+      "Autoantibodies",
+      "Brain tumor",
+      "Genetic disorder"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A first-onset seizure in a 45-year-old adult is overwhelmingly due to acquired causes such as brain tumor, alcohol withdrawal, or autoimmune encephalitis. Genetic/idiopathic generalized epilepsies almost always present in childhood or adolescence, making them an unlikely cause at this age.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 88,
+    "question": "An obese diabetic on metformin 1 gm twice a day presents with a recent history of acute coronary event and uncontrolled blood sugar levels. Which anti-diabetic drug is preferred as an add-on to metformin in this patient?",
+    "options": ["Empagliflozin", "Pioglitazone", "Linagliptin", "Gliclazide"],
+    "correctAnswer": 0,
+    "explanation": "In type 2 diabetics with established cardiovascular disease, SGLT2 inhibitors such as empagliflozin are preferred add-on agents, having demonstrated reductions in major cardiovascular events, cardiovascular mortality, and heart failure hospitalization while also promoting weight loss.",
+    "subject_keys": ["pharmacology", "general_medicine"]
+  },
+  {
+    "id": 89,
+    "question": "Austin Flint murmur mimics the murmur of:",
+    "options": [
+      "Mitral stenosis",
+      "Patent Ductus arteriosus",
+      "Tricuspid regurgitation",
+      "Atrial Septal Defect"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In severe aortic regurgitation, the retrograde regurgitant jet causes premature partial closure of the anterior mitral leaflet, producing a low-pitched diastolic murmur at the apex that mimics mitral stenosis, without an opening snap.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is not used for treatment of pulmonary hypertension?",
+    "options": [
+      "Endothelin receptor antagonists",
+      "Phosphodiesterase-5 inhibitors",
+      "Prostanoids",
+      "Beta blockers"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pulmonary arterial hypertension is treated with endothelin receptor antagonists, PDE-5 inhibitors, and prostacyclin-pathway agents. Beta-blockers are generally avoided since they blunt compensatory right ventricular contractility and chronotropic reserve, worsening right heart failure.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 91,
+    "question": "At what age does a child start imaginative play?",
+    "options": ["2 years", "3 years", "4 years", "5 years"],
+    "correctAnswer": 0,
+    "explanation": "Imaginative (symbolic/pretend) play typically emerges around 18-24 months of age, using objects symbolically in simple pretend scenarios. Note: the official key also accepts age 3, by which time pretend play becomes more elaborate and role-based.",
+    "subject_keys": ["pediatrics"]
+  },
+  {
+    "id": 92,
+    "question": "Which of the following statements is INCORRECT about breath-holding spells?",
+    "options": [
+      "Differential diagnoses include seizure and cardiac arrhythmias",
+      "The peak age of onset is 6 months to 2 years",
+      "In some cases, the child becomes unconscious or hypotonic",
+      "The essential component of management is parental reassurance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Breath-holding spells typically begin between 6 and 18 months of age with a peak incidence around 12 months, rather than extending broadly to 2 years as stated. The other statements regarding differential diagnosis, possible loss of consciousness/tone, and parental reassurance as the mainstay of management are all correct.",
+    "subject_keys": ["pediatrics"]
+  },
+  {
+    "id": 93,
+    "question": "Which of the following vaccines is to be given by oral route?",
+    "options": [
+      "Pneumococcal polysaccharide",
+      "Rotavirus",
+      "DPT",
+      "Meningococcal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rotavirus vaccine is administered orally, along with oral polio vaccine, under the national immunization schedule. Pneumococcal, DPT, and meningococcal vaccines are given by intramuscular or subcutaneous injection.",
+    "subject_keys": ["pediatrics", "community_medicine"]
+  },
+  {
+    "id": 94,
+    "question": "Which of the following statements is INCORRECT for cephalohematoma?",
+    "options": [
+      "It lies over the parietal bone between the skull and periosteum",
+      "It crosses the suture line and does not have a distinct margin",
+      "It usually resolves over 3-6 weeks",
+      "It can cause hyperbilirubinemia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cephalohematoma is a subperiosteal hemorrhage strictly limited by suture lines, so it does not cross them, distinguishing it from caput succedaneum, which is a subcutaneous swelling that does cross suture lines and is present at birth.",
+    "subject_keys": ["pediatrics"]
+  },
+  {
+    "id": 95,
+    "question": "A 10-month-old child presented with fever, pallor, liver, and spleen up to the umbilicus. The complete blood counts revealed Hb of 7 gm/dl, total leukocyte counts of 40000/mm3, and platelet counts of 30000/mm3. His bone marrow examination revealed B-acute lymphoblastic leukemia by flowcytometry, and his cytogenetics study showed the presence of hyperdiploidy. Which of the following criteria makes him a high-risk leukemia?",
+    "options": ["Age", "TLC counts", "Bulky organomegaly", "Hyperdiploidy."],
+    "correctAnswer": 0,
+    "explanation": "Age less than 1 year (infant ALL) is a major poor-prognostic, high-risk factor, often associated with MLL/KMT2A gene rearrangements. Age 1-9.9 years, TLC less than 50,000/mm3, and hyperdiploidy are actually favorable prognostic features, so it is the patient's young age that classifies him as high-risk.",
+    "subject_keys": ["pediatrics", "pathology"]
+  },
+  {
+    "id": 96,
+    "question": "A 25-year-old G2P1L0 woman is seen at 31 weeks period of gestation with complaints of right calf pain and swelling. Bilateral lower limb doppler ultrasound showed deep venous thrombosis in the right leg and she was started on unfractionated heparin. Which of the following is the side-effect of long-term heparin therapy?",
+    "options": [
+      "Thrombophilia",
+      "Diabetes mellitus",
+      "Hypertension",
+      "Osteoporosis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Prolonged unfractionated heparin therapy stimulates osteoclastic bone resorption and inhibits osteoblast function, leading to heparin-induced osteoporosis with risk of vertebral fractures, a concern particularly relevant in extended antenatal anticoagulation.",
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
+  },
+  {
+    "id": 97,
+    "question": "A 24-year-old primigravida presents in active labour at 39 weeks of gestation. Her BMI is 35kg/m2. After the delivery of the fetal head, the shoulders fail to deliver with normal traction. Which of the following maneuvers is not done in this condition?",
+    "options": [
+      "McRoberts maneuver",
+      "Wood's maneuver",
+      "Ritzen maneuver",
+      "Zavanelli maneuver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Shoulder dystocia is managed with the McRoberts maneuver, Rubin/Woods screw maneuver, delivery of the posterior arm, or as a last resort the Zavanelli maneuver. The Ritgen maneuver is instead used routinely to control head extension during normal vaginal delivery to protect the perineum, not for shoulder dystocia.",
+    "subject_keys": ["obstetrics_and_gynecology"]
+  },
+  {
+    "id": 98,
+    "question": "A 30-year-old G1P0 woman is admitted with complaints of excessive nausea and vomiting at 11 weeks of gestation. On admission, hemoglobin is 9g/dL and a mean corpuscular volume of 116 fL. Which of the following is the most likely cause of anaemia in this case?",
+    "options": [
+      "Iron deficiency",
+      "Physiological anemia of pregnancy",
+      "Folate deficiency",
+      "Thalassemia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An MCV of 116 fL indicates macrocytic anemia. In hyperemesis gravidarum, prolonged vomiting and poor intake rapidly deplete the limited maternal folate reserves, causing acute folate deficiency with megaloblastic anemia, unlike iron deficiency or thalassemia, which cause microcytic anemia.",
+    "subject_keys": ["obstetrics_and_gynecology", "general_medicine"]
+  },
+  {
+    "id": 99,
+    "question": "Which of the following is the recommended modality for breast cancer screening in a 32-year-old with a BRCA mutation?",
+    "options": [
+      "Annual Screening Mammogram",
+      "Annual Screening Mammogram and Breast MRI",
+      "6 monthly ultrasound",
+      "Clinical breast examination 3 monthly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For BRCA mutation carriers or women with high lifetime risk, guidelines recommend annual contrast-enhanced breast MRI starting around age 25-30, combined with annual screening mammography, since MRI has superior sensitivity in the dense breast tissue typical of younger women.",
+    "subject_keys": ["general_surgery", "radiology"]
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is incorrect regarding the effects of combined oral contraceptive pills?",
+    "options": [
+      "Increased menstrual cycle regularity",
+      "Reduced menstrual blood loss",
+      "Reduced endometrial and ovarian cancer risk",
+      "Reduced bone mass"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Estrogen in combined oral contraceptives suppresses osteoclast activity and preserves or maintains bone mineral density rather than reducing it; this is in contrast to injectable DMPA, which does reduce bone mass. COCPs also regularize cycles, reduce menstrual blood loss, and lower endometrial and ovarian cancer risk.",
+    "subject_keys": ["obstetrics_and_gynecology", "pharmacology"]
+  }
+]

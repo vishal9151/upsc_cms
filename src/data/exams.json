@@ -1,0 +1,108 @@
+{
+  "exams": [
+    {
+      "key": "cms",
+      "label": "CMS (Combined Medical Services)",
+      "shortLabel": "CMS Exam Papers",
+      "description": "UPSC Combined Medical Services previous year papers",
+      "papers": [
+        {
+          "key": "2025-paper1",
+          "year": "2025",
+          "paper": "paper1",
+          "label": "CMS 2025 - Paper 1",
+          "file": "2025-paper1.json",
+          "visible": true
+        },
+        {
+          "key": "2025-paper2",
+          "year": "2025",
+          "paper": "paper2",
+          "label": "CMS 2025 - Paper 2",
+          "file": "2025-paper2.json",
+          "visible": true
+        },
+        {
+          "key": "2024-paper1",
+          "year": "2024",
+          "paper": "paper1",
+          "label": "CMS 2024 - Paper 1",
+          "file": "2024-paper1.json",
+          "visible": true
+        },
+        {
+          "key": "2024-paper2",
+          "year": "2024",
+          "paper": "paper2",
+          "label": "CMS 2024 - Paper 2",
+          "file": "2024-paper2.json",
+          "visible": true
+        },
+        {
+          "key": "2023-paper1",
+          "year": "2023",
+          "paper": "paper1",
+          "label": "CMS 2023 - Paper 1",
+          "file": "2023-paper1.json",
+          "visible": true
+        },
+        {
+          "key": "2023-paper2",
+          "year": "2023",
+          "paper": "paper2",
+          "label": "CMS 2023 - Paper 2",
+          "file": "2023-paper2.json",
+          "visible": true
+        },
+        {
+          "key": "2022-paper1",
+          "year": "2022",
+          "paper": "paper1",
+          "label": "CMS 2022 - Paper 1",
+          "file": "2022-paper1.json",
+          "visible": false
+        },
+        {
+          "key": "2022-paper2",
+          "year": "2022",
+          "paper": "paper2",
+          "label": "CMS 2022 - Paper 2",
+          "file": "2022-paper2.json",
+          "visible": false
+        },
+        {
+          "key": "2021-paper1",
+          "year": "2021",
+          "paper": "paper1",
+          "label": "CMS 2021 - Paper 1",
+          "file": "2021-paper1.json",
+          "visible": false
+        },
+        {
+          "key": "2021-paper2",
+          "year": "2021",
+          "paper": "paper2",
+          "label": "CMS 2021 - Paper 2",
+          "file": "2021-paper2.json",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "key": "rajasthan-mo",
+      "label": "Rajasthan MO",
+      "shortLabel": "Rajasthan MO Papers",
+      "description": "Rajasthan Medical Officer previous year papers",
+      "papers": [
+        {
+          "key": "2024",
+          "year": "2024",
+          "paper": "full",
+          "label": "Rajasthan MO 2024",
+          "file": "rajasthan-mo/2024.json",
+          "visible": true
+        }
+      ]
+    }
+  ]
+}

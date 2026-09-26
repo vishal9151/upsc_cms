@@ -1,18 +1,28 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import type { PracticeFilters } from '@/types/practice'
 import type { SubjectKey } from '@/types/subject'
-import { countMatchingQuestions } from '@/utils/questionPool'
-import { EXAM_YEARS } from '@/utils/paperData'
+import type { ExamKey } from '@/types/exams'
+import { DEFAULT_EXAM_KEY } from '@/types/exams'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
+import { countMatchingQuestions, getCatalogYears } from '@/utils/questionPool'
 
-const DEFAULT_YEARS = [...EXAM_YEARS].filter((y) =>
-  ['2025', '2024', '2023'].includes(y),
-)
+export function usePracticeBuilder(examKeyOverride?: ExamKey) {
+  const routeExamKey = useExamKeyParam()
+  const examKey = examKeyOverride ?? routeExamKey ?? DEFAULT_EXAM_KEY
 
-export function usePracticeBuilder() {
+  const availableYears = useMemo(() => getCatalogYears(examKey), [examKey])
+
   const [step, setStep] = useState(0)
   const [subjects, setSubjects] = useState<SubjectKey[]>([])
-  const [years, setYears] = useState<string[]>(DEFAULT_YEARS)
+  const [years, setYears] = useState<string[]>(() => getCatalogYears(examKey))
   const [questionCount, setQuestionCount] = useState(50)
+
+  useEffect(() => {
+    setYears((prev) => {
+      const stillValid = prev.filter((y) => availableYears.includes(y))
+      return stillValid.length > 0 ? stillValid : [...availableYears]
+    })
+  }, [availableYears])
 
   const filters = useMemo<PracticeFilters>(
     () => ({
@@ -20,8 +30,9 @@ export function usePracticeBuilder() {
       years,
       questionCount,
       randomize: true,
+      examKey,
     }),
-    [subjects, years, questionCount],
+    [subjects, years, questionCount, examKey],
   )
 
   const matchingCount = useMemo(
@@ -51,6 +62,7 @@ export function usePracticeBuilder() {
   const goBack = () => setStep((s) => Math.max(s - 1, 0))
 
   return {
+    examKey,
     step,
     subjects,
     years,
@@ -66,6 +78,6 @@ export function usePracticeBuilder() {
     goNext,
     goBack,
     filters,
-    availableYears: DEFAULT_YEARS,
+    availableYears,
   }
 }

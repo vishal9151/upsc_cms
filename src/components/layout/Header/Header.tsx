@@ -14,7 +14,7 @@ export function Header() {
             className="flex items-center gap-2 text-lg font-semibold text-gray-900 dark:text-gray-100"
           >
             <GraduationCap className="h-6 w-6 text-blue-600 dark:text-blue-400" />
-            <span>UPSC CMS Practice</span>
+            <span>Medical Exam Practice</span>
           </Link>
           <div className="flex items-center gap-2">
             <ClearDataButton />

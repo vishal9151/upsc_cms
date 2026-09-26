@@ -6,11 +6,14 @@ import { ResumeModal } from '@/components/exam/ResumeModal'
 import { Badge } from '@/components/ui/Badge'
 import { Button } from '@/components/ui/Button'
 import { Card } from '@/components/ui/Card'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
 import {
   EXAM_DURATION_MINUTES,
+  getExamConfig,
   getPaperLabel,
   getPaperQuestionCount,
 } from '@/utils/paperData'
+import { getExamPath } from '@/utils/examRoutes'
 import { isUnfinishedExam, loadExam } from '@/utils/examStorage'
 import { formatInstructionText } from '@/utils/textFormatter'
 
@@ -31,31 +34,38 @@ const importantInstructions = [
 
 export function Instructions() {
   const { year, paper } = useParams<{ year: string; paper: string }>()
+  const examKey = useExamKeyParam()
   const navigate = useNavigate()
   const [showResume, setShowResume] = useState(false)
 
   const questionCount =
-    year && paper ? getPaperQuestionCount(year, paper) : 0
+    year && paper ? getPaperQuestionCount(year, paper, examKey) : 0
   const savedExam =
     year && paper ? loadExam(year, paper) : null
   const hasUnfinished = savedExam ? isUnfinishedExam(savedExam) : false
+  const examLabel = getExamConfig(examKey)?.label ?? 'Examination'
 
   const handleContinue = () => {
+    if (!year || !paper) return
     setShowResume(false)
-    navigate(`/exam/${year}/${paper}`, { state: { resumeAction: 'continue' } })
+    navigate(getExamPath(examKey, year, paper), {
+      state: { resumeAction: 'continue' },
+    })
   }
 
   const handleStartNew = () => {
+    if (!year || !paper) return
     if (hasUnfinished) {
       setShowResume(true)
     } else {
-      navigate(`/exam/${year}/${paper}?new=true`)
+      navigate(`${getExamPath(examKey, year, paper)}?new=true`)
     }
   }
 
   const handleStartAgain = () => {
+    if (!year || !paper) return
     setShowResume(false)
-    navigate(`/exam/${year}/${paper}?new=true`)
+    navigate(`${getExamPath(examKey, year, paper)}?new=true`)
   }
 
   return (
@@ -80,10 +90,10 @@ export function Instructions() {
         <div className="space-y-6">
           <div>
             <h2 className="text-xl font-semibold text-gray-900 dark:text-gray-100">
-              UPSC CMS Examination
+              {examLabel}
             </h2>
             <p className="mt-1 text-gray-600 dark:text-gray-400">
-              {year} &middot; {getPaperLabel(paper ?? '')}
+              {year} &middot; {getPaperLabel(paper ?? '', examKey, year)}
             </p>
           </div>
 

@@ -4,9 +4,13 @@ import { RotateCcw } from 'lucide-react'
 import { ResumeModal } from '@/components/exam/ResumeModal'
 import { Button } from '@/components/ui/Button'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
 import { CUSTOM_EXAM_YEAR } from '@/types/practice'
 import { formatRelativeTime } from '@/utils/formatRelativeTime'
 import { loadPaperHistory } from '@/utils/resultStorage'
+import {
+  getPracticeInstructionsPath,
+} from '@/utils/examRoutes'
 import {
   deleteInProgressPractice,
   filterPracticeIndexByKind,
@@ -21,12 +25,13 @@ interface PracticeCardActivityProps {
 
 export function PracticeCardActivity({ kind }: PracticeCardActivityProps) {
   const navigate = useNavigate()
+  const examKey = useExamKeyParam()
   const [showResume, setShowResume] = useState(false)
   const [showRetakeConfirm, setShowRetakeConfirm] = useState(false)
   const [retakeTestId, setRetakeTestId] = useState<string | null>(null)
 
-  const inProgress = getInProgressPractice(kind)
-  const recentEntries = filterPracticeIndexByKind(kind, 3)
+  const inProgress = getInProgressPractice(kind, examKey)
+  const recentEntries = filterPracticeIndexByKind(kind, 3, examKey)
 
   const handleContinue = () => {
     if (!inProgress) return
@@ -48,7 +53,7 @@ export function PracticeCardActivity({ kind }: PracticeCardActivityProps) {
     const config = loadPracticeConfig(retakeTestId)
     setShowRetakeConfirm(false)
     if (config) {
-      navigate(`/practice/${retakeTestId}/instructions`)
+      navigate(getPracticeInstructionsPath(retakeTestId))
     }
   }
 

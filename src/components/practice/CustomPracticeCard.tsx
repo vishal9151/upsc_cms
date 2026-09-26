@@ -4,9 +4,12 @@ import { PracticeCardActivity } from '@/components/practice/PracticeCardActivity
 import { Badge } from '@/components/ui/Badge'
 import { Button } from '@/components/ui/Button'
 import { Card } from '@/components/ui/Card'
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
+import { getPracticePath } from '@/utils/examRoutes'
 
 export function CustomPracticeCard() {
   const navigate = useNavigate()
+  const examKey = useExamKeyParam()
 
   return (
     <Card hoverable className="h-full">
@@ -31,7 +34,7 @@ export function CustomPracticeCard() {
         <div className="mt-auto">
           <Button
             className="min-h-11 w-full"
-            onClick={() => navigate('/practice')}
+            onClick={() => navigate(getPracticePath(examKey, 'custom'))}
           >
             <Play className="h-4 w-4" />
             Create Practice Test

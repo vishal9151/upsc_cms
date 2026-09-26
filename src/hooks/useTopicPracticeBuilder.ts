@@ -1,18 +1,18 @@
 import { useEffect, useMemo, useState } from 'react'
 import type { PracticeFilters } from '@/types/practice'
 import type { SubjectKey } from '@/types/subject'
+import type { ExamKey } from '@/types/exams'
+import { DEFAULT_EXAM_KEY } from '@/types/exams'
 import {
   getFlatTopicsForSubjects,
   getTopicsForSubjects,
 } from '@/types/syllabus'
-import { countMatchingQuestions } from '@/utils/questionPool'
-import { EXAM_YEARS } from '@/utils/paperData'
-
-const DEFAULT_YEARS = [...EXAM_YEARS].filter((y) =>
-  ['2025', '2024', '2023'].includes(y),
-)
-
-const LAST_STEP = 3
+import { useExamKeyParam } from '@/hooks/useExamKeyParam'
+import {
+  countMatchingQuestions,
+  examHasSubTopics,
+  getCatalogYears,
+} from '@/utils/questionPool'
 
 function syncSubTopicsForSubjects(
   subjects: SubjectKey[],
@@ -39,33 +39,65 @@ function syncSubTopicsForSubjects(
   return Array.from(result)
 }
 
-export function useTopicPracticeBuilder() {
+export function useTopicPracticeBuilder(examKeyOverride?: ExamKey) {
+  const routeExamKey = useExamKeyParam()
+  const examKey = examKeyOverride ?? routeExamKey ?? DEFAULT_EXAM_KEY
+
+  const availableYears = useMemo(() => getCatalogYears(examKey), [examKey])
+  const supportsSubTopics = useMemo(
+    () => examHasSubTopics(examKey),
+    [examKey],
+  )
+
+  const lastStep = supportsSubTopics ? 3 : 2
+
   const [step, setStep] = useState(0)
   const [subjects, setSubjects] = useState<SubjectKey[]>([])
   const [subTopics, setSubTopics] = useState<string[]>([])
-  const [years, setYears] = useState<string[]>(DEFAULT_YEARS)
+  const [years, setYears] = useState<string[]>(() => getCatalogYears(examKey))
   const [questionCount, setQuestionCount] = useState(50)
 
   useEffect(() => {
+    setYears((prev) => {
+      const stillValid = prev.filter((y) => availableYears.includes(y))
+      return stillValid.length > 0 ? stillValid : [...availableYears]
+    })
+  }, [availableYears])
+
+  useEffect(() => {
+    if (!supportsSubTopics) {
+      setSubTopics([])
+      return
+    }
     setSubTopics((previous) => syncSubTopicsForSubjects(subjects, previous))
-  }, [subjects])
+  }, [subjects, supportsSubTopics])
 
   const topicGroups = useMemo(
     () => getTopicsForSubjects(subjects),
     [subjects],
   )
 
-  const filters = useMemo<PracticeFilters>(
-    () => ({
+  const filters = useMemo<PracticeFilters>(() => {
+    const base: PracticeFilters = {
       subjects,
-      subTopics,
       practiceKind: 'topic',
       years,
       questionCount,
       randomize: true,
-    }),
-    [subjects, subTopics, years, questionCount],
-  )
+      examKey,
+    }
+    if (supportsSubTopics) {
+      base.subTopics = subTopics
+    }
+    return base
+  }, [
+    subjects,
+    subTopics,
+    years,
+    questionCount,
+    examKey,
+    supportsSubTopics,
+  ])
 
   const matchingCount = useMemo(
     () => countMatchingQuestions(filters),
@@ -75,7 +107,9 @@ export function useTopicPracticeBuilder() {
   const effectiveCount = Math.min(questionCount, matchingCount)
 
   const canProceedStep0 = subjects.length > 0
-  const canProceedStep1 = subTopics.length > 0
+  const canProceedStep1 = supportsSubTopics
+    ? subTopics.length > 0
+    : years.length > 0
   const canProceedStep2 = years.length > 0
   const canGenerate = matchingCount > 0 && effectiveCount > 0
 
@@ -107,10 +141,13 @@ export function useTopicPracticeBuilder() {
     )
   }
 
-  const goNext = () => setStep((current) => Math.min(current + 1, LAST_STEP))
+  const goNext = () => setStep((current) => Math.min(current + 1, lastStep))
   const goBack = () => setStep((current) => Math.max(current - 1, 0))
 
   return {
+    examKey,
+    supportsSubTopics,
+    lastStep,
     step,
     subjects,
     subTopics,
@@ -132,6 +169,6 @@ export function useTopicPracticeBuilder() {
     goNext,
     goBack,
     filters,
-    availableYears: DEFAULT_YEARS,
+    availableYears,
   }
 }

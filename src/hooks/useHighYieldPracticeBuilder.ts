@@ -65,6 +65,7 @@ export function useHighYieldPracticeBuilder() {
       years,
       questionCount,
       randomize: true,
+      examKey: 'cms',
     }),
     [subjects, subTopics, years, questionCount],
   )

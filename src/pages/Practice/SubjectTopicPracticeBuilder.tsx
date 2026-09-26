@@ -9,15 +9,17 @@ import { YearSelectionStep } from '@/components/practice/YearSelectionStep'
 import { Button } from '@/components/ui/Button'
 import { Card } from '@/components/ui/Card'
 import { useTopicPracticeBuilder } from '@/hooks/useTopicPracticeBuilder'
+import { getPracticeInstructionsPath } from '@/utils/examRoutes'
 import { generatePracticeTest } from '@/utils/practiceGenerator'
-
-const STEPS = ['Subjects', 'Subtopics', 'Years', 'Count'] as const
-const LAST_STEP = STEPS.length - 1
 
 export function SubjectTopicPracticeBuilder() {
   const navigate = useNavigate()
   const [generating, setGenerating] = useState(false)
   const builder = useTopicPracticeBuilder()
+
+  const steps = builder.supportsSubTopics
+    ? (['Subjects', 'Subtopics', 'Years', 'Count'] as const)
+    : (['Subjects', 'Years', 'Count'] as const)
 
   const handleGenerate = () => {
     if (!builder.canGenerate) return
@@ -28,7 +30,7 @@ export function SubjectTopicPracticeBuilder() {
     })
     setGenerating(false)
     if (!config) return
-    navigate(`/practice/${config.testId}/instructions`)
+    navigate(getPracticeInstructionsPath(config.testId))
   }
 
   const canProceed =
@@ -39,6 +41,15 @@ export function SubjectTopicPracticeBuilder() {
         : builder.step === 2
           ? builder.canProceedStep2
           : false
+
+  const showSubjects = builder.step === 0
+  const showSubtopics = builder.supportsSubTopics && builder.step === 1
+  const showYears = builder.supportsSubTopics
+    ? builder.step === 2
+    : builder.step === 1
+  const showCount = builder.supportsSubTopics
+    ? builder.step === 3
+    : builder.step === 2
 
   return (
     <div className="mx-auto max-w-3xl space-y-6 pb-24 sm:pb-8">
@@ -52,12 +63,14 @@ export function SubjectTopicPracticeBuilder() {
           Subject-level Practice
         </h1>
         <p className="mt-2 text-gray-600 dark:text-gray-400">
-          Narrow your practice test by subject subtopics from the syllabus.
+          {builder.supportsSubTopics
+            ? 'Narrow your practice test by subject subtopics from the syllabus.'
+            : 'Build a practice test by subject from this exam’s previous papers.'}
         </p>
       </div>
 
       <div className="flex flex-wrap justify-center gap-2">
-        {STEPS.map((label, index) => (
+        {steps.map((label, index) => (
           <span
             key={label}
             className={`rounded-full px-3 py-1 text-xs font-medium ${
@@ -73,13 +86,13 @@ export function SubjectTopicPracticeBuilder() {
 
       <Card>
         <div className="space-y-6">
-          {builder.step === 0 && (
+          {showSubjects && (
             <SubjectSelectionStep
               selected={builder.subjects}
               onToggle={builder.toggleSubject}
             />
           )}
-          {builder.step === 1 && (
+          {showSubtopics && (
             <SubtopicSelectionStep
               topicGroups={builder.topicGroups}
               selected={builder.subTopics}
@@ -89,7 +102,7 @@ export function SubjectTopicPracticeBuilder() {
               onClearAll={builder.clearAllSubTopics}
             />
           )}
-          {builder.step === 2 && (
+          {showYears && (
             <YearSelectionStep
               years={builder.availableYears}
               selected={builder.years}
@@ -97,7 +110,7 @@ export function SubjectTopicPracticeBuilder() {
               onToggle={builder.toggleYear}
             />
           )}
-          {builder.step === 3 && (
+          {showCount && (
             <>
               <QuestionCountStep
                 questionCount={builder.questionCount}
@@ -124,7 +137,7 @@ export function SubjectTopicPracticeBuilder() {
             Back
           </Button>
         )}
-        {builder.step < LAST_STEP ? (
+        {builder.step < builder.lastStep ? (
           <Button
             className="min-h-11 flex-1 sm:ml-auto sm:flex-none"
             disabled={!canProceed}
