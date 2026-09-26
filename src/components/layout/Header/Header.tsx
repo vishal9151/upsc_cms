@@ -6,7 +6,7 @@ import { ThemeToggle } from '@/components/layout/ThemeToggle'
 
 export function Header() {
   return (
-    <header className="sticky top-0 z-50 border-b border-gray-200 bg-white/80 backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/80">
+    <header className="sticky top-0 z-50 border-b border-gray-200 bg-white/80 pt-safe backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/80">
       <Container>
         <div className="flex h-16 items-center justify-between">
           <Link

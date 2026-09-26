@@ -116,7 +116,7 @@ export function HighYieldPracticeBuilder() {
         </div>
       </Card>
 
-      <div className="sticky bottom-0 z-20 -mx-4 flex gap-3 border-t border-gray-200 bg-white/95 p-4 backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/95 sm:static sm:mx-0 sm:border-0 sm:bg-transparent sm:p-0 sm:backdrop-blur-none">
+      <div className="sticky bottom-0 z-20 -mx-4 flex gap-3 border-t border-gray-200 bg-white/95 p-4 pb-sticky-bar-safe backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/95 sm:static sm:mx-0 sm:border-0 sm:bg-transparent sm:p-0 sm:pb-0 sm:backdrop-blur-none">
         {builder.step > 0 && (
           <Button
             variant="outline"

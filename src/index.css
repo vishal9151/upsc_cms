@@ -21,13 +21,46 @@
 @layer base {
   html {
     @apply scroll-smooth;
+    height: 100%;
   }
 
   body {
-    @apply min-h-screen bg-gray-50 font-sans text-gray-900 antialiased transition-colors duration-200 dark:bg-gray-950 dark:text-gray-100;
+    @apply min-h-dvh bg-gray-50 font-sans text-gray-900 antialiased transition-colors duration-200 dark:bg-gray-950 dark:text-gray-100;
+    /* Safari iOS: 100vh includes browser chrome; -webkit-fill-available is the legacy fallback */
+    min-height: -webkit-fill-available;
+  }
+
+  #root {
+    min-height: 100dvh;
+    min-height: -webkit-fill-available;
   }
 
   * {
     @apply transition-colors duration-200;
+  }
+}
+
+@layer utilities {
+  .pt-safe {
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+
+  /* Fixed FAB sits above mobile exam nav + home indicator */
+  .bottom-above-mobile-nav {
+    bottom: calc(4.5rem + env(safe-area-inset-bottom, 0px));
+  }
+
+  /* Page padding to clear sticky mobile exam nav + home indicator */
+  .pb-mobile-exam {
+    padding-bottom: calc(4.5rem + env(safe-area-inset-bottom, 0px));
+  }
+
+  /* Sticky bottom bars (practice builders, etc.) */
+  .pb-sticky-bar-safe {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom, 0px));
   }
 }

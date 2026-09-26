@@ -24,7 +24,8 @@ export function ReviewMobilePalette({
     <>
       <Button
         onClick={() => setOpen(true)}
-        className="fixed bottom-6 right-4 z-30 min-h-11 gap-2 rounded-full px-4 shadow-lg lg:hidden"
+        className="fixed right-4 z-30 h-11 w-11 min-h-11 rounded-full p-0 shadow-lg lg:hidden"
+        style={{ bottom: 'calc(1.5rem + env(safe-area-inset-bottom, 0px))' }}
         aria-label="Open review question palette"
       >
         <LayoutGrid className="h-5 w-5" />

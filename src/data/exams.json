@@ -101,6 +101,14 @@
           "label": "Rajasthan MO 2024",
           "file": "rajasthan-mo/2024.json",
           "visible": true
+        },
+        {
+          "key": "2022",
+          "year": "2022",
+          "paper": "full",
+          "label": "Rajasthan MO 2022",
+          "file": "rajasthan-mo/2022.json",
+          "visible": true
         }
       ]
     }

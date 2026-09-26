@@ -61,21 +61,17 @@ export function Exam() {
   }
 
   return (
-    <div className="space-y-4 pb-4 sm:space-y-6">
-      <div className="flex items-center justify-between gap-3">
+    <div className="space-y-3 pb-mobile-exam sm:space-y-6 sm:pb-4">
+      <div className="hidden items-center justify-between gap-3 sm:flex">
         <BackToExamList variant="header" />
-        <SubmitTestButton className="hidden sm:inline-flex" />
-      </div>
-      <div className="mb-1 flex items-center justify-between gap-3 sm:hidden">
-        <BackToExamList variant="below" />
-        <SubmitTestButton compact />
+        <SubmitTestButton />
       </div>
 
       <ExamHeader />
       <ExamProgress className="hidden sm:block" />
 
-      <div className="flex flex-col gap-6 lg:flex-row">
-        <div className="flex min-w-0 flex-1 flex-col gap-4 sm:gap-6">
+      <div className="flex flex-col gap-4 lg:flex-row lg:gap-6">
+        <div className="flex min-w-0 flex-1 flex-col gap-3 sm:gap-6">
           <QuestionCard />
           <ExamNavigation />
         </div>

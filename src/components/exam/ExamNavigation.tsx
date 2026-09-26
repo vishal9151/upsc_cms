@@ -28,7 +28,7 @@ export function ExamNavigation() {
   const isLast = currentQuestionIndex === totalQuestions - 1
 
   return (
-    <div className="sticky bottom-0 z-20 -mx-4 border-t border-gray-200 bg-white/95 px-4 py-3 backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/95 sm:-mx-0 sm:rounded-xl sm:border sm:px-4">
+    <div className="sticky bottom-0 z-20 -mx-4 border-t border-gray-200 bg-white/95 px-3 py-2 pb-[max(0.5rem,env(safe-area-inset-bottom,0px))] backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/95 sm:mx-0 sm:rounded-xl sm:border sm:px-4 sm:py-3 sm:pb-3">
       {/* Desktop / Tablet */}
       <div className="hidden items-center justify-between gap-2 md:flex">
         <Button
@@ -74,50 +74,46 @@ export function ExamNavigation() {
         </div>
       </div>
 
-      {/* Mobile */}
-      <div className="grid grid-cols-3 gap-2 md:hidden">
+      {/* Mobile: single row */}
+      <div className="grid grid-cols-4 gap-1.5 md:hidden">
         <Button
           variant="outline"
           disabled={isFirst || isReadOnly}
           onClick={goPrevious}
-          className="min-h-11 flex-col gap-1 px-2 py-2 text-xs"
+          className="min-h-11 flex-col gap-0.5 px-1 py-1.5 text-[10px]"
         >
           <ChevronLeft className="h-4 w-4" />
-          Previous
+          Prev
         </Button>
         <Button
           variant="secondary"
           onClick={toggleMarkForReview}
           disabled={isReadOnly}
           className={cn(
-            'min-h-11 flex-col gap-1 px-2 py-2 text-xs',
+            'min-h-11 flex-col gap-0.5 px-1 py-1.5 text-[10px]',
             isMarked && 'ring-2 ring-purple-400',
           )}
           aria-pressed={isMarked}
         >
           <Bookmark className="h-4 w-4" />
-          Review
+          Mark
         </Button>
-        <Button
-          onClick={goNext}
-          disabled={isReadOnly || isLast}
-          className="min-h-11 flex-col gap-1 px-2 py-2 text-xs"
-        >
-          <ChevronRight className="h-4 w-4" />
-          Next
-        </Button>
-      </div>
-
-      {/* Mobile: Clear Response as secondary row */}
-      <div className="mt-2 md:hidden">
         <Button
           variant="ghost"
           onClick={clearResponse}
           disabled={isReadOnly || currentAnswer === undefined}
-          className="min-h-11 w-full text-xs"
+          className="min-h-11 flex-col gap-0.5 px-1 py-1.5 text-[10px]"
         >
-          <Eraser className="mr-1 h-4 w-4" />
-          Clear Response
+          <Eraser className="h-4 w-4" />
+          Clear
+        </Button>
+        <Button
+          onClick={goNext}
+          disabled={isReadOnly || isLast}
+          className="min-h-11 flex-col gap-0.5 px-1 py-1.5 text-[10px]"
+        >
+          <ChevronRight className="h-4 w-4" />
+          Next
         </Button>
       </div>
     </div>

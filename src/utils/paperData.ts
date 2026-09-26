@@ -14,6 +14,7 @@ import data2024Paper1 from '@/data/2024-paper1.json'
 import data2024Paper2 from '@/data/2024-paper2.json'
 import data2025Paper1 from '@/data/2025-paper1.json'
 import data2025Paper2 from '@/data/2025-paper2.json'
+import dataRajasthanMo2022 from '@/data/rajasthan-mo/2022.json'
 import dataRajasthanMo2024 from '@/data/rajasthan-mo/2024.json'
 
 function normalizeQuestions(raw: unknown): Question[] {
@@ -47,6 +48,7 @@ const fileDataMap: Record<string, Question[]> = {
   '2024-paper2.json': normalizeQuestions(data2024Paper2),
   '2025-paper1.json': normalizeQuestions(data2025Paper1),
   '2025-paper2.json': normalizeQuestions(data2025Paper2),
+  'rajasthan-mo/2022.json': normalizeQuestions(dataRajasthanMo2022),
   'rajasthan-mo/2024.json': normalizeQuestions(dataRajasthanMo2024),
 }
 

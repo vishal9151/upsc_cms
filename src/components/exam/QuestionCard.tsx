@@ -24,7 +24,7 @@ export function QuestionCard() {
   )
 
   return (
-    <Card>
+    <Card className="p-4 sm:p-6">
       <AnimatePresence mode="wait">
         <motion.div
           key={currentQuestionIndex}
@@ -32,16 +32,16 @@ export function QuestionCard() {
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -12 }}
           transition={{ duration: 0.2 }}
-          className="space-y-6"
+          className="space-y-4 sm:space-y-6"
         >
           <div className="flex items-start gap-3">
-            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-blue-100 text-sm font-semibold text-blue-700 dark:bg-blue-950 dark:text-blue-300">
+            <span className="hidden h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-blue-100 text-sm font-semibold text-blue-700 sm:flex dark:bg-blue-950 dark:text-blue-300">
               {currentQuestionIndex + 1}
             </span>
-            <div className="whitespace-pre-line text-base leading-relaxed text-gray-900 dark:text-gray-100">
+            <div className="whitespace-pre-line text-sm leading-relaxed text-gray-900 sm:text-base dark:text-gray-100">
               <p>{main}</p>
               {instruction && (
-                <p className="mt-3 mb-1 text-sm text-gray-500 dark:text-gray-400">
+                <p className="mt-2 mb-1 text-xs text-gray-500 sm:mt-3 sm:text-sm dark:text-gray-400">
                   {instruction}
                 </p>
               )}
@@ -53,7 +53,7 @@ export function QuestionCard() {
               Select an answer for question {currentQuestionIndex + 1}
             </legend>
             <div
-              className="space-y-3"
+              className="space-y-2 sm:space-y-3"
               role="radiogroup"
               aria-label={`Options for question ${currentQuestionIndex + 1}`}
             >
@@ -66,7 +66,7 @@ export function QuestionCard() {
                     key={optionId}
                     htmlFor={optionId}
                     className={cn(
-                      'flex items-center gap-3 rounded-xl border p-4 sm:p-4 min-h-11',
+                      'flex min-h-11 items-center gap-2.5 rounded-xl border p-3 sm:gap-3 sm:p-4',
                       isReadOnly ? 'cursor-default' : 'cursor-pointer',
                       isSelected
                         ? 'border-blue-500 bg-blue-50 dark:border-blue-500 dark:bg-blue-950/50'
@@ -85,7 +85,7 @@ export function QuestionCard() {
                     />
                     <span
                       className={cn(
-                        'flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 text-xs font-semibold',
+                        'flex h-5 w-5 shrink-0 items-center justify-center rounded-full border-2 text-[10px] font-semibold sm:h-6 sm:w-6 sm:text-xs',
                         isSelected
                           ? 'border-blue-600 bg-blue-600 text-white dark:border-blue-400 dark:bg-blue-500'
                           : 'border-gray-300 text-gray-500 dark:border-gray-600 dark:text-gray-400',

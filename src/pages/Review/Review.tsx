@@ -118,7 +118,7 @@ export function Review() {
   }
 
   return (
-    <div className="space-y-6 pb-20 lg:pb-6">
+    <div className="space-y-6 pb-mobile-exam lg:pb-6">
       <div className="flex items-center justify-between gap-3">
         <BackToExamList variant="header" />
         <BackToResults year={year} paper={paper} variant="header" />

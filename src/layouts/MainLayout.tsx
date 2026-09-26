@@ -2,13 +2,15 @@ import { motion } from 'framer-motion'
 import { Outlet, useLocation } from 'react-router-dom'
 import { Footer } from '@/components/layout/Footer'
 import { Header } from '@/components/layout/Header'
+import { ScrollToTop } from '@/components/layout/ScrollToTop'
 import { Container } from '@/components/ui/Container'
 
 export function MainLayout() {
   const location = useLocation()
 
   return (
-    <div className="flex min-h-screen flex-col">
+    <div className="flex min-h-dvh flex-col">
+      <ScrollToTop />
       <Header />
       <main className="flex-1 py-8">
         <Container>

@@ -13,11 +13,10 @@ export function MobilePaletteFab() {
     <>
       <Button
         onClick={() => setOpen(true)}
-        className="fixed bottom-36 right-4 z-30 min-h-11 gap-2 rounded-full px-4 shadow-lg lg:hidden"
+        className="bottom-above-mobile-nav fixed right-4 z-30 h-11 w-11 min-h-11 rounded-full p-0 shadow-lg lg:hidden"
         aria-label="Open question palette"
       >
         <LayoutGrid className="h-5 w-5" />
-        Question Palette
       </Button>
 
       <AnimatePresence>
@@ -36,40 +35,40 @@ export function MobilePaletteFab() {
               animate={{ y: 0 }}
               exit={{ y: '100%' }}
               transition={{ duration: 0.25, ease: 'easeOut' }}
-              className="fixed inset-x-0 bottom-0 z-50 max-h-[80vh] overflow-y-auto rounded-t-2xl border border-gray-200 bg-white p-6 shadow-lg dark:border-gray-800 dark:bg-gray-900 lg:hidden"
+              className="fixed inset-x-0 bottom-0 z-50 max-h-[80vh] overflow-y-auto rounded-t-2xl border border-gray-200 bg-white p-4 shadow-lg dark:border-gray-800 dark:bg-gray-900 lg:hidden"
               role="dialog"
               aria-modal="true"
               aria-label="Question palette"
             >
-              <div className="mb-4 flex items-center justify-between">
-                <h2 className="font-semibold text-gray-900 dark:text-gray-100">
+              <div className="mb-3 flex items-center justify-between">
+                <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">
                   Question Palette
                 </h2>
                 <Button
                   variant="ghost"
                   size="sm"
                   onClick={() => setOpen(false)}
-                  className="min-h-11"
+                  className="min-h-9"
                 >
                   Close
                 </Button>
               </div>
 
-              <div className="mb-4 grid grid-cols-3 gap-3 text-center text-sm">
-                <div className="rounded-xl bg-gray-50 p-3 dark:bg-gray-800/50">
+              <div className="mb-3 grid grid-cols-3 gap-2 text-center text-xs">
+                <div className="rounded-lg bg-gray-50 p-2 dark:bg-gray-800/50">
                   <p className="text-gray-500 dark:text-gray-400">Answered</p>
                   <p className="font-bold text-green-600 dark:text-green-400">
                     {answeredCount}
                   </p>
                 </div>
-                <div className="rounded-xl bg-gray-50 p-3 dark:bg-gray-800/50">
+                <div className="rounded-lg bg-gray-50 p-2 dark:bg-gray-800/50">
                   <p className="text-gray-500 dark:text-gray-400">Review</p>
                   <p className="font-bold text-purple-600 dark:text-purple-400">
                     {reviewCount}
                   </p>
                 </div>
-                <div className="rounded-xl bg-gray-50 p-3 dark:bg-gray-800/50">
-                  <p className="text-gray-500 dark:text-gray-400">Remaining</p>
+                <div className="rounded-lg bg-gray-50 p-2 dark:bg-gray-800/50">
+                  <p className="text-gray-500 dark:text-gray-400">Left</p>
                   <p className="font-bold text-gray-600 dark:text-gray-400">
                     {remainingCount}
                   </p>
