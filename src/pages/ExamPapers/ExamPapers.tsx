@@ -318,28 +318,56 @@ export function ExamPapers() {
       </motion.section>
 
       <section className="flex flex-col gap-6">
-        {yearGroups.map((entry, index) => (
+        {examKey === DEFAULT_EXAM_KEY ? (
+          yearGroups.map((entry, index) => (
+            <motion.div
+              key={entry.year}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: index * 0.08 }}
+            >
+              <Card hoverable className="h-full">
+                <div className="mb-6 flex items-center justify-between">
+                  <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+                    {entry.year}
+                  </h2>
+                  <Badge variant="gray">{exam.shortLabel.replace(' Papers', '')}</Badge>
+                </div>
+                <div
+                  className={
+                    entry.papers.length > 1
+                      ? 'grid grid-cols-1 items-stretch gap-4 md:grid-cols-2'
+                      : 'grid grid-cols-1 items-stretch gap-4'
+                  }
+                >
+                  {entry.papers.map((paperMeta) => (
+                    <PaperCard
+                      key={paperMeta.key}
+                      examKey={examKey}
+                      year={paperMeta.year}
+                      paper={paperMeta.paper}
+                      label={paperMeta.label}
+                    />
+                  ))}
+                </div>
+              </Card>
+            </motion.div>
+          ))
+        ) : (
           <motion.div
-            key={entry.year}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.4, delay: index * 0.08 }}
+            transition={{ duration: 0.4, delay: 0.08 }}
           >
             <Card hoverable className="h-full">
               <div className="mb-6 flex items-center justify-between">
                 <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
-                  {entry.year}
+                  {exam.shortLabel}
                 </h2>
-                <Badge variant="gray">{exam.shortLabel.replace(' Papers', '')}</Badge>
+                <Badge variant="gray">{visiblePapers.length} Papers</Badge>
               </div>
-              <div
-                className={
-                  entry.papers.length > 1
-                    ? 'grid grid-cols-1 items-stretch gap-4 md:grid-cols-2'
-                    : 'grid grid-cols-1 items-stretch gap-4'
-                }
-              >
-                {entry.papers.map((paperMeta) => (
+              <div className="grid grid-cols-1 items-stretch gap-4 md:grid-cols-2">
+                {visiblePapers.map((paperMeta) => (
                   <PaperCard
                     key={paperMeta.key}
                     examKey={examKey}
@@ -351,7 +379,7 @@ export function ExamPapers() {
               </div>
             </Card>
           </motion.div>
-        ))}
+        )}
       </section>
     </div>
   )

@@ -109,6 +109,30 @@
           "label": "Rajasthan MO 2022",
           "file": "rajasthan-mo/2022.json",
           "visible": true
+        },
+        {
+          "key": "2020",
+          "year": "2020",
+          "paper": "full",
+          "label": "Rajasthan MO 2020",
+          "file": "rajasthan-mo/2020.json",
+          "visible": true
+        },
+        {
+          "key": "2019",
+          "year": "2019",
+          "paper": "full",
+          "label": "Rajasthan MO 2019",
+          "file": "rajasthan-mo/2019.json",
+          "visible": true
+        },
+        {
+          "key": "2018",
+          "year": "2018",
+          "paper": "full",
+          "label": "Rajasthan MO 2018",
+          "file": "rajasthan-mo/2018.json",
+          "visible": true
         }
       ]
     }

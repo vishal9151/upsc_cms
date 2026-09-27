@@ -14,6 +14,9 @@ import data2024Paper1 from '@/data/2024-paper1.json'
 import data2024Paper2 from '@/data/2024-paper2.json'
 import data2025Paper1 from '@/data/2025-paper1.json'
 import data2025Paper2 from '@/data/2025-paper2.json'
+import dataRajasthanMo2018 from '@/data/rajasthan-mo/2018.json'
+import dataRajasthanMo2019 from '@/data/rajasthan-mo/2019.json'
+import dataRajasthanMo2020 from '@/data/rajasthan-mo/2020.json'
 import dataRajasthanMo2022 from '@/data/rajasthan-mo/2022.json'
 import dataRajasthanMo2024 from '@/data/rajasthan-mo/2024.json'
 
@@ -48,6 +51,9 @@ const fileDataMap: Record<string, Question[]> = {
   '2024-paper2.json': normalizeQuestions(data2024Paper2),
   '2025-paper1.json': normalizeQuestions(data2025Paper1),
   '2025-paper2.json': normalizeQuestions(data2025Paper2),
+  'rajasthan-mo/2018.json': normalizeQuestions(dataRajasthanMo2018),
+  'rajasthan-mo/2019.json': normalizeQuestions(dataRajasthanMo2019),
+  'rajasthan-mo/2020.json': normalizeQuestions(dataRajasthanMo2020),
   'rajasthan-mo/2022.json': normalizeQuestions(dataRajasthanMo2022),
   'rajasthan-mo/2024.json': normalizeQuestions(dataRajasthanMo2024),
 }
@@ -161,6 +167,15 @@ export function isValidExamPaper(
   examKey?: string | null,
 ): boolean {
   return getPaperQuestions(year, paper, examKey).length > 0
+}
+
+/** Resolve which exam owns a year+paper pair (e.g. rajasthan-mo / 2024 / full). */
+export function inferExamKeyFromPaper(year: string, paper: string): ExamKey {
+  for (const exam of examsIndex.exams) {
+    const key = resolveExamKey(exam.key)
+    if (isValidExamPaper(year, paper, key)) return key
+  }
+  return DEFAULT_EXAM_KEY
 }
 
 /** CMS years only — used by practice builders (CMS question pool). */

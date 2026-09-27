@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "question": "Bigelow's ligament is at",
+    "options": ["Knee joint", "Shoulder joint", "Hip joint", "Ankle joint"],
+    "correctAnswer": 2,
+    "explanation": "Bigelow's ligament is another name for the iliofemoral ligament, the strong Y-shaped ligament that reinforces the anterior capsule of the hip joint. It arises from the anterior inferior iliac spine and prevents hyperextension of the hip during standing.",
+    "subject_keys": ["anatomy"]
+  },
+  {
+    "id": 2,
+    "question": "Deltoid ligament is attached to all except",
+    "options": ["Medial malleolus", "Medial cuneiform", "Spring ligament", "Sustentaculum tali"],
+    "correctAnswer": 1,
+    "explanation": "The deltoid (medial collateral) ligament of the ankle originates from the medial malleolus and fans out to attach to the talus, calcaneus (sustentaculum tali), and the spring (calcaneonavicular) ligament/navicular. It does not attach to the medial cuneiform bone.",
+    "subject_keys": ["anatomy"]
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is the most common renal vascular anomaly",
+    "options": ["Supernumerary renal arteries", "Supernumerary renal veins", "Double renal arteries", "Double renal veins"],
+    "correctAnswer": 0,
+    "explanation": "Accessory (supernumerary) renal arteries are the most common renal vascular variation, seen in roughly 25-30% of individuals, usually arising from the aorta and entering the kidney at the hilum or poles. Venous anomalies are comparatively less frequent.",
+    "subject_keys": ["anatomy"]
+  },
+  {
+    "id": 4,
+    "question": "Holocrine secretion is seen in ...... gland",
+    "options": ["Salivary", "Mammary", "Sebaceous gland", "Gastric"],
+    "correctAnswer": 2,
+    "explanation": "In holocrine secretion, the entire cell disintegrates to release its contents, a mechanism uniquely characteristic of sebaceous glands. Salivary and gastric glands are merocrine, while mammary glands use apocrine secretion.",
+    "subject_keys": ["anatomy"]
+  },
+  {
+    "id": 5,
+    "question": "Laryngeal skeleton has ............... cartilages",
+    "options": ["3 paired, 2 unpaired", "3 paired, 3 unpaired", "2 paired, 3 unpaired", "2 paired, 2 unpaired"],
+    "correctAnswer": 1,
+    "explanation": "The laryngeal skeleton is made of 3 unpaired cartilages (thyroid, cricoid, epiglottis) and 3 paired cartilages (arytenoid, corniculate, cuneiform), giving nine cartilages in total.",
+    "subject_keys": ["anatomy"]
+  },
+  {
+    "id": 6,
+    "question": "The nucleus involved in Papez circuit is",
+    "options": ["Pulvinar", "Intralaminar", "VPL nucleus", "Anterior nucleus of Thalamus"],
+    "correctAnswer": 3,
+    "explanation": "The Papez circuit, the classical anatomical substrate of emotion, runs from the hippocampus to the mammillary bodies, then via the mammillothalamic tract to the anterior thalamic nucleus, and on to the cingulate gyrus. The anterior thalamic nucleus is thus the key relay of the circuit.",
+    "subject_keys": ["anatomy"]
+  },
+  {
+    "id": 7,
+    "question": "Central wrapping is done by",
+    "options": ["Flower spray ending", "Annulospiral ending", "Golgi tendon organ", "Type II fiber"],
+    "correctAnswer": 1,
+    "explanation": "The annulospiral (primary, group Ia) ending wraps around the central (equatorial) region of the intrafusal muscle fibre within the muscle spindle. Flower spray (secondary, group II) endings are located towards the poles, away from the centre.",
+    "subject_keys": ["physiology"]
+  },
+  {
+    "id": 8,
+    "question": "Caisson's disease",
+    "options": ["Gas embolism", "Fat embolism", "Amniotic fluid embolism", "Tumor embolism"],
+    "correctAnswer": 0,
+    "explanation": "Caisson's disease (decompression sickness) occurs when divers or workers ascend too rapidly from high-pressure environments, causing dissolved nitrogen to come out of solution and form gas bubbles (gas emboli) in blood and tissues.",
+    "subject_keys": ["pathology"]
+  },
+  {
+    "id": 9,
+    "question": "Volume determination preload is",
+    "options": ["End diastolic volume of ventricles", "Endo systolic volume", "Volume of blood in Aorta", "Ventricular ejection volume"],
+    "correctAnswer": 0,
+    "explanation": "Preload refers to the degree of ventricular myocardial stretch just before contraction, which is best represented by the end-diastolic volume of the ventricle. It reflects venous return and determines stroke volume via the Frank-Starling mechanism.",
+    "subject_keys": ["physiology"]
+  },
+  {
+    "id": 10,
+    "question": "Best test for GFR is with",
+    "options": ["Inulin", "Hippuric acid", "Creatinine", "PAH"],
+    "correctAnswer": 0,
+    "explanation": "Inulin is the gold-standard marker for measuring glomerular filtration rate because it is freely filtered at the glomerulus and neither secreted nor reabsorbed by the renal tubules. PAH clearance, by contrast, is used to estimate renal plasma flow since it is also actively secreted.",
+    "subject_keys": ["physiology"]
+  },
+  {
+    "id": 11,
+    "question": "Vitamin K is involved in the posttranslational modification of",
+    "options": ["Glutamate", "Aspartate", "Leucine", "Lysine"],
+    "correctAnswer": 0,
+    "explanation": "Vitamin K acts as a cofactor for the gamma-glutamyl carboxylase enzyme, which carboxylates specific glutamate residues to gamma-carboxyglutamate on clotting factors II, VII, IX, and X. This carboxylation allows these factors to bind calcium and phospholipid membranes.",
+    "subject_keys": ["biochemistry"]
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is luminous",
+    "options": ["Porphyrin", "Zymogen", "Chromatin", "Albumin"],
+    "correctAnswer": 0,
+    "explanation": "Porphyrins exhibit characteristic red fluorescence (luminosity) when exposed to ultraviolet light, a property exploited diagnostically in conditions like porphyria. Zymogens, chromatin, and albumin do not have this fluorescent property.",
+    "subject_keys": ["biochemistry"]
+  },
+  {
+    "id": 13,
+    "question": "The best method to differentiate Proteins is by",
+    "options": ["Gel chromatography", "Affinity chromatography", "Ion exchange electrophoresis", "None of these"],
+    "correctAnswer": 0,
+    "explanation": "Gel filtration (gel exclusion) chromatography separates proteins strictly on the basis of molecular size, making it a reliable general method for differentiating proteins in a mixture. Affinity and ion-exchange methods separate based on more specific binding or charge properties instead.",
+    "subject_keys": ["biochemistry"]
+  },
+  {
+    "id": 14,
+    "question": "Lac operon transcription is induced by",
+    "options": ["Glucose", "Glucose with inducer", "Inducer without glucose", "All of these"],
+    "correctAnswer": 2,
+    "explanation": "Maximal transcription of the lac operon occurs when lactose (the inducer) is present and glucose is absent, because glucose causes catabolite repression via low cAMP-CAP activity. Inducer alone, without glucose present to repress it, gives full induction.",
+    "subject_keys": ["biochemistry"]
+  },
+  {
+    "id": 15,
+    "question": "Cyanide is toxic because it",
+    "options": ["Inhibits cytochrome oxidase", "Forms cyanmethemoglobin", "Inhibits ATP carrier in mitochondria", "Inhibits Na-K-ATPase"],
+    "correctAnswer": 0,
+    "explanation": "Cyanide binds the ferric (Fe3+) ion of cytochrome c oxidase (Complex IV) in the electron transport chain, halting oxidative phosphorylation and cellular respiration, which leads to rapid histotoxic hypoxia despite normal blood oxygenation.",
+    "subject_keys": ["biochemistry", "pharmacology"]
+  },
+  {
+    "id": 16,
+    "question": "A lady wants LASIK surgery for her daughter. She asks for your opinion. All the following things are suitable for performing LASIK surgery except",
+    "options": ["Myopia of 4 Diopters", "Age of 15 years", "Stable refraction for 1 year", "Corneal thickness of 600 microns"],
+    "correctAnswer": 1,
+    "explanation": "LASIK requires the patient to be at least 18 years old with a stable refractive error, since ocular growth and refraction can still change during adolescence. An age of 15 years is therefore unsuitable, while the stated myopia, stable refraction, and corneal thickness are all acceptable parameters.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 17,
+    "question": "Herbert's pits are seen in",
+    "options": ["Trachoma", "Spring catarrh", "Phlyctenular conjunctivitis", "Sarcoidosis"],
+    "correctAnswer": 0,
+    "explanation": "Herbert's pits are shallow depressions at the limbus that remain after the regression of limbal follicles in trachoma, and their presence is considered pathognomonic of past or healed trachoma.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 18,
+    "question": "All of the following occur in herpes zoster ophthalmicus except",
+    "options": ["Anterior stromal keratitis", "Pseudodendritic keratitis", "Sclerokeratitis", "Endothelitis"],
+    "correctAnswer": 2,
+    "explanation": "Herpes zoster ophthalmicus classically produces pseudodendritic keratitis, anterior stromal (nummular) keratitis, and endothelitis; frank sclerokeratitis is a comparatively less characteristic/less commonly tested feature and is the option marked as the exception here.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 19,
+    "question": "PHPV is associated with which of the following",
+    "options": ["Patau syndrome", "Down syndrome", "Tuberous sclerosis", "Sturge-Weber syndrome"],
+    "correctAnswer": 0,
+    "explanation": "Persistent hyperplastic primary vitreous (PHPV) is usually a sporadic, unilateral congenital anomaly from failed regression of the primary vitreous and hyaloid vasculature, but among the listed syndromes it is classically linked with Patau syndrome (trisomy 13) in standard ophthalmology texts.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 20,
+    "question": "Degree of Diabetic retinopathy depends on",
+    "options": ["Type of disease", "Duration of disease", "Severity of disease", "Retinal involvement"],
+    "correctAnswer": 1,
+    "explanation": "Note: the official key marks 'Type of disease' (a), but the medically well-established determinant of diabetic retinopathy severity is the duration of diabetes, not the type (Type 1 vs Type 2). Longer duration of hyperglycemia correlates directly with increasing retinopathy grade regardless of diabetes type.",
+    "subject_keys": ["ophthalmology"]
+  },
+  {
+    "id": 21,
+    "question": "What is March fracture",
+    "options": ["Fracture of 2nd metatarsal", "Fracture of 4th metatarsal", "Fracture of cuboid", "Fracture of tibia"],
+    "correctAnswer": 0,
+    "explanation": "March fracture is a stress fracture, classically of the neck of the 2nd metatarsal, caused by repetitive minor trauma such as prolonged marching or walking, and is common in military recruits.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 22,
+    "question": "Pain due to post-amputation neuroma is best treated by",
+    "options": ["Infrared therapy", "Interference therapy", "Ultrasound therapy", "Surgical excision"],
+    "correctAnswer": 3,
+    "explanation": "A painful post-amputation (stump) neuroma results from disorganized regenerating nerve fibres at the cut nerve end, and definitive relief when conservative measures fail is achieved by surgical excision of the neuroma with re-implantation of the nerve into deeper, less mobile tissue.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 23,
+    "question": "Which nerve is involved in anterior dislocation of the shoulder",
+    "options": ["Radial nerve", "Axillary nerve", "Ulnar nerve", "Musculocutaneous nerve"],
+    "correctAnswer": 1,
+    "explanation": "The axillary nerve winds around the surgical neck of the humerus close to the inferior glenohumeral joint capsule and is the nerve most commonly injured in anterior shoulder dislocation, producing deltoid weakness and a patch of sensory loss over the 'regimental badge' area.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 24,
+    "question": "Tardy ulnar nerve palsy is caused by",
+    "options": ["Supracondylar fracture", "Lateral condylar fracture", "Olecranon fracture", "Intercondylar fracture"],
+    "correctAnswer": 1,
+    "explanation": "Tardy ulnar nerve palsy develops years after a malunited lateral condylar fracture of the humerus, which produces a cubitus valgus deformity that gradually stretches and damages the ulnar nerve as it passes behind the medial epicondyle.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 25,
+    "question": "Avulsion of extensor tendon gives rise to",
+    "options": ["Mallet finger", "Dupuytren's contracture", "Trigger finger", "Swan neck deformity"],
+    "correctAnswer": 0,
+    "explanation": "Avulsion of the terminal extensor tendon at its insertion on the distal phalanx (often with a bony fragment) causes an unopposed flexed distal interphalangeal joint, the classic deformity known as mallet finger.",
+    "subject_keys": ["orthopedics"]
+  },
+  {
+    "id": 26,
+    "question": "The most reliable criteria in Gustafson's method of identification is",
+    "options": ["Cementum apposition", "Transparency of root", "Attrition", "Root resorption"],
+    "correctAnswer": 1,
+    "explanation": "Gustafson's method estimates age from six age-related dental changes (attrition, periodontosis, secondary dentine, cementum apposition, root resorption, and root transparency); of these, root transparency is regarded as the single most reliable and reproducible indicator.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 27,
+    "question": "A deep incised wound; Langer's lines determine",
+    "options": ["Direction", "Gaping", "Shelving", "Healing"],
+    "correctAnswer": 1,
+    "explanation": "Langer's lines represent the natural orientation of collagen fibres in the skin. A wound made parallel to these lines gapes minimally, whereas one made perpendicular or oblique to them gapes widely, so Langer's lines primarily determine the degree of wound gaping.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 28,
+    "question": "Sexual asphyxia is associated with",
+    "options": ["Sadism", "Masochism", "Fetishism", "Voyeurism"],
+    "correctAnswer": 1,
+    "explanation": "Sexual asphyxia (autoerotic asphyxiation) is a masochistic paraphilic practice in which self-induced hypoxia, usually by ligature, is used to intensify sexual arousal and orgasm, and it occasionally results in accidental death.",
+    "subject_keys": ["forensic_medicine", "psychiatry"]
+  },
+  {
+    "id": 29,
+    "question": "Maggots in rainy day are seen within",
+    "options": ["6 hours", "1-2 days", "2-4 days", "5-6 days"],
+    "correctAnswer": 2,
+    "explanation": "Under humid/rainy conditions, blowflies deposit eggs on a corpse which hatch into first-instar maggots; on a rain-affected body this visible maggot stage is classically taught to appear around 2-4 days, later than in hot dry weather due to slowed fly activity and egg development.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 30,
+    "question": "Professional death sentence is",
+    "options": ["Imprisonment for whole life", "Rigorous imprisonment", "Erasing the name from the panel of RMPs", "None of these"],
+    "correctAnswer": 2,
+    "explanation": "'Professional death sentence' is the term used for the removal (erasure) of a registered medical practitioner's name from the state medical register/council rolls, which effectively ends that person's ability to practice medicine.",
+    "subject_keys": ["forensic_medicine"]
+  },
+  {
+    "id": 31,
+    "question": "Definitive diagnosis of acute pancreatitis is done by",
+    "options": ["Amylase", "Serum alkaline phosphatase", "Increased calcium", "Hyperglycemia"],
+    "correctAnswer": 0,
+    "explanation": "A markedly elevated serum amylase (typically more than three times the upper limit of normal), along with clinical features, is the most widely used and best available option here for diagnosing acute pancreatitis, though lipase is more specific when available.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 32,
+    "question": "Isosthenuric urine is seen in",
+    "options": ["ATN", "Diabetes insipidus", "Severe dehydration", "PCKD"],
+    "correctAnswer": 0,
+    "explanation": "Isosthenuria refers to urine with a fixed specific gravity close to that of plasma (around 1.010), reflecting loss of the kidney's concentrating and diluting ability. It is a hallmark of acute tubular necrosis, where damaged tubules can no longer modify glomerular filtrate.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 33,
+    "question": "Episodic muscular weakness is seen in all except",
+    "options": ["Hyperkalemia", "Myasthenia Gravis", "Hyperphosphatemia", "Lambert-Eaton syndrome"],
+    "correctAnswer": 2,
+    "explanation": "Periodic/episodic muscle weakness is classically associated with disorders of potassium (hyper- or hypokalemic periodic paralysis) and neuromuscular junction disorders such as myasthenia gravis and Lambert-Eaton myasthenic syndrome. Hyperphosphatemia is not a recognized cause of episodic weakness.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 34,
+    "question": "Drug of choice to control supraventricular tachycardia",
+    "options": ["Adenosine", "Propranolol", "Verapamil", "Digoxin"],
+    "correctAnswer": 0,
+    "explanation": "Adenosine, given as a rapid IV bolus, is the drug of choice for acute termination of paroxysmal supraventricular tachycardia because of its very short half-life and ability to transiently block AV nodal conduction with minimal systemic side effects.",
+    "subject_keys": ["general_medicine", "pharmacology"]
+  },
+  {
+    "id": 35,
+    "question": "Most common type of hepatitis responsible for epidemics in India is",
+    "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis E"],
+    "correctAnswer": 3,
+    "explanation": "Hepatitis E, transmitted via the faeco-oral route through contaminated water, is the leading cause of large waterborne epidemics of hepatitis in India, particularly during monsoon season and in areas with poor sanitation.",
+    "subject_keys": ["general_medicine", "community_medicine"]
+  },
+  {
+    "id": 36,
+    "question": "Treatment of 42 year old obese man with blood glucose 450 mg, urine albumin 2+, sugar 4+, ketone 1+ is",
+    "options": ["Insulin", "Glibenclamide", "Glipizide", "Metformin"],
+    "correctAnswer": 0,
+    "explanation": "This presentation with severe hyperglycemia, glycosuria, and ketonuria indicates a hyperglycemic/ketotic emergency requiring prompt insulin therapy, which acts rapidly and reliably to lower glucose and suppress ketogenesis; oral hypoglycemics are unsuitable in this acute setting.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 37,
+    "question": "ROSE questionnaire is used for",
+    "options": ["Alcohol addiction", "Sex addiction", "Angina assessment", "Deep vein thrombosis assessment"],
+    "correctAnswer": 2,
+    "explanation": "The Rose Angina Questionnaire is a standardized, validated tool used in epidemiological surveys to screen for and classify angina pectoris based on the character, location, and triggers of chest pain.",
+    "subject_keys": ["general_medicine", "community_medicine"]
+  },
+  {
+    "id": 38,
+    "question": "Which drug is essential in Sheehan's syndrome",
+    "options": ["Estrogen", "Cortisone", "Thyroxin", "Growth hormone"],
+    "correctAnswer": 1,
+    "explanation": "Sheehan's syndrome causes postpartum panhypopituitarism, and the most immediately life-threatening deficiency is secondary adrenal insufficiency from loss of ACTH; glucocorticoid (cortisone) replacement is therefore the essential and most urgent therapy, started before thyroid hormone replacement to avoid precipitating an adrenal crisis.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 39,
+    "question": "Damage to superior branch of middle cerebral artery results in",
+    "options": ["Personality change", "Motor aphasia", "Urinary incontinence", "Sensory aphasia"],
+    "correctAnswer": 1,
+    "explanation": "The superior (upper) division of the middle cerebral artery supplies the frontal lobe including Broca's area; its occlusion classically produces motor (expressive/Broca's) aphasia along with contralateral face and arm weakness.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is not a nucleoside reverse transcriptase inhibitor",
+    "options": ["Zalcitabine", "Lamivudine", "Nevirapine", "Didanosine"],
+    "correctAnswer": 2,
+    "explanation": "Note: the official key marks Lamivudine (b), but Lamivudine is in fact a nucleoside reverse transcriptase inhibitor (NRTI), as are zalcitabine and didanosine. Nevirapine belongs to a different class entirely, the non-nucleoside reverse transcriptase inhibitors (NNRTIs), making it the correct answer to 'which is NOT an NRTI'.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 41,
+    "question": "Contrast media of choice for myelogram is",
+    "options": ["Urografin 75%", "Conray 470", "Iohexol", "Biligrafin"],
+    "correctAnswer": 2,
+    "explanation": "Iohexol is a low-osmolar, non-ionic water-soluble contrast agent that is safe for intrathecal use, making it the contrast medium of choice for myelography, unlike ionic agents which carry a risk of neurotoxicity.",
+    "subject_keys": ["radiology"]
+  },
+  {
+    "id": 42,
+    "question": "MRI rooms are shielded completely by a continuous sheet or wire mesh of copper or aluminium to shield the imager from external electromagnetic radiations. It is called",
+    "options": ["Maxwell cage", "Faraday cage", "Edison's cage", "Ohm's cage"],
+    "correctAnswer": 1,
+    "explanation": "This continuous conductive enclosure that blocks external radiofrequency interference from reaching the MRI scanner is known as a Faraday cage, named after Michael Faraday who first described the principle of electromagnetic shielding by a conducting enclosure.",
+    "subject_keys": ["radiology"]
+  },
+  {
+    "id": 43,
+    "question": "A 20 yr female comes with a mass in the cavernous sinus and 6th cranial nerve palsy. In T2W MRI a hyperintense shadow is present which shows homogenous contrast enhancement. Diagnosis is",
+    "options": ["Schwannoma", "Meningioma", "Astrocytoma", "Cavernous sinus hemangioma"],
+    "correctAnswer": 1,
+    "explanation": "A cavernous sinus mass causing abducens (6th nerve) palsy with homogeneous post-contrast enhancement is characteristic of a meningioma, which typically shows isointense-to-hyperintense T2 signal and avid uniform enhancement, often with an associated dural tail.",
+    "subject_keys": ["radiology"]
+  },
+  {
+    "id": 44,
+    "question": "All are seen in congestive heart failure except",
+    "options": ["Kerley B lines", "Prominent lower lobe vessels", "Pleural Effusions", "Cardiomegaly"],
+    "correctAnswer": 1,
+    "explanation": "In congestive heart failure, elevated pulmonary venous pressure causes upper lobe blood diversion (cephalization) rather than prominence of lower lobe vessels, along with Kerley B lines, pleural effusions, and cardiomegaly, so 'prominent lower lobe vessels' is not a typical CHF finding.",
+    "subject_keys": ["radiology", "general_medicine"]
+  },
+  {
+    "id": 45,
+    "question": "Popcorn calcification is characteristically seen in",
+    "options": ["TB", "Metastasis", "Pulmonary hamartoma", "Fungal invagination"],
+    "correctAnswer": 2,
+    "explanation": "A coarse, lobulated 'popcorn ball' pattern of calcification within a solitary pulmonary nodule is a classic radiological sign of a pulmonary hamartoma, reflecting its mixed cartilaginous and fatty composition.",
+    "subject_keys": ["radiology"]
+  },
+  {
+    "id": 46,
+    "question": "The following are true about hepatocellular carcinoma except",
+    "options": ["It has high incidence in East Africa & South East Asia", "Its worldwide incidence parallels the prevalence of hepatitis B", "Over 80% of tumours are surgically resectable", "Liver transplantation offers the only chance of cure in those with irresectable disease"],
+    "correctAnswer": 2,
+    "explanation": "Hepatocellular carcinoma usually presents late, and the majority of tumours (well over half) are unresectable at diagnosis due to multifocality, vascular invasion, or underlying cirrhosis; the claim that over 80% are surgically resectable is false, making it the correct exception.",
+    "subject_keys": ["general_surgery", "pathology"]
+  },
+  {
+    "id": 47,
+    "question": "Stone which is resistant to lithotripsy",
+    "options": ["Calcium oxalate", "Triple phosphate stone", "Cystine stone", "Uric acid stone"],
+    "correctAnswer": 2,
+    "explanation": "Cystine stones are notably dense and hard, making them relatively resistant to fragmentation by extracorporeal shock wave lithotripsy compared with calcium oxalate, struvite (triple phosphate), or uric acid stones.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 48,
+    "question": "Mayo's operation is done for",
+    "options": ["Spigelian hernia", "Femoral hernia", "Richter's hernia", "Umbilical hernia"],
+    "correctAnswer": 3,
+    "explanation": "Mayo's repair is a classical 'vest-over-pants' overlapping technique of the rectus sheath used specifically for the repair of umbilical and paraumbilical hernias.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following is not an intravesical chemotherapeutic agent",
+    "options": ["Mitomycin C", "BCG", "Epirubicin", "Thiotepa"],
+    "correctAnswer": 1,
+    "explanation": "BCG is an intravesical immunotherapeutic agent (a live attenuated vaccine stimulating a local immune response) used for superficial bladder cancer, not a chemotherapeutic drug; mitomycin C, epirubicin, and thiotepa are true intravesical chemotherapy agents.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 50,
+    "question": "Circumcision is included in management of carcinoma penis at",
+    "options": ["Glans", "Prepuce", "Glanduloprepucial", "Shaft of penis"],
+    "correctAnswer": 1,
+    "explanation": "When carcinoma is confined to the prepuce alone, circumcision can serve as adequate local treatment, whereas tumours involving the glans, glanduloprepucial junction, or shaft require more extensive partial or total penectomy.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 51,
+    "question": "Which fruit juice helps in preventing UTI",
+    "options": ["Grape", "Raspberry", "Cranberry", "Orange"],
+    "correctAnswer": 2,
+    "explanation": "Cranberry juice contains proanthocyanidins that inhibit adherence of uropathogenic E. coli fimbriae to the uroepithelium, and it is widely used as an adjunct measure to help reduce recurrent urinary tract infections.",
+    "subject_keys": ["general_surgery", "general_medicine"]
+  },
+  {
+    "id": 52,
+    "question": "First line of treatment for keloid is",
+    "options": ["Intralesional injection of steroid", "Local steroid", "Radiotherapy", "Wider excision"],
+    "correctAnswer": 0,
+    "explanation": "Intralesional corticosteroid injection (typically triamcinolone) is the standard first-line treatment for keloids, as it reduces collagen synthesis and inflammation within the lesion; excision alone often leads to recurrence and is reserved for resistant cases, usually combined with adjuvant therapy.",
+    "subject_keys": ["dermatology"]
+  },
+  {
+    "id": 53,
+    "question": "TPN is indicated in all except",
+    "options": ["Short bowel syndrome", "Burn", "Sepsis", "Enterocutaneous fistula"],
+    "correctAnswer": 2,
+    "explanation": "Note: the official key marks 'Short bowel syndrome' (a), but short bowel syndrome is in fact a classic, well-established indication for TPN when the remaining bowel cannot support adequate enteral absorption. In sepsis with a functioning gut, early enteral nutrition is preferred over TPN, as TPN use in this setting is associated with higher infective and metabolic complications, making sepsis the more medically defensible exception.",
+    "subject_keys": ["general_surgery"]
+  },
+  {
+    "id": 54,
+    "question": "In Glasgow Coma Scale all of the following are considered except",
+    "options": ["Eye opening", "Verbal response", "Motor response", "Sensory response"],
+    "correctAnswer": 3,
+    "explanation": "The Glasgow Coma Scale assesses three components: best eye opening, best verbal response, and best motor response. Sensory response is not part of the scale.",
+    "subject_keys": ["general_surgery", "general_medicine"]
+  },
+  {
+    "id": 55,
+    "question": "Hyperbaric oxygen is useful in",
+    "options": ["Tetanus", "Gas gangrene", "Frostbite", "Vincent's angina"],
+    "correctAnswer": 1,
+    "explanation": "Hyperbaric oxygen therapy raises tissue oxygen tension to levels toxic to the anaerobic Clostridium perfringens organisms responsible for gas gangrene, halting toxin production and aiding tissue salvage, making it an important adjunct in its management.",
+    "subject_keys": ["general_surgery", "microbiology"]
+  },
+  {
+    "id": 56,
+    "question": "Which of the following drugs causes Pseudotumor cerebri",
+    "options": ["Sparfloxacin", "Tetracycline", "Gentamicin", "Clofazimine"],
+    "correctAnswer": 1,
+    "explanation": "Tetracyclines (and related drugs like vitamin A/retinoids) are well-recognized causes of drug-induced idiopathic intracranial hypertension, also called pseudotumor cerebri, presenting with headache and papilledema.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 57,
+    "question": "Antihelminthic which also acts as immunomodulator is",
+    "options": ["Albendazole", "Levamisole", "Mebendazole", "Piperazine"],
+    "correctAnswer": 1,
+    "explanation": "Levamisole, originally developed as an anthelmintic, also has immunomodulatory properties that stimulate cell-mediated immunity, and it has historically been used as an adjuvant in certain cancer immunotherapy regimens.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 58,
+    "question": "Drug which arrests mitosis in metaphase",
+    "options": ["Busulfan", "5-FU", "Vinca Alkaloids", "Methotrexate"],
+    "correctAnswer": 2,
+    "explanation": "Vinca alkaloids (vincristine, vinblastine) bind tubulin and prevent microtubule polymerization, blocking mitotic spindle formation and arresting dividing cells at metaphase.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 59,
+    "question": "Nitrates are not used in",
+    "options": ["CCF", "Esophageal spasm", "Renal colic", "Cyanide poisoning"],
+    "correctAnswer": 2,
+    "explanation": "Nitrates are useful in congestive cardiac failure (venodilation reduces preload), esophageal spasm (smooth muscle relaxation), and as amyl nitrite in cyanide poisoning (inducing methemoglobin to bind cyanide); they have no established role in relieving renal/ureteric colic, which is managed with agents like diclofenac or antispasmodics.",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 60,
+    "question": "Shortest acting anticholinesterase is",
+    "options": ["Edrophonium", "Pyridostigmine", "Glycopyrrolate", "Neostigmine"],
+    "correctAnswer": 0,
+    "explanation": "Edrophonium has an extremely short duration of action (only a few minutes) because it binds reversibly and briefly to acetylcholinesterase, which is why it is classically used as a rapid diagnostic test for myasthenia gravis (Tensilon test).",
+    "subject_keys": ["pharmacology"]
+  },
+  {
+    "id": 61,
+    "question": "CD4 is not important for which of the following",
+    "options": ["Cytotoxicity of T-cells", "Memory B-cells", "Opsonization", "Immunoglobulin production"],
+    "correctAnswer": 0,
+    "explanation": "Note: the official key marks 'Immunoglobulin production' (d), but CD4 helper T cells are in fact essential for T-cell-dependent antibody production, memory B-cell formation, and macrophage activation aiding opsonization. Direct cytotoxic killing of infected/tumour cells is instead mediated by CD8 cytotoxic T lymphocytes and NK cells, making cytotoxicity of T-cells the function CD4 cells are not important for.",
+    "subject_keys": ["microbiology"]
+  },
+  {
+    "id": 62,
+    "question": "A 40 years old male had undergone splenectomy 20 years ago. Peripheral blood smear examination would show the presence of",
+    "options": ["Dohle bodies", "Hypersegmented neutrophils", "Spherocytes", "Howell-Jolly bodies"],
+    "correctAnswer": 3,
+    "explanation": "After splenectomy, the spleen's normal function of pitting nuclear remnants from circulating red cells is lost, so Howell-Jolly bodies (nuclear DNA fragments) persist and are characteristically seen on peripheral smear.",
+    "subject_keys": ["pathology"]
+  },
+  {
+    "id": 63,
+    "question": "Which of the following metabolic abnormality is seen in multiple myeloma",
+    "options": ["Hypernatremia", "Hypokalemia", "Hypercalcemia", "Hyperphosphatemia"],
+    "correctAnswer": 2,
+    "explanation": "Multiple myeloma causes extensive osteolytic bone destruction through osteoclast-activating cytokines released by malignant plasma cells, leading to hypercalcemia, which is one of the classic 'CRAB' features (Calcium, Renal failure, Anemia, Bone lesions) of the disease.",
+    "subject_keys": ["pathology"]
+  },
+  {
+    "id": 64,
+    "question": "Feature of essential hypertension",
+    "options": ["Concentric hypertrophy of LV", "Increased size of heart muscles", "Myohypertrophy", "Myohyperplasia"],
+    "correctAnswer": 0,
+    "explanation": "Chronic pressure overload in essential hypertension causes the left ventricle to adapt through concentric hypertrophy, with thickening of the ventricular wall and a relatively normal or reduced chamber cavity size, to normalize wall stress.",
+    "subject_keys": ["general_medicine", "pathology"]
+  },
+  {
+    "id": 65,
+    "question": "All are non-proliferative glomerulonephritis, except",
+    "options": ["Membranous glomerulonephritis", "Mesangiocapillary glomerulonephritis", "Diabetic glomerulosclerosis", "Amyloidosis"],
+    "correctAnswer": 1,
+    "explanation": "Mesangiocapillary (membranoproliferative) glomerulonephritis is, as its name indicates, a proliferative lesion with mesangial cell proliferation and capillary wall thickening, unlike membranous GN, diabetic glomerulosclerosis, and amyloidosis, which are typically non-proliferative.",
+    "subject_keys": ["pathology"]
+  },
+  {
+    "id": 66,
+    "question": "False about alcohol in disinfection is",
+    "options": ["Ethanol is used", "Isopropyl alcohol is used", "Has sporicidal activity", "Has bactericidal activity"],
+    "correctAnswer": 2,
+    "explanation": "Alcohols (ethanol and isopropyl alcohol) are effective bactericidal, virucidal, and fungicidal agents but have no sporicidal activity, as bacterial spores are resistant to their protein-denaturing action; the claim that alcohol has sporicidal activity is therefore the false statement.",
+    "subject_keys": ["microbiology"]
+  },
+  {
+    "id": 67,
+    "question": "Incubation period for B. cereus food poisoning",
+    "options": ["1-6 hours", "8-16 hours", "Both of the above", "None of the above"],
+    "correctAnswer": 2,
+    "explanation": "Bacillus cereus causes two distinct food poisoning syndromes: an emetic form with a short incubation of 1-6 hours (from a preformed heat-stable toxin, typically in rice) and a diarrheal form with a longer incubation of 8-16 hours (from a heat-labile toxin), so both incubation periods are correct.",
+    "subject_keys": ["microbiology"]
+  },
+  {
+    "id": 68,
+    "question": "Tuberculin test is positive if induration is",
+    "options": [">2mm", ">5mm", ">7mm", ">10 mm"],
+    "correctAnswer": 3,
+    "explanation": "In the general population without specific risk factors, an induration of 10 mm or more on the Mantoux tuberculin skin test is considered positive; lower cut-offs (such as 5 mm) apply only to specific high-risk groups like HIV-positive or immunosuppressed individuals.",
+    "subject_keys": ["microbiology", "community_medicine"]
+  },
+  {
+    "id": 69,
+    "question": "Syphilis was first identified by",
+    "options": ["Fraenkel", "Nicolaicu", "Schaudinn & Hoffman", "Ogston"],
+    "correctAnswer": 2,
+    "explanation": "Treponema pallidum, the causative spirochete of syphilis, was first identified and described by Fritz Schaudinn and Erich Hoffmann in 1905.",
+    "subject_keys": ["microbiology"]
+  },
+  {
+    "id": 70,
+    "question": "Which is an enveloped virus",
+    "options": ["Dengue virus", "Norwalk virus", "Hepatitis A virus", "Adenovirus"],
+    "correctAnswer": 0,
+    "explanation": "Dengue virus, a flavivirus, possesses a lipid envelope derived from host cell membranes. Norwalk virus (a calicivirus), hepatitis A virus (a picornavirus), and adenovirus are all non-enveloped viruses.",
+    "subject_keys": ["microbiology"]
+  },
+  {
+    "id": 71,
+    "question": "All open into hiatus semilunaris except",
+    "options": ["Posterior ethmoidal sinus", "Anterior ethmoidal sinus", "Frontal sinus", "Maxillary sinus"],
+    "correctAnswer": 0,
+    "explanation": "The hiatus semilunaris in the middle meatus receives drainage from the frontal sinus, anterior ethmoidal air cells, and maxillary sinus. The posterior ethmoidal sinus instead drains into the superior meatus.",
+    "subject_keys": ["ent", "anatomy"]
+  },
+  {
+    "id": 72,
+    "question": "Which intervention is best in patients operated for bilateral acoustic neuroma for hearing rehabilitation",
+    "options": ["Brainstem hearing implant", "Bilateral cochlear implant", "Unilateral cochlear implant", "Myringoplasty"],
+    "correctAnswer": 0,
+    "explanation": "In bilateral acoustic (vestibular schwannoma, as in NF2) surgery, the cochlear nerves themselves are typically sacrificed or damaged, so a cochlear implant (which relies on an intact cochlear nerve) is ineffective; an auditory brainstem implant, which directly stimulates the cochlear nucleus, is the appropriate rehabilitation option.",
+    "subject_keys": ["ent"]
+  },
+  {
+    "id": 73,
+    "question": "Otitis media with effusion is also known as all except",
+    "options": ["Serous otitis media", "Suppurative otitis media", "Mucoid otitis media", "Secretory otitis media"],
+    "correctAnswer": 1,
+    "explanation": "Otitis media with effusion is a non-infective, non-purulent condition also called serous, mucoid, or secretory otitis media depending on the fluid character. Suppurative otitis media instead implies active bacterial infection with pus, which is a different clinical entity.",
+    "subject_keys": ["ent"]
+  },
+  {
+    "id": 74,
+    "question": "In a one year old child intubation is done using",
+    "options": ["Straight blade with uncuffed tube", "Curved blade with uncuffed tube", "Straight blade with cuffed tube", "Curved blade with cuffed tube"],
+    "correctAnswer": 0,
+    "explanation": "In infants and young children, a straight (Miller) laryngoscope blade is traditionally preferred because it better lifts the relatively large, floppy, U-shaped epiglottis, and an uncuffed endotracheal tube is classically used since the cricoid ring provides a natural anatomical seal.",
+    "subject_keys": ["anesthesiology"]
+  },
+  {
+    "id": 75,
+    "question": "Phelps sign is seen in",
+    "options": ["Glomus jugulare", "Vestibular schwannoma", "Meniere's disease", "Neurofibromatosis"],
+    "correctAnswer": 0,
+    "explanation": "Phelps sign, in which manipulation of the tumour changes the pulsatility or appearance of the retrotympanic mass, is associated with glomus jugulare tumours, which are highly vascular lesions of the jugular bulb region.",
+    "subject_keys": ["ent"]
+  },
+  {
+    "id": 76,
+    "question": "Vital ICD is reviewed once in every",
+    "options": ["2 years", "5 years", "8 years", "10 years"],
+    "correctAnswer": 3,
+    "explanation": "This item refers to a periodic administrative/technical review interval (as distinct from clinical device follow-up, which is far more frequent) and is answered here per the stated key of 10 years; interval definitions can vary by source and jurisdiction.",
+    "subject_keys": ["general_medicine"]
+  },
+  {
+    "id": 77,
+    "question": "Father of Evidence based Medicine is",
+    "options": ["Sackett", "Da Vinci", "Hippocrates", "Tolstoy"],
+    "correctAnswer": 0,
+    "explanation": "David Sackett is widely credited as a founding figure and 'father' of evidence-based medicine, having pioneered its principles and definition as the conscientious use of current best evidence in clinical decision-making.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 78,
+    "question": "Post exposure vaccination is given in",
+    "options": ["Typhoid", "Rabies", "Mumps", "Rubella"],
+    "correctAnswer": 1,
+    "explanation": "Rabies has a relatively long incubation period, which allows post-exposure prophylaxis (vaccine with or without rabies immunoglobulin) to be effective if started promptly after a bite from a suspected rabid animal, unlike typhoid, mumps, or rubella vaccines which are given prophylactically, not post-exposure.",
+    "subject_keys": ["community_medicine", "microbiology"]
+  },
+  {
+    "id": 79,
+    "question": "Specificity of a screening test is the ability of a test to detect",
+    "options": ["True positives", "False positives", "False negatives", "True negatives"],
+    "correctAnswer": 3,
+    "explanation": "Specificity measures the proportion of individuals who are truly disease-free (i.e. true negatives) who are correctly identified as negative by the test, reflecting the test's ability to avoid false positives.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 80,
+    "question": "Current cancer patients in India reported annually",
+    "options": ["0.5 million", "1 million", "5 millions", "10 millions"],
+    "correctAnswer": 1,
+    "explanation": "Per contemporaneous Indian cancer registry estimates around the time of this exam, roughly 1 million new cancer cases were reported annually in India.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 81,
+    "question": "Diagnostic power of a test is reflected by",
+    "options": ["Sensitivity", "Specificity", "Predictive value", "Population attributable risk"],
+    "correctAnswer": 2,
+    "explanation": "Predictive value (positive and negative predictive value) reflects how well a positive or negative test result actually corresponds to true disease status in the population being tested, which is what makes it the best reflection of a test's real-world diagnostic power, unlike sensitivity/specificity which are fixed properties of the test itself.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 82,
+    "question": "DOTS criteria for TB is positive if",
+    "options": ["1 out of 2 sputum positive", "2 out of 3 sputum positive", "CxR positive", "Mantoux positive"],
+    "correctAnswer": 0,
+    "explanation": "Under the DOTS/RNTCP diagnostic algorithm referenced here, a patient is classified as a smear-positive TB case based on the specified sputum sample positivity criterion, taking priority over radiographic or tuberculin findings, which are supportive but not diagnostic on their own.",
+    "subject_keys": ["community_medicine", "microbiology"]
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is not used as an emergency contraceptive",
+    "options": ["LNG-Intrauterine device", "Oral LNG", "CuT-Intrauterine device", "Oral Mifepristone"],
+    "correctAnswer": 0,
+    "explanation": "The levonorgestrel-releasing intrauterine device (LNG-IUD, e.g. Mirena) is designed and used for ongoing long-term contraception, not as an emergency contraceptive; the copper-T IUD, oral levonorgestrel, and oral mifepristone are all validated emergency contraception options.",
+    "subject_keys": ["obstetrics_and_gynecology"]
+  },
+  {
+    "id": 84,
+    "question": "'Secret of national health lies in the homes of people' statement was given by",
+    "options": ["Indira Gandhi", "Abraham Lincoln", "Joseph Bhore", "Florence Nightingale"],
+    "correctAnswer": 3,
+    "explanation": "This well-known quote emphasizing the household as the foundation of public health is attributed to Florence Nightingale, the pioneering figure in modern nursing and public health reform.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is not used in testing for adequate pasteurization of milk",
+    "options": ["Phosphatase test", "Coliform count", "Standard plate count", "Methylene blue reduction test"],
+    "correctAnswer": 3,
+    "explanation": "The phosphatase test is the specific and standard test used to confirm adequacy of milk pasteurization, since alkaline phosphatase is destroyed at pasteurization temperatures. The methylene blue reduction test instead assesses the bacteriological quality/keeping quality of raw milk, not pasteurization adequacy.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 86,
+    "question": "Acculturation is",
+    "options": ["Triage", "Cultural change due to socialization", "Attitude", "Belief"],
+    "correctAnswer": 1,
+    "explanation": "Acculturation refers to the process of cultural and psychological change that results from contact between different cultural groups and their members, essentially cultural change occurring through socialization.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 87,
+    "question": "A daily water supply considered adequate to meet the need for all urban domestic purposes is",
+    "options": ["10 liters per capita", "20 liters per capita", "40-60 liters per capita", "150-200 liters per capita"],
+    "correctAnswer": 3,
+    "explanation": "For a full piped water supply meeting all urban domestic needs (drinking, cooking, bathing, washing, sanitation), the recommended standard is around 150-200 litres per capita per day, considerably higher than the minimal survival allowance of about 20 litres per day.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 88,
+    "question": "According to 'Factory Act, 1948' maximum permissible working hours per week are",
+    "options": ["48", "60", "72", "54"],
+    "correctAnswer": 0,
+    "explanation": "The Factories Act, 1948 caps the maximum working hours for adult workers in a factory at 48 hours per week, with a daily limit of 9 hours, to protect worker health and safety.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 89,
+    "question": "Diseases under International surveillance includes all except",
+    "options": ["Louse borne typhus fever", "Relapsing fever", "Paralytic polio", "Yellow fever"],
+    "correctAnswer": 3,
+    "explanation": "This item is somewhat ambiguous depending on classification scheme: under the older International Sanitary Regulations, yellow fever was one of the classic 'quarantinable diseases' while louse-borne typhus, relapsing fever, and (later) paralytic polio were listed as 'diseases under surveillance.' Given this genuine overlap between categories, the official key answer (yellow fever) is retained here, but the exam's intended distinction between 'quarantinable' versus 'under surveillance' diseases should be treated as ambiguous.",
+    "subject_keys": ["community_medicine"]
+  },
+  {
+    "id": 90,
+    "question": "Late pregnancy calorie requirement is",
+    "options": ["2800", "3000", "1500", "2300"],
+    "correctAnswer": 3,
+    "explanation": "Per ICMR recommended dietary allowances applicable around this exam period, an additional caloric increment is advised in later pregnancy on top of a normal adult woman's baseline requirement, working out to approximately 2300 kcal/day.",
+    "subject_keys": ["obstetrics_and_gynecology", "community_medicine"]
+  },
+  {
+    "id": 91,
+    "question": "Best parameter for estimation of fetal age by ultrasound in 3rd trimester is",
+    "options": ["Femur length", "BPD", "Abdominal circumference", "Intra-ocular distance"],
+    "correctAnswer": 0,
+    "explanation": "In the third trimester, biparietal diameter becomes less reliable for dating due to head engagement and molding, whereas femur length continues to correlate well with gestational age and is considered the best parameter for age estimation at this stage.",
+    "subject_keys": ["obstetrics_and_gynecology", "radiology"]
+  },
+  {
+    "id": 92,
+    "question": "True labour pain includes all except",
+    "options": ["Painful uterine contraction", "Short vagina", "Cervical dilatation", "Progressive descent of presenting part"],
+    "correctAnswer": 1,
+    "explanation": "True labour is characterized by regular painful uterine contractions that produce progressive cervical dilatation and descent of the presenting part. 'Short vagina' is not a feature of true labour and is unrelated to the diagnostic criteria distinguishing true from false labour.",
+    "subject_keys": ["obstetrics_and_gynecology"]
+  },
+  {
+    "id": 93,
+    "question": "A 26 years old lady with history of recurrent abortion; which of the following investigations will you do to confirm the diagnosis",
+    "options": ["PT", "BT", "Anti-Russell viper venom antibodies", "Clot solubility test"],
+    "correctAnswer": 2,
+    "explanation": "Recurrent pregnancy loss is frequently linked to antiphospholipid syndrome; the dilute Russell's viper venom time (dRVVT)-based test detects lupus anticoagulant antibodies, making it a key confirmatory investigation for this important treatable cause of recurrent abortion.",
+    "subject_keys": ["obstetrics_and_gynecology"]
+  },
+  {
+    "id": 94,
+    "question": "Commonly used grading for abruptio placenta",
+    "options": ["Page", "Johnson", "Macafee", "Apt"],
+    "correctAnswer": 0,
+    "explanation": "The Page classification is the commonly used clinical grading system (grade 0 to 3) for abruptio placentae, based on the severity of vaginal bleeding, uterine tenderness, fetal status, and coagulation abnormalities.",
+    "subject_keys": ["obstetrics_and_gynecology"]
+  },
+  {
+    "id": 95,
+    "question": "Which of the following is not a part of HELLP syndrome",
+    "options": ["Hemolysis", "Elevated liver enzymes", "Thrombocytopenia", "Retroplacental hemorrhage"],
+    "correctAnswer": 3,
+    "explanation": "HELLP syndrome is defined by its acronym: Hemolysis, Elevated Liver enzymes, and Low Platelets. Retroplacental hemorrhage (a feature of abruptio placentae) is not part of the HELLP acronym or diagnostic criteria.",
+    "subject_keys": ["obstetrics_and_gynecology"]
+  },
+  {
+    "id": 96,
+    "question": "Anterior fontanelle closes at",
+    "options": ["2-3 months", "4-7 months", "12-20 months", "24-30 months"],
+    "correctAnswer": 2,
+    "explanation": "The anterior fontanelle, the largest and last cranial fontanelle to close, normally closes between approximately 12 and 20 months of age (commonly cited as by 18 months on average), later than the posterior fontanelle which closes by 2-3 months.",
+    "subject_keys": ["pediatrics"]
+  },
+  {
+    "id": 97,
+    "question": "For which vitamin is RDA determined according to protein intake",
+    "options": ["Thiamine", "Niacin", "Pyridoxine", "Vitamin B12"],
+    "correctAnswer": 2,
+    "explanation": "Vitamin B6 (pyridoxine) is a cofactor for numerous transaminase and decarboxylase reactions in amino acid metabolism, so its recommended dietary allowance is calculated in proportion to protein intake rather than as a fixed value.",
+    "subject_keys": ["community_medicine", "biochemistry"]
+  },
+  {
+    "id": 98,
+    "question": "Most sensitive test to identify metabolic disease in a newborn",
+    "options": ["Tandem mass spectrometry", "Arterial blood gas", "Complete hemogram", "Liver function test"],
+    "correctAnswer": 0,
+    "explanation": "Tandem mass spectrometry allows simultaneous, highly sensitive detection of dozens of amino acid and fatty acid oxidation disorders from a single dried blood spot, making it the cornerstone of modern expanded newborn metabolic screening programs.",
+    "subject_keys": ["pediatrics", "biochemistry"]
+  },
+  {
+    "id": 99,
+    "question": "Which is not a major criteria of Jones in Rheumatic fever",
+    "options": ["Pancarditis", "Arthritis", "Chorea", "Elevated ESR"],
+    "correctAnswer": 3,
+    "explanation": "The Jones major criteria for acute rheumatic fever are carditis, polyarthritis, chorea, erythema marginatum, and subcutaneous nodules. Elevated ESR is instead classified as a minor criterion, reflecting nonspecific inflammation.",
+    "subject_keys": ["pediatrics", "general_medicine"]
+  },
+  {
+    "id": 100,
+    "question": "NESTROFT test is a screening test for",
+    "options": ["Beta Thalassemia", "Hereditary spherocytosis", "Autoimmune hemolytic anemia", "Megaloblastic anemia"],
+    "correctAnswer": 0,
+    "explanation": "NESTROFT (Naked Eye Single Tube Red cell Osmotic Fragility Test) is a simple, low-cost screening test that exploits the increased osmotic resistance of thin, hypochromic red cells to detect carriers of beta-thalassemia trait.",
+    "subject_keys": ["pediatrics", "pathology"]
+  }
+]

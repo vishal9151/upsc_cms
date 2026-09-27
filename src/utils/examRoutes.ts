@@ -1,4 +1,16 @@
-import { DEFAULT_EXAM_KEY, type ExamKey } from '@/types/exams'
+import {
+  DEFAULT_EXAM_KEY,
+  isExamKey,
+  resolveExamKey,
+  type ExamKey,
+} from '@/types/exams'
+
+/** Read exam key from a URL like /exams/rajasthan-mo/... */
+export function parseExamKeyFromPath(pathname: string): ExamKey | null {
+  const match = pathname.match(/^\/exams\/([^/]+)(?:\/|$)/)
+  if (!match || !isExamKey(match[1])) return null
+  return resolveExamKey(match[1])
+}
 
 /** Path to the paper list for an exam (or home selector when omitted). */
 export function getExamListPath(examKey?: ExamKey | null): string {
