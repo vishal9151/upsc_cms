@@ -8,6 +8,11 @@ import { NotFound } from '@/pages/NotFound'
 import { PracticeBuilder, PracticeInstructions, SubjectTopicPracticeBuilder, HighYieldPracticeBuilder } from '@/pages/Practice'
 import { Result } from '@/pages/Result'
 import { Review } from '@/pages/Review'
+import {
+  NeetpgCutoffDatasetList,
+  NeetpgCutoffEntry,
+  NeetpgCutoffResults,
+} from '@/pages/NeetpgCutoff'
 
 const router = createBrowserRouter([
   {
@@ -15,6 +20,12 @@ const router = createBrowserRouter([
     element: <MainLayout />,
     children: [
       { index: true, element: <Home /> },
+      { path: 'neetpg-cutoff', element: <NeetpgCutoffDatasetList /> },
+      { path: 'neetpg-cutoff/:datasetId', element: <NeetpgCutoffEntry /> },
+      {
+        path: 'neetpg-cutoff/:datasetId/results',
+        element: <NeetpgCutoffResults />,
+      },
       {
         path: 'exams/:examKey',
         children: [

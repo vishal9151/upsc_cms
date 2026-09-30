@@ -1,0 +1,23 @@
+{
+  "tool": "neet-pg-cutoff",
+  "label": "NEET-PG Cutoff & Result Tool",
+  "datasets": [
+    {
+      "id": "rajasthan-2025",
+      "label": "Rajasthan 2025",
+      "state": "Rajasthan",
+      "year": 2025,
+      "file": "rajasthan-neetpg-2025.json",
+      "totalRecords": 1506,
+      "totalInstitutes": 49,
+      "rounds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source": "Reference: NEET Lens",
+      "disclaimer": "Cutoff/rank data shown is from the 2025 counselling and is for reference only. Actual cutoffs change every year and are not guaranteed."
+    }
+  ]
+}
